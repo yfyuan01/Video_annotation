@@ -366,8 +366,9 @@ if page == "Annotation":
 
         # 加载字幕并转换为文本
         # original_video_idx = video['original_idx']
-        subtitles = load_vtt_with_time(f"subtitles/{original_video_idx}.vtt")
-        subtitle_text = subtitles_to_text(subtitles)
+        # subtitles = load_vtt_with_time(f"subtitles/{original_video_idx}.vtt")
+        # subtitle_text = subtitles_to_text(subtitles)
+        subtitle_text = ''.join(open(f"subtitles/{original_video_idx}.vtt").readlines())
 
         # 初始化当前视频的高亮标注
         if original_video_idx not in st.session_state.highlighter_annotations:
