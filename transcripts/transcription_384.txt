@@ -1,0 +1,658 @@
+============================================================
+Video Transcription Results
+============================================================
+
+Person3 [0:00:00 - 0:00:09]:
+Es ist nur eine Zahl, es ist nur ein Buchstabe. Aber die Kombination macht es aus und löst so viel aus. 5G. Was löst es bei Ihnen aus?
+
+Person9 [0:00:10 - 0:00:14]:
+Es macht mich unendlich traurig und auch wütend aus vielen verschiedenen Gründen.
+
+Person3 [0:00:15 - 0:00:16]:
+Was löst es bei Ihnen aus, 5G?
+
+Person2 [0:00:16 - 0:00:19]:
+5G ist eine Chance für die Schweizer Wirtschaft, die wir nutzen müssen.
+
+Person3 [0:00:20 - 0:00:26]:
+Das ist «Tarena» zu Chancen, Risiken und Nebenwirkungen von 5G und der Digitalisierung.
+
+Person1 [0:00:45 - 0:01:56]:
+Heute in der «Arena» Monika Rühl, Direktorin Economy Suisse. Sie sagt, die Schweiz braucht schnell ein 5G-Netz. Auch wenn wir die Ängste davor ernst nehmen müssen, es gibt noch keine Studien, die Gesundheit und Gesundheitsträume und die gesundheitliche Risiken bestätigen. Katharina Prelitsch Huber, Nationalrätin Grüne, sagt, es gibt heute schon Menschen, die auf die Strahlung reagieren. Das kann man nicht einfach ignorieren. Immer mehr und immer schneller ist nicht unbedingt besser. Jörg Mäder, Nationalrat Grünliberale, sagt, die Schweiz ist ein Hightech-Standort. Wir müssen mit 5G vorwärts machen, sonst übernehmen andere Länder. Brigitte Haberly-Koller, Ständerätin CVP, sagt, die Politik muss die Ängste der Bevölkerung ernst nehmen und die Folgen von 5G genau untersuchen. Es müssen alle Fakten auf den Tisch. Ausserdem im Studio Peter Grütter, Präsident des Telekommunikationsverbandes Asut. Severin Dieci, Präsident des Vereins «Schutz vor Strahlung». «Die Arena» moderiert von «Zaiko Box».
+
+Person3 [0:01:58 - 0:02:28]:
+Vielen Dank an das Publikum, meine Gäste und Ihnen zu Hause. Sind Sie auch so abhängig vom Handy wie ich? Jetzt soll alles noch viel schneller werden mit 5G. Swisscom hat diese Woche bekannt gegeben, dass sie in Mobilfunk 270 Mio. Fr. investieren will in den nächsten Jahren. Dazu gehört auch 5G. Aber mit 5G soll alles schneller und besser werden. Wirklich?
+
+Person1 [0:02:31 - 0:02:36]:
+Mit 5G werden Daten bis zu 100-mal schneller übertragen als mit 4G.
+
+Person1 [0:02:37 - 0:02:41]:
+Ein ganzer Kinofilm, in der Sekunden heruntergeladen.
+
+Person1 [0:02:42 - 0:02:47]:
+Selbstfahrende Autos, in Echtzeit miteinander vernetzt.
+
+Person1 [0:02:49 - 0:03:00]:
+Maschinen in der Industrie, gelenkt aus der Cloud. Roboter operieren im Spital, gesteuert aus der Ferne durch eine Meldung. Und auch ein Spezialarzt.
+
+Person1 [0:03:02 - 0:03:08]:
+Fachleute sagen, 5G ist schneller, besser, sicherer.
+
+Person3 [0:03:10 - 0:03:16]:
+Schneller, besser, sicherer, Katharina Prellitsch-Huber. Strahlen Sie auch mit, wenn es um 5G geht?
+
+Person8 [0:03:17 - 0:03:54]:
+Nein, ich strahle überhaupt nicht mit. Es gibt schon Leute, die auf die heutige Strahlenmenge reagieren. Es gibt schon Leute, die sagen, wir haben gesundheitliche Schädigungen davon. Wir sind in der Entwicklung. Wir können sie nicht wegdiskutieren. Wir müssen sehr vorsichtig damit umgehen. Die Ängste ernst nehmen von den Leuten. Wirklich schauen, was der Mehrwert ist. Will ich wirklich total verstrahlt sein und eine sogenannte Ferngesteuer zauten von irgendeiner Cloud? Ist das Sicherheit? Also eben, heranschauen, alle Fakten auf den Tisch, gesundheitliche Schädigungen ernst nehmen. Und das ist nicht von heute auf morgen.
+
+Person3 [0:03:55 - 0:04:01]:
+Monika Rüllmann will etwas ausbauen, bevor wir die Auswirkungen auf Menschen machen. Sie haben ja Angst und Umwelt. Nehmen Sie das einfach in Kauf?
+
+Person12 [0:04:02 - 0:04:46]:
+Nein, überhaupt nicht. Ängste muss man ernst nehmen. Es gibt weltweit über 4000 Studien, die zu den gesundheitlichen Auswirkungen gemacht wurden. Keine dieser Studien konnte aufzeigen, dass es tatsächlich Schäden gibt durch das 5G-Netz. Aus unserer Sicht ist das 5G-Netz eine gewaltige Chance für die Schweiz. Und nicht nur für die Schweizer Wirtschaft, sondern für uns alle. Es ist eine Infrastruktur, die wir brauchen. Genau wie wir gute Strassen, gute Schienen, gute Fluganbindungen haben, brauchen wir, damit wir eine gute digitale Infrastruktur weiterkommen. Nur so können wir alle von den Chancen, die uns die Digitalisierung gibt, auch wirklich profitieren.
+
+Person3 [0:04:45 - 0:04:52]:
+Sie sehen nur Chancen und sagen, 5G ist mit dem Gesundheitsschutz vereinbar. Judith Häberli, alles im grünen Bereich.
+
+Person10 [0:04:52 - 0:05:43]:
+Nein, ich glaube nicht. Unbestritten ist, dass unser Land auch inordnete, dass es aktiv sein muss und bei der neuesten Entwicklung weiterhin einen Spitzenplatz einhalten muss. Aber nur zusammen mit der Bevölkerung. Was nützt uns diese rasante Entwicklung, wenn die Bevölkerung bremst? Es gibt Volksinitiativen, die sind unterwegs. In der direkten Demokratie geht es nur um den Fortschritt, auch in der Technik, wenn man die Bevölkerung gut informiert. Die bestehenden Ängste wirklich ernst nehmen und belegen können, dass es gesundheitlich keine Risiken gibt. Und da sind verschiedene Studien unterwegs. Da gibt es auch Studien, die sagen, es ist möglicherweise krebserregend, so Strahlen. Ich nehme das sehr ernst. Und ich glaube, die Politik tut gut daran, zusammen mit der Bevölkerung, mit einer guten Aufklärungskampagne auf diesen Weg zu gehen, die sich nicht aufhalten lässt.
+
+Person3 [0:05:43 - 0:06:00]:
+Sie sagen es richtig, es sind verschiedene Initiativen. Fünf an der Zahl insgesamt unterwegs. Und trotzdem sagt Jörg Meder, wir brauchen das als Programmierer, als Politiker, der er ist, und auch als selbsternannten Nerd, wie sie sich bezeichnet. Sind Sie so technologiegläubig, dass Sie verblendet sind?
+
+Person7 [0:06:00 - 0:06:47]:
+Nein, hoffentlich nicht. Ich möchte Digitalisierung mit Herz und Verstand. Es wird auch seine Gefahren geben. Die Deepfake-Videos zum Beispiel in Sachen Digitalisierung. Für mich ist klar, wenn man jetzt 5G einführt, heisst das nicht, dass man irgendwelche Studien stoppen soll. Man soll auch die Technologie, die im Einsatz ist, weiterhin überprüfen. Denn ab und zu kann man nicht alle Gefahren voraussehen. Man kennt das von Asbest, FCKW oder jetzt das Depakine-Medikament. Gewisse Sachen kann man nicht im Voraus feststellen. Man muss es permanent überwachen und den Mut haben, auch als Wirtschaftler zu sagen, die Entscheidung müssen wir richtig machen. Für mich hat es jetzt aber genug Studien, genug Hinweise, dass man sagen kann, man könnte den nächsten Schritt machen. Denn man kann immer behaupten, es braucht noch einmal eine mehr. Dann blockieren wir uns gegenseitig. Ich finde, der Stand ist genug gut, um einen Schritt weiter zu machen.
+
+Person8 [0:06:48 - 0:07:03]:
+Das bezweifle ich. Man hat bis jetzt genau einen Aspekt angeschaut, nämlich quasi, man hat immer behauptet, die Strahlung geht nicht auf den Körper, also schauen wir raus. Dort hat man gewisse Untersuchungen, aber dort sagt die WHO immer noch, es sei der Verdacht auf Krebs erregt worden.
+
+Person3 [0:07:03 - 0:07:05]:
+Die Weltgesundheitsorganisation WHO.
+
+Person8 [0:07:05 - 0:07:29]:
+Ja, genau. Der zweite Teil, der ganze Teil der Hirnaktivitäten, der Sachen, die innerlich passieren, wurde bis jetzt gar nicht untersucht. Das ist der Witz. Es ist eine neue Technologie. Man hat ja gar nicht genügend Langzeitstudien. Von daher, man muss doch langsam heransehen und das einbeziehen. Und jetzt nicht auf einmal sagen, subituales Ausbauen und falls man das merkt, dann müssen wir halt wieder nachdoppeln.
+
+Person12 [0:07:30 - 0:08:13]:
+Das stimmt einfach nicht. Das tut mir leid. Es gibt Studien, es gibt Langzeitstudien, welche Strahlung für Auswirkungen auf den Menschen haben. Die WHO, die Weltgesundheitsorganisation, ist seit 30 Jahren dort dran. Und wenn es gesagt wurde, es gebe Studien, die gesundheitlichen Schäden nachweisen, das stimmt nicht. Es gibt keine solchen Studien. Man muss, wie Herr Maeder gesagt hat, dort sicher dranbleiben. Aber der Bundesrat hat eine Expertengruppe eingesetzt. Die haben jetzt einen Bericht geschrieben. Und auch die Experten, eine breit zusammengesetzte Gruppe von Leuten, die sind zum Schluss gekommen, es sind keine gesundheitlichen Auswirkungen nachweisbar.
+
+Person10 [0:08:13 - 0:08:53]:
+Und darauf müssen wir uns jetzt abstützen. Herr Wühl, es sind keine gesundheitlichen Auswirkungen nachspürbar, sagen Sie. Aber es steht in diesen Berichten wirklich, dass es eine große Auswirkung hat. Und das ist möglicherweise eine Möglichkeit. Tatsachen, da gebe ich Ihnen recht, konnten wir noch nicht eins zu eins beweisen. Aber das «möglicherweise» reicht für mich schon, dass man weiter abklären muss und weiter in der Forschung dranbleiben muss. Denn die Leute sind verunsichert. Und ich nehme das sehr ernst, muss ich Ihnen sagen. Ohne die Bevölkerung können wir nicht fürchten. Da gibt es Einsprachen, da gibt es Initiativen. Das behindert am Schluss Ihre Interessen von der Wirtschaft. Genauso wie die Entwicklung allgemein.
+
+Person3 [0:08:53 - 0:09:34]:
+Sie sagen «möglicherweise». Möglicherweise werden wir ganz sicher heute Abend auch einen Vertreter dieser Arbeitsgruppe bei uns im Studio haben und noch ganz intensiv über diesen Aspekt Gesundheit reden. Zuerst möchte ich aber über die reden, die das 5G anbieten möchten, die auf das Gaspedal drücken. Zum Beispiel Swisscom, Sunrise oder teilweise auch Salt. Selbstverständlich haben wir alle CEOs dieser Firmen eingeladen in diese Sendung. Sie haben aus unterschiedlichen Gründen gesagt, nein, sie wollen lieber Geld. Aber wir haben jemanden bei uns, der für all das spricht. Und das ist Peter Grütter, der Präsident von ASSUT, dem Verband der Telekommunikationsbranche in der Schweiz. Herr Grütter, guten Abend.
+
+Person6 [0:09:34 - 0:09:35]:
+Guten Abend.
+
+Person3 [0:09:35 - 0:09:46]:
+Schon noch interessant. Wenn es kein Problem mit dem 5G gäbe, dann könnten doch auch die Chefs dieser Unternehmen anstehen und sagen, wie es ist. Aber irgendwie will man sich den Kritikern nicht stellen, ist mein Eindruck.
+
+Person6 [0:09:47 - 0:10:04]:
+Ich glaube, das ist die Aufgabe eines Verbandspräsidenten. Im Prinzip herrschte auch die Meinung der Branche. Das finde ich absolut normal. Ich bin eigentlich ziemlich zufrieden damit, dass ich hier im Namen dieser Anbieter reden kann.
+
+Person3 [0:10:04 - 0:10:28]:
+Im Namen dieser Anbieter, die hier ein lukratives Businessmodell sehen. Swisscom trommelt zum Beispiel das beste Netz mit 5G. Aber auch der Konkurrent Sunrise trommelt. Hier sogar mit Roger Federer. Wie wenn es keinen Widerstand und keine Fragen gäbe. Ist Swisscom, Sunrise und Co. der Gesundheit der Kunden egal?
+
+Person6 [0:10:29 - 0:10:48]:
+Nein, im Gegenteil. Deshalb drängte die Mobilfunkbranche vor einem Jahr die Behandlung des Fernmeldegesetzes darauf, dass das Monitoring der neuen Technologien stattfindet. Also eine laufende Überwachung, eine versuchte Erkennung von möglichen neuen Risiken, die man heute nicht sieht.
+
+Person3 [0:10:49 - 0:11:04]:
+Ja, die man nicht sieht. Und doch ist es so, dass es eine große Herausforderung ist, dass man die neuen Technologien nicht sieht.  Es gibt ja auch eine andere Situation. Es gibt viele Risiken. Der Präsident des Vereins «Schutz vor Strahlung», Severin Dietschi, guten Abend. Sie kommen selbst aus der IT-Branche und wollen etwas aufhalten, das sich gar nicht mehr aufhalten lässt.
+
+Person13 [0:11:05 - 0:11:45]:
+Aufhalten ist relativ. Was vorher zu den nicht vorhandenen Studien gesagt wurde, muss ich widersprechen. Es gibt nur schon zwei Studien, Langzeitstudien mit Ratten, die über 10 Jahre untersucht wurden. Und sogar die beratende Expertenkommission von NIS, also nicht ionisierende Strahlung. Mobilfunk und die NIS. Mobilfunk, Bluetooth, WLAN. Diese sagt sogar, dass man dort einen dosisabhängigen Trend sieht und dass die Ergebnisse bezüglich Karzinogenität, also Krebsförderung, Tumor, konsistent angezeigt werden können. Und da sprechen wir nur von Krebs. Wir haben hier aus diesem Bericht für Mobilfunk und Gesundheit eine ganze Palette von Symptomen, die auch erwähnt worden sind.
+
+Person13 [0:11:46 - 0:11:59]:
+Ich als Firma wäre vorsichtig. Jede Firma, die jetzt grossartig investiert in diesen Pfad, muss damit rechnen, dass sie in nächster Zeit mit Klagen eingedeckt wird, wie wir das von Asbest kennen oder auch von Tabak.
+
+Person3 [0:11:59 - 0:12:06]:
+Also ich sage ganz klar, der Ausbau ist fahrlässig. Herr Maeder, ist Ihnen dann ein schnelles Internet wichtiger als die Gesundheit der Leute?
+
+Person7 [0:12:08 - 0:12:59]:
+Nein, überhaupt nicht. Aber es werden ja jetzt teilweise Begriffe vermischt. Weil was Daten beinhaltet, was für einen Service auf diesen Frequenzen läuft, das hat keinerlei unterschiedliche Auswirkungen auf unsere Gesundheit. Und diese Frequenzen sind nicht so wichtig. Die beiden, über die wir jetzt sprechen, sind schon längst im Betrieb. Auch das neue BAMPY 3.5 GHz liegt zwischen den beiden, die ihr wahrscheinlich alle zuhause im WLAN benutzt. Und ich muss ganz klar sagen, die stärksten Sender sind unsere alten 2G-Netz. Wenn man das Handy ans Ohr hält, die haben am stärksten gestrahlt. Mit dem vollen Hammer und dank der neuen Technologie, Datenkomprimierung, mehreren Signalen auf einer Welle, Frequenzzusetzung. Das 3G hat schon weniger Strahlung, das 4G und das 5G wird am Handy. Und das ist die Maximalstrahlung. Und die Sender haben eine tieferere Sendeleistung als die alten 2G-Netz. Das heisst, die Belastung am Kopf geht runter.
+
+Person3 [0:13:00 - 0:13:12]:
+Belastung geht runter, sagen Sie. Frau Häberli, Sie sind ja kritisch gegenüber dieser neuen Technologie und reihen sich jetzt ein in die Kritikerinnen und Kritiker. Was ist mit Ihnen passiert?
+
+Person10 [0:13:12 - 0:14:08]:
+Mit mir ist gar nichts passiert. Im Ständerat hatten wir vorletztes Jahr einen Vorstoss, um die Grenzwerte zu lockern. Ich habe mich dagegen gewehrt und eine Mehrheit bekommen, dass man die Grenzwerte, die wir in der Schweiz haben, beibringt. Ich bin offen für die neue Technologie. Ich möchte, dass wir aufgrund des Berichts, den wir nachher noch anschauen werden, vor allem Kapitel 10, die Begleitmassnahmen, umsetzen. Begleitmassnahmen heisst Informationskampagnen, Monitoring, die Weiterentwicklung des Mobilnetzes. Die müssen wir jetzt allgemein anschauen. Die Frage stellt sich, ob es überhaupt verschiedene Anbieter braucht. Oder können wir das konzentrieren? Auch zum Nutzung und Schutz der Bevölkerung. Das ist meine Position. Ich bin durchaus offen für die Neuentwicklung. Aber ich sehe auch den anderen Punkt. Diese Bedenken nehme ich ernst. Zum Schutz der Bevölkerung, sagen Sie.
+
+Person12 [0:14:10 - 0:14:42]:
+Ich würde sagen, zum Thema Grenzwerte. Das ist ein sehr wichtiger Punkt. Aber Fakt ist, heute hat die Schweiz zehnmal strengere Grenzwerte. Das kann man eben auch diskutieren. Das empfiehlt die Weltgesundheitsorganisation. Auch mit der Einführung des 5G-Netzes. Wenn man die Grenzwerte anheben würde, wäre man mindestens dreimal strenger als die Weltgesundheitsorganisation. Sie sagen, man sollte streng genug ändern. Von daher machen wir eine falsche Debatte.
+
+Person3 [0:14:41 - 0:14:58]:
+Eine Debatte, die ich aber auch mit den Leuten führen möchte, die das umtreiben. Sie haben es zu Recht gesagt. Wir haben viele Reaktionen erhalten. Wer heute Abend mitdiskutieren möchte, ist Trude Schneider aus Langnau im Emmental. Herzlich willkommen und guten Abend. Sie sind bei uns.
+
+Person3 [0:14:59 - 0:15:09]:
+Sie sind Shiatsu-Therapeutin, Körpertherapeutin, Physiotherapeutin. Sie sind elektrosensibel. Wie zeigt sich das bei Ihnen?
+
+Person9 [0:15:10 - 0:15:35]:
+Ich würde mich nicht als hypersensibel bezeichnen. Es wird fast pathologisiert von den Mobilfunkteilnehmern. Ist das so?  Unsere Sensibilität ist extrem kostbar. Wir spüren sehr früh, wenn etwas nicht gut geht. Das ist ein riesiges Thema. Man spricht von 10% und jetzt spricht man schon von 10-20%. Es ist nicht okay, wenn man das auf die Krankschienen schiebt. Sie fühlen sich pathologisiert?
+
+Person3 [0:15:35 - 0:15:38]:
+Ich pathologisiere mich selber nicht.
+
+Person9 [0:15:37 - 0:16:00]:
+Das mache ich selber gut. Aber das ist eine Art Randgruppe, die man nicht so wichtig nehmen muss. Ich habe sehr viel Erfahrung mit Energietesten, mit Schlafplätzen austesten. Es sind sehr viele Menschen mit Schlafstörungen. Es hat riesige Themen. Das würde hier sehr weit führen.
+
+Person3 [0:16:00 - 0:16:02]:
+Wie schützen Sie sich selber?
+
+Person9 [0:16:02 - 0:16:39]:
+Ich habe alles abgestellt, elektrisch zuhause neben dem Bett. Ich habe noch keine Baldakine mit Silber- und Kupferfäden. Das ist ein sehr angenehmer Stoff, durchzogen mit Silber- und Kupferfäden. Das schützt 97-98% von 5G-Strahlung. Das ist nicht ganz günstig. Viele Leute leisten sich das nicht wegen des Preises. Oder sie wissen gar nichts darüber. Ich schütze mich auch. Ich versuche, die Natur aufzuhalten. Was heute auch schwierig wird. Überall bilden Antennen aus dem Boden.
+
+Person3 [0:16:39 - 0:16:46]:
+Sie finden, die Aböl spielt mit Ihrer Gesundheit und der Gesundheit der Menschen. Frau Rüll, können Sie das nachvollziehen?
+
+Person12 [0:16:46 - 0:17:30]:
+Es wurde gerade gesagt, die Antennen sprüssen aus dem Boden. Fakt ist, wenn wir das 5G-Netz einführen würden, bräuchte es weniger Antennen. Wir haben heute Bedürfnisse von vielen Menschen, auch hier im Studio. Wir wollen mit unseren Mobile-Geräten, wo wir auch immer sind, alle Dienste nutzen können. Die Datenmenge steigt exponentiell. Viele Menschen in diesem Land möchten dort weitermachen. Ein 5G-Netz legt dort die Grundlage. Das würde bedeuten, dass wir mit weniger Antennen rauskommen. Und mit weniger Strahlung, wie Herr Mäther das gesagt hat.
+
+Person3 [0:17:30 - 0:17:31]:
+Überzeugt Sie das?
+
+Person9 [0:17:30 - 0:18:25]:
+Nein, das überzeugt mich absolut gar nicht. Ich weiss, dass sehr viele Studien zur Gesundheit, man muss sehr klar fragen, wer das zahlt. Bei 3G war das schon ein Thema. Das war eine Studie nach holländischem Vorbild, in den Raum geführt worden. Man hat nur 7 Fragen nach sich selber gespürt. Man hat null Zelluntersuchungen gemacht, keine Langzeitstudien. Tumore entstehen nicht über Nacht. Das war die Zahl zu 50% von Swisscom. Bei allen Studien, die Sie erwähnen, nimmt es mich sehr wunder, wer das zahlt. Es gibt sehr viele unabhängige Studien. Ich war vor einem Jahr am Kongress, als wir 3G sprachen. Joachim Mutter ist Umweltmediziner. Er sagt, es gebe etwa 120 Studien zur Spermienqualität. Er hat auch eine Studie, die auf die Hautoptopsie geht. Bei Menschen, die an Hirntumoren starben, ist die Hirnkonsistenz sehr verändert. Um den Bereich des Ohres.
+
+Person3 [0:18:25 - 0:19:05]:
+Sie sagen, es gebe genug Einwiesen dazu, genug Studien. Wir können nicht jede einzelne Studie vornehmen und daraus zitieren. Ich möchte etwas vornehmen und zitieren. Ich habe es in der Hand. Darum geht es auch, wenn wir bei dieser Thematik sind. Ich möchte in Klarheit schaffen, was der Bericht des Bundes im Auftrag gegeben wurde. Was er selber genau aussagt. Geht es in die Richtung, die Frau Schneider sagt? Oder was steht da drin? Das ist ihr Werk, Paul Steffen. Guten Abend. Vize-Direktor des Bundesamtes für Umwelt. Ich habe den Bericht genau gelesen. 128 Seiten, glaube ich. Aber ich habe keinen Satz gefunden, der sagt, 5G sei unbedenklich. Oder habe ich etwas übersehen?
+
+Person4 [0:19:06 - 0:19:53]:
+Sie haben das richtig gelesen, was der Bericht zu sagen macht. Das ist etwas Zusammenfassendes. Aufgrund all der Studien, die angeschaut wurden, sind von Expertinnen und Experten, die auch das verstehen, dass es keine Unbedenklichkeit gibt, was die Strahlenbelastung anbelangt. Aber man kann nicht ausschliessen, dass die Belastung zugenahm. Wir sind im Vorsorgeprinzip drin. Und gerade das Vorsorgeprinzip, das in der Bundesverfassung verankert ist, wie auch der Schutz der Gesundheit der Menschen sagt, dort, wo man wenig genug Wissen hat, muss man vorsichtig sein. Und das Vorsorgeprinzip, das ist eine Stasche, über die wir diskutieren. Wir diskutieren nicht über den oberen Grenzwert, der international gilt, sondern über den Vorsorgegrenzwert. Und das ist ein wertvolles Gut, das wir in der Schweiz haben.
+
+Person3 [0:19:53 - 0:20:12]:
+Ich habe hier eine Seite besonders markiert, Seite 102, und da steht dieser Satz. Angesichts der wissenschaftlichen Unsicherheiten empfiehlt die Arbeitsgruppe, dass weitere Forschung betrieben wird. Das heisst für mich als Laien übersetzt. Weil man nicht weiss, ob es schädlich sein könnte, muss man weiterforschen. Ist das richtig?
+
+Person4 [0:20:12 - 0:21:05]:
+ Die Aussage der Arbeitsgruppe ist, dass man das Vorsorgeprinzip hochhalten muss. Man muss es weiter pflegen. Man muss auch Sorge tragen. Das ist wichtig, gerade in dem Bereich, in dem wir Unsicherheiten haben. Eine zweite Aussage der Arbeitsgruppe ist, dass es noch mehr Forschung braucht. Wissen, Erkenntnisse brauchen wir. Da müssen wir am Ball bleiben. Das müssen wir auch ausbauen, fördern. Das ist ganz zentral und wichtig. Eine dritte Aussage ist, dass man ein Monitoring einführen muss. Der Bundesrat hat die Mittel bereits gesprochen. Ein Monitoring heisst, wie die Strahlenbelastung sich entwickelt. Und ob es einen Zusammenhang hat mit der Auswirkung allfälliger Neuerkrankheiten. Der letzte und wichtige Punkt ist, dass wir auch eine sogenannte umweltmedizinische Beratungsstelle aufbauen. Gerade für Elektrohypersensibilitäten. Wir haben etwa 5% der Leute in der Schweiz, die unter dem leiden. Das ist die Empfehlung der Arbeitsgruppe zur Gesundheit.
+
+Person3 [0:21:05 - 0:21:17]:
+Ihr Bericht hatte nicht zum Ziel, ob man das 5G einführen soll oder nicht. Trotzdem nimmt man wahr, dass es vorhin Werbung intensiv für das 5G gibt. Hilft das Vertrauen in die Technologie aus Sicht von Ihnen?
+
+Person4 [0:21:19 - 0:21:54]:
+Das war eine Herausforderung für uns selbst, während die Arbeitsgruppe arbeitete. Gleichzeitig machte man auch Werbung für 5G. Die Bevölkerung konnte nicht einordnen, was 5G bedeutet. Das diskutieren wir heute. Wir haben heute die Frage,   wie wir damit umgehen können. Die Grenzwerte, die wir heute haben, gelten nach wie vor auch für die Einführung von 5G. Was wir jetzt diskutieren, ist, wie wir in Zukunft damit umgehen, wenn viel mehr Daten versendet werden können. Brauchen wir dann einen anderen Grenzwert? Das diskutieren wir. Aber heute gilt nach wie vor der strenge Grenzwert in der Schweiz.
+
+Person3 [0:21:54 - 0:21:59]:
+Sie fanden die Werbekampagne nicht toll, wenn ich richtig zuhörte, oder? Es gab viele Diskussionen.
+
+Person3 [0:21:59 - 0:22:13]:
+Gut, danke. Manchmal sagt auch ein kurzer Satz, was auch ein längerer Satz sagen könnte. Danke vielmals, Herr Steffen. Frau Häberli, Ihnen reicht der Bericht nicht von dieser Arbeitsgruppe. Was fehlt Ihnen?
+
+Person10 [0:22:13 - 0:23:18]:
+Mir fehlt eine Weiterentwicklung, ein Bericht, in dem man sagt, wie wir mit den Möglichkeiten, die wir haben, weiter das 5G vorantreiben können. Im Ausland forscht man über 6G. Die Entwicklung geht weiter. Ich möchte den Bundesrat auffordern, möglichst ein optimales 5G-Programm  als Konzept zu entwickeln, wie man mit der möglichst geringsten Belastung für uns alle ein optimales Netz anbringt. Es gibt offene Fragen. Wie gesagt, braucht es mehrere Betreiber von diesem Netz? Können wir das nicht konzentrierter machen, schonender für die Umwelt, für Menschen und für Tiere? Das sind meine Fragen. Der Ständerat hat im Dezember den Vorstoss eines Postulats deutlich angenommen. Der Bundesrat hat jetzt Zusatzaufträge. Im Nachgang dieses Berichts habe ich auch erwähnt, dass er gut ist. Er hat eine erste Marke gesetzt. Er hat verschiedene Massnahmen, die man im 10. Kapitel findet, aufzeigt.
+
+Person3 [0:23:17 - 0:23:18]:
+Sie haben den auch genau gelesen. Genau.
+
+Person10 [0:23:18 - 0:23:43]:
+Ich verlange das auch, wenn man diskutiert, dass man diese Seiten durchschaut. Man braucht das Monitoring. Das wurde auch erwähnt. Wir haben ein einheitliches Mobilfunknetz. Wir brauchen mehr Forschung. Für mich ist es wichtig, und das ist auch als Volksvertreterin eine Aufgabe von mir, dass wir die Information der Bevölkerung intensivieren.
+
+Person3 [0:23:43 - 0:23:57]:
+Die Information intensivieren und vielleicht auch Vertrauen schaffen. Das Vertrauen ist da. Kein Problem. Wir können das machen. Kein Problem für die Gesundheit. Es braucht nicht mehr Forschung. Wie passt das zusammen?
+
+Person7 [0:23:57 - 0:24:56]:
+Wir müssen erwacht werden. Wir können nicht alles im Voraus wissen. Ich will auch in diesem Bereich mehr Forschung. Aber die bisherigen Ergebnisse, die kein klarsignaliges Signal von Schädigung gezeigt haben, heissen für mich, man kann einen Schritt weiter gehen. Speziell die langzeitigen Studien, also die zehnjährigen Studien, beruhen alle auf 2G bei maximaler Sendeleistung. Dauerbelastung. Vor zehn Jahren gab es 4G-Sender noch nicht. Das entspricht nicht der realistischen Situation. Ich habe vorgestern eine Mail zu einer Studie bekommen. Dort wurden Ratten mit 2 Watt 9 Stunden am Tag bestrahlt. Das braucht Ihr Handy. Ein altes Handy beim schlechtesten Netzempfang muss so laut senden, damit es klappt. Normalerweise ist die Belastung Faktor 100 tiefer. Wenn Sie dann noch ein Headset nehmen, können Sie die Belastung nochmals um Faktor 10 bis 100 runterdrücken. Darum sind solche alten Mess-Einstellungen nicht eine Belastung.
+
+Person3 [0:24:55 - 0:24:59]:
+Ich schaue, ob ich die Hand aufschrauben kann.
+
+Person3 [0:25:00 - 0:25:01]:
+Was treibt Sie um?
+
+Person13 [0:25:02 - 0:25:24]:
+Exponentielles Wachstum der Daten. Das wächst. Das nehmen wir jetzt einfach mal hin. Jetzt öffnen wir die Grenzwerte. Es wächst ja. Jetzt kann man wieder mehr Daten durchpipen. Und dann? Wenn es exponentiell ist, hat man nach ungefähr 18 Monaten eine Verdoppelung. Dann hat man wieder eine Verdoppelung nach weiteren 18 Monaten. Dann setzt man die Grenzwerte einfach nochmal hoch. Das hört nicht auf.
+
+Person7 [0:25:24 - 0:25:58]:
+Der exponentielle Datenanteil ist vor allem Daten, die zu Ihnen gesendet werden. Die Belastung der Daten, die Sie empfangen, ist massiv kleiner, weil der Sender weit weg ist. Dort ist das Signal stark. Wenn es bei Ihnen ist, ist es absichtlich so tief geregelt, dass das Handy es gerade noch versteht, aber nicht stärkt. Was Ihre Belastung ausmacht, ist, wenn Sie senden. Der exponentielle Datenwachstum, das sind die Videos, die 60 % im Netz, die senden nicht Sie, sondern kommen zu Ihnen. Von dem her stimmt Ihre Prognose der Rechtspopulation nicht. Das ist bei der Sendemasche nicht bei uns am Kopf.
+
+Person3 [0:25:58 - 0:26:03]:
+Zwei Techniksexperten unter sich, Frau Prejlic, Sie schütteln auch den Kopf. Warum?
+
+Person8 [0:26:03 - 0:26:44]:
+Weil all diese Ausführungen stimmen dann, wenn wir vielleicht so weit sind, dass wir all das umgesetzt haben und den Rest sein lassen. Wir reden im Moment von massivem Ausbau. Die Wirtschaft beantragt mehr Konzessionen, beantragt mehr Antenne. Es geht um einen Ausbau. Es geht um eine Reduktion der Belastung. Darum geht es auch darum, zu forschen. Es geht nicht darum, Technologien zu verhindern, sondern darum, nicht einfach über einen Ausbau zu sprechen, sondern um einen Umbau. Im Moment ist die Diskussion darum, noch mehr, damit wir noch schneller sprechen. Wir haben eine massive Vermehrung und nicht eine Verminderung oder einen Umbau.
+
+Person3 [0:26:44 - 0:27:00]:
+Sie wollen keinen Ausbau, Sie wollen einen Umbau. Aber die Wirtschaft will, dass es für sie geht. Aber warum will die Wirtschaft, dass es jetzt und sofort für sie geht? Das ist eine Frage, die wir uns jetzt herausfinden bei der Direktorin des Wirtschaftsdachverbandes «Economie Suisse». Das ist «1 zu 1» mit Monika Rühl.
+
+Person12 [0:27:05 - 0:27:35]:
+Das machen wir überhaupt nicht. Wir wollen aufzeigen, was die Chance ist. Wir haben hier bisher nur die Risiken diskutiert. Wir haben in der Schweiz die Tendenz, in vielen Bereichen immer nur die Risiken zu sehen. Wir müssen die Chance sehen. Wir sind ein starkes Land, wir sind eine starke Wirtschaft. Unsere Kraft müssen wir erhalten. Dafür brauchen wir Digitalisierung. Wir alle, nicht nur die Unternehmigen, müssen von der Digitalisierung profitieren. Sie sehen also vor allem die Vorteile
+
+Person3 [0:27:34 - 0:27:54]:
+und weniger die Nachteile. Wenn ich von der Nase herum spreche, möchte ich Ihnen folgendermassen belegen. Es gibt ein Pressekommuniqué von «Economie Suisse» mit dem Titel «5G». 5G ist mit Gesundheitsschutz vereinbart. Ich frage Sie, ist das eine gute Idee? Ist wissenschaftlich restlos geklärt, wie ungefährlich 5G ist?
+
+Person12 [0:27:55 - 0:28:06]:
+Es ist weder das eine noch das andere geklärt. Von all den Tausenden Studien, die es gibt, zeigt keine auf, dass es Schäden gibt. Aber Sie sagen, es sei mit dem Gesundheitsschutz vereinbar.
+
+Person3 [0:28:05 - 0:28:09]:
+Ist es restlos geklärt oder nicht?
+
+Person12 [0:28:07 - 0:28:32]:
+Ja, weil das Netz erstens mal das Vorsorgeprinzip, das wir in diesem Land haben, nicht infrage stellt. Das sind die meisten, die es noch nicht gibt. Das, was am meisten strahlt, sind die Handys und nicht die Antennen. Von daher sind wir der Auffassung, dass das mit dem Gesundheitsschutz vereinbar ist. Sie nehmen das Risiko,
+
+Person3 [0:28:32 - 0:28:41]:
+das Sie in Kauf haben. Zum Beispiel, wenn in ein paar Jahren bei Asbest klar wird, dass es gleich schäden gehört, sagen Sie, wir seien 5G-Weltmeister in der Schweiz.
+
+Person12 [0:28:40 - 0:28:57]:
+Das nach heutigem Wissen. Ich verstehe nicht, was man noch weiter abklären muss. Ich bin absolut einverstanden, dass man diese Situation im Auge behalten muss. Das sogenannte Monitoring. Die Forschung soll weiterlaufen. Weiterlaufen und trotzdem an den Grenzwerten herumschrauben?
+
+Person12 [0:28:59 - 0:29:13]:
+Damit 5G wirklich ausgerollt werden kann, müssen die Grenzwerte etwas angehoben werden. Aber wirklich nur ein bisschen. Und einmal. Damit das 5G-Netz nicht ständig läuft.
+
+Person3 [0:29:12 - 0:29:21]:
+Sagen Sie mal, Frau Rühl, schützen Sie sich eigentlich selbst? Was ist die Rolle dieser Strahlen? In welcher Form machen Sie das? Ein bisschen oder ein bisschen mehr?
+
+Person12 [0:29:22 - 0:29:53]:
+Der beste Schutz, den man haben kann, ist, dass man das Handy nicht ständig am Kopf hält. Und dass man ein gutes Netz hat. Wenn ein Handy, Herr Maeder hat das gesagt, auf einem alten Netz läuft, dann strahlt es viel mehr, weil es sich viel mehr anstrengen muss, um die Daten runterzuziehen. Wir haben ein Interesse, dass die Daten besser ausgerüstet sind. Und wir haben noch nicht gesprochen, was 5G möglich macht. Für uns alle, aber auch für die Wirtschaft. Es ist ein Technologieschritt.
+
+Person3 [0:29:52 - 0:30:09]:
+Ich habe viel Karte, wir werden darüber noch reden. Ich bedanke mich für den Moment und für Ihre Antworten. Frau Prelic, nur weil man die Grenzwerte hochführt, werden nicht mehr Leute krank. So sagt es offenbar Frau Rühl. Warum die Angstmacherei von Ihrer Seite?
+
+Person8 [0:30:10 - 0:30:51]:
+Es ist keine Angstmacherei. Wir haben heute schon Leute, die gesundheitliche Schädigungen haben. Wir haben es vorher auch noch einmal gehört. Der Bericht konnte nicht sagen, dass wir keine Schädigungen haben. Wir müssen den Tatsachen einfach in die Augen schauen und nicht so tun, als ob es nicht existiert. Von daher gibt es nicht, jetzt einfach zu sagen, wir wissen alles, wir können alles sofort einführen. Sondern wir müssen uns die Zeit lassen, dort noch ein wenig herzuschauen. Und vorweg an die Wirtschaft. Das ist nicht wirklich das, was man sagen muss. Das, was die Wirtschaft zentral weiterbringt, ist auch nicht das, was man dringend für ...
+
+Person12 [0:30:49 - 0:31:12]:
+Das habe ich mit Ihnen einverstanden. Aber es zeigt, es gibt eine Nachfrage in diesem Land. Und wenn Sie die jungen Leute hier fragen, die werden alle diese Streamingangebote nutzen. Darum sage ich, bei 5G geht es eben nicht nur um die Interessen der Wirtschaft, sondern von uns allen als Nutzer. Wir haben ein effizienteres Netz,
+
+Person8 [0:31:12 - 0:31:31]:
+das mehr Aufgaben erfüllen kann. Und das bringt uns allen etwas. Wir müssen uns zuerst fragen, ob alles, was schneller wird, wirklich Sinn macht. Ob ich dringend einen Kühlschrank brauche, der mir dann sagt, dass die Milch ausgegangen ist. Ich weiss nicht, ob das echt ein Bedürfnis ist. Aber dann, wenn es dann eben da ist, gibt es vielleicht Leute, die sagen, ach, wie spannend.
+
+Person8 [0:31:32 - 0:31:33]:
+Nein, dieses Bedürfnis habe ich nicht.
+
+Person12 [0:31:33 - 0:32:08]:
+Aber 5G schafft Voraussetzungen dafür, dass der Mensch mit Maschinen kommunizieren kann und dass er auch mit der Maschine untereinander kommunizieren kann. Und das wird total überwacht werden, oder nicht? Und das bedeutet, es gibt ganz spannende Anwendungen. Beispielsweise in der Landwirtschaft. Oder wenn wir dieses Netz haben, dann kann es in der Landwirtschaft Roboter geben oder Drohnen, die Pflanzenschutzmittel ganz gezielt aussprühen. Dann schützen wir die Umwelt besser und schaden den Pflanzen weniger. Also blöderweise ist dann eben
+
+Person8 [0:32:07 - 0:32:16]:
+Spritzmittel beschränkt sich nicht darauf, dass man selber in die Luft raus geht. Auch eine gezielte Investition wird dann nicht in die Umwelt.
+
+Person3 [0:32:16 - 0:32:24]:
+Überzeugen Sie das Beispiel, Frau Häberli, das gerade die Frau Rühl mit der Landwirtschaft gemacht hat, dass es jetzt eben vielleicht schnell vorwärts gehen muss, auch im Umweltschutzbereich?
+
+Person10 [0:32:25 - 0:33:25]:
+Ich glaube, wichtig ist, dass wir aus meiner Sicht Menschen nicht bevormunden. Sie sollen selber entscheiden, was sie nutzen wollen und was sie nicht nutzen wollen. Und Handys habe ich persönlich die Freiheit, ich kann sie abstellen und irgendwo eingehalten lassen. Ich muss es in der Nacht erst einmal nicht neben meinem Kopf haben. Das ist die persönliche Verantwortung, die ich von jedem Menschen erwarte. Fortschritte können wir nicht aufhalten, finde ich. Wir können nur so gut ausgestalten in unserem Land, dass es möglichst wenig Schäden gibt. Heute ein Beispiel hat mir jemand erzählt, im Zoo hier in Zürich, vor der Scheibe mit dem grossen Aquarium. Da gab es Kinder, die machen Gechen dann und machen das auch. Also sie wollen einen anderen Fisch sehen und streichen über die Scheibe, wie wir mit unserem Handy drüber fahren. Das ist einfach die heutige Zeit. Und die Kinder wachsen dann so auf. Die denken, das kommt. Ich finde das nicht schlecht, ich finde das amüsant. Und ich will nur damit sagen, wir können es nicht aufhalten. Wir können den Leuten nicht sagen, die bekommen keinen Kühlschrank, über den sie melden. Aber wir müssen genauer hinschauen,
+
+Person3 [0:33:23 - 0:33:27]:
+dass wir alle Fakten und Daten auf den Tisch legen.
+
+Person10 [0:33:26 - 0:33:36]:
+Politik ist da auch gefordert. Die Politik ist gefordert, den Menschen so gut wie möglich, allgemein, zu schützen, aber sie nicht zu behindern.
+
+Person3 [0:33:36 - 0:33:59]:
+Aber gefordert sind auch die Grenzwerte. Über die müssen wir reden. In den letzten Jahren hat sich der mobile Datenverkehr jedes Jahr etwa verdoppelt. Darum ist das die umstrittene Frage. Braucht es mehr Antennen oder sollen die Grenzwerte höher? Das hat wiederum viel mit sogenannten Millimeterwellen zu tun. Glauben Sie mir, ich habe auch einen Moment gebraucht, bis ich verstanden habe, worum es hier genau geht. Wir erklären es Ihnen.
+
+Person1 [0:34:02 - 0:34:09]:
+Unsere Handys sind fast immer in Kontakt mit Mobilfunkantennen. Heute vor allem über das aktuelle Netz 4G.
+
+Person1 [0:34:10 - 0:34:20]:
+Nun wird ein neues Mobilfunknetz gebaut. 5G. 5G ist sehr schnell und hat viele weitere Vorteile, wird aber auch kritisiert.
+
+Person1 [0:34:21 - 0:34:33]:
+5G nutzt nicht nur die heute üblichen langen Funkwellen. Neu werden auch kürzere Funkwellen genutzt. Und in Zukunft könnte 5G noch kürzere Wellen, sogenannte Millimeterwellen, nutzen.
+
+Person1 [0:34:34 - 0:34:37]:
+kürzere Wellen reichen weniger weit.
+
+Person1 [0:34:39 - 0:34:46]:
+Um trotzdem überall Netz zu haben, bräuchte es viele neue Mobilfunkantennen. Es gibt aber auch eine andere Möglichkeit.
+
+Person1 [0:34:47 - 0:34:55]:
+Statt mehr Antennen zu bauen, könnte man auch mehr Power auf die bestehenden Antennen geben. Man könnte sie stärker senden lassen.
+
+Person1 [0:34:57 - 0:34:58]:
+Heute ist das verboten.
+
+Person1 [0:35:00 - 0:35:05]:
+Zuerst müsste man die Grenzwerte erhöhen, die aktuell die Strahlung der einzelnen Antennen beträgt.   Dann könnte man die Anlagen begrenzen.
+
+Person3 [0:35:07 - 0:35:17]:
+Jürg Mäder, sind wir uns einig, die Grenzwerte sind da, um sie einhalten? Ja. Wenn man diese anlangt, schafft man doch noch mehr für Unsicherung. Nehmen Sie das in Kauf?
+
+Person7 [0:35:20 - 0:36:06]:
+Man muss natürlich immer schauen, was die Erkenntnisse sind. Es sind häufig Vorsorgegrenzwerte, die man nach best guess entwickelt hat. Da soll die moderne Forschung auch reinkommen und sagen, man könnte etwas mehr machen. Oder man müsste das auch gewissern. Man könnte sogar runtergehen. Es gibt viele Binarik-Mittel, die sagen, die Grenzwerte müssen runtergehen. Ich gehöre zu denen, die sagen, es braucht mehr Antennen. Es ist, als ob zwei Leute quer durch den Raum miteinander reden würden. Entweder sie schreien oder kommen sich näher. Ich bevorzuge, wenn die Leute mit der anständigen Lautstärke auf eine kurze Distanz miteinander reden. Ich kann mir durchaus vorstellen, damit die Wirtschaft einen Zacken vorwärts machen kann, dass die Grenzwerte temporär höher gehen. Aber das Ziel muss sein, dass die Grenzwerte höher gehen. Dann könnte ich auf minimaler Leistung fahren.
+
+Person3 [0:36:07 - 0:36:15]:
+Herr Häbeli, Sie wollen ja das 5G im Grundsatz. Aber wenn Sie wirklich konsequent wären, müssten Sie jetzt auch sagen, wir lassen die Grenzwerte an und setzen sie hoch?
+
+Person10 [0:36:15 - 0:36:58]:
+Ich glaube nicht. Es ist möglich, dass wir die Grenzwerte lassen. Wie gesagt, das Parlament hat entschieden, zweimal hintereinander, dass die Grenzwerte nicht erhöht werden. Dass wir sie lassen, wie sie sind. Und der Auftrag des Bundesrates ist, entsprechend auch mit den Gegebenheiten, die da sind, dass wir die Grenzwerte nicht erhöhen müssen. Ich bin überzeugt, dass man technologisch so eingerichtet sein kann, dass wir die Grenzwerte nicht erhöhen müssen. Es gibt ja auch in Städten Beispiele, wo man mit kleineren Antennen auch ein gutes Netz bringt. Ich glaube, St. Gallen wird ja immer wieder genannt. Das sind Vorreiter, Vormöglichkeiten. Ich bin überzeugt, dass wir unsere Grenzwerte so lassen können und trotzdem in der Entwicklung dabei bleiben können.
+
+Person3 [0:36:58 - 0:37:08]:
+Trotzdem dabei bleiben können. Es gibt einzelne Kantone, die Bedenken haben. Genf, Neuenburg, Watt haben Moratorien gefordert oder eingeführt. Das lässt sich halten.
+
+Person12 [0:37:10 - 0:37:13]:
+Darf ich zuerst noch etwas zu den Millimeterwellen sagen?
+
+Person3 [0:37:12 - 0:37:16]:
+Wenn es kein technischer Vortrag ist und höchstens ein Satz ist.
+
+Person12 [0:37:16 - 0:37:22]:
+Sie haben mich gerade unterbrochen bei diesem einen Satz. Die Millimeterwellen haben mit 5G nichts zu tun.
+
+Person12 [0:37:23 - 0:37:24]:
+Nichts.
+
+Person12 [0:37:25 - 0:37:29]:
+Dann zweitens Ihre Frage. Wer ist eigentlich zuständig für was?
+
+Person12 [0:37:30 - 0:38:07]:
+Der Bundesrat hat gesagt, der Bundesrat ist zuständig für die Festlegung der Grenzwerte. Er wollte diese Verantwortung nicht tragen und hat das Parlament befragt. Dort muss ich Brigitte Häperli widersprechen. Der Nationalrat hat der Anhebung der Grenzwerte zugestimmt und der Ständerat hat abgestimmt. Die bundesrätliche Taktik, die Verantwortung ins Parlament zu übergeben, hat nicht funktioniert. Was Gemeinden und Kantone betrifft, die sind zuständig. Die sind nicht zuständig für die Grenzwerte. Sondern die sind zuständig für die Bauvorschriften. Aber es sagt für die Umsicherung, die herrscht. Ja, aber da muss der Bundesrat
+
+Person12 [0:38:07 - 0:38:30]:
+besser kommunizieren. Der Bundesrat sagt, das Parlament soll es richten. Der Parlament sagt, der Bundesrat soll es richten. In den Kantonen ist es für die Umsicherung. Wer soll hier noch rauskommen? Von daher glaube ich schon, dass es mehr Informationen braucht und dass man nachvollziehen kann, was jetzt passiert.
+
+Person3 [0:38:29 - 0:38:33]:
+Aber es geht nur um schlechte Kommunikation.
+
+Person8 [0:38:33 - 0:39:44]:
+Sorry, wir haben demokratische Grundregeln. Es ist nun mal so, dass beide im Parlament etwas verabschieden müssen. Das ist jetzt nicht passiert. Damit ist es klar. Aber Zuständigkeit ist beim Bundesrat. Jetzt werde ich noch fertig reden. Demokratisch entschieden, dass die Grenzwerte so bleiben. So ist es. Für uns ist das klar. Das ist auch ein Teil der Konzession. Die Kommunikationsunternehmen haben mit den jetzigen Vorgaben eine klare Grenzwerte einzuhalten. Der dritte Teil ist, dass man sehr viel über Glasfasern ausführen könnte. Innerhalb der Häuser. Man muss nicht alles mit dem 5G machen. Der Teil, weil es etwas teurer ist, sagt die Wirtschaft, weil man vorher extrem gepusht hat, ist es plötzlich nicht mehr so interessant. Also nochmals, wenn man medizinisch jemanden, der irgendwie mobil flitzt, und dann noch etwas Ratschläge in der Hand hat, dann muss man sich auch in der Ferne, im Operationssaal, den Herrn oder die Dame, die hier Fachperson ist, einen Sitz nehmen. Damit braucht sie zum Beispiel Glasfaser und hat eine perfekte Übertragung. Also, hohe technische Kompetenz hier vorne.
+
+Person3 [0:39:43 - 0:40:02]:
+Vielen Dank. Ich möchte nachfragen bei Peter Grütter vom Verband der Telekommunikationsbranche. Man hat es gehört, es gibt auch andere Möglichkeiten. Das ist nicht zwingend sofort nötig. Das ist doch eine Zwängerei, weil am Schluss wollen sie doch einfach etwas oder Geld verdienen.
+
+Person6 [0:40:04 - 0:40:36]:
+Wir sind heute mit dem heutigen Mobilfunknetz an der Kapazitätsgrenze. Wenn ihr heute in der Stadt Zürich im Vierabendverkehr telefonieren wollt, oder wenn ihr in einem Vollzug telefonieren wollt, dann spürt ihr die heute schon. Wir werden also auf dem heutigen Netz den künftigen Bedarf an Datenaustausch nicht bewältigen können. Wir versuchen in diesen Netzen genau das Gleiche zu machen, was wir in der Strasse auch versuchen. Nämlich irgendwie den Verkehr schlauer zu organisieren, Verkehrsspitzen zu brechen usw. Genau das versuchen wir mit dieser neuen Technologie 5G zu machen.
+
+Person3 [0:40:36 - 0:40:38]:
+Aber Geld wollen sie schwer damit verdienen?
+
+Person6 [0:40:38 - 0:41:51]:
+Wir werden mit 5G nicht viel mehr Geld verdienen, als wir heute mit 4G Geld verdienen und wir mit 3G und 2G etc. Geld verdient haben. Was wir wollen, und das wäre normal, die heutigen Grenzwerte sind 20-jährig. Es ist normal, dass technische Vorschriften an den Telekom-Kontrollen und der Entwicklung der Technik angepasst werden. Was wir wollen ist die Unterwahrung des geltenden Gesundheitsschutzes und der Unterwahrung des Vorsorgeprinzips eine Anpassung dieser technischen Grenzwerte. Warum? Es gibt drei Stellschrauben. Die eine sind die Grenzwerte, die andere ist wie man sie misst und die dritte ist die Anzahl Antennen, um das Land flächenmässig abzudecken mit dem Mobilfunk der neusten Generation. Wenn man an den Grenzwerten nichts macht, dann wird es ganz viel, das dankt Frau Steiner, ganz viele neue Antennen brauchen. In diesem Bericht der Arbeitsgruppe ist eine Zahl genannt, bis zu 27'000 neue Antennen. Es wird 20-30 Jahre dauern, bis diese Technologie realisiert ist. Wenn wir einen raschen Ausbau, einen vernünftigen Ausbau wollen, um die Unterwahrung des Gesundheitsschutzes, dann passen wir die technischen Vorschriften so an, dass sie gut überlassen.
+
+Person3 [0:41:50 - 0:42:04]:
+Also mehr Antennen oder an den Grenzwerten etwas machen, die Grenzwerte, die ich schon relativ gut verstehe, die relativ hoch sind, strenger sind als in den Ländern rundherum. Herr Dietschi, warum sagt es nicht, das ist doch eine Variante, die man konkret anschauen muss?
+
+Person13 [0:42:04 - 0:42:57]:
+Wenn man höhere Grenzwerte akzeptiert oder mehr Sendeanlagen, dann hat beides zur Folge, unabhängig davon, ob ich selber ein Mobiltelefon benutze oder nicht, dass ich ständig diesen Strahlingen exponiert bin. Es wäre dann sehr wichtig, dass man genügend Zonen schafft, wo das nicht der Fall ist. Angefangen zu Hause, Büro, Orte mit empfindlicher Nutzung, Grenzwerte sind in der Schweiz nicht besonders streng. Das ist auch eine lustige Geschichte. Wir haben schon bei einer bekannten Tageszeitung erwirkt, dass sie einen Artikel korrigieren musste. Es ist so, dass wir in der Schweiz zwei Grenzwerte haben. Der zweite, der sogenannte strengere, gilt für eine Sendeanlage. Jetzt haben wir aber in der Schweiz drei Anbieter, drei Sendeanlagen. Sie sind von hinten, von vorne, möglicherweise von sechs, sieben Antennen zugedeckt. Jede einzelne hält für sich gesehen den sogenannten strengeren Grenzwert ein. Das ist eine sehr gute Idee. In der Summe spüren Sie davon nichts?
+
+Person3 [0:42:57 - 0:43:20]:
+In der Summe spüren sie nichts, sagen sie. Ich möchte nachfragen, wenn es um Grenzwerte geht, sozusagen auch beim offiziellen Vertreter des Bundes, den wir heute Abend bei uns haben. Das ist Paul Steffen. Ihr Bericht stellt sich auch bei diesen Grenzwerten auf den Standpunkt, man habe schon strengere Werte als in den meisten europäischen Ländern. Heisst das nicht übersetzt, auch wenn der Ständerat, wie wir es vorher diskutiert haben, in zwei verschiedenen Anläufen zweimal Nein gesagt hat?
+
+Person4 [0:43:21 - 0:44:33]:
+Ich möchte noch zu den beiden Vorstössen, die im Parlament 2016 und 2018 abgelehnt wurden. Sie wurden abgelehnt, weil man zu wenig Informationen und Fakten hatte. Das war auch der Auftrag der Arbeitsgruppe, endlich Fakten zu schaffen, damit man auch auf diesen Fakten diskutieren kann. Das haben wir jetzt. Was den Grenzwert anbelangt, reden wir über den Grenzwert der Vorsorglichen, wo man zu wenig wissenschaftliche Erkenntnisse hätte, um zu sagen, ob man ihn anpassen, abschwächen oder verstärken muss. Das ist die Ausgangslage, die wir haben. Darum wird auch so diskutiert. Je nachdem, was einem wichtiger ist, führt man die eine oder andere Diskussion. Das ist die Ausgangslage. Es sollte eine richtige Gerichts- und Rechtsklarheit geben. Bei dem Grenzwert selbst, haben Experten und Experten dieser Arbeitsgruppe nicht einmal fertiggebracht, eine klare, einheitliche Aussage zu machen, was der richtige Grenzwert ist. Das zeigt auch das Dilemma auf. Man hat unterschiedliche Ansichten, unterschiedliche Meinungen, unterschiedliches Wissen. Bevor man über den Grenzwert diskutiert, sollte man erst einmal die begleitenden Massnahmen des Berichts anpacken und umsetzen. Das ist wichtig. Unter anderem das Monitoring, die Forschung für die Gesundheit. Die Frage stellen, haben wir heute schon? Das intelligente Mobilfunknetz. Das ist das Postulat der Frau Ständerätin Heberli. Also all die Fragen,
+
+Person3 [0:44:33 - 0:44:39]:
+die Sie beantworten sollten mit dem Bericht, haben nur noch viel mehr Fragen auf den Tisch gebracht. So sieht es aus.
+
+Person4 [0:44:39 - 0:45:08]:
+Die Frage des Mobilfunknetzes war keine Aufgabe des Berichts. Darum ist das auch ein wichtiger Punkt, den wir jetzt aufarbeiten müssen. Erst danach sollten wir darüber noch diskutieren. Vielleicht noch ein Zitat eines ETH-Professors. Ein ETH-Professor hat vor Kurzem gesagt, dass die tiefen Grenzwerte uns zwingen, intelligente Mobilfunknetze zu entwickeln. Ich denke, die Forschung kann sehr viel erwerben, damit wir auch die Frage der Einführung von 50 oder 60 Jahren entsprechend weiterentwickeln können.
+
+Person3 [0:45:08 - 0:45:24]:
+Das heisst aber auch, dass es für mich nur nicht gesprengt ist, wie man in Bern sagen würde. Wir haben einen Zuschauer bei uns, der das auch kritisch anschaut. Michael Keller, herzlich willkommen. Elektroingenieur sind Sie. Sie sagen, das 4G, das wir haben, das reicht die Führung.
+
+Person5 [0:45:24 - 0:45:30]:
+Sicher. Wieso sollen wir etwas Schnelles haben?
+
+Person5 [0:45:31 - 0:46:07]:
+Das bringt es überhaupt nicht. Die Nachfrage ist noch nicht da. Die wird möglicherweise geschürt. Es gibt ja z.B. Applikationen für autonomes Fahren. Das ist in weiten Ferne. Wenn wir jetzt das 5G-Netz für das aufstellen würden, bringt es nichts. Wir haben vorhin den Kühlschrank mit Internetvernetzung gehört. Das ist eine gute Frage. Ich habe gerade heute gegoogelt und habe einen Bericht und habe gesagt, dass das kommen wird. Aber der Bericht war von 1998. Also es ist eine Vor-
+
+Person3 [0:46:07 - 0:46:14]:
+Zukunftsvision. Eine Vision, die eigentlich noch in weiten Ferne ist, die wir eigentlich zusammen nicht erleben werden.
+
+Person3 [0:46:14 - 0:46:17]:
+Frau Rühl, Sie schwören etwas. Oder auch Herr Maeger.
+
+Person12 [0:46:18 - 0:47:30]:
+Uns läuft einfach die Zeit davon. Das war ja mein Punkt. Wir sind nicht allein auf dieser Welt. Der Standort Schweiz ist in einem ganz härten Wettbewerb mit anderen Standorten. In anderen Ländern wie den USA und in Südkorea ist das 5G-Netz bereits ausgerollt. In den europäischen Ländern wird das auch angepackt. Wir wollen, dass die Schweiz dort mitziehen kann, damit unsere Unternehmen bei der Wirtschaft davon profitieren können. Da gibt es interessante Applikationen, die innerhalb einer Fabrik kommunizieren, die so effizienter arbeiten, die Arbeitsplätze generieren. Es gibt Studien, die sagen, 140'000 neue Arbeitsplätze könnten geschaffen werden, dank 5G. Und da wollen wir den Anschluss nicht verpassen. Wenn wir jetzt warten müssen, bis die letzte Sicherheit besteht, und diese gibt es vielleicht nie, dann ist die Wirtschaft nicht in Ordnung. Wir haben eine wirtschaftliche Entwicklung an einem anderen Ort, in anderen Ländern. Dann verlieren wir an Wertschöpfung, an Wirtschaftskraft und an Arbeitsplätzen.
+
+Person3 [0:47:30 - 0:47:32]:
+Haben Sie noch etwas dazu zu sagen?
+
+Person5 [0:47:32 - 0:47:46]:
+Haben Sie denn schon konkrete Anwendungen, wo man sagen kann, wir brauchen das schnelle Netz? In der Fabrik, wo Sie sagen, man braucht schnelles 5G, kann man das nicht mit Glasfaser machen?
+
+Person8 [0:47:44 - 0:47:55]:
+In der Fabrik braucht es gar kein 5G. Da sind wir in einem Innengebäude, da können wir Glasfaser nehmen und brauchen damit gar keine Antennen.
+
+Person3 [0:47:54 - 0:48:22]:
+Sie sagen, 5G ist Big Business. Dafür leitet sich auch der Swisscom-Chef Urshab betüchtigt ins Zeug. Zum Beispiel hat er in Davos am World Economy Forum am WEF folgendes gesagt. Er hat einen Aufruf gemacht an die Politik. Ich wünsche mir, dass die Politik bei diesem Thema Farbe bekennt. Herr Maeder, Sie haben es erreicht. Sie bekennen Farbe. Auch heute Abend hat sich Swisscom bei Ihnen schon erkenntlich gezeigt und ein Pöstchen angeboten.
+
+Person7 [0:48:22 - 0:49:18]:
+Hoffentlich nicht. Ich hoffe nicht, dass die Schweiz so funktioniert. Auch wenn ich jetzt der neue Nationalrat bin, also wenn ich mich von diesen Geschenkgrössen Bündner-Torte bestechen lassen würde, das wäre sehr peinlich. Aber ich möchte auch noch etwas sagen, was hier ankommt. Wir verbrauchen das wirklich. Erstens, wenn die Nachfrage nicht besteht, dann werden die Sendemasten auch entsprechend auf die höchste Leistung gesendet. Zweitens, ich habe noch und Sie haben wahrscheinlich auch noch gelernt, einen Fahrplan zu lesen. Unsere Eltern hätten dann sagen können, für was braucht man einen Fahrplan online. Man kann sich das aufschreiben und dann ist auch alles geregelt. Unsere Grosseltern hätten noch andere Fragen stellen können, weil wir brauchen ein Telefon, das nicht mehr erreichbar ist. Man kann sich doch auch einen Brief schreiben. Ich bin froh, dass unsere Grosseltern gesagt haben, das stoppen wir. Ich bin froh, dass meine Eltern gesagt haben, wir stoppen beim aktuellen Niveau. Ich sage jetzt nicht, wir stoppen auf dem Niveau, das mir gefällt. Wir haben ja nichts.
+
+Person8 [0:49:17 - 0:49:49]:
+Unsere Eltern hatten auch einen und unsere Grosseltern auch. Nein, Moment jetzt. Wir haben bei 5G nichts. Die Konzessionen sind geteilt. Es geht jetzt um den Vollausbau. Swisscom selber hat gesagt, wir hätten 90% angeboten in der Schweiz. Von dort reden wir ja nicht von entweder oder. Es geht darum, ob wir jetzt eine totale Vollausbau wollen mit x zusätzlichen Antennen oder ob man noch etwas neuer hinschaut und genau mit den Erfahrungen, die wir schon haben, auswerten kann. Ob es so sicher ist oder nicht.
+
+Person7 [0:49:49 - 0:49:54]:
+Mehr Antennen senken Belastung. Je näher du am Trepp bist...
+
+Person8 [0:49:53 - 0:49:58]:
+Wir brauchen nochmals Glasfasern. Wir haben ein grosses...
+
+Person7 [0:49:57 - 0:50:01]:
+Einen Rettungswagen kannst du nicht an Glasfasern anhängen.
+
+Person8 [0:49:59 - 0:50:06]:
+Aber bitte nicht nochmals die Operation. Irgendwie mobil. Einen Rettungswagen kannst du nicht an Glasfasern anhängen.
+
+Person8 [0:50:06 - 0:50:12]:
+Für das braucht es nicht 100% Ausbau. Da reicht es, was wir haben. Nein.
+
+Person7 [0:50:11 - 0:50:13]:
+Das Glasfasernetz.
+
+Person12 [0:50:12 - 0:50:56]:
+Erstens ist einmal, das hat Frau Prelice auch gesagt, das ist teurer als ein Mobilnetz. Zweitens kommen sie in gewisse Randregionen nicht her. Das bietet für Randregionen über das Mobilnetz grosse Chancen, dass man dort wirtschaftlich tätig sein kann. Sei es in Fabriken, sei es im Tourismus. Das müssen wir auch sehen. Und dann vielleicht noch das 5G-Netz. Das besteht heute. Aber damit es voll genutzt werden kann, braucht es eine Anpassung dieser Grenzwerte. Heute von 5G-Netz schauen Sie sich Ihr Smartphone an. Dort steht 4G. Es steht noch nicht 5G. Die Kontestationen hätten sicher nicht
+
+Person8 [0:50:55 - 0:51:07]:
+von den Unternehmungen angenommen. Oder andersrum gesagt, die sind bereits angenommen unter den jetzigen Voraussetzungen mit den jetzigen Grenzwerten. Sprich, man kann es machen.
+
+Person3 [0:51:08 - 0:51:28]:
+Ich möchte Ihnen einen jungen Mann vorstellen, der weiss, worüber er spricht. Über Handys. Er verkauft nämlich selbst Handys. Das ist Florian Fuss. Guten Abend, herzlich willkommen. Schön, sind Sie bei uns. Sagen Sie Ja zu 5G, weil das natürlich auch Ihrem Arbeitgeber hilft? Wir sagen jetzt nicht, bei wem Sie arbeiten.
+
+Person2 [0:51:29 - 0:51:53]:
+Nein, ich sage 5G, weil es eine Chance ist für unsere Wirtschaft. Wenn man Nein zu 5G sagt, dann sagt man nicht nur Nein zu 5G, sondern auch auf alles, was darauf aufbaut. 5G ist nur die Grundlage. Wir haben viele Dinge, die auf dem 5G-Netz aufgebaut werden. Wir haben schon mehrere Beispiele genannt, z.B. das autonome Fahren, der Verkehr, der hier gelenkt werden kann, die Fernoperationen. Einen Krankenwagen wollen wir nicht
+
+Person3 [0:51:53 - 0:51:56]:
+als Glasfasernetz anbieten.
+
+Person2 [0:51:55 - 0:52:08]:
+Einen Krankenwagen kann man nicht als Glasfasernetz anbieten, auf jeden Fall noch nicht jetzt. Wir müssen da einfach mitmachen. Wir sind nicht mehr wettbewerbsfähig, wenn alle anderen Länder 5G haben und wir auf dem 4G-Netz sitzen.
+
+Person3 [0:52:09 - 0:52:16]:
+Sie sind ein sehr guter Verkäufer. Wenn Sie das machen, weisen Sie die Leute auf die Risiken ein? Reden Sie mit ihnen über Gesundheit?
+
+Person2 [0:52:16 - 0:52:48]:
+Wir haben grundsätzlich bei uns die Broschüren der Asu. Bei uns, und die geben wir auch immer mit, wir tun grundsätzlich, 5G ist noch nicht so ein grosses Thema, wir haben dort sehr viele Beschwerden, das sage ich auch so. Was heisst Beschwerden? Dass Leute natürlich reinkommen und sagen, wir zerstören ihre Kinder, oder wir tun das, das ist nicht gut. Wir machen die ganze Welt schlecht. Wir bringen die um. Also Sie können nicht ihnen zu einem Handy kaufen?
+
+Person3 [0:52:46 - 0:52:52]:
+Nein, nicht dringend. Aber es gibt auch viele andere Leute,
+
+Person2 [0:52:48 - 0:53:22]:
+die sich beschweren, weil sie im Zug keine Verbindung mehr haben. Dort haben wir eine höhere Nachfrage. Wir haben eine 4G-Antenne, mit der wir etwa 200 Geräte anschliessen können. Mit der 5G-Antenne sind es nachher wirklich eine Million Geräte, die man anschliessen kann. Man hat z.B. auch St. Jakobspark in Basel, das ist auch am 5G-Netz angeschlossen. Das heisst, die ganzen Fussballbegeisterten Fans können da auch über das 5G-Netz gehen. Und das heisst, auch wenn der mal ausverkauft ist, auch dann können alle noch im Internet surfen.
+
+Person3 [0:53:22 - 0:53:31]:
+Herr Lohan Fuss, herzlichen Dank. Sie sagen, die Wirtschaft muss dort Chancen bekommen und hat auch Chancen, wenn man mit dem Ausbau vorwärts macht. Sie aber, Frau Haberli, stehen auf Bremse.
+
+Person10 [0:53:32 - 0:54:17]:
+Nein, ich glaube nicht. Ich bin sorgfältig. Ich will den Fortschritt, aber ich will ihn gut vorbereiten und ich will ihn dann auch breit abgestützt, ohne nachher immer wieder Rückschritte in Kauf zu nehmen. Das ist der richtige Weg. Zusammen mit dem Bundesamt für Umwelt, das jetzt einen zusätzlichen Auftrag vom Ständerat durch das neue Postulat bekommen hat, sollten wir das optimale Netz vorbereiten. Das heisst wirklich, dass es möglichst wenig Strahlung gibt, aber optimale Leistung. Ich bin gespannt. Ich glaube, die Arbeit wird hier zusammen mit den Experten mit den Experten gehalten werden. Es ist nötig, dass wir das machen. Denn ich glaube, es ist auch möglich. Dann müssen wir die Grenzwertdiskussion auf die Seite lassen. Denn technisch ist es möglich, auch ohne eine zusätzliche Belastung auszulösen.
+
+Person3 [0:54:17 - 0:54:37]:
+Der 5G-Ausbau kommt zu schnell. Viel zu schnell, sagt Katharina Prelic. Huber, mich nimmt schon Wunder, ob sie das auch sagt, weil sie Präsidentin der Gewerkschaft VPD ist und der Wirtschaft vielleicht einen Knüppel zwischen die Beine rühren will. Frau Prelic, würden Sie gerne auf einer Insel leben?
+
+Person8 [0:54:38 - 0:54:43]:
+Nein, nicht wirklich. Ich lebe sehr gerne hier. Ich weiss nicht genau, wieso ich die Insel nicht suchen möchte.
+
+Person3 [0:54:43 - 0:54:47]:
+Wieso machen Sie aus der Insel? Sie schotten uns ab vom technologischen Fortschritt.
+
+Person8 [0:54:47 - 0:55:01]:
+Nein, ich wollte ja nie die Technologie verhindern. Ich will sehr genau hinschauen. Da kann ich mich wiederholen. Und dann so einsteigen können, dass man mit gutem Gewissen sagen kann, man macht nicht mehr Verlierer als Gewinner.
+
+Person3 [0:55:01 - 0:55:19]:
+Nach der industriellen Revolution kommt es mir vor, wie damals bei der industriellen Revolution, wo man auch Angst hatte vor der Eisenbahn, vor der Dampflok, zum Beispiel. Da haben wir ein Bild eingeblendet. Wenn Sie dann zurück in diese Zeit sind, sind Sie in diesen Zeiten stark geblieben, Frau Prelic?
+
+Person8 [0:55:19 - 0:55:50]:
+Überhaupt nicht. Wie gesagt, ich kann mich nur wiederholen. Es ist klar, dass die Technologie weitergeht. Es ist auch gescheit, dass man weiterdenkt. Aber zum Denken gehört ja nicht nur, in eine Einrichtung zu schauen, sondern zum Denken gehört, dass man umfassend, gesamtgesellschaftlich schaut, dass man vorsorgemässig überlegt, gibt es Risiken, wenn es diese gibt, muss ich mir überlegen, wie kann ich diese vermindern und dann losgehen. Und nicht einfach sagen, wir wissen, wir haben noch nicht alles erforscht, aber ist ja gleich, wir machen jetzt einfach mal was fest.
+
+Person3 [0:55:49 - 0:56:05]:
+Also gesamtheitlich denken, sagen Sie ja. Aber was Sie damit ja machen, ist ja genau die Bestrafung, die Sie als Gewerkschafterin sonst schützen wollen. Sie haben die Menschen, die Arbeitsplätze und letztlich auch den Wohlstand. Und wenn Sie der Wirtschaft jetzt nicht mitverhelfen, diesen Sprung zu machen.
+
+Person8 [0:56:05 - 0:56:29]:
+Ja, also da müssen wir natürlich auch ein bisschen vorsichtig sein. Digitalisierung, auf der einen Seite gibt es mit Sicherheit neue Arbeitsplätze, auf der anderen Seite wird es massiv, weiterhin, hat es jetzt schon gekostet, Arbeitsplätze abbauen. Sprich, dann geht es auch wieder um den Umbau. Wir müssen die Leute, die mit der Arbeit verloren haben, dadurch, dass wir jetzt zum Beispiel Roboter haben, irgendwie weiterbilden, damit sie dann wieder weitergenommen werden können.
+
+Person3 [0:56:28 - 0:56:37]:
+Also Sie haben Angst vor einer Zweiklassengesellschaft. Ja, selbstverständlich. Aber was Sie eigentlich wollen, ist nur eine Gesellschaft, nämlich die Gesellschaft, die so ist wie Sie, aber es sind nicht alle Menschen so wie Sie, Frau Freivich.
+
+Person8 [0:56:36 - 0:57:07]:
+Nein, ich möchte gerne, dass jeder Mensch eine würdige Existenz leben kann. Und ich meine, das ist das Recht, und wir haben Menschenrechte unterschrieben, um das geht es. Und nicht ein Teil, ein paar wenige, die die Supergewinne abzocken können und ganz viele, die nachher nichts haben. Das ist natürlich in einer teuren Wohnung. Das ist ja klar, mit gewissem Luxus. Das kann sich nur ein Teil leisten. Von daher, wenn es darum geht, Digitalisierung, für alle müssen wir über alle denken, dass sie mitgenommen werden.
+
+Person3 [0:57:06 - 0:57:13]:
+Vielen Dank, Katrin Aprellitsch-Schuber, dass Sie sich meine Frage gestellt haben und jetzt nicht noch über das geredet haben, worüber wir letzte Woche geredet haben, über die Mietwohnungsinitiative.
+
+Person3 [0:57:16 - 0:57:21]:
+Frau Rühl, es geht auch, indem man nicht so schnell vorwärts macht, sagt Frau Prelic.
+
+Person12 [0:57:23 - 0:58:13]:
+Eben, also was heisst, man muss nicht so schnell vorwärts machen. Wir könnten den technologischen Fortschritt auch verschlafen. Dann haben wir ein Problem mit den Arbeitsplätzen. Es ist so, es werden die Arbeitsplätze verloren gegangen, es werden neue Arbeitsplätze geschaffen werden. Ich bin sehr einverstanden damit, wir müssen die Menschen mitnehmen, weil wir haben, wir sind in dieser grossartigen Situation, dass wir eine sehr tiefe Arbeitslosigkeit haben in diesem Land, weil so viele Arbeitsplätze geschaffen werden. Darum drängen wir so darauf, dass wir eben diese Stärke hier in der Schweiz  behalten und eben auch die Arbeitsplätze in jeder Schweiz behalten. Und viele Arbeitsplätze werden abhängig sein von den neuen Technologien. Da werden die Menschen weitergebildet werden müssen. Das haben wir eine gemeinsame Verantwortung von den Unternehmen und von jedem Einzelnen. Aber das ist für mich die Zukunft. Das ist der Fortschritt. Und wenn wir über die Zukunft reden,
+
+Person3 [0:58:13 - 0:58:46]:
+müssen wir auch noch ein bisschen in die Vergangenheit schauen. Die Frage ist schon, haben Sie Angst vor dieser Digitalisierung zu Hause? Also von dem, was die neue digitale Welt jetzt so mit sich bringt. Es gibt ja auch die Menschen, die sagen, ob die Milch noch da ist oder nicht. Schon die industrielle Revolution vor 200 Jahren hat die wirtschaftlichen und gesellschaftlichen Verhältnisse total umkrempelt. Und die langfristigen Auswirkungen dieser Automatisierung hat ein Film, glaube ich, ziemlich gut auf den Punkt gebracht. Nämlich «Modern Times» von Charlie Chaplin.
+
+Person3 [0:59:08 - 0:59:28]:
+Modern Times, moderne Zeit, aus dem Jahr 1936 mit Charlie Chaplin. Er würde staunen, in welcher Welt wir heute leben. In einer Welt, in der Geräte miteinander vernetzt sind, in der sich unsere Arbeitswelt verändert. Transformation, sagt man, ganz im Kleinen z.B., wenn man das Handy vorherspricht und schaut, wie viele Apps da sind,      dass man hier drauf hat und benutzt Jörg Maeder. Wie viele sind es bei Ihnen?
+
+Person3 [0:59:29 - 0:59:30]:
+Ich bin drauf. Ich schätze etwa 25.
+
+Person3 [0:59:32 - 0:59:39]:
+Tut uns das wirklich gut, die Vernetzung, das Digitale, alles abzurufen, immer online sein bis zum Exzess?
+
+Person7 [0:59:40 - 0:59:58]:
+Es ist wie mit allem. Man kann Alkohol geniessen oder man kann ihn saufen. Sie können sich gerne sagen, am Sonntag, ich weiss nicht, wie Ihr Arbeitgeber einverstanden ist, dass Sie am Sonntag sagen, ich mache einen digitalen Freitag und gehe in den Balkan spazieren. Wenn Sie mich einlaufen, komme ich mit.
+
+Person3 [0:59:59 - 1:00:05]:
+Ist das ein umgekehrter Bestechungsverkurs? Man denkt sich schon, ich kann nicht bestechen. Ich kenne Ihre Hausregeln nicht.
+
+Person3 [1:00:05 - 1:00:15]:
+Sie sind auch nicht im Zentrum dieser Sendung. Er findet die Technologie ziemlich lässig. Das überzeugt Sie natürlich nicht. Sie verweigern sich lieber am Fortschritt.
+
+Person8 [1:00:15 - 1:00:42]:
+Nein, auch ich laufe mittlerweile mit dem Handy. Das ist völlig klar. Es gibt auch Teile, die angenehm sind. Aber es ist nicht alles nur toll. Wie in den meisten Ländern gibt es nicht nur die tollen Seiten. Wenn man sagt, immer mehr vernetzt, vernetzt, klingt das super gut. Bloß, was z.B. mit meinen Daten passiert. Weil ich das alles immer noch mehr vernetze, ist immer noch mehr, dass mir irgendwer von aussen mein Leben bestimmen kann usw. Haben Sie Angst, dass Ihre Daten in China landen?
+
+Person8 [1:00:44 - 1:00:56]:
+Zum Beispiel. Sie sind schon in China gelandet. Oder dass in einer Privatfirma, wenn ich an den Pass denke, die die Idee der bürgerlichen Mehrheit war, dass irgendeine Firma nachher, die sich nicht mehr in China landet,  die Daten von der ganzen Zeit hat. Dann müssen wir andere Diskussionen führen.
+
+Person7 [1:00:55 - 1:01:12]:
+Wie? Dann müssen wir andere Diskussionen führen. Dann werden wir oft auf der gleichen Seite sein. Wir reden jetzt über Technologie, die die Daten umschickt und nicht über was die Daten aussagen. Dort verwechseln Sie ja alles.
+
+Person8 [1:01:12 - 1:01:15]:
+Wir verwechseln es nicht. Wir thematisieren es nur mit. Der Inhalt ist entscheidend.
+
+Person7 [1:01:13 - 1:01:24]:
+Um Datenschutz, Persönlichkeitsschutz, ist der Inhalt der Daten entscheidend. Und nicht das Medium oder die Technologie, wie die von links nach rechts verschoben werden.
+
+Person3 [1:01:23 - 1:01:33]:
+Der Datenschutz ist das eine Thema. Aber das andere ist auch, ob die Digitalisierung am Schluss die Jobs vernichtet oder ob sie neu schafft. Wir haben uns das einmal etwas genauer angeschaut.
+
+Person1 [1:01:35 - 1:01:44]:
+Arbeiten an der Kasse oder am Fliessband. Solche Jobs verschwinden nach und nach. Sie werden zum Beispiel durch Roboter ersetzt.
+
+Person1 [1:01:46 - 1:02:11]:
+Laut einer McKinsey-Studie könnten bis 2020 im Zusammenhang mit der Digitalisierung rund eine Million Arbeitsplätze verschwinden. Dank der Digitalisierung werden auch Stellen geschaffen. Zum Beispiel braucht es IT-Fachleute, die die neuen Roboter programmieren. Experten sagen, dass die Digitalisierung ungefähr gleich viele Stellen schafft wie verloren gehen.
+
+Person1 [1:02:13 - 1:02:25]:
+Allerdings werden für diese neuen Stellen v.a. hochqualifizierte Arbeitskräfte benötigt. Jobs von weniger qualifizierten Arbeitskräften verschwinden wegen der Digitalisierung mehr und mehr.
+
+Person3 [1:02:26 - 1:02:33]:
+Frau Rühl, es gibt neue Arbeitsplätze für gut qualifizierte Menschen. Was ist dann mit dem Rest? Denken Sie nicht an diese?
+
+Person12 [1:02:34 - 1:03:10]:
+Selbstverständlich denken wir an diese. Es gibt Berufskategorien, in denen der Mensch weiterhin sehr stark gefragt sein wird. Ich denke z.B. an alle Pflegeberufe. Wir werden ja immer die Menschen, die älter sind und immer älter sind, auch mehr Pflege brauchen. Da kann die Digitalisierung nicht sehr viel unterstützen oder nur bis zu einem begrenzten Mass. Ich finde es schön, wenn ein Roboter zu essen verteilen würde, aber ein Mensch bei einer Person ist, die krank oder pflegebedürftig ist. Da sehe ich grosse Chancen.
+
+Person3 [1:03:12 - 1:03:13]:
+Sehen Sie das auch?
+
+Person10 [1:03:13 - 1:03:41]:
+Ja, ich sehe das auch. Ich habe mir aufgeschrieben, ob Roboter im Alter seien. Frau Rühle hat es gesagt, ich sei ziemlich entspannt. Ich möchte z.B. so lange wie möglich auch im hohen Alter eigenständig sein und in meiner eigenen Wohnung leben. Dann könnte ich mir vorstellen, dass ich ein Roboter hätte, der mir gewisse Dinge abnehmen würde und mich bei einem Sturz alarmieren könnte oder mir in den Haushalt arbeiten könnte. Ich bin völlig offen, das ist eine Chance.
+
+Person3 [1:03:41 - 1:03:44]:
+Sind Sie auch entspannt, wenn es um Roboter geht?
+
+Person8 [1:03:44 - 1:03:50]:
+Nein, ich bin kein Fan. Ich hätte nicht wahnsinnig gerne einen Roboter. Nein, ich nicht.
+
+Person8 [1:03:51 - 1:04:41]:
+Das mag ich dir von Herzen nicht. Die Frage ist, bis jetzt, wenn wir Pflege nehmen, ist die Diskussion leider nicht so gelaufen, wie Sie es jetzt sagen, sondern man hat gesagt, der Roboter ersetzt Pflegepersonen. Der Roboter ersetzt Kindergartenlehrpersonen. Dann stimmt es nicht mehr. Wenn Sie neu darauf einsteigen, dass man als Pflegeperson Zeit für die Patientin hat und sie ersetzt wird und man nicht abbaut, ist die Diskussion wunderbar. Der andere Teil, neue Arbeitsplätze. Tatsächlich sind es vor allem die Hochqualifizierten. Wir müssen uns überlegen, was Menschen machen können, die weniger qualifiziert sind. Nicht alle gehen in die Pflege. Nicht alle sind qualifiziert für eine Pflege. Und dann auch, wie viel Zeit man dann arbeitet, wenn immer mehr von der Maschine nicht mehr da ist.
+
+Person3 [1:04:40 - 1:04:43]:
+Mit dieser Umschulung ist es nicht ganz so einfach.
+
+Person12 [1:04:44 - 1:05:15]:
+Nein, das ist nicht einfach. Das ist eine Herausforderung für die Unternehmigen und für uns alle. Aber es gibt noch einen weiteren Aspekt. Wir haben eine überalterte Gesellschaft, zu wenige junge Leute, die in den Arbeitsmarkt kommen. Die Zuwanderung, die man zuschrauben will, wenigstens eine gewisse. Und es braucht genügend qualifizierte Arbeitskräfte. Da haben wir durchaus das Interesse, gewisse Sachen an Roboter oder Maschinen zu delegieren, damit man das so abfangen kann.
+
+Person3 [1:05:16 - 1:05:19]:
+Dass man so abfangen kann. Bei uns ist jemand, der Bedenken hat.
+
+Person8 [1:05:18 - 1:05:21]:
+Das ist der Satz für die Tiefqualifizierten.
+
+Person3 [1:05:21 - 1:05:24]:
+Herr Prelitsch, lassen Sie mich auch mal schnell ausreden. Gerne. Vielen Dank.
+
+Person3 [1:05:25 - 1:05:43]:
+Bei uns ist Mia Jenny von der Juso, die auch für das Präsidium kandidiert hat. Schön sind Sie bei uns. Sie haben Bedenken, wenn Sie hören, was Frau Rühl sagt, dass es auch neue Jobs schafft. Gleichzeitig gehen andere verloren, aber es hält sich irgendwie die Waage. Was ist denn das Problem?
+
+Person11 [1:05:43 - 1:05:57]:
+Ich sehe nicht so ein grosses Problem. Ich finde, Digitalisierung ist vor allem eine Chance. Man muss sich dann einfach fragen, wie wird die Arbeit verteilt, die noch übrig bleibt? Diese Arbeit ist nicht mehr so viel. Man kann eigentlich auch mal eine Arbeitszeitreduktion anstreben.
+
+Person3 [1:05:57 - 1:06:00]:
+Ah, Digitalisierung, ja. Aber dann sollen wir alle weniger arbeiten.
+
+Person3 [1:06:02 - 1:06:08]:
+Und wahrscheinlich auch, wenn ich Sie richtig einstufe, auch noch das Kapital besteuern und bei den Reichen mehr haben. Genau.
+
+Person11 [1:06:07 - 1:06:24]:
+Weil Profit ja trotzdem mehr gemacht wird, auch durch die Digitalisierung. Es kann ja nicht darauf hinauslaufen, dass grosse Konzerne immer mehr Geld machen und andere arbeiten weniger und bekommen dann weniger Geld. Sondern dass man eigentlich das Kapital besteuert und nicht einfach Arbeit besteuert.
+
+Person3 [1:06:24 - 1:06:27]:
+Also, Frau Rühl, Sie und Ihre Mitglieder besteuern.
+
+Person12 [1:06:27 - 1:06:47]:
+Gut, also die Kapitalbesteuerung, da müssen wir eine separate Sendung machen. Könnten wir dann vielleicht einmal ausdiskutieren. Aber wo ich mit Ihnen einig bin, tatsächlich, wir arbeiten heute in der Regel zu viel oder viele von uns arbeiten zu viel. Und wenn wir mehr Freizeit haben, weil wir auf Digitalisierung zählen können, das finde ich super.
+
+Person3 [1:06:48 - 1:06:54]:
+Wenn sich «Economis Vist», der Wirtschaftsdachverband und die «Uso» irgendwo durch einmal ein bisschen einig sind... Ja, wir sind offen.
+
+Person3 [1:06:56 - 1:07:01]:
+...gibt es schon fast einen Handschlag. Fast zum Schluss dieser Sendung. Vielen Dank. 
+
+Person3 [1:07:02 - 1:07:24]:
+Peter Grüter vom Branchenverband «Asut» und Severin Dietschi vom Verein «Schutz vor Strahlung». Wir haben über 5G gesprochen. Aber wir haben es auch schon angesprochen, ganz am Anfang, eigentlich ist das Rennen schon um 6G in Gang. Ich frage mich ein bisschen, ob ihr zwei dann nicht miteinander ein Skigefecht führt, weil wir schon längst bei der nächsten Technologie sind. Herr Grüter, Herr Dietschi.
+
+Person6 [1:07:25 - 1:08:13]:
+Herr Boss, wir führen nur in der Arena ein Skigefecht, bestenfalls. Wir kommen bestens miteinander aus und verstehen uns gut. Wir sind beide Befürworter der Technologie. Und wir sind beide auch Befürworter eines gesunden Vorsorgeprinzips. Wir sind Befürworter des gesunden Gesundheitsschutzes, des gesunden Verhältnisses. Und wir erkennen vor allem hier, und das möchte ich noch sagen, ist nämlich verloren gegangen, vor allem das Potenzial dieser Technologie für die Umwelt. Wenn ihr z.B. ein Beispiel von letzter Woche seht, dass man Teile der Jugend-Olympiaden per 5G überträgt. Und man sich vorstellt, dass man es mit leichtem Gerät mit gleicher Qualität Skirennen übertragen kann, anstatt mit tonnenschweren Lastwagen in den Berg hinauf zu fahren oder Kabel zu verlegen, dann ist die Antwort eine klare. Umweltschonender ist garantiert 5G und nicht die alte Technologie.
+
+Person13 [1:08:14 - 1:08:19]:
+Herr Dietschi, zum Abschluss. Umwelt, Gesundheit, Priorität, sonst habe ich nichts beizufügen.
+
+Person3 [1:08:20 - 1:08:34]:
+Zum Schluss, von meiner Seite habe ich auch nicht mehr viel dazu beizufügen, ausser dass Sie es kennen, mein persönliches Bild der Woche, das mir aufgefallen ist. Und das ich gerne hier nach dem Studio und meinen Gästen in der Hauptrunde zeige. Und ich bin sicher, es wird einen Jö-Effekt auslösen. Ganz sicher.
+
+Person3 [1:08:37 - 1:08:53]:
+Zu erwachsen in Zürich, noch so klein und doch schon 150 kg, ist das Elefantenbaby. Der Papi heisst Heiss, die Mutter Indi und das Elefantchen selber heisst Umesh. Frau Prelic, was macht das Bild mit Ihnen? Entspannt es ein bisschen nach dieser Diskussion?
+
+Person8 [1:08:53 - 1:09:03]:
+Ich finde es ein wunderschönes Bild. Es ist ein Genuss. Ich hoffe, wir sehen noch sehr viele Tiere, nicht nur im Zoo, sondern auch in der freien Natur.
+
+Person3 [1:09:03 - 1:09:09]:
+Herr Maeder, als selbsternannten Nerd, kommen Sie überhaupt dazu, mal in den Zoo zu gehen, oder sitzen Sie nur hinter dem Kumpi?
+
+Person7 [1:09:10 - 1:09:17]:
+Wahrscheinlich auch nicht so viel hinter dem Kumpi, aber das Bild löst bei mir doch den Wunsch nach dem Zoobesuch aus.
+
+Person3 [1:09:17 - 1:09:19]:
+Ich weiss, was Sie am Sonntag machen könnten.
+
+Person3 [1:09:21 - 1:09:27]:
+Herr Häberli, im Wappen des Kantons Thurgau sind zwei Löwen, oder? Ja. Haben Sie trotzdem auch ein Herz für Elefanten?
+
+Person10 [1:09:27 - 1:09:38]:
+Selbstverständlich, der Elefant, und das stimmt jetzt wirklich schon als kleines Mädchen, war mein Lieblingstier. Ich sagte zu diesem Tier Emma Batta. Ich bin sehr verbunden und freue mich auch.
+
+Person3 [1:09:38 - 1:09:44]:
+Herr Rüres heisst, Elefanten haben ein gutes Gedächtnis, haben aber auch nachtragend, was von beiden trifft auf Sie zu?
+
+Person12 [1:09:46 - 1:09:52]:
+Ein gutes Gedächtnis. Nachtragend bin ich nicht und ich würde auch wieder mal in den Zoo. Das ist so ein tolles Zoo.
+
+Person3 [1:09:52 - 1:10:11]:
+Ich hoffe, Ihnen bleibt diese Sendung in guter Erinnerung. Vielen Dank, dass Sie meine Gäste waren. Produziert hat die Sendung Sophia Miroschnig, die Leitung Herr Franziska Egli. Ich bin für Sie auf Twitter, Facebook und Instagram präsent. Bleiben Sie kritisch. Gute Nacht miteinander aus dem Studio 8.
+

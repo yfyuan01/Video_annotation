@@ -1,0 +1,604 @@
+============================================================
+Video Transcription Results
+============================================================
+
+Person8 [0:00:01 - 0:00:12]:
+Die Energiewende setzt die Politik unter Strom. Geht es schnell genug mit dem Ausbau der erneuerbaren Energien? Und geht es wirklich ohne neue AKW? Darüber müssen wir sprechen.
+
+Person1 [0:00:26 - 0:01:36]:
+Heute in der Arena. Aline Trede, Fraktionspräsidentin Grüne. Sie sagt, wir müssen den Weg der erneuerbaren Energien konsequent gehen und dürfen keine Zeit mehr verlieren. Von der Energiewende profitieren alle, in erster Linie das Klima. Benjamin Gierzendanner, Nationalrat SVP, sagt, nur mit dem Ausbau der Erneuerbaren kommen wir auf keinen grünen Zweig. Wir müssen uns bewusst sein, dass ohne neue Kernkraftwerke ein Blackout droht. So wie kürzlich in Spanien. Gabriela Sutter, Nationalrätin SP, sagt, jetzt wieder über den Bau von neuen AKWs zu sprechen, ist völlig unnötig. Die Schweiz hat sich 2017 klar dagegen ausgesprochen. Wir müssen weiterhin auf den zügigen Ausbau der Erneuerbaren setzen. Jonas Lüthi, Präsident Jungfreisinnige, sagt, will die Schweiz den Ausstieg aus den fossilen Energien schaffen, müssen wir offen bleiben für alle Technologien.  Das Neubauverbot von Kernkraftwerken muss aufgehoben werden. Die Arena, moderiert von Sandro Protz.
+
+Person8 [0:01:36 - 0:01:41]:
+Guten Abend, liebe Zuschauerinnen und Zuschauer. Vielen Dank.
+
+Person8 [0:01:43 - 0:03:13]:
+Herzlich willkommen zu Hause, hier in der Runde und im Publikum. Hier sitzt u.a. das Jugendparlament Schaffhausen, diplomierte Holzbautechniker, junge Menschen der Berufsfachschule Gesundheit und Sozials in Brugg, der neuen Kantone. Und hier die Schuhe der Stundschule Aarau und des Gymnasiums Biel-Seeland. Sie haben es Anfang der Woche sicher mitbekommen, der Stromausfall, der weite Teile von Spanien und Portugal lahmgelegt hat. Auch wenn man die Ursache noch nicht richtig weiss, haben Sie uns vor Augen geführt, wie wichtig die Versorgungssicherheit ist. Oder anders gesagt, wie wichtig es wäre, dass man die Hand oder andere Kerzen zu Hause hat. Wie in diesem Restaurant in Galicien. Das Wort Candlelight Dinner kommt plötzlich eine neue Bedeutung über. Gleichzeitig brauchen wir immer mehr Pfus. Je nach Studie geht man davon aus, dass der Strombedarf bis 2050 im Vergleich zu heute um zwischen 50 und 80 % steigen wird. Wir sprechen in dieser Sendung über erneuerbare Energien, über die Option von neuen AKWs und schnellere Verfahren beim Bau von grossen Wassersolar- und Windanlagen. Über allem steht der Begriff Energiewende. In einem ersten Teil möchte ich zunächst mal auf die grundsätzlichen Punkte eingehen, bevor wir ins Detail gehen und die Positionen unserer Runde abholen. Zum Beispiel von Benjamin Gietzedaner, SVP-Nationalrat aus dem Kanton Aargau und Transportunternehmen. Ist die Schweiz auf Kurs bei dieser Energiewende oder neben der Spur?
+
+Person5 [0:03:13 - 0:03:59]:
+Ich würde sagen, wir sind sogar Geisterfahrer auf der falschen Spur. Wir haben die Energiestrategie 2017 neu gemacht, 2050. Wir merken, sie ist völlig abgeleitet. Wir haben zu wenig Strom. Wir können das System nicht mehr stabilisieren. Wenn wir das Klima- und Innovationsgesetz anschauen, bei dem wir drei sektorielle Ziele definiert haben, Verkehr minus 57 % bis 2040, das sehen Sie jetzt selbst, nicht erreichbar. Wenn Sie die Industrie anschauen, minus 50 %, sind einigermassen on track. Wenn Sie den letzten Teil Gebäude anschauen, sind wir auch nicht auf der Spur. Ich glaube, die Netto-Null 2050, man kann dafür sein, aber wir werden es nicht 2050 erreichen. Es geht länger. Wir müssen uns mehr Zeit geben. Insbesondere müssen wir das Energiesystem stabilisieren, was Sie gesagt haben. Sonst haben wir Zustände wie auf der iberischen Halbinsel.
+
+Person8 [0:04:00 - 0:04:11]:
+Das habe ich nicht gesagt, das haben Sie wieder gesagt. Meinen Sie es ernsthaft, dass, wenn wir nicht auf die richtige Spur kommen und nicht mehr Geister fahren, tatsächlich etwas passieren könnte, wie in Spanien und Portugal?
+
+Person5 [0:04:11 - 0:04:55]:
+Selbstverständlich. Das ist ein wissenschaftliches Beleg. Wenn Sie die 50 Hz, die das System fährt, wenn Sie dort den Solarstrom haben und die Schwankungen nicht auffahren können, werden Sie irgendwann das Problem haben, dass das System runterfährt, wie in Spanien. Die Analyse ist noch nicht ganz gemacht, aber man sieht, wie der Abfall ging. Die Ursache ist der Flatterstrom. Wir brauchen mehr Bandstrom in der Schweiz und weniger Flatterstrom. Wenn Sie schauen, wie die Zuwächse sind mit Solar und Wind, haben wir ein Problem, das wir irgendwie auffahren müssen. Es gibt verschiedene Möglichkeiten. Es gibt Speichersee, die man bauen kann, es gibt Batterien. Aber momentan sind wir auf der falschen Spur. Insbesondere brauchen wir preiswerten Strom. Den haben wir nicht CO2-arm, aber preiswert. Wir werden immer teurer. Die Leute können es nicht bezahlen. Das ist unser Land.
+
+Person8 [0:04:55 - 0:05:28]:
+Damit ist noch einmal klar festgehalten, dass es um die fatalen fünf Sekunden dieses Jahr ging. Die Ursache ist, ob Cyberangriff oder Flatterstrom. Wir bleiben dran. Gleichzeitig möchte ich zu Gabriella Sutter rübergehen, der Nationalrätin der SP Ebenfalls aus dem schönen Kanton Aargau und Vize-Präsidentin des Dachverbandes der Wirtschaft für erneuerbare Energien und Energieeffizienz. Ihre Einschätzung, wenn es um die vielzitierte Energiewende geht. Kommt es gut, oder sind wir nicht nur falsch unterwegs, sondern auch geisterfahren, wie es die AG zu den anderen sagte?
+
+Person9 [0:05:28 - 0:06:22]:
+Ich spreche lieber von einem Wanderweg. 2017 starteten wir dort mit der Energiestrategie. Im Jahr 2023 schlugen wir die Flocke mit dem Klimaschutzgesetz ein und 2024 mit dem Stromgesetz. Wir sind immer noch am Anfang dieser Energiewende, aber diese nimmt wirklich Fahrt auf. Wenn man schaut, was im Jahr 2024 zugebaut wurde, gerade im Bereich Solarenergie, muss ich sagen, dass etwas läuft. Mittlerweile haben wir 270'000 Solaranlagen auf den Dächern nur bei uns in der Schweiz. Wir haben aber erst 10 % des Potenzials ausgeschöpft. Dementsprechend müssen wir noch weiter vorwärts machen. Niemand sagt, dass nicht ab und zu ein steiniger Weg kommt oder vielleicht etwas bergauf geht. Aber das hat nicht den Effekt, dass man wieder umdrehen muss und einen anderen Weg einschlägt.
+
+Person8 [0:06:22 - 0:06:28]:
+Darf ich als Hobbywanderer wissen, wie lange der Wanderweg ist? Wo sind wir jetzt? Er geht bis 2050.
+
+Person9 [0:06:26 - 0:06:29]:
+Nein, aber wo sind wir jetzt?
+
+Person9 [0:06:31 - 0:06:38]:
+Wir sind in den ersten zwei Stunden. Von wie vielen Stunden? Von einer Tageswanderung.
+
+Person8 [0:06:38 - 0:06:55]:
+Okay, dann sind wir aber noch ziemlich am Anfang dieser Wanderung. Genau. Jonas Lüthi, Präsident der Jungfreisinnigen und mitten im Jurastudium. Deinneben arbeitet sie als Verwaltungsratssekretär. Wie gross ist Ihre Angst, dass uns trotz erneuerbarer Energien irgendwann der Pfuss ausgeht?
+
+Person8 [0:06:55 - 0:06:55]:
+Guten Abend, mein Name.
+
+Person6 [0:06:55 - 0:08:00]:
+Die Angst ist definitiv vorhanden, vielleicht nicht gerade heute und morgen. Aber wenn wir in die Zukunft schauen, ist es tatsächlich so, dass uns Herausforderungen bevorstehen, die eigentlich sehr in der Pflicht sind, zu lösen. Insgesamt wurde die Energiestrategie, die man damals beschlossen hat, die Energiestrategie 2050, unter falschen Annahmen getroffen. Man hat Kapitalfehler gemacht. Erstens ist es eine Importstrategie, das schafft Abhängigkeiten. Gerade im Winter muss man massiv Strom importieren. Zweitens ist es ausgegangen, dass man weniger Strom braucht, als es jetzt tatsächlich der Fall ist. Auch das war falsch. Drittens beinhaltet es ein Technologieforbot. Auch das ist ein Kapitalfehler, dass die Politik sagt, welche Technologie man verwenden soll und welche nicht. Aber es war ein Volksentscheid, das man getroffen hat. Darum geht es jetzt darum, dass man die erneuerbaren Energien, die man über die letzte Zeit beruht, übers Ziel bringt. Aber dann sind es leider genau diese Kräfte, die blockieren, die quasi Steine auf der Wanderwege legen. Das finde ich schwierig. Das habe ich nie.
+
+Person8 [0:08:00 - 0:08:27]:
+Wenn Sie von der Technologie reden, die man zu wenig braucht, meinen Sie keine Energie, oder? Richtig. Darüber sprechen wir selbstverständlich auch. Aline Träde, Fraktionspräsidentin der Grünen und Umweltwissenschaftlerin. Acht Jahre nach dem Jahr zur Energiestrategie 2050 und damit zum AKW-Ausstieg liegt eine Renaissance des Atomstroms in der Luft. Wir werden noch im Detail darüber sprechen. Was braucht es, damit Sie sagen würden, vielleicht braucht es halt gleich neue AKWs?
+
+Person10 [0:08:29 - 0:08:48]:
+Ich glaube auch nicht an eine Renaissance. Sie liegt auch nicht in der Luft, wenn wir sie nicht herabschreiben oder diskutieren. Wir werden über eine Initiative abstimmen. Wir werden ja nachher noch über AKWs sprechen. Es ist unser Instrument, unser direktdemokratisches Instrument.
+
+Person8 [0:08:47 - 0:08:49]:
+Die sogenannte Blackout-Initiative.
+
+Person10 [0:08:48 - 0:09:46]:
+Genau. Wir werden über Blackout-Initiative sprechen. Das ist eine Initiative, die eingerechnet wurde. Man kann jeden entscheiden, wie man mit der Initiative umstossen will. Darüber werden wir sprechen. Darf ich die Frage beantworten, die die anderen beantworten haben? Ich wäre auch ziemlich nahe, dass wir erst am Anfang der Energiewende sind. Ich glaube, es ist ganz klar, wie wir sie erreichen. Wir haben einen Vertrag, den wir verpflichtet sind. Wir erreichen Retonol. Wir gehen aus den fossilen Energien bis 2050. Das ist unser Auftrag. Mit dem Stromgesetz haben wir die Ziele und die Massnahmen sehr klar definiert. Das ist 35 TWh bis 2035 im ersten Schritt. Das ist ambitioniert. Aber auf diesem Weg müssen wir jetzt sein. Jonas Lüthi sagte es richtig. Wir müssen Lösungen finden. Die Mehrheiten bis jetzt waren immer auf dieser Seite. Alles, was wir verpennt haben, auch die letzten Jahre. Wenn wir den Ausbau ... Man spricht von der Mehrheit im Parlament,
+
+Person8 [0:09:45 - 0:09:50]:
+von der Jonas Lüthi nicht dabei ist. Aber er kommt sicher mal.
+
+Person10 [0:09:48 - 0:10:22]:
+Dann kann er helfen, für Lösungen zu kommen. Ich finde, das ist genau unsere Aufgabe. Die Dringlichkeit ist viel zu gross, dass wir hier noch irgendwie eine Schuld zuschieben können. Die Dringlichkeit ist viel zu gross, dass wir noch über AKW reden können. Kurzfristig ist das keine Lösung. Darum müssen wir schauen, dass wir aus der Konfliktzone rausgehen, dass wir dort bauen und dort die erneuerbaren Energien sofort bauen und umsetzen, wo es keine Probleme gibt. Und alle anderen Energien, die wir haben, müssen wir aus anderen Verfahren auf den Weg schicken.
+
+Person8 [0:10:22 - 0:10:29]:
+Das Problem ist die Konfliktzone. Für Ihre Seite ist diese Konfliktzone und für Ihre Seite ist diese Konfliktzone.
+
+Person10 [0:10:27 - 0:11:15]:
+Nein, ich sagte nicht, dass das eine Konfliktzone ist. Ich sagte, wir müssen darüber reden, über die Lösungen reden. Dort, wo man sofort bauen kann, wo es niemand beeinträchtigt, wo z.B. kein Kampf um eine schöne Landschaft ist, die wir alle wollen, oder eine Biodiversität. Es gibt so viel. Es gibt so viele Nachplätze, die man schön mit Solardächer bestücken kann. Es gibt so viele Orte, wo man schneller umsetzen könnte. Dort haben wir das Potenzial von 50-60 TWh rein solar auf den Dächern und an der Fassade. Ich verstehe nicht, warum wir nicht sofort die Massnahmen ergreifen und umsetzen und darüber diskutieren, sondern über alte Technologien. Es ist lustig, darüber zu reden, aber es bringt uns nicht weiter.
+
+Person8 [0:11:15 - 0:11:43]:
+Ich glaube nicht nur, dass es lustig ist, sondern auch, dass es wichtig ist. Es ist ein mediales Ereignis. Es gibt Untersuchungen von ETH-Forschern, die noch in Detail darauf kommen. Aber ich nehme Ihren Appell zum Pragmatismus entgegen und leite darüber, wie die Energiestrategie genau aussieht, was wir mit dem Stromgesetz schon beschlossen haben und wie beim Ausbau von erneuerbaren Energien die Führung gemacht werden soll. Das ist unser Erklärvideo dazu.
+
+Person1 [0:11:45 - 0:11:51]:
+2017 sagte das Schweizer Stimmvolk Ja zur Energiestrategie.
+
+Person1 [0:11:51 - 0:11:57]:
+Diese sieht einen schrittweisen Ausstieg aus der Kernenergie und den Ausbau erneuerbarer Energien vor.
+
+Person1 [0:11:59 - 0:12:26]:
+Sieben Jahre später, 2024, sagte das Stimmvolk zudem deutlich Ja zum Stromgesetz. Darin sind konkrete Ausbauziele für die Erneuerbaren festgehalten. Bis 2050 müssen mind. 84,2 TWh Strom aus erneuerbaren Energiequellen, wie bei den Strom- und Elektroenergie-Fachkräften,   für Wasser-, Wind- oder Sonne produziert werden. Damit soll die Schweiz im Jahr 2050 ihren Strombedarf decken.
+
+Person1 [0:12:29 - 0:12:34]:
+Deshalb gelten u.a. für 16 Wasserkraftwerke erleichterte Planungsbedingungen.
+
+Person1 [0:12:35 - 0:12:50]:
+Das Parlament möchte den Ausbau der Erneuerbaren rascher vorantreiben und berät aktuell den sog. Beschleunigungserlass. Demnach sollen Bewilligungsverfahren für grosse Wind-, Solar- und Wasserkraftanlagen gestrafft und damit nicht erledigt werden. Die Erneuerbaren werden kürzer.
+
+Person1 [0:12:51 - 0:13:00]:
+Zudem diskutiert das Parlament darüber, ob und wenn ja, wie das Beschwerderecht bei grossen Kraftwerken von nationaler Bedeutung eingeschränkt werden soll.
+
+Person8 [0:13:03 - 0:13:21]:
+Wenn wir über erneuerbare Energie sprechen, kommen wir aktuell um einen Begriff, nicht um einen Beschleunigungserlass. Sie haben es vorhin schon etwas angedeutet. Bei grossen Energieanlagen stehen sie teilweise bis zu 20 Jahre und darüber. Da muss man auf die Tube drücken. Wie denn?
+
+Person10 [0:13:21 - 0:14:02]:
+Wir müssen das umsetzen, was bereits möglich ist. Wir haben es etwas verpasst. Viele Projekte sind länger, z.B. bei Konzessionen oder bei der Vorwärtsarbeit der Kantone. Es ist keine Verbandsbeschwerdediskussion. Wir müssen schnell, aber mit einer gewissen Sorgfalt vorwärtsgehen. Was ich sage, ist, dass es eine große Chance gibt, sofort zu gehen. Dort, wo wir Dächer, Fassaden, z.B. mit Solarbestücken oder Infrastruktur bauten, hätten wir so viele Chancen. Dort machen auch die Kantone vorwärts. Dort könnten wir sofort bauen.
+
+Person8 [0:14:03 - 0:14:34]:
+Sie brauchten ein Wort, worauf ich eingehen möchte. Verbandsbeschwerderecht. Bei Ihnen gehört zu Schweiz und unserem Rechtsstaat, dass man als Verband ein Beschwerderecht wahrnehmen kann. Die Angst vor Umweltschutzorganisationen wie WWF oder Pro Natura oder Birdlife ist ... Mit dem Verbandsbeschwerderecht kann einzig verlangt werden, dass die geltenden Gesetze eingehalten werden. An diesem Recht zu sägen, ist höchst bedenklich und rechtsstaatlich problematisch. Sie sind ja aus einer Partei, die die Demokratie gerne hochhält. Aber hier weniger.
+
+Person5 [0:14:34 - 0:15:30]:
+Absolut. Ich möchte zuerst noch kurz darauf sprechen, was Talin Trede gesagt hat. Sie sagte, die Kantone hätten verschlafen. In ihrem Kanton, Grimsau, 20 Jahre ... Mehr als 20 Jahre, als man auf Grimsau ... ... muss.  Es war eine hohe Klausur, dass man sich erhöhen kann. Es war am Schluss ein Verbandsbeschwerderecht. Es waren wenige, die das verhinderten. Das ist bei der Rechtsstaatlichkeit so. Wir hatten letzte Jahr eine Abstimmung. Ich war beim Stromgesetz. Aus einem Grund. Die 16 Projekte. Wir haben eine Winterstromlücke von 10 TWh. Die 16 Projekte würden 2 TWh Strom in Zukunft bringen. Wenn wir davon ausgehen, dass Beznau noch abgestellt wird, 20, 32, 33, brauchen wir den Strom. In diesem Erlass war viel Schlechtes drin. Und jetzt ... Jetzt geht es genau darum, zu sagen, das Volk hat bestimmt den Strom. Das Volk steht in dieser Frage bei den 16 Projekten ganz klar über dem Verbandsbeschwerderecht. Demokratiepolitisch absolut korrekt.
+
+Person10 [0:15:31 - 0:16:40]:
+Darf ich etwas dazu sagen? Es ist so, dass man mit den 16 Projekten ... ... in diesem Sinne hochgehängt hat. Wenn ein Gericht entscheiden muss, ob sie im öffentlichen Interesse sind oder höher gewichtet sind, sind die Erfolgschancen auf einen Beschwerden kleiner. Aber das Wichtige ist, dass wir für dieses Jahr zusammengekämpft haben. Bis und mit Bundesrat Albert Rösti. Und genau weil wir darüber diskutiert haben. Ich muss schnell sagen, was im Abstimmungsbüchlein stand. Das mit der Annahme von Projekten für die Wasserkraftwerke. Ins Gesetz ist deren Überprüfung durch Gerichte eingeschränkt. Und zweitens, die Beschwerdemöglichkeiten von Privaten und Verbänden bleiben aber bestehen. Das ist das, was im Abstimmungsbüchlein stand. Das ist das, was im Abstimmungsbüchlein stand. Das ist das, was wir der Bevölkerung versprochen haben. Darüber haben wir abgestimmt. Und jetzt geht es um zwei Projekte von diesen 16. Man muss das nicht noch viel grösser tun. 14 sind unbestritten. Aber dass man mit gewisser Sorgfalt hier vorgeht, dass man der Rechtsstaat achtet und schnell vorwärtsgeht. Am schnellsten geht es einmal an den Tisch. Da müssen wir demokratiepolitisch sauber bleiben.
+
+Person6 [0:16:41 - 0:17:07]:
+Diese Projekte sind nicht aus dem Nichts entstanden. Sie sind im Kurs des Runden Tisches, an dem alle beteiligt sind. Man hat sich dann auf gewisse Projekte geeinigt, die wahrscheinlich nicht die effizientesten waren für die Stromproduktion. Aber man hat sich auch unter dem Gesichtspunkt des Umweltschutzes auf diese geeinigt. Und dann schon vor der Abstimmung, und ich habe mich sehr stark damit befasst, gingen teilweise schon Beschwerden ein. Und dann hat die Stimmbevölkerung Ja gesagt. Warum haben Sie so viel mit dem?
+
+Person6 [0:17:07 - 0:17:50]:
+Weil ich es unsäglich finde, wenn die Bevölkerung über die Projekte entscheiden kann und man schon vorab die Beschwerden einreicht. Das entscheidet den Volk gewissermassen unter Graben. Und es ist nicht die einzige Möglichkeit, wie man den Rechtsstaat durchsetzen kann. Es gibt auch weitere beschwerdenberechtigte Akteure, und die können das noch etwas vormachen. Gut, die Projekte kommen von dem Runden Tisch, die Leute waren beteiligt. Die Stimmbevölkerung hat sich dafür ausgesprochen. Und ich glaube, da hätte man auch eine Verantwortung dafür. Wir sagten, die Projekte kommen, und der Beschleunigungserlass ... Das ist schon relativ lang im Parlament, dass man eine Beschleunigung nennt. Aber man hat eine gewisse Verantwortung, um die Projekte über die Zeilinge zu bringen. Darum muss das Verbandsbeschwerderecht in den 16 Projekten, bei denen ich jetzt trage, auch ... Ich möchte schnell die Leute mitnehmen und erklären,
+
+Person8 [0:17:48 - 0:18:34]:
+wenn wir schon beim Verbandsbeschwerderecht sind. Wir hatten eine Entwicklung vor der Sendung. Sie sind wahrscheinlich einverstanden damit, was die Umweltkommission vom Ständerat entschieden hat. Aber zu Beginn, Gabriel Sutter, wenn es nach dem Nationalrat geht, soll beim Verbandsbeschwerderecht ein Beschwerde nur noch gültig sein, wenn sie von drei oder mehr ... ... von drei oder mehr Organisationen mitgetragen wird, damit Hürden für grosse Anlagen von erneuerbaren Energien tiefer sind. Und was sagt heute die ständerätliche Umweltkommission? Wir zeigen es hier. Umsetzung unverzichtbarer Wasserkraftprojekte sicherstellen. Was das auf Deutsch heisst, konnte man in einer Medienmitteilung lesen. Es steht ganz am Anfang schon.
+
+Person8 [0:18:35 - 0:18:55]:
+Die Energiekommission des Ständerats hält daran fest, die 16 Wasserkraftprojekte des Stromversorgungsgesetzes so schnell wie möglich umzusetzen, soweit so gut. Aber sie sollen deshalb vom Verbandsbeschwerderecht ausgenommen werden. D.h., der Ständerat, die Kommission, fährt die harte Linie, im Gegensatz zu dem, was der Nationalrat mit den drei Organisationen sagte.
+
+Person8 [0:18:55 - 0:18:57]:
+Es kann die Fassade sein, Frau Sutter, oder?
+
+Person9 [0:18:57 - 0:20:20]:
+Ich bin sehr enttäuscht, weil wir jetzt in der Differenzbereinigung sind. Eigentlich geht es darum, zusammen noch einen Kompromiss zu finden. Und das heisst nicht, jemanden über den Tisch zu ziehen, sondern es heisst, dass beide Seiten einander entgegenkommen müssen. Das, was jetzt gespielt wird, ist Powerplay. Da kann ich persönlich ... Das finde ich sehr enttäuschend. Ich hoffe, es kommt noch anders. Wir können das in der Sommersession noch einmal drehen. Letztlich geht es ja nicht ... Vorher wurde gesagt, wir hätten einen Volksentscheid mit dem Stromgesetz wegen diesen 16 Projekten. Das war nicht die Baubewilligung, die die Bevölkerung in diesen Projekten ... Die Projekte sind teilweise noch sehr, sehr vage. Das geht beim Verbandsbeschwerderecht nur darum, der Natur eine Stimme zu geben, eine Anwältin von der Natur zu sein und zu überprüfen, ob das geltende Recht eingehalten wurde. Es kann immer sein, dass mal Fehler passieren, dass etwas gegen das geltende Recht verstösst. Da finde ich es legitim, dass man an dem festhält. Ich wäre sehr froh, dass wir jetzt mit den drei legitimierten Organisationen  dass man hier die Kombination macht
+
+Person9 [0:20:20 - 0:20:24]:
+und die Beschwerden entsprechend gut abspült.
+
+Person8 [0:20:24 - 0:20:38]:
+Sie sprechen von einem Powerplay. Sie wären soweit einverstanden, wie es der Nationalrat sieht, mit den drei Organisationen, die es mindestens bräuchte, um solche Beschwerden mitzutragen. Würden Sie das auch schlucken, Frau Trédé?
+
+Person10 [0:20:38 - 0:20:56]:
+Gut, jetzt hat die Minderheit dafür ... Ich würde es anlegen, dass es im Plenum im Ständerat noch darüber abgeschoben werden kann. Das ist ein Fraktionsgespend von mir. Ich denke, wir würden diesen Krott schlucken. Aber man darf nicht vergessen ...
+
+Person8 [0:20:56 - 0:20:57]:
+Warum ist es für Sie ein Krott?
+
+Person10 [0:20:57 - 0:22:30]:
+Es ist eine extreme Einschränkung des Verbandsbeschwerderechts. D.h., es müssen drei Organisationen sein. D.h., für diese 16 Projekte kann man sagen, es ist gegessen. Ich möchte ... Ich möchte noch etwas zu diesen 16 Projekten sagen. Sie haben es richtig gesagt. Wasserkraftprojekte. Wasserkraftprojekte. Diese an diesem runden Tisch. Man hat darüber diskutiert. Man hat aber auch gesagt, man lasse das Beschwerderecht, weil man nicht über die Projekte, die schon vorliegen, die noch keine Umweltverträglichkeitsprüfung und keine der Organisationen, an denen die Beschwerden geschlossen wurden, beschwert. Das möchte ich noch sagen. Zum Verbandsbeschwerderecht. Das ist seit 1967. Das kennen wir. Das ist eine große Veränderung. Man muss nur wahren, ob es richtig ist, gesetzlich. Das entstand damals aus grossen Umweltzünden. Es war damals eine bürgerliche, liberale Vorlage. Man hat es schon revidiert. Man hat es auch schon eingeschränkt. Die Bevölkerung hat auch schon mehrmals dazu ganz klar Ja gesagt, dass man das will. Darum reden wir jetzt wieder darüber, anstatt zu sagen, wie man das trifft. Das ist eines dieser Projekte, bei denen eine Beschwerde hängig ist. Bei mir im Berner Oberland. Wie können wir das so schnell wie möglich umsetzen? Die Grüne Fraktion im Grossrat. Alle haben Ja gesagt. Gut, an was liegt es jetzt? Was fehlt? Setzen wir um, bauen wir, dann geht es los. Das müssen wir diskutieren. Wir machen das, indem wir alle an einen Tisch holen, schauen, dass alle zufrieden sind, dass wir eine schöne Landschaft haben. Das wollen die Tinnen auch, Herr Gietz und andere. Und dann können wir es umsetzen.
+
+Person5 [0:22:30 - 0:23:32]:
+Absolut. Das möchte ich. Das Verbandsbeschwerderecht kann ich vorwegnehmen. Das ist ein alter Zopf. Beim Weltsterben hat man das noch verschärft. Das sollte man schon lange abschaffen. Es ist eine Verhinderungspolitik, die hier stattfindet. In Brietzen. Sie reden nur formaljuristisch. Wie sollte man einen Kompromiss im Nationalrat haben? Sie sollten den grossen Horizont sehen. Ich sagte, 10 TWh fehlen. Mit dem Erlass, den wir hier haben, haben wir 5 TWh, die wir im Import haben. Es fehlen immer noch 5. Wir dekarbonisieren, wir brauchen Energie. Im schlimmsten Fall, wenn wir diese nicht realisieren, und z.B. in Skornerli 20-30 Poulben geben ... Wenn es 20-30 Poulben gibt, 20-35 Poulben wären fertig. Wenn wir diese nicht realisieren, haben wir eine Energiemangellage, die wir schon erlebt haben. Das ist die Verantwortung auf eurer Seite. Jetzt müssen wir, wie wir es 100 Jahre ago pionieren mussten, zumindest 2 TWh zubauen. Sonst wird die Energiestrategie noch viel schneller feilgelegt. Denn im Winter haben die Solare nicht mehr. Ich glaube, es geht um die Versorgung der Bevölkerung, dass wir Strom im Winter haben.
+
+Person8 [0:23:32 - 0:23:35]:
+So viel zum Thema Kompromissfehler.
+
+Person9 [0:23:35 - 0:23:50]:
+Wir sind an einem Tisch. Sehen Sie den noch? Die schöne Zahl 2 TWh. Wenn ich in das Jahr 2024 hineinschaue, wurde die Solarenergie genau in diesem Umfang zugebaut. Nur in 2021, 2024. Ganz konkret, jeden Tag werden Kilowattstunden zugebaut.
+
+Person9 [0:23:50 - 0:24:17]:
+Da muss man nicht über neue AKWs reden, die irgendwann in 25 Jahren ins Netz einspeisen werden. Diese 2 TWh ... Ich finde es wichtig, dass die 16 Projekte Wasserkraft realisiert werden. Aber das allein genügt auch nicht. Man muss einfach diversifizieren, wie überall, aber mit erneuerbaren Energien.
+
+Person10 [0:24:17 - 0:25:16]:
+Wenn er uns sagt, wir sollten den Grosshorizont haben, nehmen wir doch mal den Grosshorizont. Energiemangel-Anlage hatten wir bis jetzt keine. Es wird immer knapp gegen Ende Februar, März, das wissen wir, aber auch gewollt. Das sagt der Herr Lüthi vorhin auch. Wir haben eine Importstrategie im Winter. Diese wollte man so, weil man billige Atomströme importieren und dann als teuren Wasserstrom verkaufen konnte. Was haben wir letzten Winter gesehen? Aktuell sind die Stolzehen auf einem so tiefen Pegel schon lange nicht mehr. Die Energieunternehmen haben richtig fette Gewinne gemacht. So im November, als es nicht so viel Wind gab, wie man dachte. Und dann konnten wir als Schweiz teuren Wasserstrom verkaufen. Jetzt sind die Stolzehen ganz tief in die Pegel. Wenn Sie von einem Energiemangel-Anlage sprechen, Herr Gierzadanner, das heisst, dann müssten wir dort als Reserven das Wasser haben. Dort hat er nicht geholfen. Dann nehmen wir Wind.
+
+Person10 [0:25:17 - 0:25:38]:
+80 % der ganzen Beschwerden, zum Beispiel im Kanton Zürich, es wurden 5'000 Beschwerden eingereicht, nur auf einer Vorlage, die vom Regierungsrat kam, wo man Wind planen könnte. Es sind 80 % aus SVP und SVP-Nähkreisen gekommen. Dort müssen wir uns finden. Dort geht es auch darum, den Strom und alles, was fehlt, zusammen auszubauen.
+
+Person5 [0:25:38 - 0:25:44]:
+Es ist nicht sympathisch, was das ist mit der Energie. Wir müssen heute wissen, PV ... Was ist genau sympathisch?
+
+Person5 [0:25:44 - 0:26:25]:
+Dass sie es verkaufen, dass es locker geht mit Wind und PV. Aber man muss wissen, Solar im Winter defizient sehr tief. Das ist physikalisch, weil die Welt anders geneigt ist, zu 23,5 % oder Grad. Wir müssen den Strom im Winter bekommen. Das könnt ihr nur mit Speicher, oder mit der Batterie oder mit Speicherstahl sehen. Ich bin gespannt, was ihr für ein Rezept habt. Jetzt müssen wir wissen, dass die Markenpreise des PV heute in Minus waren, während sechs Stunden. Sie machen mit dem Zubau, obwohl das schön ist, aber der Zubau funktioniert nicht in unserem System. Wir brauchen die Bandenergie, die im Winter und im Sommer da ist. Wir brauchen keinen Flatterstrom. Wir fahren voll in die Sackgasse mit dieser Strategie.
+
+Person8 [0:26:25 - 0:26:28]:
+Sie sind schnell weg vom Verbandsbeschwerderecht.
+
+Person10 [0:26:28 - 0:26:31]:
+Das ist gut so.
+
+Person8 [0:26:30 - 0:26:42]:
+Ich möchte noch den angehenden Juristen zunehmen. Und das nicht umsonst, Jonas Lüthi. Wir haben es von den Umweltschutzorganisationen gehört. Sie sehen das als rechtsstaatlich problematisch an. Machen Sie nicht einfach beide Augen zu?
+
+Person6 [0:26:42 - 0:28:09]:
+Nein, definitiv nicht. Ich bin ein Freund des Rechtsstaats. Es ist auch wichtig, dass gewisse Möglichkeiten bestehen, um gegen so ein Projekt vorzugehen. Es bleibt auch bestehen, z.B. für Private, bei entsprechendem Interesse usw. Dass der Gesetzgeber berechtigterweise macht, dass er eine Interessenabwägung vornimmt. Aus den genannten Gründen brauchen wir diesen Strom. Darum ist es wichtig, dass das Verbandsbeschwerderecht allein bei den 16 Projekten entfällt. Man kann grundsätzlich darüber diskutieren. Es gibt eine Standesinitiative aus dem Kanton St. Gallen. Ich finde es richtig, wenn man das gesondert anschaut. Aber es ist korrekt, dass der Gesetzgeber sagt, dass die Projekte über die Ziellinie kommen. Und ... Wir reden hier ... ... von dem Erlassen, der Beschleunigung usw. Die Beschleunigung funktioniert nicht, wenn man allen Massnahmen, die beschleunigen würden, zehn zieht. Vorher hast du von den drei Verbänden gesprochen. Ich bin überzeugt, es finden sich immer drei Verbände, die Beschwerden machen. Wirklich immer. Wenn man das macht, ändert man nichts daran. Dann geht es einfach in die Jahre, bis man die Projekte über die Ziellinie bringt. Letzter Punkt. In der Botschaft des Bundesrats stand, dass es 20 Jahre dauert, bis man sie realisieren kann. Das ist doch kein Zustand. Sie stehen in der Verantwortung, dass die Projekte, die die Stimmbevölkerung abgestimmt hat, über die Ziellinie gebracht werden.
+
+Person8 [0:28:09 - 0:28:09]:
+Was stimmt nicht?
+
+Person10 [0:28:11 - 0:29:12]:
+Ich kann nicht einfach sagen, dass sich drei Organisationen immer finden. Der Punkt ist, dass niemand das Interesse daran hat, dass man so einen Bau verhindert. Wenn man solche Beschwerden macht, heisst das, es ist irgendetwas an diesem Projekt nicht zu verhindern. Es ist nicht gut. Wenn man z.B. Umweltverbände oder andere Expertinnen ... Es geht ja nicht nur um Umweltverbände. Wenn man diese vorher an einen Tisch hält, nehmen wir Lindlimmeren. Das ist ein Wasserkraftprojekt. Dort hat man alle von Anfang an einen Tisch genommen. Es gab keine einzigen Beschwerden. Es ist gebaut. Wir sind es angeschaut. Und es funktioniert. Es geht nicht darum, dass die Organisationen weh beschweren. Es werden zwei Drittel Gewinne sein. Das heisst, es war an diesem Projekt etwas nicht legal. Es ist nicht legal.  Es war nicht gesetzeskonform. Darum kann ich sagen, dass man E3 findet. Es geht nicht darum, zu verhindern. Es geht darum, dass man mit einer gewissen Sorgfalt für unsere Landschaft, die wir alle schön finden und schützen will, sauber bleibt.
+
+Person8 [0:29:12 - 0:29:27]:
+Um nochmals zurückspulen in dieser Sendung. Ich habe Sie gefragt, ob Sie die Krott schlucken würden. Sie sagten ja, wenn es bei den drei Organisationen bleiben würde, die den Beschwerden einreichen müssten. Das ist der Vorschlag der Nationalrat. Jetzt haben wir aber seit heute Abend die Erkenntnis,
+
+Person8 [0:29:28 - 0:29:40]:
+dass die ständerätliche Kommission hart bleiben will und das Verbandsbeschwerderecht bei den 16 Planen der Wasserkraftprojekte ganz streichen will. Jetzt kommt die Rednerfrage. Referendum ja oder nein?
+
+Person10 [0:29:40 - 0:30:09]:
+Wie Frau Sutter sagte, werden wir als Erstes versuchen, dass es wieder auf die nationalrätliche Version kommt. Wir haben hier eine Minderheit. Der Ständerat wird darüber abstimmen. Dann kommt es wieder zu uns in die Kommission des Nationalrats. Dort werden wir hoffentlich festhalten. Dann werden wir einen Kompromiss finden. Es ist im Moment, wie Herr Egg sagte, nur ein Powerplay. Es geht darum, wer die Kommission ist, die sagen konnte, wie es genau heisst. Hörte ich die Antwort nicht?
+
+Person5 [0:30:08 - 0:30:19]:
+Wenn es so ist wie der Ständerat, möchte ich die Antwort hören. Macht das Referendum und gefährdet die Strategie. Wieso? Das wollte ich nicht hören.
+
+Person10 [0:30:16 - 0:30:23]:
+Wir werden uns dafür einsetzen, dass es die nationalrätliche Version gibt.
+
+Person5 [0:30:23 - 0:30:24]:
+Also im Zwischenreferendum, richtig?
+
+Person10 [0:30:25 - 0:30:29]:
+Nein, das sage ich hier nicht. Herr Gietzentanner ...
+
+Person8 [0:30:30 - 0:30:43]:
+Sie haben möglicherweise Moderatoren-Qualitäten.  Er steht immer in der Mitte und stellt die gleichen Fragen wie Sie. Sie hofft immer noch auf einen Kompromiss. Ich hoffe nicht, ich arbeite daran.
+
+Person10 [0:30:41 - 0:30:48]:
+Wir müssen einen Kompromiss finden. Die Frage ist, ob wir da kompromissbereit sind.
+
+Person8 [0:30:44 - 0:30:51]:
+Glauben Sie, die FDP ist da kompromissbereit?
+
+Person6 [0:30:51 - 0:31:12]:
+Letztlich ist ... Sie streiten sich hier ein bisschen. Letztlich ist alles gut. Es ist absolut zentral, dass man einen Kompromiss findet. Aber auch eine Vorlage. Sich auf eine Vorlage einigen, die dann zählen und beschleunigen. Die ständerätliche Kommission hat sich schon etwas bei diesem Beschluss gedacht. Es ist doch selbstverständlich. Es ist schon so, dass die drei Verbände ... Ich bin noch ein wenig überzüglich.
+
+Person10 [0:31:12 - 0:31:17]:
+Das Referendum verlangsamt das auch. Wir müssen schaffen, dass wir kein Referendum machen.
+
+Person6 [0:31:17 - 0:31:21]:
+Aber das Referendum ergreifen wir ja.
+
+Person10 [0:31:19 - 0:31:24]:
+Wenn man einen Kompromiss macht, dann schaffen wir es.
+
+Person6 [0:31:24 - 0:31:29]:
+Aber Sie sagen, der Kompromiss sei genau das, was Sie wollen. Nein.
+
+Person10 [0:31:28 - 0:31:44]:
+Von dem, was ich will, reden wir schon lange nicht mehr. Das wäre, dass man das Verbandsbeschwerdenrecht lässt, wie es ist, wie es die Bevölkerung angenommen hat. Wenn man drei Organisationen hat, ist das eine riesige Einschränkung. Das wäre der Kompromiss, von dem wir bereit wären.
+
+Person8 [0:31:44 - 0:31:48]:
+Auch die SP würde mit tragen, wenn ich das richtig verstanden habe.
+
+Person10 [0:31:48 - 0:31:48]:
+Ja, wir haben das auch ausgesprochen.
+
+Person8 [0:31:49 - 0:31:54]:
+Wie zuversichtlich sind Sie bei aller Zuversicht, in Ehren von Aline Drede, dass man da noch zugange kommt
+
+Person8 [0:31:55 - 0:31:59]:
+und nach dem Powerplay zu einem Kompromiss kommt?
+
+Person9 [0:31:55 - 0:32:19]:
+Ich glaube, es ist einfach zu früh, um hier definitiv etwas Kommunikation herauszuholen. Ich habe nicht an mir, ein Referendum für die Partei anzukündigen. Ich denke, Sie versuchen es, wenn Sie schon nichts sagen. Ich will einfach noch einmal erwähnen, dass das Verbandsbeschwerderecht eigentlich da ist. Es geht darum,
+
+Person9 [0:32:20 - 0:32:55]:
+Dass man überprüfen kann, ob die Vollzugsbehörden, also die Behörden in den Kantonen, ein Projekt rechtmässig abgesegnet haben. Und nur dann greift das. Es fragt sich, ob man das Verbandsbeschwerderecht abschafft. Dann muss ja irgendjemand andere die Aufsicht übernehmen über die Vollzugsbehörden. Das kommt natürlich je nachdem. Ich glaube, das ist eine sehr wichtige Sache.  Das könnte auch eine Bundesbehörde machen. Das könnte das BAFU kontrollieren. Aber ohne jegliche Aufsicht geht es einfach nicht.
+
+Person8 [0:32:56 - 0:33:35]:
+Sie haben etwas Richtiges gesagt. Man muss darüber nachdenken und auch hinterfragen. Der Natur eine Stimme geben. Die Frage ist, und das höre ich in jeder Energie-Arena, wie fest natur- und umweltschützende Energiewende mit Einsprachen blockiert wird. Oder wie es der Bundesrat und Energieminister Albert Rösti gesagt haben, beim Ausbau der Winterstromproduktion,  geht es nicht vorwärts. Praktisch alle zukunftsgerichteten Wasser- und Windkraftwerke werden durch Beschwerden verzögert, ebenso alpine Solaranlagen. Da frage ich Sie noch mal, Frau Sutter. Sie sind einem Vorstand von Swiss Solar, einem Fachverband für Solarenergie. Hand aufs Herz. Wie fest nerven Sie diese Einsprachen?
+
+Person9 [0:33:37 - 0:34:28]:
+Es geht nicht darum, ob es mich persönlich nervt oder nicht, wenn jemand Beschwerden macht. Aber es muss einfach vorwärtsgehen. Man muss von Anfang an sagen, dass man die Leute ins Boot holen kann. Man muss rechtmässige Projekte planen und umsetzen. So kommt man dann in die Baubewilligung, ohne eine lange Verzögerung. Aber wer blockiert? Das sind doch auch die Leute, die sagen, dass man wieder neue AKWs planen muss. Das führt zu einer enormen Planungsunsicherheit, auch in der Energiewirtschaft. Wenn man nicht weiss, woher man in den nächsten Jahren die Investitionen machen soll, dann muss man sich nicht mehr auf die Investitionen fliessen. Da lenkt man ein wenig ab, wenn man sagt, die Umweltverbände seien Verhinderer.
+
+Person5 [0:34:29 - 0:35:01]:
+Ich möchte zum Kompromiss zu sprechen sagen, wenn wir den Beschleunigungserlass haben. Der Solarexpress, den man verlängert hat, der völlig in die falsche Richtung geht, ist schon bei diesem Erlass durchgekommen, über den wir jetzt diskutieren. Den Kompromiss hat man schon gemacht. Die Kernkraft ist in diesem Erlass nicht die Frage. Die Frage ist, wenn man voraussieht, ob man auf dem steinigen Weg ist, wenn man gerüstet ist, wenn der Turnschuh aufgeht und es nicht mehr so vorwärts geht, dass man sagen kann, man könne jetzt planen und wieder Kernkraft zubauen. Die Rechnung ist ganz einfach. Man hat einfach zu wenig Power im Winter. Das kann man nicht lösen.
+
+Person8 [0:35:02 - 0:35:12]:
+Würden Sie auch, Jonas Lüthi, als Präsident der Jungfreisinnigen, so wie Gierzodan als Verbandsbeschwerde recht durch den Schredder durchlassen? Das habe ich schon richtig verstanden.
+
+Person5 [0:35:13 - 0:35:22]:
+Ich habe eine Initiative gemacht. Ich finde, das war immer nur für die Hinderungspolitik. Doris Fiala von der FDP hat das auch gemacht. Sie war mir immer sympathisch. Ich würde das sofort wieder unterschreiben.
+
+Person6 [0:35:23 - 0:36:13]:
+Die Frage lässt sich dahingehend beantworten, dass es eine Standesinitiative aus St. Gallen gibt, dass man das dort vertieft anschaut. Das ist richtig. Es ist eine unterschiedliche Situation bei diesen 16 Projekten. Vorher hiess es «Stimme von der Natur». Die Projekte kamen vom runden Tisch. Dort sass die Stimme von der Natur am Tisch. Jetzt ist man in der Phase, in der es diejenige Beschwerde gibt gegenüber den Projekten, die das Volk darüber abgestimmt hat. Es gibt nach wie vor eine Umweltverträglichkeitsbriefung. Es gibt auch nach wie vor Akteure, die beschwerdeberechtigt sind. Wenn Sie beschleunigen wollen, und das reden nicht alle in dieser Runde vorwärts, muss man einen Erlass erlassen, der vorwärts macht, der zehn hat. Darum würde ich Sie aufreifen. Ich weiss, Sie sind gut befriendet mit den Verbänden, die die Beschwerden erlösen. Aber zeigen Sie zehn im Sinne der Energiewende.
+
+Person10 [0:36:13 - 0:36:31]:
+Der berufliche Landesschutzpräsident ist von der FDP. Er ist Kurt Fluri. Das kennt ihr vielleicht besser als ich. Nur schnell zu dem. Es bringt wie nichts. Wie lange reden wir genau über das? Mit den 16 Projekten, die die Bevölkerung gesagt hat ...
+
+Person8 [0:36:30 - 0:36:33]:
+Sie sagen immer, worüber Sie nicht reden wollen. Worüber wollen Sie reden?
+
+Person10 [0:36:34 - 0:37:18]:
+Ich möchte darüber reden, wie wir es schaffen. Das schaffen wir, indem wir alle an den Tisch holen. Das ist das A und O. Ich verstehe es nicht, warum wir das nicht wollen. Die Standesinitiative St. Gallen wurde von unserer Kommission angenommen. D.h., es wird noch weitergehen. Aber in dieser Zeit haben wir immer noch nichts gebaut oder nicht vorwärtsgemacht mit der Solarenergie, die nicht so fest bestritten wäre. Ich möchte darüber reden, wie wir es schaffen, zu sagen, Sie seien verhindert, Sie seien befreundet mit ihnen. Logisch, die eine ist SP-Nationalrat, die andere ist von der FDP. Das hat nicht mal jemand bestellt. Das ist Heider Schüttl, oder?
+
+Person10 [0:37:19 - 0:37:40]:
+Nein, Martina Munz ist die Präsidentin von Aquaviva, die noch hängende Beschwerden beim Driftprojekt hat. Sie ist aber ganz klar bereit, zu sagen, dass wir das gut anschauen können, auch wenn der Beschleunigungserlass besser ausgesehen wird, damit wir die Beschwerden zurückziehen. Es ist eine sehr grosse Kompromissbereitschaft.
+
+Person10 [0:37:40 - 0:38:19]:
+ Was ich auch noch glaube, es würde helfen, wenn vom Bundesrat ein bisschen mehr Leadership gekommen wäre, wenn man mal alles anschaut. Das ist die Schweiz. Wir haben auch gesehen, dass alpine Solaranlagen sehr erfolgreich sind. Dort, wo die Bevölkerung ja sagen kann, wo es schon Installationen gibt, wie Skiliften, oder wo es auch schon Strassen gibt, wo man es gut bauen kann, kommt es bei der Bevölkerung durch. Andererseits ist es schwierig. Dann schaut man und sagt, okay, wir brauchen die zwei Terrarstunden, hier und hier und hier bauen wir, aber hier lassen wir wirklich Wildnis oder Nationalpärche stehen.
+
+Person8 [0:38:19 - 0:38:29]:
+Jetzt haben Sie so schön allseits die Hand ausgestreckt und trotzdem noch eine unten durch am Energieminister ins Knie gehauen, indem Sie ihm mangelnden Leadership unterstellt haben. Haben Sie das richtig verstanden? Nein.
+
+Person10 [0:38:29 - 0:38:30]:
+Wann haben Sie gesagt, der Bundesrat habe kein Leadership?
+
+Person10 [0:38:31 - 0:38:33]:
+Für die Gesamtbundeswehr.
+
+Person10 [0:38:33 - 0:39:19]:
+Wenn es um die Energieversorgung geht, ist es eine Sicherheit. Dort gehe ich einig. Das ist eine Sicherheitsfrage. Ein Blackout ist auch in jedem sicherheitspolitischen Bericht die grösste Gefahr. Es ist nicht so lustig, wenn man in so etwas hineinläuft. Das ist die grösste Gefahr für unser Land aus sicherheitspolitischer Sicht. Aber wir müssen eine Gesamtstrategie haben und diese dann auch verfolgen. Dort verzetteln wir uns im Moment. Natürlich kommen wir zu verschiedenen Initiativen, die völlig legitim sind. Aber dort würde ich sagen, dass wir uns für die Zukunft des Bundesrates mehr Leadership wünschen. Bezüglich des Beschleunigungserlases kämpfe ich mit ihm auf der gleichen Seite. Er will auch kein Referendum, das er wieder verliert.
+
+Person8 [0:39:19 - 0:39:26]:
+Finden wir uns in dieser Runde, dass man sagt, mehr Leadership vom Gesamtbundesrat? Oder hört es hier auch schon wieder auf?
+
+Person5 [0:39:26 - 0:39:49]:
+Einerseits die Strategie, die Sie finden wollen. Sie haben 2017 verabschiedet, die ist in Brüche gegangen, das sehen wir jetzt. Es ist nicht mehr der Bundesrat, der entscheidet. Es ist so, dass das Volk letztes Jahr entschieden hat, dass wir dieses Projekt machen. Dem sollte die Politik folgen, wenn es eine Mehrheit von fast 70% war. Das Volk sagt, wir wollen das. Jetzt sollten wir es realisieren, weil der Chef von uns ist nicht der Bundesrat.
+
+Person8 [0:39:50 - 0:41:08]:
+Ich möchte zum nächsten Block kommen und darüber reden, wer hätte gedacht, dass nach Fukushima, der Reaktorkatastrophe 2011 in Japan, die Kernenergie wieder en vogue werden würde. Auch wenn das Tal in der Rede gleich bezweifelt wird. Oder schon gemacht hat. Plötzlich haben Wörter wie Strommangellage die Runde gemacht und der Krieg in der Ukraine kam. Parallel dazu wurden Unterschriften für eine Volksinitiative gesammelt mit dem Titel «Jederzeit Strom für alle. Blackout stoppen!» Mit dem Text «Die Stromversorgung muss jederzeit sichergestellt sein. Der Bund legt dafür die Verantwortlichkeiten fest. Die Stromproduktion hat Umwelt- und Klimaschonung zu erfolgen. Alle klimaschonenden Arten der Stromerzeugung sind zulässig.» Darüber werden wir an der Urne sehen. Wir werden abstimmen und damit über die Frage, ob auch der Bau von neuen AKW wieder zulässig werden soll. Mit seinem Gegenvorschlag macht der Bundesrat die Türe dort schon mal ziemlich weit auf. Er, der Bundesrat, lehnt die Volksinitiative ab, will mit dem Gegenvorschlag aber das Kernenergiegesetz anpassen, sodass neue Kernkraftwerke in der Schweiz wieder bewilligt werden können. Gabriela Sutter, hätten Sie es lieber, wenn man dieser Technologie definitiv ein für alle Mal stecken würde?
+
+Person9 [0:41:09 - 0:42:18]:
+Ich glaube, es wäre für die Planungssicherheit wirklich viel sinnvoller. Unsere finanziellen Ressourcen sind beschränkt. Die Energiewirtschaft zeigt unisono, dass neue AKW nur mit staatlichen Subventionen gebaut werden können. Die grossen Stromproduzenten würden das nicht in Angriff nehmen. Wenn man staatliches Geld für neue AKW investieren muss, nur um zu planen, hat man keine Kilowattstunde. Das ist nicht der Fall.  Das ist nicht in den nächsten 20 Jahren. Aber Milliarden würde man schon verplanen und in die Hand nehmen. Dann würde das bei den erneuerbaren Energien auf der anderen Seite fehlen. Da machen wir genau die konkreten Schritte. Jeden Tag bauen wir zu, wie ich es vorhin gesagt habe, und speisen praktisch mehr Kilowattstunden ins System ein. Man sollte auf realistische Technologien setzen. Und nicht irgendwelche Wunder-AKW neuer Generation, die es noch nicht gibt oder die man planen kann. Das ist doch nur ein Luftschloss.
+
+Person8 [0:42:18 - 0:42:27]:
+Wobei ein Luftschloss ... Ich habe ja auch nur sechs Jahre Bauzeit für ein neues AKW. ETH Atomforschersorg und für Zündstoff. Das ignorieren Sie auch?
+
+Person9 [0:42:28 - 0:42:48]:
+Das ist einfach nicht realistisch. Es wäre sehr antidemokratisch, wenn man so etwas durchbringen würde. Nur die Bauzeit. Aber sonst ... Es geht nicht nur ums Bauen, sondern um die ganze Planungsphase. Und Änderungen von Gesetzen. Von daher ist das sicher sehr viel länger.
+
+Person8 [0:42:48 - 0:42:56]:
+Sie wollen lieber Luftschlösser bauen, Jonas Lüthi. Sie haben ja als Jungfreisinnige mitgeholfen, bei dieser Blackout-Initiative Unterschriften zu sammeln.
+
+Person6 [0:42:56 - 0:44:26]:
+Das ist richtig. Der Bundesrat entscheidet auch gut, dass ein Neubauverbot gehalten wird. Der Bundesrat hat eine Verantwortung für die Energieversorgung. In diesem Land. Bei der erneuerbaren Energie handelt es sich um Flatterstrom. Irgendwann scheint dann vielleicht keine Sonne oder so weit kein Wind. Dann hat man zu wenig Energie. Es ist nicht sichergestellt, dass man immer genug Strom importieren kann. Dafür braucht man Bandenergie. Die wird spätestens dann nötig, wenn wir die bisherigen AKWs abstellen. Dann werden sie abgestellt 2032, 2033, spätestens 2040. Dann gehen auch die acht Jahre aus, um etwas Neues zu bauen. Bis dann muss sichergestellt sein, dass die Stromversorgung in der Schweiz funktioniert. AKW ist wahrscheinlich einfach eine Technologie von ganz verschiedenen. Man kann die anderen Technologien gerne weiter ausbauen. Die Planungssicherheit, die Sie angesprochen haben, hatten Sie auch während der letzten Jahre. Aber für die neue Technologie, die momentan in der Schweiz funktioniert, ist es wichtig, dass man quasi die Türen öffnet, dass man anfängt, zu forschen, zu planen. Und eben der lange Teil, das ist die Politik, die das Volksentscheid braucht. Das ist auch wichtig, eine breite Diskussion. Darum reden wir jetzt darüber. Wenn es um die Atomkraft in der Schweiz gehen soll, braucht es einen breiten Konsens. Aber ich würde sagen, es ist absolut notwendig. Aber es hält auch niemand davon ab, im Moment zu forschen. Ja, aber wenn Sie später nichts bauen können, ist die Frage, wieso Sie forschen.
+
+Person9 [0:44:26 - 0:44:40]:
+Man kann forschen. Benjamin Gitzepanner und ich kommen beide aus dem Kanton Aargau. Dort ist die PSI. Dort wird ein Mini-Reaktor zu Übungszwecken aufgebaut. Das ist das Paul-Scherow-Institut, das Sie jetzt sagen.
+
+Person9 [0:44:40 - 0:45:03]:
+Es ist absolut möglich, diese Forschung weiterzuziehen. Ich denke, es ist auch wichtig, dass wir nach wie vor Expertinnen und Experten in der Atomtechnologie haben. Denn wir müssen den ganzen Rückbau meistern. Von den bestehenden AKWs sind immer noch vier rum. Die sind bald am Ende der Lebenstour. Die eine ist schon etwas darüber hinaus. Betzna. Und die zweite ist auch noch ...
+
+Person8 [0:45:03 - 0:45:07]:
+1969, weil sie so alt sind wie ich. Sie sagen, das ist schon darüber. Das ist gut.
+
+Person5 [0:45:10 - 0:45:27]:
+Man muss sagen, Leibstadt, wenn wir zurückschauen ... Das ist Ende der 70er-Jahre, Anfang der 80er-Jahre. Das ist fast das Grösste, was wir in der Schweiz haben. Wir hatten fünf Jahre Bauzeit. Gabriela Sutter, warum sollten wir das heute nicht mehr schaffen? Wir haben andere Technologien. Weil wir andere Rahmenbedingungen haben.
+
+Person5 [0:45:28 - 0:46:51]:
+Aber wir müssen bei der Kernkraft etwas sagen. Es geht um den Bannstrom. Das hat er sehr schön gesagt. Wir müssen offen spielen und sagen, wir brauchen die Kernkraft. Wir haben eine Brückentechnologie. Das werden wir sehen. Die Aargauerinnen und Aargauer wissen das. Wir haben das BIR, ein Gaskraftwerk. Wir werden mehrere Gaskraftwerke brauchen, die massiv CO2 rauslassen, wenn sie laufen. Es ist nicht Wasserstoff, den wir verbräunen. Am Schluss ist es LPG oder LNG, was auch immer reinkommt. Es wird verbräunen und Emissionen generieren. Am Anfang hörten wir, wir wollten auf netto-no kommen. Da verwehren sie sich. Wenn wir die Kernkraft anschauen ... Die Schweiz hat pro Kilowattstufe heute 20 Gramm Ausstoss. Ganz vorne in der Spitze wegen der Wasserkraft und Kernkraft. Wir kommen nicht drum herum. Wir kommen nicht drum herum, wenn wir auf dem Pfad sein wollen. Jeden Tag im Winter, wenn die Sonne nicht scheint, am Morgen um 7 Uhr, wenn sie noch nicht am Himmel oder 5 Uhr ist, sind über 3'000 Megawatt Leistung von den Kernkraftwerken da. Wir brauchen das. Wir haben gar keine Wasserkraft. Das ist das Technische, das ich nie beantworte. Sie sagen immer, wir haben über 1'000 Gigawatt zugebaut im Bereich PV. Aber im Sommer, im Winter haben sie die Leistung nicht. Es geht um Leistung, nicht um Energie. Gabriela Sutter, wie willst du die Leistung, wenn es dunkel ist, bringen, damit wir in die Steckerei tun können, saugen oder am Morgen ein Müsli-Mixer machen?
+
+Person9 [0:46:52 - 0:47:02]:
+Das ist eine direkte Frage an mich. Ich antworte dir gerne. Aber mit einer Gegenfrage. Was machen wir mit den Akku im Sommer?
+
+Person9 [0:47:03 - 0:47:16]:
+Die Akku im Sommer, der Strom ist überflüssig. Was machen wir damit? Ich nehme Sie gerne auf. Es gibt jetzt schon Sommertage, an denen wir alleine decken können mit Solar. Danke, ich nehme Sie gerne auf.
+
+Person5 [0:47:14 - 0:47:46]:
+Kernkraft, Müsliwerk, Kernkraft, Produktion, Gestehungskosten zwischen 5 und 12 Rappen. PV, wenn wir es ohne Backup anschauen, mit Batterien etc., ist aus der Solarenergie, der Sonne, aus der Energie, zwischen 12 und 25 Rappen. Wenn Sie es am Markt verkaufen, wäre es im Bereich Solar ein Riesenproblem, dass die nicht mehr rentabel wäre. Das wollen wir nicht. Das ist das Gute an der Kernkraft. Wisst ihr, was man in Spanien gemacht hat? Man hat Reaktoren runtergefahren, weil man Energie wegnehmen musste. Das kann man bei der Kernkraft. Im Bereich Solar ist das viel schwerer. Da muss man regulieren und abstellen können.
+
+Person8 [0:47:46 - 0:47:48]:
+Es wäre aber auch länger gegangen, sonst wieder hinauffahren, oder?
+
+Person5 [0:47:48 - 0:48:10]:
+Ja, aber wenn der Fall da ist, dass es runterfahren muss, dann fährt das Netz ganz langsam. Aber das ist der Vorteil der Kernkraft. Darum müssen wir die Kernkraft wahrscheinlich subventionieren. Im Sommer haben sich alle Leute die Solaranlagen aufs Dach gegeben. Jetzt will man sagen, dass sie nicht mehr kommen oder man noch bezahlen muss. Das Problem ist, dass wir sagen müssen, dass wir die Kernkraft am Abend regulieren müssen.
+
+Person8 [0:48:10 - 0:48:17]:
+Das war das Aargauer Atom-Redi-Duell. Alle Reden machen wir wieder hoch und gehen ins Bernischen.
+
+Person10 [0:48:17 - 0:50:13]:
+Genau, wir sind schon am Rückbau. Wir schauen es uns an. Es ist in ihrem Zeitplan. Es ist sehr interessant. Das kann ich empfehlen. Es ist nicht so, dass man die AKW braucht, für genau solche Fälle wie in Spanien. Jetzt sagen sie, man müsse runterfahren. Das ist einfach das eine. Was ich sagen muss, ist, es ist anders. Heutzutage braucht man nicht mehr Bandstrom. Es wird sehr viel dynamischere Energieproduktionen geben. Das gibt es jetzt schon. Und dort ist ein Bandstrom für unser Netz ein Problem. Nicht nur im Winter, vor allem im Sommer. Dort haben wir eh schon viel. Wir hatten schon einen Überschuss von Salarenergien. Wir werden noch mehr haben. Das kann man nicht einfach abstellen. AKW, also Atomkraft, ist eine fossile Energie. Es ist eine risikobehaftete Energie. Wenn etwas passiert, ist die Sicherheit unserer Bevölkerung beeinträchtigt. Es ist eine Abfallthematik, die wir nicht gelöst haben. Wir haben bis heute keine Endlager, bei denen wir den Abfall unterbringen könnten. Wir haben viel zu viel Bandstrom. Wir haben eine Abhängigkeit vom Ausland. Wir haben 45 % des Urans aus Russland, das wir in der Schweiz brauchen. Es verhindert die Energiewende, wenn wir wieder auf AKW setzen. Wir werden keine einzige Versicherung finden, die das Ganze versichert. Darum ist der Strom so billig, weil er quersubventioniert ist. Wir werden eine grosse Subventionierung des Bundes müssen, die jetzt schon diskutiert wird. Und die ist nicht so billig. Auch für die Verlängerung der jetzt noch laufenden Atomkraftwerke. Dort haben wir schon eine Diskussion, ob wir sie verlängern wollen. Wir werden auf keinen Fall mehr etwas Neues in diesem Land haben. Die grossen Energieunternehmen haben bis jetzt gesagt, es rentiere sich nicht mehr.
+
+Person8 [0:50:12 - 0:50:43]:
+Das haben Sie noch nicht aufgeführt. Das haben Sie am Schluss gesagt. Das haben Sie, Gabriela Sutter, auch schon gesagt. Ich möchte ein Zitat bringen und zum Jonas Lütti überspielen. Von Antje Kangeisser, CEO von Alpig, einer der vier grössten Stromproduzenten, die gesagt hat, sie baue von Kernkraftwerken. Das löst die Probleme der nächsten 15 bis 20 Jahre nicht. Wir müssen jetzt die Realisierung der vorhandenen Projekte zum Ausbau der Energieproduktion in der Schweiz vorantreiben und uns für das Stromabkommen einsetzen.
+
+Person6 [0:50:43 - 0:51:22]:
+Ich kann schon verstehen, warum sich die Stromkonzerne nicht gerade anstellen, wenn es darum geht, neue Atomkraftwerke zu bauen. Erstens ist es nicht beliebt. Zweitens sind die Rahmenbedingungen derzeit so, dass es wahnsinnig unattraktiv ist. Sie haben keine Rechtssicherheit und keine Investitionssicherheit. Wenn man wirklich über neue Atomkraftwerke reden will, muss man ehrlich sein und sagen, man muss für die Kernkraftenergie den gleichen Spiess schaffen wie für die restlichen Energieträger. Wenn Sie teilweise Solarenergie installieren, wird das subventioniert mit bis zu 60 %. Man kann nicht erwarten, dass man das bei der Kernkraftenergie einfach dem Markt überlassen kann. Wenn man sich die Auslastung der Bandenergie anschaut ...
+
+Person6 [0:51:23 - 0:51:36]:
+Das ist die Auslastung von Kernkraftwerken. Letztlich ist es so, wenn Sie alles andere Geld reintreiben, ist es schon klar, dass es nicht sonderlich attraktiv ist, dort rein zu investieren.
+
+Person6 [0:51:36 - 0:52:20]:
+Aber man muss das als Infrastrukturprojekt sehen. Das braucht es zur Sicherstellung der Versorgungssicherheit. Frau Treden, Sie haben mit den Grünen eine Initiative lanciert, die sogenannte Atomausstiegsinitiative. Wäre diese angenommen worden, hätte man heute noch ein Kernkraftwerk, das am Sonntag ... ... am Netz wäre. Das würde heissen, man hätte ein massives Problem. Die Grünen in Finnland sind z.B. für die Kernkraft. Ich würde Sie wirklich bitten, im Sinne der Versorgungssicherheit eine Kehrtwende zu machen. In der Schweiz ist es eine existenzielle Verordnung für die Grüne Partei. Aber ich habe Ihnen etwas mitgebracht. Auch für das Publikum. Wir brauchen ein Kärzchen. Es ist nicht sichergestellt mit anderen Technologien. Wir brauchen die Kernkraft in der Schweiz.
+
+Person10 [0:52:20 - 0:53:09]:
+Sie sprechen von gleichen Spiessen. Was sagen Sie zur Versicherung? Was sagen Sie zum Rückbau, der nicht durch Betreiberinnen und Betreiber finanziert ist? Es reicht nicht, für einen ganzen Rückbau. Wenn die Initiative angenommen worden wäre, hätten wir heute eine andere Diskussion. Dann hätte es ausgelöst. Es hätte Sicherheit gegeben, dass man vom Netz hätte gehen müssen. Man wäre jetzt schon mit vielen im Rückbau. Wir wären Expertin und Experte für alle, die auch rückbauen wollen. Und man hätte die Erneuerung müssen. Man hätte die Erneuerung von erneuerbaren Energien in dem gleichen Ausmass ausbauen. Es passiert genau wieder dasselbe. Man verhindert mit dieser Diskussion die Energiewende und den Ausstieg auf Netto Null. Aber was ich wissen möchte, ist vom Gelder. Ich möchte die gleichen Spiessen. Ich möchte Versicherung. Was ist das Risiko, wenn etwas für die Bevölkerung passiert?
+
+Person9 [0:53:09 - 0:53:30]:
+Die Auslandsabhängigkeit ist auch noch ziemlich relevant. Wir machen uns unabhängiger vom Ausland, wenn wir entsprechend auf die erneuerbaren Seiten  der Erneuerbaren Energien investieren. Wir haben in der Schweiz eine ganz andere Voraussetzung als in anderen Ländern. Auch auf den iberischen Halbinseln. Wir haben die Wasserkraft.
+
+Person9 [0:53:30 - 0:54:03]:
+Da haben unsere Vorfahren investiert. Wasserschloss Schweiz, wie es immer so schön heisst. Nein, aber die Wasserkraft ... Wasserschloss Schweiz? Die Wasserkraft zusammen mit Solar- und Windenergie. Windenergie würde man wirklich brauchen. Auch im Winter wäre ideal, um die Schweiz zu versorgen. Dann braucht man nicht noch zusätzliche Energie. Dann braucht man nicht noch zusätzliche Energie. Dann braucht man nicht noch zusätzliche Energie.    Dann braucht man nicht mehr den örtlichen Bandstrom aus den AKWs. Dann braucht man nicht mehr den örtlichen Bandstrom aus den AKWs. Der ist überflüssig und hemmend. Deshalb will kein Energieunternehmen investieren in neue AKWs. Weil es am Schluss nicht rentabel ist.
+
+Person8 [0:54:03 - 0:54:09]:
+Aber gleich noch die Frage, die Sie aufgebracht haben, wenn Sie eine Antwort geben, wegen der Versicherungen usw.:
+
+Person6 [0:54:09 - 0:54:28]:
+Es gibt verschiedene Modelle, die auch im Ausland angewendet werden, wie man die Finanzierungsthematik lösen kann. Wenn man für gewisse Kredite garantiert ist, sind die günstiger. Der Strom ist auch günstiger. Man macht dann quasi Gewinnmarschen ab. Der Staat?
+
+Person6 [0:54:28 - 0:54:31]:
+Ja, aber sie tun ja auch ...
+
+Person10 [0:54:30 - 0:54:32]:
+Der hat gesagt, der Staat.
+
+Person6 [0:54:33 - 0:54:52]:
+Der Staat hat die Verantwortung, dass das Licht in diesem Land anbleibt. Dafür muss man entsprechende Massnahmen ergreifen. Sie haben noch den zweiten Punkt angesprochen. Die Sicherheit. Wenn man anschaut, wie sicher Kernkraftwerke mittlerweile sind, muss man sagen, dass das Problem in guten Teilen ...
+
+Person10 [0:54:51 - 0:54:56]:
+Mittlerweile die Neuen oder die Ältesten vor Welt, die bei uns im Land stehen.
+
+Person8 [0:54:56 - 0:55:13]:
+Sie wollen ja keine Neuen bauen. Manchmal darf ich noch erklären, warum Sie so ironisch das mit dem Staat wissen wollten. Die FDP und die Jungfreisinnigen ...  ... für mehr Freiheit und weniger Staat. Aber in diesem Fall nicht. Da soll man die Schatulle als Staat niedergreifen.
+
+Person6 [0:55:14 - 0:55:55]:
+Letztlich ist es in der Verantwortung der Politik und des Staates. Wenn man so will, dass genug Energie vorhanden ist. Und es heisst ja nicht, dass es ... Wenn man das Problem anders lösen kann, quasi von der Versorgungssicherheit, bin ich der Letzte, der sagt, es brauche staatliche Intervention. Aber man muss technologieoffen sein. Das Tolle an meiner Position in dieser Runde ist, dass ich keine Präferenz auf eine Energie trage. Ich bin nicht gegen Windräder, ich bin nicht gegen Atom. Ich sage einfach, man soll es offen behalten. Wenn man es offen behalten soll, muss man fair sein und allen die gleichen Rahmenbedingungen bieten. Es könnte auch heissen, dass man bei den anderen reduziert und somit Gleichheit schafft. Aber es ist wichtig, dass die Versorgungssicherheit für die Bevölkerung sichergestellt wird.
+
+Person8 [0:55:55 - 0:56:19]:
+Das ist ein billiges Wortspiel. Sie haben es gespürt, die Kernenergie spaltet die Meinungen. Logischerweise auch in dieser Runde. Das beginnt schon dort, ob man am Kernkraftwerk sagt oder Atomkraftwerk und hört bei der Endlagerung von Atommüll oder eben radioaktivem Abfall auf. Ein kurzer Blick auf Vor- und Nachteile von Kernenergie. Und danach fragen wir doch mal. Ich schaue einfach mal das Publikum hier im Studio.
+
+Person1 [0:56:21 - 0:56:28]:
+In der Schweiz sind noch vier Kernkraftwerke in Betrieb. Betznau I, Betznau II, Gösgen und Leibstadt.
+
+Person1 [0:56:30 - 0:56:37]:
+Ein Vorteil von Kernkraftwerken ist, dass sie verlässlich gelten. D.h., sie produzieren kontinuierlich gleich viel Strom.
+
+Person1 [0:56:41 - 0:56:45]:
+hohe Anfangsinvestitionen notwendig sind.
+
+Person1 [0:56:46 - 0:56:51]:
+Das ist eine große Herausforderung. Denn die Energiekonsum ist in der Zeit nicht rentabel, sagen Energiekonzerne.
+
+Person1 [0:56:52 - 0:56:56]:
+Dafür stossen Kernkraftwerke in Betrieb kaum CO2 aus.
+
+Person1 [0:56:57 - 0:57:03]:
+Anders als z.B. bei einem Kohlekraftwerk werden keine fossilen Brennstoffe verbrannt.
+
+Person1 [0:57:04 - 0:57:11]:
+Doch Kernkraftwerke verursachen radioaktive Abfälle, die über Jahrhunderte in Tiefenlagern deponiert werden müssen.
+
+Person1 [0:57:13 - 0:57:15]:
+Geeignete Standorte zu finden, ist schwierig.
+
+Person10 [0:57:17 - 0:57:18]:
+in den nächsten Jahren in der Zeitung des Nuklearkatastrophes
+
+Person1 [0:57:18 - 0:57:26]:
+Allerdings ist Atomenergie.Raumbedarf effizient. Auf geringer Fläche wird vergleichsweise viel Strom hergestellt.
+
+Person1 [0:57:28 - 0:57:38]:
+Das Risiko einer Nuklearkatastrophe ist zwar sehr gering, käme es aber dennoch zu einem Super-GAU, wären die Folgen verheerend.
+
+Person8 [0:57:41 - 0:58:14]:
+Machen wir etwas in diesem Studio, das wir schon lange nicht gemacht haben? Fragen wir das Publikum. Damit das Publikum abstimmen kann. Und das gerade zweimal, damit ich das alles im Blick habe. Die 100 Leute, die heute Abend zu Gast sind. Hier unten und oben möchte ich die Frage so formulieren. Sind Sie der Ansicht, die Schweiz schaffe die Energiewende auch ohne Kernenergie? Wer der Ansicht ist, die Schweiz schaffe die Energiewende allein, mit erneuerbaren Energien und ohne Kernenergie, der mag doch bitte jetzt die Hand aufheben.
+
+Person8 [0:58:21 - 0:58:23]:
+Ich frage einfach kurz an.
+
+Person8 [0:58:24 - 0:58:40]:
+Vielleicht hier in der Mitte, weil zwei nebeneinander sitzen, wo es anders ist. Sie haben die Hand aufgehoben und gesagt, es gehe mit erneuerbaren Energien. Ich weiss, Sie wollen eigentlich nichts sagen. Aber Sie wollen auch keine Kernenergie. Sie haben das richtig verstanden mit Ihrem Votum. Wieso hielten Sie die Hand nicht auf?
+
+Person3 [0:58:41 - 0:58:57]:
+Ich finde, man kann die Kernkraft nicht abschalten. Ich habe sogar viel Kernkraft. Und für die Atomkraft wäre es wichtig, dass sie sich nicht abgeschaltet werden. Sie sind sicher CO2-frei und sind auch für die Grünen wichtig. Und ja, ein bisschen verantwortungslos, die abzuschalten.
+
+Person8 [0:58:58 - 0:58:58]:
+Sie haben die Hand aufgehoben, oder?
+
+Person2 [0:58:59 - 0:59:04]:
+Ja, genau aus diesem Grund. Ich finde, man sollte erst einmal der erneuerbaren Energien eine Chance geben.
+
+Person2 [0:59:04 - 0:59:34]:
+Ich bin nicht grundsätzlich gegen neue Technologien. Ich finde, das wäre okay. Man ist einfach noch nicht so weit bei der Forschung. Mein Problem ist die Endlagerung. In der Schweiz findet man keine Stollen. Man muss die Stollen in die Stollen bringen. Ich habe von der SVP und der FDP keine Lösung gehört. Auch Leute, die dort wohnen, stimmen mir dagegen. Solange das nicht klar ist, bin ich dagegen. In der Schweiz ist ein Problem geschaffen. Man muss das Problem auch beheben. Man muss nachfragen, was Herr Gezertaner vorgesehen hat.
+
+Person8 [0:59:33 - 0:59:35]:
+Genau.
+
+Person5 [0:59:35 - 0:59:54]:
+Ich bin froh. Wir sind ja relativ weit. Es ist nicht ein Fahrgauerboden für einen. Wir haben die Werkböse, es ist auf Zürcher Boden. Aber die Lösung zeichnet sich dort sehr stark ab. Vielleicht kann man darüber streiten, ob es genug ist. Wir müssen die Stollen wieder grösser bauen. Aber ich glaube, wir sind sehr weit. Die Endlagerung wird funktionieren.
+
+Person2 [0:59:55 - 0:59:59]:
+Überzeugt? Ich nehme mal beim Wort und kontrolliere das. Wir sind beinahe alt.
+
+Person10 [0:59:59 - 1:00:02]:
+Ja, ob man noch weiss, was ist.
+
+Person8 [1:00:00 - 1:00:09]:
+Gleich noch in die andere Richtung. Sie haben den Eindruck, dass Sie nicht alleine mit erneuerbaren Energien leben. Ja.
+
+Person8 [1:00:10 - 1:00:13]:
+Was geben Sie für eine Antwort, Gabriela Sutter?
+
+Person9 [1:00:14 - 1:00:58]:
+Vielleicht wegen der Ernte. Ich denke, das ist eine sehr gute Anlage. Wenn man sagt, das löst sich. Das geht über 10'000 Jahre, die das Zeug noch strahlt. Wir wissen nicht, was in 2'000, 10'000 und 100'000 Jahren war. Vor 2'000 Jahren war das Römer-Territorium hier. Niemand hätte gedacht, dass man 2'000 Jahre später über AKW reden würde. Das zählen Sie sich vor. Das sind einfach Dimensionen, die man nicht vergessen darf. Deshalb haben wir die alternativen Technologien, die erneuerbaren. Und da müssen wir voll reingehen.
+
+Person8 [1:00:58 - 1:01:01]:
+Bringen die alten Römer eine gewisse Überzeugungskraft bei Ihnen?
+
+Person3 [1:01:01 - 1:01:15]:
+Mit den Alternativen allein können wir nicht weiter. Sei es, wenn es Nacht ist, wie Gürtel Tanne schon sagte, oder wenn es morgen nicht läuft. Bei jedem Mann können wir keinen Stumpel erzielen. Und ... Ja.
+
+Person8 [1:01:15 - 1:01:36]:
+Gut, dann machen wir noch ... Ich sagte, wir machen zwei Fragen. Wir deponieren das schnell. Das ist sozusagen das Gegenmeer. Die zweite Frage ist andersrum. Soll die Schweiz neue AKW oder KKW bauen? Wie immer Sie das auch sagen wollen. Wer also findet, die Schweiz brauche neue Atomkraftwerke, darf jetzt bitte die Hand aufheben.
+
+Person10 [1:01:36 - 1:01:38]:
+Es müssten jetzt die gleichen sein.
+
+Person8 [1:01:38 - 1:01:41]:
+Gut. Dann fragen wir hier. Ich möchte die Frage nachfragen.
+
+Person8 [1:01:42 - 1:01:46]:
+Ganz energisch und sofort als Erster die Hand hochgehalten. Haben Sie? Warum?
+
+Person4 [1:01:46 - 1:01:59]:
+Ich stimme Jonas Lütti zu. Es bringt halt Leute, wenn man Dinge verbietet. Darum macht es von mir eigentlich nur Sinn, wenn man die gleichen Speisen bringt und dann auch ein AKW bringt.
+
+Person8 [1:01:59 - 1:02:02]:
+Sind Sie Jungfreisinniger, der sich hier reingeschmuggelt hat?
+
+Person4 [1:02:02 - 1:02:03]:
+Nicht reingeschmuggelt, aber angemeldet.
+
+Person8 [1:02:03 - 1:02:15]:
+Okay. Gut. Man ist halt nicht vereint vor einer Sendung, die live produziert wird, dass ... Das kann sie. Aber das soll auch so sein. Sie sollen das Recht haben, Ihre Meinung zu sagen. Sie haben die Hand unten gehalten. Warum?
+
+Person7 [1:02:15 - 1:02:19]:
+Richtig. Bei der ersten Frage. Für mich ist die entscheidende Frage,
+
+Person7 [1:02:20 - 1:02:27]:
+ob die Versorgungssicherheit mit erneuerbaren Energien sichergestellt werden kann. Diese Antwort habe ich bis jetzt noch nicht überzeugend gehört.
+
+Person8 [1:02:27 - 1:02:28]:
+Von wem wollen Sie sie lieber hören?
+
+Person7 [1:02:29 - 1:02:31]:
+Von beiden Seiten. Möglichst deckungsgleich.
+
+Person8 [1:02:31 - 1:02:34]:
+Okay. Das wird schwierig.
+
+Person6 [1:02:34 - 1:02:52]:
+Jonas Lütti, was haben Sie für eine Antwort? Meine Antwort ist ganz klar. Versorgungssicherheit muss Priorität haben. Der Unterschied zu meiner Runde ist, dass ich eine sehr lange Perspektive habe. Man sieht, was die Problematik ist. So alt bin ich doch.
+
+Person6 [1:02:53 - 1:03:35]:
+Ich meine, vor allem im politischen Sinn. Wenn wir schauen, was passiert, was für Herausforderungen wir haben, wenn wir die Kernkraftwerke abschalten müssen, und irgendwann müssen wir sie abschalten, braucht es etwas, das die Brandenergie sicherstellt. Ich sage, die Kernkraft muss ein Teil davon sein. Dafür stehe ich ein. Letztlich möchte ich nochmals betonen, dass es nicht darum geht, das in die Ohren zu drücken. Man muss die Diskussion anständig feiern. Ich habe viele gesehen, die aufgestreckt haben, die vielleicht noch von der jüngeren Generation sind. Albert Rösti sagte, als er ankündigte, dass man es der heutigen Generation in Zukunft übel nehmen würde, wenn man die Option nicht offen lässt. Ich glaube, das ist richtig. Man würde es später übel nehmen, weil man die Versorgungssicherheit in Zukunft nicht gewährleisten kann.
+
+Person7 [1:03:37 - 1:03:39]:
+Es ist angekommen, ich muss nochmals darüber schlafen.
+
+Person8 [1:03:40 - 1:03:46]:
+Alles klar. Wenn wir hier in den Bermuda-Dreieck sind ...
+
+Person10 [1:03:46 - 1:03:52]:
+Die Frage war ja noch, wie wir es ohne AKW schaffen.
+
+Person8 [1:03:52 - 1:03:56]:
+Er glaubte nicht daran. Er sagte, es braucht ... Aber auch ich habe eine Frage.
+
+Person10 [1:03:53 - 1:03:59]:
+Die Antwort muss auch noch ... Gut.
+
+Person10 [1:03:59 - 1:05:02]:
+Wir hatten eine sehr genaue Planung. Ja. Dank des Strongesetzes. Das heisst Zweitärztudie. Das ist ein Konsortium, in dem vier Universitäten konkret rechnen, wie wir die 35 Terawattstunden bis 2035 schaffen. Dort war man zum ersten Mal ganz konkret. Sie zeigten drei Szenarien auf. Das Grösste ist immer die Sonne, das ist klar. Aber wie viel mit Biomasse, wie viel mit Wind. Es gibt sogar ein Szenario, in dem sie ohne Wind rechnen. Der Widerstand ist sehr gross. Wenn man das nicht durchbekommen würde, hätte es sogar ein Szenario, in dem man es ohne Atomkraft und Wind schaffen würde. Es ist möglich, mit Solar als grossen Wasser zu arbeiten. Das wird so bleiben, sehr wahrscheinlich. Man geht davon aus, dass das Wasser bleibt. Es ist immer noch die Frage, ob wir ein Wasser-Schloss bleiben. Mit Solar, mit Wasser und mit Biomasse.
+
+Person8 [1:05:03 - 1:05:09]:
+Ich gehe gleich wieder zurück, bevor die AG Zonano links tachtet.
+
+Person10 [1:05:09 - 1:05:15]:
+Wir haben übrigens nicht über die Effizienz gesprochen. Dort hat es auch noch einen Potenzial. Ich weiss schon, dass Sie gerne eine andere Sendung gemacht hätten.
+
+Person8 [1:05:12 - 1:05:19]:
+Ich muss jetzt noch bei dieser bleiben. Aber man kann auch noch sparen.
+
+Person5 [1:05:20 - 1:05:21]:
+Sie ist mittlerweile die Moderatorin.
+
+Person8 [1:05:20 - 1:05:24]:
+Nein, nein. Sie spielt sich manchmal auch dazu auf.
+
+Person5 [1:05:24 - 1:05:26]:
+Ich möchte noch die Frage zeigen.
+
+Person8 [1:05:24 - 1:05:33]:
+Auf dieser Seite noch ganz konkret bleiben. Am Schluss haben wir einen Volkswillen. Nicht eigentlich.
+
+Person8 [1:05:34 - 1:05:40]:
+die sich aus der Kernenergie ausziehen. Sie treten mit Füssen. Sie sagen, es sei viel passiert in der Zwischenzeit. Ja.
+
+Person5 [1:05:41 - 1:06:42]:
+Jetzt ist die Möglichkeit, dank dieser Black-out-Initiative, das Volk neu abzustimmen. Wie Keynes einmal sagte, wenn sich Daten und Fakten ändern, ändern sie die Meinung. Das dürfen auch das Volk. Wir haben bis 2047 20 Terawatt aus Kernkraft, die wir ersetzen müssen. Die Antwort ist natürlich, dass wir ohne Kernkraft arbeiten würden. Wenn wir Wasserkraft nehmen, müssen wir die Teller überfluten. Die 16 Projekte bringen 2 Terawattstunden. Das ist Faktor 10, den wir haben müssen. Nein, nein. Warte, du kommst noch dran. Dekarbonisierung. Wir haben jetzt etwa 60 Terawattstunden, die die Schweiz jedes Jahr braucht. Wir werden 2050 bei 90 Terawattstunden sein. Weil unsere Autos elektrisch fahren, weil wir zu Hause eine Wärmepumpe haben. Das müssen wir auch noch aufbauen. Es kann einem niemand sagen, wie es geht. Vielleicht können wir es mit Wasserstoff. Vielleicht können wir es in 15 oder 20 Jahren. Es wäre fahrlässig, wenn wir uns nicht auf diese Technologien setzen würden. Dann können wir vielleicht der nächsten Generation sagen, wie es Christoph Blocher mit Kaiser-Augs gemacht hat. Aber bevor es gelaufen ist, stellen wir den Klappfall ab.
+
+Person8 [1:06:43 - 1:06:48]:
+Sie haben noch gesagt, dass sie sauber bleiben. Was meinten Sie damit?
+
+Person10 [1:06:48 - 1:06:59]:
+Nein, nicht sauber im Sinne von ... Es wäre ja zusätzlich. Die 2 Terawattstunden, die wir jetzt bauen, Wasserkraft, ist zusätzlich. Es ist nicht nur.
+
+Person8 [1:07:00 - 1:07:27]:
+Es ist schon etwas Interessantes. Auch in der Mitte. Die Mitte, die damals mit Altbundesrätin Doris Lloyd, die sie noch CVP heisst, an die Energiewende mit begonnen hat zu zimmern. Dass sogar Politiker dieser Partei kippten. Das hat man lesen können. Zulauf für das Prolager. Auf einmal setzten die Ständeräte auf ein neues AKW in Gösgen. Gemeintenmässig waren Ständeräte Beni Wirt und Peter Hecklin.
+
+Person8 [1:07:28 - 1:07:29]:
+Wie kommt das bei Ihnen, Frau Sutter?
+
+Person9 [1:07:30 - 1:07:47]:
+Ich finde es enttäuschend, dass man das hin und her macht. Ich weiss nicht so recht. Aber es ist auch typisch für diese Partei, dass es mal auf die und mal auf die andere Seite geht. Aber am Schluss muss man sagen, dass es hier ein wenig Augenwischerei betrieben wird.
+
+Person8 [1:07:47 - 1:07:52]:
+Vielleicht machen die beiden auch mehr, weil sie nicht hier sind. Vielleicht machen sie auch mehr die Augen auf als sie.
+
+Person9 [1:07:53 - 1:09:11]:
+Es braucht ein neues AKW. Das lenkt ja noch niemanden hin. Das ist doch nicht realistisch. Wie viele neue AKW wollen Sie denn? Wollen Sie fünf, zehn, zwanzig neue AKW? Das ist doch einfach nicht realistisch. Wenn man auf ein oder zwei neue braucht es zwei neue Plätze. Das ist dann auch einfach ... Man muss das demokratiepolitische Wachsein ... Das geht ein bisschen. Gleichzeitig wird der Ausbau der erneuerbaren Energien behindert. Man sollte doch jetzt ... Ich bin absolut einig mit Ihnen. Wir sollten doch jetzt darüber sprechen, wie das neue System mit den erneuerbaren Energien funktioniert. Wie funktioniert das Zusammenspiel? Was müssen wir machen, damit das Netz stabil ist und nicht so rauskommt wie auf den iberischen Halbinseln, weil wir eine völlig andere Situation haben schon in der Schweiz mit der Wasserkraft. Aber wir müssen unser Netz verstärken. Ein Drittel von unserem Netz ist über 60-jährig. Da müssen wir sowieso Investitionen tätigen. Das bringt es nicht, über ein AKW zu reden. Das lenkt niemanden hin.
+
+Person8 [1:09:11 - 1:09:22]:
+Das war das Schlussvotum von «Links grün». Bevor Sie ansetzen, Schlussvotum. Wir sind in Minute 70. Ich bin ganz genau und penibel heute. Schlussvotum, sagen wir 20 Sekunden. Jonas Lüthi.
+
+Person6 [1:09:23 - 1:09:49]:
+Was sehe ich ... Um es abzuschliessen. Ich bin der Letzte, der sagt, dass es nicht so gut ist. Er sagt, es brauche sich viel mehr AKW. Man muss die Scheuklappe ablegen und sagen, es darf Teil eines Energiemixes sein. Der zweite Punkt, damit schliesse ich ab, was seit 2017 passiert ist. Seither haben wir ein Netto-Null-Ziel. Um das umzusetzen, braucht es einen Einträger, der das entsprechend ist. Kernkraftwerke sind nun mal sehr effizient in diesem Bereich.
+
+Person8 [1:09:50 - 1:10:54]:
+Ich habe eine Sendung voller Power und Energie gefunden, unterstützt noch von einem Kerzchen, das er mitgebracht hat. Ich weiss nicht, ob Ihnen ein Lichter da ist, der nicht aufgegangen ist. Wahrscheinlich machen wir noch die eine oder andere Sendung dazu. Ich bedanke mich herzlich bei den Gästen, beim Publikum für das engagierte Mitmachen und auch bei der Beweisführung, dass wir hier unterschiedliche Stimmen und Meinungen in diesem Studio 8 haben. Die Zusammenfassung dieser Energie-Arena, produziert vor drei Jahren an Stähli, gibt es bald in der SRF News App und auf srf.ch. Den Blick in die Hinterkulisse gibt es bei mir auf Instagram. Und noch ein Hinweis auf etwas, das für uns bei SRF eine Herzenssache ist. Auch bei uns bei der Arena, nämlich die Jugendmedienwoche. Da bekommen wir von der Arena nächste Woche Unterstützung. Und zwar von Jael, Lisa, Enea und Sarah. Das war nur ein Fototermin. Die Sendung ist noch nicht im Kasten, die gibt es nächste Woche. Sie werden den Politikerinnen und Politikern kritische Fragen stellen. Sie zu Hause müssen nur das machen, was Sie sonst machen und uns am Freitagabend einschalten. Gute Nacht aus dem Studio 8.
+

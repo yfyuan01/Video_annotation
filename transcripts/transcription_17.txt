@@ -1,0 +1,568 @@
+============================================================
+Video Transcription Results
+============================================================
+
+Person6 [0:00:00 - 0:00:15]:
+Fukushima hat viel verändert in den Köpfen der Leute. Der Bund sucht deshalb nach Alternativen für die Kernenergie. Nur, lassen die Vorschläge, die heute auf dem Tisch sind, wir diskutieren sie jetzt in einer hoffentlich elektrisierenden Abstimmungsarena.
+
+Person1 [0:00:34 - 0:01:51]:
+BR 2018 Erik Nussbaumer, Nationalrat SP, erwidert, Irene Egatter, Physikerin und Präsidentin vom Dachverband Energie Suisse, sagt, die Kohle ist eine Kernenergie, aber nicht ohne die Umwelt, z.B. mit Kohlekraftwerken, schwer zu belasten. Ausserdem im Studio zwei uneinige Vertreter der Wirtschaft. Rudi Noser, Ständerat FDP, und Silvio Ponti, Präsident des Branchenverbandes der Schweizer Kunststoffindustrie. «Die Arena», moderiert von Mario Gross-Niklaus.
+
+Person6 [0:01:51 - 0:01:58]:
+Guten Abend miteinander, herzlich willkommen meine Damen und Herren, zu Hause, bis ins Studio.
+
+Person6 [0:02:00 - 0:02:04]:
+Und herzlich willkommen Frau Bundespräsidentin Doris Leutzart.
+
+Person6 [0:02:06 - 0:02:23]:
+Frau Leutzart, ich habe euch in den letzten Wochen über die Medien verfolgt. Ich habe gesehen, ihr wart letzte Woche in Lateinamerika. Ihr wart Anfang dieser Woche in Kroatien, jetzt steht ihr schon hier in Zürich im Leutschenbach. Schön seid ihr hier, aber Hand aufs Herz, Energie sparen, das sieht etwas anders aus.
+
+Person4 [0:02:23 - 0:02:32]:
+Als Bundespräsidentin können Sie nicht Heiko sein, da müssen Sie auch die Schweiz repräsentieren. Das gehört natürlich dazu, dass man Reisen auf sich nimmt.
+
+Person6 [0:02:33 - 0:03:22]:
+Natürlich, wie alle anderen wissen, wie ich auch, Energie sparen ist nicht gerannt, ganz einfach in unserem Alltag. Trotzdem, im Energiegesetz habt ihr ein recht forsches Ziel eingeschrieben. Schauen wir uns das mal schnell an. Wir alle sollen pro Kopf bis 2035 43% weniger Energie brauchen. Das sind wir verglichen mit 2010. Strom erwähnt ihr ganz speziell. Man sieht es auch hier unten rechts, minus 13%. Weniger Strom sollten wir alle brauchen. Gleichzeitig brauchen wir ja mehr Strom, weil wir haben z.B. immer mehr Elektroautos auf der Strasse, also Geräte, die Strom brauchen. Das Ziel, denke ich mir, wenn ich das so anschaue, ist ein bisschen eine Utopie.
+
+Person4 [0:03:23 - 0:04:01]:
+Nein, sogar die ETH-Forscher sagen, sie seien zu wenig ambitiös. Man muss sehen, wir sprechen von Energie. Der grosse Anteil ist Benzin, Treibstoff. Ein weiteres grosses Potenzial ist bei den Häuser, Heizöl, die Heizungen. Wir haben bereits sehr viele dieser Ziele erreicht. Vom Jahr 2000 bis 2015 sind wir bereits 14,5% auf diesem Weg. Wir werden das Zwischenziel 2020 erreichen. Darum sind wir sehr zuversichtlich, dass der Weg, den wir bereits eingeschlagen haben, mit den neuen Instrumenten akzentuiert weitergeht.
+
+Person6 [0:04:01 - 0:04:16]:
+Aber es ist ein sehr geiziges Ziel, diese 33-34%. Was ist, wenn wir es nicht erreichen? Das könnte ja auch passieren. Schreibt mir der Bund vor, was ich noch kaufen darf, was ich nicht mehr kaufen darf? Mein Auto, mein Handy, meinen Kühlschrank?
+
+Person4 [0:04:16 - 0:05:11]:
+Wir haben mit Massnahmen, um diese Ziele zu erreichen, die auf das ausgerichtet sind, einen Weg vor uns. Aber es sieht so aus, dass wir im Verkehr bei den Neuwagen eine technische Vorschrift haben. Das ist etwas, das man schon kennt. Jetzt machen wir den nächsten Schritt ins Jahr 2020, wo wir die technischen Vorgaben für Neuwagen verändern und verbreitern. Da sieht man die Entwicklung in der Autoindustrie. Vor 15 Jahren hatten wir alle noch ein 9-10-Liter-Auto. Jetzt sind wir bei 6 Liter. Das 4-Liter-Auto ist schon längst auf dem Markt. Ohne uns einzuschenken, werden wir das erreichen. Bei den Gebäuden haben wir über 1,4 Mio. Gebäude, die ein riesiges Potenzial haben, das aus den 70ern kommt. Sie können locker durch den Ersatz der Heizung die Hälfte des Energiekonsums senken. Im Strombereich gebe ich Ihnen recht, das ist etwas schwieriger, darum sind wir da weniger ambitiös.
+
+Person6 [0:05:10 - 0:05:13]:
+Es ist ja nicht so tief, die 13 % im Strombereich.
+
+Person4 [0:05:14 - 0:05:35]:
+Ja, aber wir haben uns seit ein paar Jahren entkoppelt. Trotz Wirtschaftswachstum, trotz Bevölkerungs- und Mobilitätswachstum konnten wir auch hier Einsparungen machen. Die technische Entwicklung ist rasant. Heute haben sie ein Smartphone, das gegenüber vor 10 Jahren, die es die ersten gab, die Welt entzweit. Das Gleiche bei den Kühlschränken.
+
+Person6 [0:05:35 - 0:05:43]:
+Sie schauen sehr positiv in die Zukunft. Wir haben gestern auf die Bundesbahn geschaut. Hört ihr, wie es dort vor eurer Haustür aussah?
+
+Person4 [0:05:44 - 0:05:46]:
+Ich weiss nicht, was Sie gefilmt haben.
+
+Person6 [0:05:46 - 0:06:06]:
+Ich sage Ihnen, ich sitze gerne. Hier sehen wir es. Es hat dicke Wolken über dem Bundeshaus, keinen Wind. Jetzt setzt ihr ausgerechnet auf solche Energien, die auf das Wetter angewiesen sind, auf Solarenergie, auf Windenergie, wind- oder wetterabhängige. Was machen wir an solchen Tagen? Ein bisschen auf das Prinzip hoffen und vertrauen?
+
+Person4 [0:06:07 - 0:06:58]:
+Auch hier natürlich. Es ist nichts, was die Schweiz erfunden hat. Es gibt viele Staaten, die schon lange die erneuerbaren Energien neben der Wasserkraft im Portfolio haben. Sie haben Erfahrung. Denen ist noch nie der Strom oder die Energie ausgegangen. Wir haben in den Wintermonaten im Strombereich eine Import-Situation. Das haben wir seit mehreren Jahren, also seit 15 Jahren. Da sagen wir, das wird nicht ändern. Aber das in ein paar Wochen im Winter, wenn es mega kalt ist. Die Leute müssen auch früh die Beleuchtung anlassen. Auch hier hat man gerade bei den Gebäuden im Wärmebereich, heute gibt es Plus-Energiehäuser, die diese Energie nicht mehr brauchen. Die Beleuchtung wird bleiben. Aber auch hier hat LED einen riesigen Fortschritt gemacht, dass man hier sehr viel Strom einsparen kann.
+
+Person6 [0:06:58 - 0:07:04]:
+Aber auch wenn man auf solche Energien setzt, muss man unter Umständen mehr importieren. Das machen ja andere Länder auch.
+
+Person4 [0:07:05 - 0:07:35]:
+Wir haben in unserem Energieverbrauch heute 75 % von der Energie, die wir importieren aus dem Ausland. 75 %. Also wir sind heute massiv auslandabhängig. Mit dieser Strategie, mit diesen Reduktionen von fossiler Energie, die wir einkaufen in die erdölproduzierenden Länder, wo das Geld auch dort landet, haben wir ein grosses Sparpotenzial. Darum senkt dieses Massnahmenpaket unsere Auslandabhängigkeit.
+
+Person6 [0:07:35 - 0:07:44]:
+Aber vielleicht wird diese Auslandabhängigkeit noch grösser und wir können noch mehr Strom importieren von AKWs, Kohlekraftwerken, Kombigaskraftwerken.
+
+Person4 [0:07:44 - 0:08:27]:
+Schauen Sie, die Kernkraftwerke, die wir heute haben, laufen aus. Ob Sie jetzt Ja oder Nein sagen, ist ein Faktum. In zwei Jahren ist Mühlenberg vom Netz. Und wenn man Nein sagt, haben wir tatsächlich ein Versorgungsproblem. Denn dort passiert jahrzehntelang nichts. Mit unserer Strategie haben Sie wenigstens diese Zeit genutzt zum Aufbau von Erneuerbaren, zum Aufbau von Effizienzmassnahmen, zum Energiesparen. Das ist unser Rezept. Wir werden davon hören. Das ist unser Rezept. Die Frage ist doch, ob wir das noch tun. Wir haben ja noch einen Tag Zeit, um eine neue KKW zu bauen. Wir haben ja schon einen Tag Zeit, um einen neuen KKW zu bauen. Wir haben ja schon eine Zeit,    Die Technologie ist heute nicht da.
+
+Person6 [0:08:27 - 0:08:37]:
+Gerade weil wir keine neue KKW mehr bauen können, fragt sich ja schon, seid ihr sicher, dass wir genug Energie haben, bis die, die wir noch haben, nicht mehr am Netz sind?
+
+Person4 [0:08:37 - 0:09:10]:
+Ja, wir haben ja schon 2013 eine ETH-Studie gemacht, die attestiert wurde. Diese Strategie ist technisch machbar. Sie ist auch von den Kosten machbar. Sie ist umweltverträglich. Es gibt x Studien, die das beleidigt haben. Und die Versorgungssicherheit, die sich ja vor allem im Netz beim Strom abspielt. Da hat auch die LKOM, auch auf Anfrage des Parlaments, gesagt, wir seien versorgungssicher. Darum werden wir in dieser ersten Phase auf einem sicheren Kurs sein.
+
+Person6 [0:09:10 - 0:09:22]:
+Gut, besten Dank, Doris Leuthardt, für das Erste. Wir gehen jetzt zusammen zurück in die Runde. Ich stelle die Frage an Toni Brunner. Seid ihr überzeugt von diesen Argumenten? Wenn ich es mir so anschaue, glaube ich sehr weniger.
+
+Person8 [0:09:22 - 0:11:25]:
+Ja, ich bin nicht nur nicht überzeugt, sondern ich bin überzeugt, dass es in die falsche Richtung geht. Und dass man jetzt etwas macht, was uns später schwer beschäftigen wird. Was ist das für eine Strategie, die Energiestrategie 2050? Man macht Werbung. Es geht um Wind- und um Sonnenenergie. Aber dahinter stehen eigentlich Kohlekraftwerke vom Ausland. Und dahinter stehen Gaskombikraftwerke. Frau Leuthardt hat in der Botschaft so gerne an die Bundespräsidentin darauf hingewiesen, dass ich sie dann als Ersatz der Kernkraftwerke brauche. Gaskombikraftwerke auch im Inland. Oder die Kernenergie aus dem Ausland importieren. Weil Wind und Sonne, mit denen jetzt Werbung gemacht wird, das ist Flatterstrom. Das wird nicht permanent produziert, sondern nur, wenn die Sonne scheint und nur, wenn der Wind bläst. Und dazu braucht man, wir haben es in Deutschland gesehen, wo dieser Weg ja schon vor Jahren ging, parallel dazu hat Deutschland Kohlenstrom aufgebaut. Und das Traurige ist eigentlich, dass dieser massive Zubau von neuen Erneuerungen, von erneuerbaren Energien in Deutschland, Sonne, Wind, bei uns in der Schweiz, und dann eben parallel Kohlekraft bei uns in der Schweiz, die Wasserkraft preislich kaputt gemacht hat. Und was passiert jetzt? Durch die Förderung von ineffizienten Technologien, die nichts zur Versorgungssicherheit beitragen, wird jetzt eigentlich die sauberste Produktionsart von Strom in der Schweiz nicht mehr attraktiv für Investitionen. Und das ist eigentlich so etwas, was mich nervt. Und das liegt auch an der Propaganda der Befürworter. Man macht einfach immer mit Wind und Sonne Werbung und verschwiegen, dass das eine Importstrategie ist, dass das massiven Zubau von Kohlekraft bräuchte. Jetzt ist noch die Frage, hat Deutschland, die weggeht von der Kernkraft, denn in 10 Jahren, in 20 Jahren, haben sie noch Strom, um in die Schweiz zu exportieren?
+
+Person6 [0:11:24 - 0:11:52]:
+Herr Brunner, Sie fassen mir eigentlich gerade die ganze Sendung zusammen. Wir gehen auf all diese Punkte im Detail natürlich ein. Aber ich möchte zuerst gerne etwas Konkretes von Herrn Nussbaumer wissen. Die Energiestrategie sagt es ziemlich deutlich. Wir bauen in der Schweiz keine neuen AKWs mehr. Aber wieso muss das Verbot ins Gesetz? Wir könnten doch auch einfach so weitermachen, ohne das in diesem Gesetz zu festschreiben. Neue AKWs zu bauen, das will doch niemand mehr.
+
+Person7 [0:11:53 - 0:12:38]:
+Schauen Sie, wenn Sie eine Strategie anstreben, dann müssen Sie strategische Ziele festlegen. Und wenn Sie die Frage der AKW nicht klären, die auch in der Schweiz nicht existiert, dann müssen Sie die Frage stellen, wie Sie die Entscheidung bringen, dass es tatsächlich um zwei Dinge geht. Um die Steigerung der Energieeffizienz und um den Ausbau von erneuerbarer Energie. Darum stimmt es auch nicht, was Herr Brunner gesagt hat. Es geht nur um Wind und Sonne. Es geht um eine ganze Palette von Energieeffizienzmassnahmen, auch ausserhalb des Stroms.     Es geht auch um die Stromfrage. Aber es ist nicht so, dass es so vereinfacht ist. Es geht nur um Wind, Rad und um Sonnenenergie.
+
+Person6 [0:12:39 - 0:12:45]:
+Aber eben, «C'est le temps qui fait la musique», ich möchte gleich noch mal schnell über dieses Gesetz reden, das kann man ja wieder ändern.
+
+Person3 [0:12:46 - 0:12:50]:
+Das Gesetz kann man wieder ändern, das hat Frau Bundespräsidentin auch schon gesagt.
+
+Person6 [0:12:51 - 0:12:56]:
+Also das heisst, wir haben dann irgendwann plötzlich wieder AKWs neu auf dem Schweizer Boden?
+
+Person3 [0:12:56 - 0:12:59]:
+Ich werde das nicht mehr erleben, da könnt ihr sicher sein.
+
+Person3 [0:13:01 - 0:13:51]:
+Aber das Problem ist effektiv, wie man den Kernenergiestrom ersetzt. Und Sonne und Wind. Das Problem ist ja, dass bei Sonne, man muss ja immer ein Reservenkraftwerk dahinter haben. Weil die Stromversorgung, die ist ausbalanciert mit dem Verbrauch und mit der Produktion. Und wenn ihr einen Fernseher oder Maschine anstellt,  dann hat man eigentlich für diese Sendung augenblicklich ein Kraftwerk, den Generator, der den Längseimer dreht, etwas schneller machen, indem sie Wasser runterlassen. Und das ist das Problem. Das kann die Sonne nicht. Die Sonne hat keine rotierende Masse, die der Generator antreiben kann.
+
+Person3 [0:13:52 - 0:13:54]:
+Aber Frau Eppert,
+
+Person7 [0:13:52 - 0:14:14]:
+es geht tatsächlich um Versorgungssicherheit. Sie haben recht. Eine zuverlässige Versorgung ist für unser Land wichtig. Und dafür steht auch die Energiestrategie. Weil es ist eine falsche Darstellung, wenn man sagt, würden wir auf AKW setzen, dann wäre das immer sicher. Sie wissen, Leibstadt ist 15 Monate schon ausser Betrieb. Das sind 15 %.
+
+Person7 [0:14:15 - 0:14:48]:
+15 % von unserem Energiestrom waren 3 Vierteljahre draussen. Und trotzdem hatten wir eine sichere Versorgung. Das heisst, die sichere Versorgung ist ein Zusammenspiel. Von verschiedenen Technologien, Wasser, jetzt noch nuklear, später Wind, Sonne, vielleicht auch von Speichertechnologien in Zukunft. Es ist immer ein Zusammenspiel. Und es ist eine falsche Darstellung der Gegner dieser Energiestrategie, dass es um eine Technologie geht. Es geht in der Versorgungssicherheit um das Zusammenspielen von verschiedenen Technologien. Und dann kann man das auch erreichen.
+
+Person8 [0:14:47 - 0:16:01]:
+Aber Herr Nussbaum, Sie bestreiten ja nicht, das steht ja schon in Artikel 2 des Energiefonds, dass man einen massiven Zubau, nämlich 11,5 % der Energie, also 1,4 Mrd. kWh an neuen, erneuerbaren Energien, an den neuen, erneuerbaren Energien. Und Sie wissen, wir hatten mit den Erdbohrungen nicht so Glück, mit den grösseren in Basel und St.Gallen. Dann kommt Wind und Sonne an erster Stelle. Und der massive Zubau in der Schweiz, wenn man das Zubauziel, das im Gesetz steht, verwirklichen will, dann wäre das etwa eine Fläche an Solarpanels in der Schweiz von der Grösse des Zürichsees. Und etwa 1'000, gut 1'000, eine riesengroße Windkraftanlage. Und jetzt muss ich zu Ihnen sagen, dieser massive Zubau, den die Schweiz landschaftlich verändern wird, da hat man jetzt in Deutschland am 24. Januar dieses Jahres etwas Interessantes gesehen. Es war eine Dunkelflaute, ein Hochdruckgebiet, hat Nebel auf Deutschland eingedrückt, die Sonne hat nicht geschonen und der Wind hat nicht geblasen. Man hat zur besten Tageszeit am Mittag 1 GW Wind produziert und 2 GW Sonne, das gibt 3 GW. Aber Deutschland hat an diesem Tag 83 GW Strom gebraucht. Woher ist das gekommen?
+
+Person6 [0:16:00 - 0:16:04]:
+Sie hatten zu wenig Strom.
+
+Person8 [0:16:03 - 0:16:08]:
+Das kam aus den Kohlenkraftwerken, aus den Gaskombikraftwerken, das kam von den Verkehrskraftwerken. Wir haben es vorhin gehört von Frau Eggerter,
+
+Person6 [0:16:06 - 0:16:12]:
+plötzlich konnte bei uns im Studio das Licht ausgehen.
+
+Person4 [0:16:12 - 0:17:39]:
+Nein, das ist so Angstmacherei, wo ich wirklich... Nein, das ist Realität. Nein, es ist nicht Realität. Wir haben ein Energiegesetz, wir haben nicht ein Stromgesetz verabschiedet. Wir haben ein ganzes Energiesystem, das drumherum geht. Ihr redet nur immer über 24 % der ganzen Energie. Zweitens, wir waren einmal in den 50er-Jahren bei der Kohle. Da kam das Erdöl. Am Ende der 60er-Jahre sagten wir, okay, das ist Nukleartechnologie, eine sinnvolle Sache. Wir haben KKW gebaut und jetzt kommt ein neues Kapitel. Auch wenn Sie nein stimmen, Frau Eggerter, dann haben Sie trotzdem in 2 Jahren Mülle im Netz. Das ist eine große Herausforderung. Fertig. Wie lange das Bett am Netz ist, wissen wir nicht. Hier sagen Sie einfach nicht, was Ihr Plan ist. Bis heute sagen Sie nur Kritik, alles andere geht nicht. Aber Sie müssen sich doch mal auf einen Weg machen. Sie müssen etwas anfangen, auch wenn es noch nicht perfekt ist. Ihr Weg ist, irgendeinen Denkstellstand bei Ihnen attestieren zu können. Sie waren immer eine Kernkraftwerk-Befürworterin. Sie wollen auch in Zukunft glauben, dass sich die Technologie durchsetzt. Das dürfen Sie. Sie wollen die Technologie durchsetzen. Aber selbst wenn sich noch eine neue Kernkraftwerke wissenschaftlich und kommerziell ergeben würde, was heute nicht der Fall ist, dann dauert das 20, 30 Jahre. In dieser Zeit gibt es nichts anderes als erneuerbare Energie.
+
+Person6 [0:17:37 - 0:17:59]:
+Aber es könnte immer noch eine Option sein, wenn ich Euch richtig verstehe. Ich habe gelesen in das Kernenergiegesetz. Da steht auch, der Bundesrat erstatte der Bundesversammlung regelmässig Berichte über die Entwicklung der Kerntechnologie. Das heisst also, es könnte durchaus wieder einmal sein, dass wir in ein paar Jahrzehnten neue AKWs bauen.
+
+Person4 [0:17:59 - 0:18:42]:
+Wir sind immer offen für Neues. Wir müssen nicht naiv sein. Die neuen Technologien wissen wir nicht, was in 20 Jahren alles gibt. Das Parlament hat mitgeholfen. Wir haben jeden Franken in der Forschung aufrechterhalten, um zu sagen, okay, die sollen weiterhin forschen. Und wenn es irgendetwas gibt, das günstiger ist, sicherer ist und das Abfallproblem gelöst ist, das ist der Bundesrat und das Parlament sicher bereit, das anzuschauen. Aber vor 20, 30 Jahren sagte er heute, jedem Experten sei das nicht der Fall. Und die drei grossen Betriebe haben deshalb ihre Gesuche zurückgezogen. Das ist volkswirtschaftlich etwas vom Dümmsten, was man machen würde.
+
+Person6 [0:18:42 - 0:18:53]:
+Frau Eggerter setzt sich für Atomtechnologie ein. Sie hat das in den letzten Jahrzehnten gemacht. Dann müsstet Ihr keine Sorgen mehr haben. Das heisst, das ist eine gute Idee.  Irgendwann ist es wieder möglich.
+
+Person3 [0:18:53 - 0:20:00]:
+Ich habe schon gesagt, ich erlebe das nicht mehr. Ich glaube, wir sprechen jetzt nicht über neue AKWs. Rettet Volk beschloss im November, die bestehenden weiter zu betreiben. Und jetzt geht es darum, wie wir das ersetzen. Ich sage einfach, aus netztechnischen Gründen. Der Dachverband der Verteilnetzbetreiber sagt Nein zum Gesetz. Denn auch er hat nachher den Schwarz-Peter für das zu regeln. Bis jetzt ging die Stromversorgung vom Höchstspannungsnetz in die Industrie und zu uns. Und jetzt, die Solaranlagen speisen unten im Verteilnetz. Jetzt gibt es plötzlich Gegenverkehr. Die ganze Stromnetzstrategie gehört in das Gesetz. Sie sagen immer, wir sagen nur Nein. Das ist nicht wahr. Wir sagen, die Stromnetzstrategie ist Bestandteil. Das Parlament behandelt sie erst in der Sommersession. Ja. Das CO2-Gesetz muss Bestandteil sein. Das Problem, das sagte Herr Brunner, ist ... Das Problem ist, dass ...
+
+Person6 [0:20:01 - 0:20:07]:
+Das CO2-Gesetz wird erst behandelt. D.h., Herr Nussbaum, wir sind zu früh mit diesem Gesetz.
+
+Person7 [0:20:07 - 0:21:04]:
+Es gibt tatsächlich eine Vorlage des Stromnetzes, die jetzt ins Parlament kommt. Sie wird im Nationalrat beraten, nachdem es der Ständerat beratet hat. Aber es ist nicht so, wie sie darstellen, wie vorher nichts gemacht wurde. Wir haben ja schon ein Stromversorgungsgesetz. In diesem Gesetz ist der Übertragungsnetzbetreiber verpflichtet, die Planung vorausschauend zu machen. Auch die Verteilnetzbetreiber sind verpflichtet, in Mehrjahresplänen vorausschauend diese zu machen. Es ist nicht so, dass die Welt am 21. Mai komplett anders ist. Die Unternehmen können das auch, die Unternehmen machen das auch und sind sich dieser Verantwortung bewusst. Darum hat der Übertragungsnetzbetreiber Swissgrid immer schon verschiedene Varianten studiert. Was sind strategische Optionen, die wir anschauen müssen? Gerade diese Leute sind sehr froh, wenn ein klarer Entscheid kommt, wie es weitergehen soll bezüglich der Strompolitik. Es ist eine entscheidende Fragestellung, damit Klarheit besteht. Wenn man Nein sagt, besteht keine Klarheit. Das macht eher wieder Unsicherheit ins Ganze.
+
+Person6 [0:21:04 - 0:21:37]:
+Sie haben Unternehmen ganz generell angesprochen. Es ist ja schon spannend, dass sich die Wirtschaft ganz und gar nicht einig ist in dieser Frage. Wir haben hier Rudi Noser und Silvio Ponti auf unserem Bänkchen. Da sitzen sie. Sie sitzen auch zusammen im Vorstand von Economy Suisse, vom Wirtschaftsdachverband. Sie haben in dieser Sache ganz und gar nicht auf der gleichen Bühne. Herr Noser, Sie sind pro Energiegesetz. Haben Sie keine Angst, dass es zu Versorgungengspässen kommen könnte, auch für die Wirtschaft, für die Unternehmen in der Schweiz?
+
+Person9 [0:21:37 - 0:22:53]:
+Es ist ehrlich, wenn man den Leuten sagt, mit einem Energiegesetz lösen wir nicht alle Probleme, aber man löst bedeutend mehr Probleme, als wenn man Nein sagt. Man muss klarstellen, dass die Probleme, die die Gegenseite sagt, dass eventuell Versorgungslücken da sind, man muss auch sagen, dass beim Nein die grösste Versorgungslücke da ist. Beim Ja ist die Versorgungslücke auf jeden Fall kleiner. Dass eine Innovation beim ganzen Übertragungsnetz stattfinden muss, das ist klar. Wir müssen ehrlich sein. Seit 150 Jahren läuft die Netztechnologie identisch. Jetzt, nach 150 Jahren, dürfen sie die eine oder andere Innovation geben. Und die sind nämlich auch möglich. Sie hören nicht so, wie Sie gesagt haben, wenn Sie den Fernsehknopf drücken, muss der Strom kommen. Da gibt es andere Ideen. Die Technologie ist möglich. Sie können Pufferungen haben. Sie haben viele Geräte. Wenn Sie die Waschmaschine einschalten, muss die Waschmaschine nicht gleich laufen. Aber der Speicher sollte nicht mehr so weit. Man kann ganz viele Sachen machen, die anders sind. Das Licht schalten muss gleich kommen, das ist mir klar. Aber es gibt viele Dinge, die man anders regulieren kann. Man kann zuschalten usw. Das muss man natürlich steuern und regulieren. Und das Land, das das als erstes schafft, wird die Welt mit Technologie exportieren können. Und wird Arbeitsplätze schaffen. Und ich denke, der Werkplatz Schweiz braucht das Gesetz, weil es saubere Rahmenbedingungen schafft, damit wir als Exportnation in diesen Gebieten auch weltführend dabei sind.
+
+Person6 [0:22:54 - 0:23:05]:
+Herr Potti sieht das nicht ganz so optimistisch. Wieso eigentlich nicht? Weil es klingt ja eigentlich noch gut, Versorgungssicherheit ist gegeben, sagt Herr Noser. Was ist denn das Problem?
+
+Person5 [0:23:05 - 0:23:07]:
+Das ist es ja. Es klingt gut.
+
+Person5 [0:23:08 - 0:23:19]:
+Das kommt mir vor wie ein Wolf, der im Schafspelz verkauft wird. Aber drinnen, dahinter, ist eigentlich nichts. Das ist eigentlich der Wolf. Die Versorgungssicherheit ist meiner Meinung nach überhaupt nicht gegeben.
+
+Person6 [0:23:19 - 0:23:19]:
+Was sind denn die Gründe?
+
+Person5 [0:23:19 - 0:23:33]:
+Auch wenn man die AKWs, bis man nur schon all das aufgebaut hätte, die Photovoltaik und all die 1000 Windräder, die die Landschaft verschandeln, die übrigens alle Arbeitsplätze ins Ausland verlagern ...
+
+Person5 [0:23:34 - 0:23:55]:
+Ich kann auch aus Erfahrung sprechen. Ich habe in einer Firma pensioniert, die Zulieferant war zu den grossen Windräderherstellern oder zu den Türmherstellern. Kein Kunde ist in der Schweiz von denen. Das Gleiche gilt übrigens für die Photovoltaik-Hersteller. Die sind nicht in der Schweiz. Aber Sie glauben nicht daran, dass es Versorgungssicherheit gibt?
+
+Person6 [0:23:53 - 0:24:05]:
+Daran möchte ich jetzt gleich noch nachher stossen. Wieso glaubt ihr nicht daran? Was ist für euch der Punkt, an dem ihr sagen müsst, dass wir unter Umständen zu wenig Energie eines Tages haben?
+
+Person5 [0:24:08 - 0:24:23]:
+Schaut mal, ich war gestern zufällig bei einem Mitglied, einem Verbandsmitglied. Diese Firma kennt man nicht. Sie sind Zulieferer in die Kaffeemaschinenindustrie. Tausende Teile pro Tag müssen dort raus.
+
+Person5 [0:24:24 - 0:24:39]:
+Wenn dann das Band still steht, dann sind sie verkauft. Der Kunde von diesen grossen ... Die sind nicht bereit, dort zu warten. Die können nicht einfach solche Schwankungen auffangen. Die haben ein grosses Problem.
+
+Person4 [0:24:40 - 0:25:27]:
+Das ist ja unbestritten. Ein Stromausfall will niemand. Da arbeiten wir alle. V.a. die Hochspannung, das Weisskreis, arbeitet jeden Tag immens, dass solche Fälle nicht eintreten. Gerade diese Technologie heute. Sie steuern über ein IT-Netz. Eine Firma, die gerade Strom braucht, lässt man am Netz. Andere, die später Strom brauchen, können sie heute steuern. Das ist die Zukunft. Wie bei Smart Homes gibt es auch hier Steuerungsmöglichkeiten, bei denen sie solche Sachen finden. Das ist schon vermindert. Das passiert schon. Das wollen wir noch verbessern. Bei einem Nein löst sich die Angst der Firma nicht. Erst recht muss sie Angst haben. Okay, jetzt sind die KKW weg. Was ist dann? Es ist ja nichts da.
+
+Person5 [0:25:25 - 0:25:32]:
+Wir müssen importieren. Bei einem Nein ...
+
+Person6 [0:25:32 - 0:25:49]:
+Wir müssen importieren, sagen Sie. So attraktiv ist der Strom, den wir importieren. Nicht wirklich von unseren Nachbarn. Frankreich produziert v.a. Atomstrom. Und dieser Strom aus Deutschland kann sich nicht wirklich räumen.
+
+Person1 [0:25:51 - 0:26:13]:
+Das ist ein Kohlekraftwerk. So produziert Deutschland 40 % des Stroms. Über 100 solcher Kraftwerke verbrennen Kohle und produzieren neben Strom viel Wasserdampf und Rauch. Im Rauch sind Schadstoffe und viel CO2. Keine andere Stromproduktion stösst so viel CO2 hin, wie Kohlekraftwerke.
+
+Person1 [0:26:14 - 0:26:29]:
+Die deutschen Kohlekraftwerke produzierten im Jahr 2015 zusammen 260 Mio. t CO2. Das sind fast 7-mal mehr, als die Schweiz im gleichen Jahr insgesamt ausgestossen hat.
+
+Person6 [0:26:33 - 0:26:38]:
+Frau Lloyd, wir sind doch noch lange auf solch Strom angewiesen, bis es dann mal heisst, wir müssen nicht mehr importieren.
+
+Person4 [0:26:39 - 0:27:42]:
+Wir haben seit 15 Jahren im Winter gesagt, dass wir eine Importsituation haben. Und beim Strom. Sonst importieren wir bei Energie 75 % das ganze Jahr. Und in der Situation im Winter wird sich nichts ändern. Aber man muss eines sehen. Wir haben uns mit ihnen zusammen überzeugt, wir können nicht sofort abstellen. Die laufen noch, solange sie sicher sind. Das gibt uns 20 Jahre Zeit, um die Erneuerbaren kontinuierlich aufzubauen. Und das, was Sie hier sehen, da sind wir uns wahrscheinlich einig, bis auf Herrn Nationalrat Brunner. Die fossilen Energien sind sicher nicht unser Ziel. Wir haben schon lange das CO2-Gesetz. Wir haben das Pariser Klimaabkommen unterzeichnet. Wir wollen sicher nicht den wegfallenden Kernkraftstrom durch fossile Energie ersetzen. Also, da fragen wir ... Herr Brunner hat leider das Klimaabkommen abgelehnt im Nationalrat. Aber das ist eine andere Geschichte. Darum sagen wir, die einzigen Alternativen sind tatsächlich Effizienz und Erneuerung.
+
+Person6 [0:27:42 - 0:27:51]:
+Gut, dann fragen wir Herrn Nationalrat Brunner. Dann ist das Gesetz eine Chance, dass man sich irgendwann lösen kann von diesem dreckigen Strom, dieser dreckigen Energie.
+
+Person8 [0:27:51 - 0:28:17]:
+Nein, die Widersprüche findet man schon in Artikel 3 des Gesetzes, wo gesagt wird, man wolle den Gesamtenergiekonsum um 43 % pro Person und Jahr. Man rechnet immer pro Person, denn wir haben ja massive Zuwanderung. Wenn man das so sagt, sieht es anders aus. Nicht jeder Asylbewerber fährt ein Auto. Aber das ist eine andere Geschichte. Gut, das ist eine andere Geschichte. Kommen wir zurück zum Strom. 43 % wollen wir senken.
+
+Person8 [0:28:18 - 0:28:50]:
+Und jetzt kommt der Widerspruch. Zugleich 13 % Elektrizität, also Strom. Jetzt muss ich zu Ihnen sagen, wenn uns mit diesem Gesetz verkauft wird, das sei ein Gesetz, das wir wegkommen von den fossilen Energieträgern, dann müsste man eine Zubau-Strategie im Strombereich fahren. Denn die Elektrifizierung im Strassenverkehr, Wärmepumpen z.B., damit man dort Wärme nutzen kann, das braucht ja alles Strom. Aber schauen Sie mal, Herr Brumm,
+
+Person6 [0:28:48 - 0:29:16]:
+dass man grundsätzlich Strom erzeugen kann, nur mit erneuerbaren Energien. Das beweisen ja heute schon einige Länder. Z.B. Norwegen, wo man durchaus ein bisschen vergleichen kann. Wir haben etwas. Wir haben die Schweiz. Ein Land, das etwa gleich viel Energie braucht wie die Schweiz. Und sogar mehr Strom. Und trotzdem geht das Ganze ohne Kernkraftwerk. Schauen Sie mal.
+
+Person2 [0:29:19 - 0:29:56]:
+Ein Land ohne Kernkraftwerk, aber mit einem hohen Stromverbrauch. Ein norwegischer Haushalt verbraucht rund dreieinhalbmal mehr Strom als ein Schweizer Haushalt. Trotzdem produziert das Land seinen Strom fast ausschliesslich mit erneuerbaren Energien. 95,8 % wird mit Wasserkraftwerken erzeugt. Der Rest stammt aus Biomasse und Windenergie und nur 2,5 % sind Gas. Insgesamt produziert Norwegen mehr Strom aus erneuerbaren Quellen, als es selber benötigt. Deshalb kann Norwegen sogar grünen Strom exportieren.
+
+Person6 [0:29:57 - 0:30:02]:
+Also Toni Brunner, es zeigt ein Beispiel, es geht ohne Atomkraft und es geht ohne Import.
+
+Person8 [0:30:02 - 0:30:04]:
+Also erstens ist das ein schlechtes Beispiel.
+
+Person6 [0:30:04 - 0:30:05]:
+Wieso ist das ein schlechtes Beispiel?
+
+Person8 [0:30:05 - 0:31:18]:
+Denn der Hauptträger ist die Wasserkraft. Das ist in der Schweiz auch so. Aber genau, die Wasserkraft kommt mit der neuen erneuerbaren Energie. Weil wir Subventionen in die ineffiziente Technologie einsteuern, kommt die Wasserkraft jetzt unter Druck. Also eigentlich macht man das überste Energie kaputt. Und das Neid zu diesem Gesetz ist eigentlich ein Ja zur Wasserkraft. Es macht mittelfrei. Das Zweite, was ich noch anfügen möchte. In Norwegen, hier. Ich war mal vor zwei Jahren in Norwegen. Ich habe im ganzen Land nie ein Sonnentuch gesehen. Und so viele Küsten haben wir auch nicht, dass die Windsituation in der Schweiz so gut wäre wie in Norwegen. Aber die Frau Bundespräsidentin hat ja vorher etwas Interessantes gesagt. Sie hat gesagt, wir wollen wegkommen von den Fossilen. Und es ist richtig, drei Viertel des schweizerischen Energiekonsums sind Fossile. Also Import, Diesel, Benzin, Gas und 25 Prozent, ist Elektrizität. Und die sind bis jetzt, über das ganze Jahr gesehen, in der Schweiz hergestellt worden. Und wieso sagen wir, wir werden auslandabhängiger? Weil in Zukunft wird der Strom, so wie Sie jetzt mit diesem Gesetz agieren, nicht mehr in der Schweiz produziert, sondern im Ausland.
+
+Person7 [0:31:18 - 0:32:31]:
+Toni Brunner, ein paar Fakten. Wir sind uns einig, die Atomkraftwerke kommen ins Alter, eine neue wird nicht gebaut. Sie klagen an, wir bauen die Laufenden aus, und dann wird es zu dieser Fassade. Es wird eine Wolke von Dreckstrom kommen. Das will niemand in diesem Saal. Aber Sie machen das mit dem Gesetz. Nein, jetzt kommt der Punkt. Wenn Sie vor der Situation stehen, dass die Atomkraftwerke auslaufen, was würden Sie als beste Option machen? Die Erneuerbaren ausbauen, die Energieeffizienz steigern, damit die Wolke, die hier gezeigt wurde, so klein wie möglich bleibt. Sie optieren eigentlich für die zweitbeste Lösung. Sie sagen, das läuft alles aus, wir stimmen Nein, und dann gibt es eine grosse Dreckwolke. Der entscheidende Punkt ist, die beste Lösung ist, wenn Ihnen ... 60 % Wasserkraft in diesem Land. 60 % Wasserkraft zur Stromproduktion. Aber die beste Lösung ist, wenn Ihnen die Kapazitäten wegfallen, wo Sie die Gefahr haben, dass dafür Kohlenstrom importiert wird. Dann müssen Sie die beste Antwort darauf geben. Dann bauen Sie Erneuerbare aus. Weshalb konzentrieren wir uns nicht? Sie steigern die Energieeffizienz. Norwegen ist ein schönes Beispiel, aber darum ist die Energiestrategie wichtig. Wir machen die Möglichkeiten, die in diesem Land möglich sind.
+
+Person8 [0:32:31 - 0:32:39]:
+Weshalb konzentrieren wir uns nicht auf die Wasserkraft? Denn dort haben wir auch Bandenergie, eine Zuverlässigkeit, die Städteproduktion. Auch die Wasserkraft ist in diesem Gesetz mit einem Ausbauziel drin.
+
+Person7 [0:32:35 - 0:33:05]:
+Das ist bescheiden, aber es steht drin, wie viel Wasserkraft wir im Jahr 2035 noch im Betrieb haben wollen. Ich bin gespannt, wo. Das steht im Gesetz nur nicht. Es gibt niemanden, der die Wasserkraft abbauen will. Aber es gibt viele, die sagen, es sei intelligent, wenn Kraftwerkskapazitäten wegfallen, dass wir die bestmögliche Option suchen. Dazu hat Frau Egger noch nicht gesagt. Nämlich der erneuerbare Ausbau und Energieeffizienz.
+
+Person6 [0:33:02 - 0:33:29]:
+Herr Luss-Volmer, Sie haben vorhin etwas ganz Wichtiges angesprochen. Das ist die Energieeffizienz. Ich möchte schnell den Finger auf die Energieeffizienz haben. Jeden und jede unter uns braucht immer noch wahnsinnig viel Energie, Jahrein und Jahreaus im Vergleich zu früher. Aber es ist schon etwas besser geworden. Ein bisschen. Das Energiegesetz von Frau Leuthardt geht sogar noch einen Schritt weiter. Offenbar liegt noch mehr drin.
+
+Person1 [0:33:32 - 0:33:44]:
+Das Energiegesetz will unseren gesamten Energieverbrauch reduzieren. Um 43 % pro Person und Jahr. Darin enthalten ist die Senkung des Stromverbrauchs um 13 % pro Person und Jahr.
+
+Person1 [0:33:45 - 0:33:57]:
+Einen Teil der Reduktion will die Energiestrategie mit Effizienz erreichen. Hier hat sich in den letzten Jahren einiges getan. Häuser werden besser isoliert und neue Heizungen brauchen weniger Energie.
+
+Person1 [0:33:58 - 0:34:07]:
+Elektrogeräte, Kochherde zum Beispiel, waren früher regelrechte Stromfresser. Heute brauchen sie viel weniger Strom pro Teller Spaghetti.
+
+Person1 [0:34:10 - 0:34:12]:
+Autos verbrannten früher viel Treibstoff.
+
+Person1 [0:34:13 - 0:34:30]:
+Heute sind sie sparsamer. Mit neuen Regeln will die Energiestrategie noch mehr Effizienz erreichen. Aber reicht effizienter werden alleine aus, und die Zielfolge sind die neuen Regeln? Wollen wir die Vorgaben erfüllen? Oder müssen wir uns in Zukunft massiv einschränken und verzichten, um das zu erreichen?
+
+Person6 [0:34:31 - 0:34:37]:
+Das Auto in der Garage lachen, kalt duschen, wie Toni Brunner sagt. Frau Leuthardt, Sie können sich das sicher schöner vorstellen.
+
+Person4 [0:34:38 - 0:35:57]:
+Ich glaube, bevor wir kalt duschen würden, würde das Wasser ausgehen, weil der Boiler leer ist. Das sind eben Horrors. Ich habe auch gelesen, Bananen würden wir verbieten. Weiss ich was für Dinge. Das ist eben wirklich ein bisschen, ich weiss auch nicht, aus der Klamauk-Kiste. Nochmals, ohne dass Sie wahrscheinlich einen Komfort-Einbuss hatten, haben wir in 15 Jahren 14,5% Energie gespart. Die Stadt St.Gallen, ich nehme jetzt das Heimatkanton vom Nationalrat Brunner, hat sich das 2000 Watt-Ziel gesetzt, in 10 Jahren 20% Energie pro Bevölkerung gespart. Ich habe auch nicht das Gefühl, dass St.Gallen die ganze Zeit nur noch Brot und Wasser gegessen hat. Wir haben x Energiestädte, Unispital Zürich, weil wir hier in Zürich sind, die haben alleine mit der Umstellung auf LED-Beleuchtung ebenfalls locker 20% gespart. Die Firmen, also man kann eine ganze Palette von Beispielen aufzählen. Und ich könnte ja wohl nicht glauben, dass in den nächsten 20 Jahren hier nichts mehr passiert auf dem Markt. Vom Kühlschrank zur Beleuchtung, zum Industrieprozess. Da ist ja alles in Gang. Darum ist das Programm ein riesiger Antrieb, auch ein Innovationsschub für die Industrie. Und darum ist auch der grosse Teil der Wirtschaft...
+
+Person6 [0:35:56 - 0:36:00]:
+Also, Sie übertreiben völlig, sagt Frau Bundespräsidentin.
+
+Person8 [0:36:00 - 0:36:46]:
+Wir brauchen nicht ein Gesetz mit 77 Artikeln, in dem etwa 60 Mal steht, der Bundesrat wird geregelt, der Bundesrat schreibt vor mit den Kantonen, die Kantone müssen und so. Es ist ein regulierendes und auch ein bisschen ein Delegationsgesetz auf die Bundesbären in die Verwaltung oder zum Bundesrat, weil man in der Politik die ehrige Vorstellung hat, man könne die Energiewirtschaft jetzt auf 30, 40 Jahre planen und lenken. Wissen Sie, Frau Bundespräsidentin, Sie haben sich vorher so ein wenig abschätzt über ein mögliches Bananenverbot usw. Worum geht es? Es wird wehtun, den Bürgerinnen und Bürgern, wenn wir Energie einsparen müssen. Herr Brunner, Herr Brunner, bitte.
+
+Person6 [0:36:44 - 0:36:54]:
+Entschuldigung, dass ich Sie gerade störe. Es geht jetzt nämlich um die Bananen und Co. Ich bitte Sie mit mir in den Prüfstand. Bitte, Toni Brunner.
+
+Person6 [0:37:04 - 0:37:27]:
+Also, das wollen wir jetzt etwas genauer wissen, Toni Brunner. Die ganzen Beispiele, die wir hier gehört und gesehen haben. Ihr zeichnet ein Horrorszenario in eurer Kampagne. Wir frieren unter der Dusche, so sieht das aus. In der Werbung. Es ist ja noch lustig, so eine humoristische Einlage. Aber Sie glauben ja nicht selber daran, dass es so weit kommt.
+
+Person8 [0:37:27 - 0:37:40]:
+Doch. Wieso muss denn der Bundesrat in diesem Gesetz eine Kompetenz bekommen, dass er sogenannte Smart Meter, das sind so intelligente Stromzähler, da kommt also nicht mehr der Stromablässer ins Haus, sondern da kommen wir von einer Zentrale her,
+
+Person8 [0:37:41 - 0:38:15]:
+auch vom Staat, verordnet. Da kann man nicht nur ablesen, wer braucht wann welche Energie, welchen Strom, zu welcher Tageszeit, sondern man kann ihn auch anfangen zu steuern. Und ich begreife es schon, wenn man so eine riskante Strategie fährt, wo man nicht genau weiss, woher der Strom kommt, dann muss man ja die Leute zum Sparen zwingen. Und das macht der Staat, indem er verordnet, z.B.: «Wieso muss jetzt Herr Grossni Klaus in Zukunft im Winter noch bei wohligen 24°C Fernsehen schauen? Er könnte ja auch mit 18 gehen.» «Das macht er heute schon nicht mehr, Herr Brunner.»
+
+Person8 [0:38:15 - 0:38:34]:
+«Ja gut, gut.» «Der braucht nicht so warm in der Stube.» «Aber er sagt z.B. so etwas wie ich, ich gebe nicht gerne einen Kalttuscher, ich bin ein Warmtuscher. Und es ist mir wichtig, dass man nicht Leute vom Staat her umerzeugt. Aber das ist so ein Gesetz voller Vorschriften, Verbote, Lenkungen. Und das wird den Leuten wehtun.»
+
+Person6 [0:38:33 - 0:38:54]:
+«Aber die sagen, es wird wahnsinnig viel verboten, wir müssen auf vieles verzichten. Das Beispiel haben wir schon gesehen mit der Banane. Da ist es, Banane können wir nicht mehr essen, weil sie von weit her kommen. Auto können wir nur noch jeden zwei Tage fahren, müssen auch dort verzichten. Und jetzt eben das noch mit den Temperaturen. Irgendwann schreibt uns der Bund noch vor, wir dürfen nicht mehr als 15°C haben.
+
+Person8 [0:38:54 - 0:39:55]:
+Da glaubt er doch selbst nicht dran.» «Der Bundesrat hat ja interessanterweise selber einen Vorschlag gebracht. Wir stimmen ja jetzt über ein erstes Paket ab von dieser Energiestrategie, aber das geht ja nachher weiter. Also das Ja jetzt ist sein Trittstörchen, dass man nachher dann über die Finanzen reden will. Und der Bundesrat ist immerhin so ehrlich, dass er sagt, wir müssen den Strom insgesamt um 3 Rappen pro Kilowattstunde anheben im Endausbau. Also vielleicht ist es sogar noch mehr für diese KF, oder man sagt Netzzuschlag. Man muss 26 Rappen mehr für den Liter Benzin und man muss 67 Rappen für das Heizöl. Und jetzt hat das Parlament gemerkt, das ist eine ungeschickte Vorlage, weil in der Verfassung muss es zwingend vor das Volk. Und man hat zu null im Nationalrat die Vorlage, die noch so ehrlich war, dass sie aufgezeigt hat, wie man das finanzieren will, wie man die Leute lenken will, hat man jetzt nicht eingetreten. Dann bin ich ein wenig verunsichert worden.
+
+Person6 [0:39:54 - 0:39:59]:
+Aber wir reden ja jetzt über den ersten Teil der Energiestrategie heute Abend, über das Energiegesetz.
+
+Person8 [0:39:58 - 0:40:05]:
+Ja, die Ziele sind in diesem Gesetz drin. Und wenn man diese Ziele erreichen will, hat der Durchsetzungsantrieb...
+
+Person6 [0:40:02 - 0:40:23]:
+Also 43%, aber Herr Brunner, die 43% sind doch nicht fix so festgeschrieben. Das ist ein Richtwert. In diesem Gesetz steht, bis 2025 anzustreben. Steht schwarz auf weiss. Und es sagt doch niemand, dass wir diesen Wert von 43% auf Biegen und Brechen erreichen müssen.
+
+Person8 [0:40:23 - 0:41:45]:
+Also nichts mehr gehalten durch... Also ich empfehle allen Leuten, jetzt sollten sie ja unterdessen zuhause sein, das Abstimmungsbuch, in dem das ganze Energiegesetz drin ist, einmal durchzulesen. Dort drin, das ist übrigens so dick wie sonst, wenn es um drei, vier Vorlagen geht, gibt es Artikel 55. Die Leute müssen nicht alle 77 Grad halten. Sie müssen Artikel 3 und Artikel 55 lesen. Das ist ein Durchsetzungsartikel. Dort drin steht nämlich, dass der Bundesrat allperiodisch Berichte erstatten muss. Im Parlament sind wir auf dem Weg der Zielerreichung. Und wenn nicht, dann muss er Massnahmen verordnen. Und das steht so in diesem Gesetz drin, Artikel 55. Und das heisst, jetzt können die Massnahmen... Das sind dann die Verbote, die Verteuerungen. Und darum sagen wir, und die Zahlen sind ja nicht von uns, die 200 Milliarden, das sind die Kosten, die entstehen in diesem Gesetz. Auch mit der Strategie bis hinten raus, bis ins Jahr 2050, das sind 32 Jahre, rechnet man die pro Jahr um, sind das 5-7 Milliarden Kosten. Da muss man den Zubau dazurechnen von diesen neuen erneuerbaren Energien, den Netzausbau, weil es braucht ein ganz anderes Netz. Und wenn man die 5-7 Milliarden pro Jahr durch die Anzahl der Leute, die in der Schweiz leben, nämlich 8,5 Millionen rechnet, kommt man auf 823 Millionen. Das sind 3'200 Franken und im vierköpfigen Haushalt 3'200 Franken pro Jahr.
+
+Person8 [0:41:45 - 0:41:46]:
+Genau, da reden wir noch drüber.
+
+Person6 [0:41:45 - 0:42:07]:
+Aber reden wir jetzt einmal über unseren Alltag, über genau die Leute, die in einem Haushalt wohnen. Es sieht doch gar nicht mehr so schlecht aus. Schaut euch einmal dieses Beispiel vom Kühlschrank an. Ein Kühlschrank hat 1990 z.B. noch 500 Kilowattstunden gebraucht. Und wenn ich heute einen kaufe, dann braucht der noch 160 Kilowatt. Und ist erst noch viel grösser.
+
+Person8 [0:42:07 - 0:43:27]:
+Ja, aber das ist doch niemand. Niemand ist dagegen. Ich bitte alle Leute, sie sollen so gerade kaufen. Aber das heisst doch, kommen wir sparen. Ja, der technologische Fortschritt. Dafür brauchen wir das Gesetz definitiv nicht. Aber es gibt andere Entwicklungen in diesem Land. Momentan wird nicht viel darüber gesprochen. Aber z.B. allein das Internet. Da brauche ich in der Schweiz pro Jahr so viel Strom wie ein KKW. Das sind eben auch die neuen Nutzungsmöglichkeiten. In dem alle streamen, in dem sie Videos herunterladen. Das braucht alles Strom. Und das sind natürlich Fortschritte. Und die Menge an Leuten, die zunimmt. Also wir müssen doch nicht glauben, wir werden in Zukunft weniger Strom brauchen. Wir können es vielleicht durch so Gräte tatsächlich effizienter machen. Und das sollen wir auch tun. Und alle Industrien werden schauen, dass sie ihre Produktionsanlagen auf den neuesten Stand der Technologie bringen. Aber wir dürfen uns nicht der Illusion hergeben, dass eine Wohlstandsgesellschaft, sonst wäre es nämlich ein anderer Weg, Abbau von Wohlstand freiwillig bereit ist auf Errungenschaften, wie z.B. das Internet, Smartphones usw. zu verzichten. Und deshalb müssen die Leute, die heute noch darüber lachen, dass es Restriktionen geben könnte, einfach wissen, der Staat wird überall einen Spion haben, in jedem Haus, in das er anfängt, wird er lenken. Und dann duschen wir zwei nur noch kalt. Gut, also. Dann kann ich doch mal schauen, wie viele Grad es bei euch noch gibt.
+
+Person8 [0:43:28 - 0:43:30]:
+Dann gibt es nicht mehr zu viel zu schauen, wenn ich kalt dusche.
+
+Person6 [0:43:29 - 0:43:33]:
+Ein Warmduscher.
+
+Person6 [0:43:38 - 0:43:41]:
+Euch gefällt das Duschen besser als die nackten Zahlen.
+
+Person6 [0:43:43 - 0:44:23]:
+Der Energieverbrauch, den ihr uns weiss machen wollt, habt ihr uns übrigens nach Hause geschickt. In der Abstimmungszeitung können wir das mal anschauen. Die Grafik des Energieverbrauchs bis 2010 steigt und steigt immer. So, und jetzt schauen wir mal. Wir haben die Grafik, Herr Brunner, für euch fertig gemacht. Zahlen gibt es nämlich nicht nur bis 2010, sondern bis 2015. Wir haben übrigens die gleiche Quelle gebraucht. Das habe ich noch nachgeschaut vor der Sendung. Also, der Energieverbrauch ist in den letzten fünf Jahren gesunken. Ihr macht doch nichts anderes mit dieser Grafik,
+
+Person8 [0:44:25 - 0:44:48]:
+als mir, den Stimmbürgern, zu duschen. Nein, ganz im Gegenteil. Wir müssen den gesamten Energieverbrauch anschauen. Und der gesamte Energieverbrauch ist in den letzten Jahren nur jetzt. Jetzt hat es ein bisschen einen Knick gegeben. Aber der wird nicht so weitergehen, wie er von den Befürwortern herbeigesehnt wird. Wir sehen ja, sonst wären wir im Verbrauch von 1966, weil wir ja pro Kopf zahlen.
+
+Person6 [0:44:48 - 0:44:49]:
+Ja, aber es geht.
+
+Person6 [0:44:49 - 0:44:50]:
+Und wissen Sie, wo wir hinwollen?
+
+Person8 [0:44:49 - 0:45:46]:
+Wir wollen hin, wo heute z.B. Kroatien ist, oder wo z.B. Uruguay ist, oder wo Kasachstan ist. Auf diesen Kopfverbrauch wollen wir gehen. Ein hochtechnologisiertes Land, das viel in der Exportwirtschaft hat. Wissen Sie, was ich nicht will? Dass in der Schweiz wir nur noch eine Dienstleistungsgesellschaft haben und nichts mehr produziert wird. Darum sind alle, die Produkte produzieren, z.B. die Maschinenindustrie, die Kunststoffindustrie, z.B. auch die Pharma-, das ist die Science Industries, und die Chemieindustrie, alle die, die zur Wertschöpfung beitragen und nicht nur Dienstleistungen anbieten, gegen das gesetzt. Warum? Weil sie wissen, dass das mit diesen 43 % utopisch ist. Wer hat bis jetzt gespart, dass es retour ging? Das ist nicht unbedingt im Privathaushalt. Das ist nicht eine Pro-Kopf-Rechnung,
+
+Person6 [0:45:42 - 0:45:48]:
+wie wir hier auf der Grafik sehen.
+
+Person8 [0:45:48 - 0:45:50]:
+Das ist der Sturm der Energieverbrauch des ganzen Landes.
+
+Person8 [0:45:52 - 0:47:00]:
+Ohne Zutun des Staates war das die Industrie. Die investiert doch in die Effizienz. Aber was muss man mit diesem neuen Gesetz machen? Man muss die grossen entlasten von dieser Käffe, den sogenannten Netzzuschlägen, damit sie noch in der Schweiz produzieren können. Man hat gemerkt, die Papierindustrie, die Stahlwerke, würden wir noch von dem Land jagen, weil sie nicht mehr konkurrenzfähig wären, wenn sie diesen Strompreis zahlen müssten wie die Haushaltigen, den Mittelstand und die Kleinen. Wissen Sie, was das Gesetz bringt? Das finde ich eigentlich verrückt. Das Gesetz, da können z.B. Grossverteiler, die Grobmigros, ihre Bäckereien auslagern in einem Produktionsbetrieb und dann nachweisen, dass sie über 10% der Produktionskosten im Stromverbrauch haben. Sie können sich entlasten lassen. Aber der kleine Bäcker kann sich nicht entlasten lassen. Unsere Zeit läuft ab im Prüfstand. Und dieser Kleine wird einem Wettbewerbsnachteil ausgesetzt, weil der Grosse wird entlastet, kann Brötchen und Zopf billiger backen, aber der kleine Bäcker kann sich nicht entlasten lassen.
+
+Person6 [0:47:00 - 0:47:06]:
+Danke, Herr Brunner, dass Sie zu mir in den Prüfstand kamen. Wir gehen zurück in die Runde.
+
+Person6 [0:47:07 - 0:47:21]:
+Der Staat fördert erneuerbare Energien. Das ist heute so, das ist mit dem neuen Gesetz so. Und neu liegt sogar noch ein bisschen mehr Geld im Fördertopf. Schaut mal.
+
+Person1 [0:47:24 - 0:47:38]:
+Wir alle brauchen Strom. Jeden Tag. Mit der Stromrechnung bezahlen wir auch den sog. Netzzuschlag. Heute beträgt dieser 1,5 Rappen pro Kilowattstunde. Neu wären es 2,3 Rappen.
+
+Person1 [0:47:39 - 0:47:47]:
+Der Netzzuschlag kommt in einen Fonds. Damit fördert der Staat erneuerbare Energien wie Wasser, Wind und Sonne.
+
+Person1 [0:47:48 - 0:47:55]:
+Wer solchen erneuerbaren Strom produziert, z.B. mit Wind, erhält dafür Geld vom Stromnetzbetreiber und aus dem Fördertopf.
+
+Person1 [0:47:58 - 0:48:21]:
+Neu sollen grössere Stromproduzenten ihren Strom nicht verkaufen. Sie sollen den Strom selber verkaufen. So können sie mehr verdienen. Indem sie den Strom dann verkaufen, wenn die Nachfrage hoch ist und dadurch der Preis steigt. Damit soll der Strommarkt besser funktionieren und die erneuerbaren Energien wettbewerbsfähig sein. Wenn sie kein Geld mehr aus dem Fördertopf bekommen.
+
+Person6 [0:48:23 - 0:48:32]:
+So, Frau Weger, die Fördergelder sind befristet bis 2035. Ohne Gesetz läuft das ja weiter. Ihr müsst euch eigentlich fragen, ob Sie sich über das neue Gesetz freuen.
+
+Person3 [0:48:32 - 0:48:52]:
+Nein, ich würde mich freuen, wenn die 1,5 Rappen bleiben. Denn der Topf ist ja leer. Und warum setzt sich Herr Nussbaumer so ein für dieses Gesetz? Dass es so wunderschöne Geschäftsberichte gibt von euren Unternehmen, Wasserkraft, Solar...
+
+Person6 [0:48:51 - 0:48:56]:
+Das ist ein Geschäftsbericht von Herrn Nussbaumer. Das ist der Verwaltungsratspräsident. Sehr gut.
+
+Person3 [0:48:56 - 0:48:57]:
+Danke, dass wir das geklärt haben.
+
+Person7 [0:49:00 - 0:49:39]:
+Ich möchte Ihnen sagen, wenn es nur um mich ging, wäre ich sicher nicht hier. Es geht um unser Land, was wir hier diskutieren. Es geht darum, ob wir eine sichere, zuverlässige und umweltfreundliche Energieversorgung herbringen. In dem Sinne kann ich Ihnen auch sagen, wer das alles unterstützt. Der Gewerbeverband findet es intelligent, dass wir in Energieeffizienz und erneuerbare Energien investieren. Der Bauernverband findet es gut, dass wir in Energieeffizienz und erneuerbare Energien investieren. Viele KMU, der grösste Teil der KMU, finden, dass das intelligent ist. Es stimmt einfach nicht, dass Sie darstellen, dass es ein paar wenige sind.
+
+Person3 [0:49:38 - 0:49:46]:
+Sie bekommen 32 Rappen pro Kilowattstunde Solarstrom. Nein, das stimmt sicher nicht mehr. Das ist schon lange heruntergegangen.
+
+Person3 [0:49:47 - 0:50:10]:
+Der Geschäftsbericht 2015. Sie schreiben in diesem Geschäftsbericht, man müsse den Fördertopf... Das war nämlich die Frage von Herrn Grossli-Klaus. Ich möchte nicht unterbrechen. Aber ich muss jetzt wirklich sagen, er hat ja gefragt wegen den 1,5 Rappen. Ich habe auch gesagt, ich möchte bei 1,5 Rappen bleiben, denn dann ist der Fördertopf leer.
+
+Person7 [0:50:10 - 0:50:11]:
+Frau Eggerter.
+
+Person3 [0:50:11 - 0:50:38]:
+Dann gibt es keine neuen. Dann wird das Geld nicht nochmals falsch allociert und für neue gebaut. Das ist noch viel besser als das Ablaufdatum bei der kostendeckenden Einspeisevergütung. Sie haben ja 20-jährige Verträge bei dieser kostendeckenden Einspeisevergütung. Diese Verträge muss man ja erfüllen. Darum ist der Topf leer und man muss das Gesetz ablesen.
+
+Person6 [0:50:37 - 0:50:41]:
+Das stimmt ganz klar nicht, sagt Frau Leuthard. Da möchte ich jetzt eine Antwort hören.
+
+Person4 [0:50:40 - 0:51:46]:
+Da muss ich jetzt wirklich korrigieren. Die Fördergelder passen man mindestens zweimal an jedes Jahr, den Marktentwickler. Bei Piwi z.B. sind seit Einführung dieses Zuschlags um 80 % gesenkt. Zweitens, der Topf ist nicht leer. Ich habe es schon gesagt,  wir verlangen pro Kilowattstunde bei allen, das können Sie ja auf Ihrer Rechnung, die 1,5 Rappen jedes Jahr bei der Wirtschaft, bei jedem Konsument. Mit dem heutigen Gesetz würde da unbefristet an den externen noch weitergehen. Wir hätten Geld, aber wir haben im neuen Gesetz das befristet. Wir gehen auf und auf 2,3 Rappen, davon aber 0,3 für die Wasserkraft. Dann ist das befristet. Die eigentlichen Käffe, die Beiträge, sind nur noch bis 2022 erhältlich. Dann hat man noch Investitionsbeiträge bis 2030. Und den muss der Markt lösen. Entgegen der konventionellen Energien sind die Preise für die erneuerbaren, Gott sei Dank, in den letzten 10, 15 Jahren massiv runtergekommen. Aber die Fälle, die Sie haben, sind konventionell.
+
+Person6 [0:51:43 - 0:51:51]:
+Wäre es dann nicht gescheiter, man würde den Freimarkt heute schon spielen? Man würde auf die Subventionen verzichten?
+
+Person4 [0:51:51 - 0:52:46]:
+Geht noch nicht. In einem idealen System wäre es mir recht, man müsste keine Förderung machen. Aber Herr Nationalrapport hat am Anfang richtig gesagt, es gibt die Mehrheit der Länder, die fördern. Aber es gibt auch viel mehr Fördermittel bei den fossilen Energien. Wir sind bei 500 Mrd. US-Dollar weltweit. Bei den Erneuerbaren sind wir bei etwa 160 Mrd. Das ist ein riesiger Gap. Da müssen wir unsere eigenen Investitionen schützen. Wenn das so weitergeht, investiert in die Schweiz niemand. Dann haben wir die Situation, dass Unternehmen in der Schweiz sagen, es lohne sich nicht. Rund um uns herum haben sie sofort ein Programm. Darum haben wir gesagt, in Übereinstimmung mit dem Parlament, mit den Kantonen und der Industrie, begrenzt zu machen. Und dann hört das auf. Dann muss es wirklich gewagt werden. Das ist der Moment,
+
+Person6 [0:52:45 - 0:53:02]:
+wo wir zu unseren Wirtschaftsvertretern gehen. Herr Ponti, Silvio Ponti, das Gesetz will ja den Markt irgendwo. Das soll euch ja positiv stimmen. Das sollte mich freuen.
+
+Person5 [0:53:03 - 0:54:07]:
+Das stimmt mich sehr positiv, wenn man die Subventionen streichen könnte. Aber was ich hier sehe, das ist ja Subventions-Topf-Bau. Und Herr Nussbaumer, ich meine, Dienstleister, die gemäss Energiestrategie etwa 5'000 Arbeitsplätze haben. Allein die kohlenstoffverarbeitende Industrie hat eine hohe Leistungsleistung.  Sie hat etwa 6-fache Arbeitsplätze. Das ist die Schuttenzeit. Irgendjemand muss hier zahlen. Und wer zahlt das? Die kleinen und mittleren Unternehmen. Was Herr Brunner gesagt hat, die grossen, die könnten raus, die wären noch befreit, die können verlagern. Kleiner und mittlerer kann nicht verlagern. Und die machen es selber schon. Letzte Woche war ich bei einem, 30 Personen, ein paar Spritzgussmaschinen. Der hat selber schon investiert. Ohne Kaffee, alles zusammen. In Erzhunde, sogar in Photovoltaik. Aber jetzt kommt immer noch mehr. Noch mehr, noch mehr, noch mehr. Es heisst immer, es ist nur ein bisschen. Aber wie sagt man so schön? Klein, fein macht auch Mist.
+
+Person6 [0:54:07 - 0:54:14]:
+Also es gibt überhaupt keine Fairness, Herr Noser. Die einen profitieren und die anderen nicht. Und die anderen, das ist eben kein Muss.
+
+Person9 [0:54:14 - 0:54:46]:
+Was Herr Ponte kritisiert, das ist heute der Eisszustand. Das Gesetz führt in die Richtung, dass es eher gleich wird für alle. Das muss man klar und deutlich sagen. Das ist nicht so, dass es eben unten gemacht ist. Das stimmt hinten und vorne nicht. Die Tarife innerhalb der Gemeinden in der Schweiz sind so unterschiedlich, dass man heute schon einen sehr grossen Konkurrenzunterschied hat. Man kann unter Umständen einen Faktor mehr zahlen, wenn man von einer Gemeinde in die andere wächst. Das heisst, der Becker von einer Gemeinde zahlt vielleicht doppelt so viel wie von der anderen. Die Stadt Zürich hat keinen Gewerbetarif, keinen Nachttarif.
+
+Person9 [0:54:46 - 0:54:47]:
+Es gibt keinen Wettbewerb bei den gebundenen Kunden.
+
+Person9 [0:54:47 - 0:55:39]:
+Genau. Man hat das schon bei den Gemeinden. Wenn man dem verleitet würde folgen und nachher sagt, nach dem kommen auch die kleinen Marktöffnungen, wäre das alles gelöst. Da muss man auch klar streiten. Da muss man auch den Mut haben, zu sagen, das ist ein Konzept, wenn man langsam den Energiemarkt einführt und reinführt, ist ein Übergang. Und wenn Sie nachhaltige Energie produzieren, haben Sie keine Einspeisegarantie mehr. Sie müssen den Markt finden für sich. Sie müssen auch den Markt finden, dass Sie einen Preis vermögen, der Ihnen den Strom abnimmt. Neu können Sie aber auch den Strom selbst verbrauchen. Das sind alles Mittel, die dazu führen, dass es ein neues System gibt, das für die Wirtschaft topattraktiv ist, aber auch für den Konsument topattraktiv ist. Das ist eine Änderung des heutigen Monopols, das einer produziert und alle kaufen müssen.
+
+Person6 [0:55:38 - 0:55:45]:
+Für Kamus ist das im Moment nicht attraktiv, aber wenn das ausläuft, dann wird es. Herr Ponti.
+
+Person8 [0:55:46 - 0:55:53]:
+Da wird einem ein Wettbewerbsnachteil ausgeliefert. Der Beck kann sich nicht befreien. Die Grossen machen das systematisch.
+
+Person9 [0:55:51 - 0:56:03]:
+Der Beck kann den Strom, den er braucht, wenn er sich organisiert und selbst produziert, selbst verbrauchen. Das sind riesige Investitionen. Herr Ponti.
+
+Person5 [0:56:00 - 0:56:47]:
+Das sind riesige Investitionen, die wir machen müssen. Und wenn ich lese, was auch vorhin gesagt wurde, wie viel kann und muss und alle fünf Jahre muss der Bundesrat überprüfen und Massnahmen vorschlagen. Das ist nicht einfach nur überprüfen. Es ist Massnahmen vorschlagen. Da kommt einfach auf die kleinen und mittleren Betriebe, so sicher wie es in der Kirche ist, wird alles verlängert und erhöht, die Subventionen. Wir haben es vorhin gehört, es wird teurer und teurer. Wir haben hohe Löhne in der Schweiz. Das von Franken kennen wir alle. Jetzt müssen wir unsere Unternehmen doch entlasten von allem Nommelchenöchsten. Hier noch ein bisschen, hier noch ein bisschen und hier noch ein bisschen. Sie werden ja ... Das ist eben der Kleinfie, der auch mischt. Also ...
+
+Person9 [0:56:47 - 0:56:59]:
+Das Gesetz entlastet die Unternehmen am einfachsten. Die Unternehmen, das wurde ja vorhin kritisiert, können sich relativ einfach freistellen von dieser Prävention. Aber Herr Nooser ... Wir reden über Subventionen.
+
+Person6 [0:56:56 - 0:57:14]:
+Wir reden über Subventionen. Das nimmt mich schon noch wunder, Herr Brunner. Ihr seid hier im Konkreten nicht für Subventionen. Aber sonst findet ihr Subventionen ja auch noch gut. Gerade wenn es um die Landwirtschaft geht, gerade wenn es um die Wasserkraft geht.
+
+Person8 [0:57:12 - 0:58:40]:
+Also erstens war ich einer der Bauern, die die letzte Agrarpolitik mit diesen verschiedenen Töpfen im Direktzahlungssystem abgelehnt hat. Weil ich sagte, dass auch die Bauern zu Sozialisten, die an den Staatstropfen geführt werden, umhergezogen werden. Und noch brutaler ist es, was jetzt in der Energiewirtschaft geplant ist. Nur sind die Dimensionen hier ein Vielfaches. Bauern müssen arbeiten, damit sie Direktzahlung nicht mehr bekommen. Das ist eine Abgeltung von täglich 5 Uhr aufstehen, und um 10 Uhr ins Bäcker. Aber hier gibt es die Sofamelker. Das sind Sofamelker, die einfach 25 Jahre lang Verträge haben, die wahnsinnig viele Vergütungen einbringen können. Und es stimmt einfach nicht, Frau Leuthard, Frau Bundespräsidentin, wir sind etwa gleich lange in Bern. Haben Sie schon mal in Bern irgendein Gesetz gesehen, das befristet war, das man nicht wieder verlängert hätte? Und in diesem Bereich glaube ich Ihnen einfach nicht, dass nach sechs Jahren, das Gesetz soll mit diesem KEF-System fertig sein. Und es ist ja nicht nach sechs Jahren, sondern die nächsten sechs Jahre können noch Verträge abgeschlossen werden. Und dann geht es noch einmal 20, 25 Jahre für die Vergütungen. Das ist nämlich ein Rechtsanspruch, dass man das machen kann. Und am Schluss sind wir wieder praktisch im Jahr 2050. Also dann würde es auslaufen. Also müsst ihr doch nicht so tun, wie wenn das Gesetz notwendig ist, dass man Subventionen abschafft. Das stimmt einfach nicht.
+
+Person6 [0:58:38 - 0:58:46]:
+Also es stimmt eigentlich gar nicht, was ihr uns vorgebt, dass es bis 2035 Entschuldigung ausläuft.
+
+Person4 [0:58:49 - 0:59:47]:
+Also es steht einfach im Gesetz drin. Also ich kann jetzt hier schon hinterfragen, aber im Gesetz steht ausdrücklich die Befristung. Und von daher gilt halt das. Und nicht eine Interpretation. Auch die Höhe reicht nicht. Wir hatten heute schon immer eine doppelte Befristung. Nicht etwa wie in Deutschland. Wir hatten immer eine Obergrenze überhaupt von der maximalen Förderung. Plus dann, wir haben das Etappenbeweis gemacht, dass man profitieren kann von der Entwicklung der Technologien. Weil heute haben sie gerade bei einem Solarpanel eine viel höhere Produktivität, die auch günstiger ist als noch vor zehn Jahren. Das läuft aus. Wir haben biogene Treibstoffe, Herr Nationalrat. 2020 fertig. Also wir machen das, wenn dann nicht wieder das Parlament etwas anderes will. Ihr seid ja dann der Gesetzgeber. Aber der Bundesrat, und das wird auch so auslaufen. Wir haben auch andere Beispiele. Und zweitens... Ich habe Nahrungsmittel auf dem Teller an seinem Tank.
+
+Person4 [0:59:47 - 1:00:08]:
+Wir gehen jetzt 0,8 Treppen hoch. 0,8 Treppen. Und wegen dem machen die so ein Gescheiss. Etwas, das 0,8 Treppen und dann noch befristet ist. Und wir haben gesagt, ich kann das wirklich jeder auf seiner Rechnung noch kontrollieren. Also es geht doch nicht. Das ist doch nicht das Problem.
+
+Person3 [1:00:08 - 1:00:35]:
+Das ist doch nicht das Problem. Das Problem ist, das BfV macht jetzt eine Reklamation und sagt, man muss unbedingt ein Gesetz annehmen, damit man die Warteliste abbauen kann. Wir haben eine Warteliste von 35'000 Projekten, die gerne Subventionen wollen. Und wieso warten die auf Subventionen? Das ist doch falsch. Wir haben ein Minergiehaus gebaut ohne Subventionen.
+
+Person4 [1:00:35 - 1:00:43]:
+Sie sind eine ziemlich reiche Frau, Sie sind vermöget da. Aber Sie haben nicht all das Geld, um jetzt so Anlagen zu bauen. Da gehen wir jetzt nicht nachher fragen.
+
+Person7 [1:00:43 - 1:00:50]:
+Der entscheidende Punkt ist, wenn Sie vorher wieder zum Kern zurückkommen.
+
+Person6 [1:00:49 - 1:01:35]:
+Ich glaube, bevor wir jetzt unfair werden auf den verschiedenen Seiten, dann reden wir doch über das Geld. Reden wir doch über Kosten, aber etwas anders. Reden wir über Kosten, weil wir einfach einen Zahlensalat auf dem Tisch haben. Der Bund, Frau Leuthardt, sagt uns, wenn wir das Gesetz annehmen, zahlen wir rund 40 Franken mehr im Jahr pro Haushalt mit vier Leuten, die dort wohnen. Toni Brunner sagt etwas ganz anderes als die SVP, nämlich, dass es für einen Gleich-Vier-Personen-Haushalt pro Jahr 3'200 Franken kostet. Und jetzt frage ich mich schon, was stimmt denn? Ihr euch zu Hause wahrscheinlich auch. Ich gehe zuerst zu Frau Leuthardt. Ich komme gleich, Herr Brunner. Erklären wir mal, wie eure 40 Franken zusammengesetzt sind, wie ihr auf diese Zahl kommt.
+
+Person4 [1:01:35 - 1:02:03]:
+Wir stimmen über den Gesetz an, den das SVP im Referendum ergriffen hat. In diesem Gesetz gibt es wirklich einen Kostenpunkt für die Leute. Das ist der Netzzuschlag von 1,5 auf 2,3 Rappen. Und das kann jeder von Ihnen ausrechnen. Anhand seiner Stromrechnung, die Sie über ein Jahr haben, sehen Sie, das macht für einen vierköpfigen Durchschnittsaushalt die 40 Franken aus. Was das SVP einrechnet, ist, Herr Nationalrat hat es schon gesagt, eine Lenkungsabgabe.
+
+Person6 [1:02:03 - 1:02:05]:
+Da gehen wir dann noch nachfragen.
+
+Person4 [1:02:04 - 1:02:12]:
+Genau, die das Finanzdepartement, mein Kollege Maurer, vertreten hat, die das Parlament jetzt ablehnt. Er hat es nicht erfunden.
+
+Person4 [1:02:13 - 1:02:20]:
+Aber es war immer das Finanzdepartement. Das wäre an sich eine Lenkungsabgabe. Es wären durchaus weitere Etappen.
+
+Person6 [1:02:20 - 1:02:25]:
+Aber die 40 Franken sind auf das erste Paket gemünzt, das wir jetzt darüber abstellen.
+
+Person4 [1:02:22 - 1:03:12]:
+Was sicher ist, und darauf ist in der Botschaft drin, haben wir die Netzkosten schon ausgewiesen. Dort machen auch Zahlensalate. Der VSC, der Verband der Schweizer Elektrizitätsunternehmen, hat sich ausdrücklich von dieser Berechnung distanziert. Denn wir haben beim Netz, wie bei Strassen und Schienen, 40- und 50-jährige Netze. Die müssen wir sowieso normal modernisieren. Dort fallen die Kosten runter. Aber das sind ohnehin Kosten, die haben mit dieser Strategie sehr beschränkt zu. Was sie natürlich nicht machen, ist, dass sie alles einsparen, was sie an Energie haben. Wir geben pro Jahr zwischen 28 und 30 Mrd. aus für Energie. Wenn man also nur 10% spart, sind das 3 Mrd. Das reicht natürlich nicht aus.
+
+Person6 [1:03:11 - 1:03:26]:
+Das ist eine kurze Erklärung, wie es zu diesen 40 Franken kommt. Ich komme nachher noch zu euch, Frau Weger. Ich möchte aber gleich noch schnell zu Herrn Brunner und frage um 3'200 Franken. Eklatant, ein Unterschied. Was steckt da drin? Wie kommen Sie auf diese Zahlen?
+
+Person8 [1:03:26 - 1:03:38]:
+Die 200 Mrd. Gesamtkosten ungefähr bis 2050. Das ist ja nicht eine Zahl, die von uns steht. Der Bundesrat hat eine berechnungene Abtastung. Aber Sie reden von 2050?
+
+Person6 [1:03:36 - 1:03:43]:
+ D.h. von der ganzen Energiestrategie? Es ist eine Strategie.
+
+Person8 [1:03:41 - 1:04:04]:
+Das ist die erste Etappe. Man muss den Leuten einschenken und sagen, was noch kommt. Der Bundesrat hat mindestens mit seiner Vorlage die Kälte geheissen. Klima und Energie. Klima und Energie. Das ist ein Lenkungsabgabe. So ehrlich, als er mal sagte, Benzin würde teurer, Heizöl würde teurer und auch der Strom würde teurer. Das ist die Lenkungsabgabe, die Kälte,
+
+Person6 [1:04:03 - 1:04:16]:
+die im Parlament überhaupt keine Chance hat. Die wird ja jetzt wieder rausgenommen in diesem zweiten Schritt. Sie rechnen da eigentlich mit einer Zahl,
+
+Person8 [1:04:16 - 1:04:56]:
+die etwas utopisch ist. Nein, wir haben linke Politiker bestätigt. Sie sind übrigens, das geht weit in andere Parteien nicht, dass man das im Parteiprogramm hat, Lenkungsabgaben. Sie sind der Meinung, man macht es nicht auf Verfassungsstufe, sondern später auf Gesetzesstufe. Und was die Frau Bundespräsidentin in Birnen, 40 Franken, sie spricht z.B. nicht, dass man jetzt hier auch das Gebäudeprogramm, das sind zweckgebundene Steuern, um 150 Millionen, noch 450 Millionen erhöht, dass dann noch das CO2-Gesetz kommt mit Änderungen, die Verdreifachung der Heizölpreise vorgesehen ist. Das ist nicht so, dass z.B. der Beamtenapparat zunimmt. Herr Nussbaumer, da kommt noch sehr viel mehr auf uns zu,
+
+Person6 [1:04:52 - 1:05:03]:
+sagt Herr Brunner, als das, was wir hier nachlesen können.
+
+Person7 [1:05:02 - 1:05:58]:
+Ich glaube, Herr Brunner macht einfach eine grosse Täuschung. Sie haben genau die richtige Frage gestellt. Geht es in dieser Vorlage um irgendeine Zahl? Nein, es geht nicht um eine solche Zahl. Es geht um eine Zielsetzung bis 2035. Und Herr Brunner erzählt eine Zahl, die irgendwie 2050 nennen würde. Wenn Sie Ihre Ziel erreichen würden ... Er hätte 2060 nehmen können. Jetzt ist genau der Punkt, Herr Gross-Niklaus hat sich vorher gefragt, ob das eine Täuschung ist. Natürlich ist es eine Täuschung, was Sie hier machen. Wenn Sie Ihre Ziel erreichen ... Nein, nein, Herr Brunner. Herr Brunner, ganz konkret. Auch diese Grafik vorne, da haben Sie sehr schön herausgearbeitet. Es war Gesamtverbrauch und nicht Pro-Kopf-Verbrauch. Auch diese Grafik war eine Täuschung. Ihre ganze Kampagne ist eine Täuschung und nicht die Fakten, die in diesem Gesetz stehen. Ich bin gespannt, Frau Egentücher, ob Sie auch noch eine Grafik mitgenommen haben. Frau Bundespräsidentin hat den VSC erwähnt.
+
+Person3 [1:05:55 - 1:06:00]:
+Der VSC ist dafür, ja.
+
+Person7 [1:06:00 - 1:06:05]:
+Ja, genau. Was steht für Sie in der Grafik?
+
+Person3 [1:06:01 - 1:06:41]:
+Strom 2014, 2015. Da steht drinnen, von den Szenarien, die Sie gemacht haben, von 118 Milliarden bis 150 Milliarden. Das kostet. Bis 2030 sogar. Sie haben gesagt, den VSC ... Sie müssen die ganzen Kosten anschauen. 200 Milliarden, das sind die Kosten, die wir von diesem ersten Energiegesetz haben werden. Das ist die Tatsache. Sie bringen einfach Fake News, weil Sie ja ...
+
+Person7 [1:06:41 - 1:06:42]:
+Nein, nein.
+
+Person7 [1:06:42 - 1:06:59]:
+Frau Egentücher, Sie waren früher einmal Mitarbeiterin des VSC. Ja. Der Verband, den Sie gemacht haben, sagt heute, für eine sichere, zuverlässige und wirtschaftliche Energieversorgung dieses Landes muss man am 21. Mai ja stimmen. Das sind Fakten.
+
+Person3 [1:06:57 - 1:07:04]:
+Ein Teilverband von 500 Elektrizitätswerken sagt nein. Das sind die, die eine Monopolrente haben.
+
+Person7 [1:07:03 - 1:07:07]:
+Das müssen Sie gut wissen.
+
+Person6 [1:07:05 - 1:08:07]:
+Ich würde jetzt einen Vorschlag machen, wenn wir schon von Fake News reden. Man weiss ja nicht genau, was da gemeldet wird. Gehen wir nachher nach. Wir werden es nachlesen im Abstimmungsbüchlein. Spätestens gestern kam es zumindest bei mir daheim an. Die Argumente liegen auf dem Tisch. Wie stark die einzelnen Argumente sind, habt ihr nicht nur hier gehört und euch selbst eine Meinung bilden können. Das könnt ihr morgen auch im Tagesanzeiger online nachlesen. Tagesanzeiger.ch im grossen Arena. Faktencheck. Jetzt seid ihr gefragt. Am 21. Mai ist Abstimmungssundag. Zeit für eine letzte Frage, Damen und Herren. Wir alle brauchen viel Energie. Wir brauchen auch im übertreten Sinn viel Energie. Als Menschen bewegen wir uns viel. Frau Bundespräsidentin, habt ihr noch etwas überschüssige Energie? Ist das überhaupt noch möglich, wenn man so viel auf der Welt durchtut?
+
+Person4 [1:08:07 - 1:08:12]:
+Ich glaube, ich habe viel Energie. Sonst würde ich mein Programm nicht durchhalten.
+
+Person6 [1:08:12 - 1:08:15]:
+Wie macht man das? Wie ist das für euch? Das ganze Jahr unterwegs?
+
+Person4 [1:08:15 - 1:08:26]:
+Ich glaube, was für die meisten wichtig ist, und das ist eben eine wichtige Energie, dass man etwas macht, was gut ist für die Zukunft. Wir machen hier etwas, was gut ist für die Zukunft.
+
+Person6 [1:08:25 - 1:08:28]:
+Aber für eure Zukunft, für die persönliche Zukunft von Doris Leuthardt?
+
+Person4 [1:08:27 - 1:08:35]:
+Dann würde ich, wenn es nicht wieder Katzenhagel gibt, mal im Garten in der Erde wühlen.
+
+Person6 [1:08:35 - 1:08:38]:
+So wie Toni Brunner vielleicht zum Energietanken?
+
+Person8 [1:08:38 - 1:08:44]:
+Ich habe noch genug Energie, um am 21. Mai an die Tour zu gehen. Und ein kräftiges Ei einzulegen.
+
+Person6 [1:08:42 - 1:08:51]:
+Das glaube ich, dass ihr das habt. Und wie haltet ihr mich sonst fit? Jetzt mal abgesehen von der Politik.
+
+Person8 [1:08:51 - 1:08:57]:
+Mein Fitnesszentrum ist der Bauernhof. Also meine Ehringer Kampfkühle halten mich schon fit.
+
+Person6 [1:08:58 - 1:08:59]:
+Herr Nussbaumer, was habt ihr da fit?
+
+Person7 [1:08:58 - 1:09:17]:
+Ich habe noch genug Energie, um vor dem 21. Mai die Leute noch überzeugen, dass sie ja stimmen sollten. Und das werde ich auch machen. Und jetzt kommen wir wieder weg von der Politik. Und sonst entspanne ich mich ziemlich, wenn ich nicht gerade im politischen unterwegs bin. Ich gehe in den Wald spazieren. Ich mache es etwas gemütlicher.
+
+Person6 [1:09:18 - 1:09:20]:
+Würdet ihr mit ihm spazieren gehen, Frau Egerter?
+
+Person3 [1:09:20 - 1:09:36]:
+Ja, um ihn zu überzeugen, dass man unbedingt stimmen muss. Nein, das ist schlimm. Das Problem ist ja, die Sonne löst das Problem nicht. Das Gesetz ist eine Mogelpackung. Frau Egerter, wir haben auspolitisiert für heute Abend.
+
+Person6 [1:09:33 - 1:09:41]:
+Mit mir auf die Wand.  Ich habe aber trotzdem noch Wunder, wie haltet ihr euch so fit?
+
+Person3 [1:09:41 - 1:09:46]:
+Indem ich mich einsetze für ein Nein. Denn das darf nicht angenommen werden.
+
+Person6 [1:09:46 - 1:09:49]:
+Ich glaube, es ist Hopfen und Malz verloren.
+
+Person6 [1:09:50 - 1:10:02]:
+Darum machen wir hier den Sack zu, Damen und Herren. Das war sie, die Arena, heute produziert von Michael Zollinger. In einer Woche steht Jonas Breuer wieder da. Es hat mich gefreut. Ich wünsche euch eine gute Zeit. Ade, miteinander.
+

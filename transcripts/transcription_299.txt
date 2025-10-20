@@ -1,0 +1,652 @@
+============================================================
+Video Transcription Results
+============================================================
+
+Person10 [0:00:01 - 0:00:17]:
+Die ID soll digital werden und aufs Handy kommen. Eine sichere Sache? Effizient und freiwillig? Oder unsicher, mit Druck verbunden und eben doch nicht so freiwillig? Darüber müssen wir reden. Das ist die Abstimmungsarena zum EID-Gesetz.
+
+Person1 [0:00:31 - 0:01:59]:
+Heute in der Abstimmungsarena zum EID-Gesetz. Beat Janz vertritt die Position von Bundesrat und Parlament und sagt, mit der neuen EID kann man sich einfach und sicher elektronisch ausweisen. Der Staat garantiert bestmöglich den Schutz der Privatsphäre und der Datensicherheit. Monika Amquert, Kampagnenleiterin EID-Gesetz Nein, sagt, das EID-Gesetz erlaubt nicht,   privaten Firmen und grossen Internetkonzernen unsere Passdaten zu verlangen. Dies verletzt die Privatsphäre und gefährdet die Demokratie. Maja Bali-Frener, Nationalrätin Die Mitte, sagt, der elektronische Identitätsnachweis vereinfacht Behördengänge und fördert die Digitalisierung, und zwar kostenlos und freiwillig. Lukas Reimann, Nationalrat SVP, sagt, die Vorlage führt zu digitalem Zwang und missachtet den Volk. Die Bevölkerung hat die EID erst kürzlich klar abgelehnt. Ausserdem für die Vorlage Gerhard Andrey, Nationalrat Grüne, Vanessa Grant, Inklusionsaktivistin. Und gegen die Vorlage? Markus Zollinger, Vorstandsmitglied Massvoll, Yorgo Ananjadis, Präsident Piratenpartei. Die Abstimmungsarena, moderiert von Sandro Borz.
+
+Person10 [0:01:59 - 0:02:04]:
+Guten Abend, liebe Zuschauerinnen und Zuschauer. Vielen Dank.
+
+Person10 [0:02:05 - 0:03:00]:
+Herzlich willkommen zu Hause in der Runde und im Publikum. Heute sitzen hier junge Menschen vom Berufs- und Weiterbildungszentrum für Gesundheits- und Sozialberufe St. Gallen, Kanti Wiedecken und Realgymnie Remi Bühl in Zürich. Abstimmungs-Sendungen haben ihre eigenen Regeln. Wir messen die Redezeit und zeigen Ihnen immer wieder, wie es aussieht. Blau steht für die Seite, die Ja zu diesem EID-Gesetz sagt. Rot für die Seite, die Nein sagt. Über eine EID haben wir schon mal abgestimmt, vor vier Jahren. Damals gab es ein wuchtiges Nein, vor allem wegen Bedenken um den Datenschutz, weil nicht der Bund, sondern private Unternehmen diese EID ausgestellt hätten. Neu soll es der Bund sein. Über was wir am 28. September genau abstimmen und wie die wichtigsten Pro- und Contra-Argumente aussehen, zeigen wir Ihnen am Anfang unseres Erklärvideos. Und nachher gibt es das 1 zu 1 mit dem Bundesrat. Beate Jans.
+
+Person1 [0:03:01 - 0:03:19]:
+Wer sich im Internet bewegt, soll sich künftig digital ausweisen können. Etwa um ein Bankkonto zu eröffnen. Bund und Parlament haben dazu ein neues EID-Gesetz verabschiedet. Es sieht vor, dass der Bund die EID herausgibt und betreibt.
+
+Person1 [0:03:20 - 0:03:32]:
+Die EID wird mit dem Smartphone verknüpft. Die Daten wären demnach dezentral bei den Nutzerinnen und Nutzern gespeichert. Sie können selbst die EID ausgeben. Sie können selbst entscheiden, wem sie welche Daten bekannt geben.
+
+Person1 [0:03:35 - 0:03:42]:
+Behörden und Unternehmen sollten nur diejenigen Daten abfragen und speichern, die für die jeweilige Nutzung wirklich nötig sind.
+
+Person1 [0:03:43 - 0:03:56]:
+Kauft eine Person beispielsweise Alkohol in einem Onlineshop, wird laut Bund nur übermittelt, dass die Person das nötige Mindestalter hat. Der Bund als Betreiber weiss nie, wer eine EID vorgewiesen hat.
+
+Person1 [0:03:58 - 0:04:02]:
+Die Nutzung der EID wäre laut Bund freiwillig und kostenlos.
+
+Person1 [0:04:03 - 0:04:08]:
+Zudem stärke die EID den Wirtschaftsstandort Schweiz, sagen die Befürworter.
+
+Person1 [0:04:10 - 0:04:22]:
+Gegen das EID-Gesetz wurde das Referendum ergriffen. Das Komitee EID-Gesetz Nein, die Organisation Massvoll und die Piratenpartei befürchten, dass der Datenschutz ungenügend sei.
+
+Person1 [0:04:23 - 0:04:39]:
+Private Unternehmen könnten jede Nutzung der EID-Gesetz-Gesetz-Gesetz speichern und damit eine grosse Menge sensibler Daten anhäufen und für ihre Zwecke missbrauchen. Zudem garantiere das neue Gesetz nicht, dass die EID in jedem Fall freiwillig bleiben werde.
+
+Person1 [0:04:40 - 0:04:52]:
+Am 28. September stimmt die Schweizer Stimmbevölkerung über das EID-Gesetz ab. Bei einem Ja würde die EID frühestens Mitte 2026 eingeführt.
+
+Person10 [0:04:53 - 0:05:06]:
+Die EID, das seien moderne und vertrauenswerte Unternehmen, ist in der Tat nicht mehr im Einsatz. Das ist eine große Herausforderung. Es gibt keine Chance beim Datenschutz. Das will ich jetzt klären. Das ist 1 zu 1 mit Beate Jans.
+
+Person10 [0:05:17 - 0:05:18]:
+Guten Abend, Herr Bundesrat.
+
+Person5 [0:05:18 - 0:05:19]:
+Guten Abend.
+
+Person10 [0:05:19 - 0:05:41]:
+Sie vertreten heute Abend die Haltung von Bundesrat und Parlament. Das Referendumskomitee spricht davon, dass mit der EID-Gesetz-Gesetz-Gesetz   vor allem jemand profitiere, d.h. ein Steilpass an Big Tech. Unternehmen können mit der EID beliebig Daten sammeln, verknüpfen und analysieren. Zu wie viel Prozent, meine erste Frage an Sie, ist der Datenschutz bei der EID gewährleistet?
+
+Person5 [0:05:42 - 0:06:24]:
+99. Kein 100 Prozent. 100 Prozent Sicherheit gibt es im Leben nie. Selbst wenn Sie sich zu Hause einschliessen, werden Sie irgendwann sterben. Das ist eine große Qualität im Leben. Aber was ich sagen kann, ist, dass das Gesetz und die zuständige Applikation, die wir auch schon entwickelt und getestet haben, wirklich auf dem höchsten Stand der Sicherheit ist. Wir haben sechs Sicherheiten eingebaut, die ich noch gerne erklären würde, die die Bevölkerung schützen sollen, damit genau das Gegenteil passiert von dem, was hier befürchtet wird. Dass Big Tech eben nicht an unsere Daten kommt, sondern dass wir uns sicher im Internet bewegen können.
+
+Person10 [0:06:24 - 0:06:35]:
+Sind Sie mir nicht böse, aber ich hänge nur an dem 1 Prozent fest, das nicht zu 100 Prozent ausmacht. Das heisst, es gibt also gleiches Missbrauchspotenzial, dass z.B. eine kommerzielle Nutzung dieser Daten passieren könnte?
+
+Person5 [0:06:38 - 0:07:14]:
+Es kommen vielleicht neue Herausforderungen, neue Probleme auf uns zu. Das kann man jetzt nicht voraussehen. Was man sagen kann, ist, Stand heute ist diese Technologie hervorragend entwickelt worden. Ich möchte das auch erklären. Der Prozess, wie das entstanden ist, das Gesetz und die Applikation, war vorbildlich. Wir haben gesagt, wir wollen das ganz transparent machen. Wir wollen die besten Leute, Experten aus Wissenschaft, aus Wirtschaft, IT-Cracks und auch die Kritikerinnen und Kritiker, von Anfang an mitnehmen.
+
+Person10 [0:07:14 - 0:07:17]:
+Partizipativ. Es gab öffentliche Veranstaltungen.
+
+Person5 [0:07:15 - 0:07:50]:
+Wir haben immer wieder gefragt, ob wir eine gute Lösung finden. Wenn jemand sagte, nein, dann gab es einen Einfallstore. Dann haben wir das aufgenommen, haben eine Lösung angeboten und wieder. So haben wir es freundlichen Hackern angeboten, um es wirklich zu testen und zu challengen. Das Produkt ist so gut, dass viele, die früher Kritiker waren und gegen eine elektronische Identität das Nachweis hatten, heute zu den Befürwortern zu kommen und zu sagen, wow, das ist eine solide Lösung.
+
+Person10 [0:07:50 - 0:08:19]:
+Man möchte sie auch challengen in diesem 1 zu 1. Es geht um zwei Kritikpunkte, die ich genauer anschauen möchte. Die EIDB beinhaltet eine Video-Identifikation. Es muss ein Selfie vom Gesicht aufgeladen werden, das vom Bundesamt für Polizei geprüft wird. Eine Konferenz der Schweizerischen Datenschutzbeauftragten in der Vernehmlassung kritisiert genau das. Das sei nicht nachvollziehbar, weshalb auf einer Idee für den Einsatz in der digitalen Welt ein biometrisches Gesichtsbild enthalten sein soll. Warum hören Sie nicht auf die Datenschutzbeauftragten?
+
+Person5 [0:08:18 - 0:09:00]:
+Die Selfie-Videos brauchen eine neue Art, damit man, wenn man die EIDB antreibt, nicht beschissen kann. Das ist vor allem zur Sicherheit. Das müssen Sie oft machen, wenn Sie heute schon ein Bankkonto eröffnen oder eine Mobilfunk-Abo lösen. Das gibt es bereits auf dem Internet. Wir stellen sicher, dass diese Informationen beim Bund gesichert sind und nur beim Bund, in einem abgesicherten Bunker, wo Surfer sind, nicht im Cloud sind, wo niemand anderen Zugang hat. Wir haben auch gesetzlich geregelt, dass man diese Videos, Selfies für nichts anderes brauchen darf als zur Sicherheit der elektronischen Identität.
+
+Person10 [0:09:00 - 0:09:15]:
+Zweiter Kritikpunkt. Man muss für die EID die AHV-Nummer angeben. Da habe ich schon etwas gestaunt. Da sieht man die Beta-Version der EID, die man jetzt schon mit einem fiktiven Beispiel herunterladen kann. Da muss man auch die AHV-Nummer angeben. Was wollen Sie mit unseren AHV-Nummern, Herr Bundesrat?
+
+Person5 [0:09:16 - 0:10:02]:
+Das ist eine ganz wichtige und gute Frage. Ihre AHV-Nummer ist auf der Identitätskarte, auf der analogen Identitätskarte, drauf. Das ist das elektronische Pendant dazu. Da sind genau die gleichen Informationen drauf. Wenn Sie aber im Internet jemandem eine Kopie Ihrer Karte schicken, kann er diese AHV-Nummer lesen. Bei der EID können Sie selbst bestimmen, welche Daten Sie weitergeben wollen, von denen, die gespeichert sind. Das ist der grosse Vorteil. Darum ist die Sicherheit mit der elektronischen Identität noch grösser, als wenn man Kopien von der Karte aufs Internet schickt. Das ist ein eindeutiger Sicherheitsfortschritt. Es gab übrigens einen Beschluss des Parlaments, dass die AHV-Nummer darauf kommt.
+
+Person10 [0:10:03 - 0:10:07]:
+Sie sagen, das sei freiwillig. Wie lange wird das so sein?
+
+Person5 [0:10:08 - 0:10:23]:
+Das Gesetz schreibt das so vor. Wenn jemand das Gefühl hat, man müsse das obligatorisch machen, muss man zuerst das Gesetz ändern. Gegen das kann man das Referendum ergriffen. Dann kann die Bevölkerung wieder entscheiden.
+
+Person10 [0:10:23 - 0:10:25]:
+Warum haben Sie die Freiwilligkeit nicht ins Gesetz geschrieben?
+
+Person5 [0:10:27 - 0:10:33]:
+Niemand bekommt eine elektronische EID,
+
+Person5 [0:10:34 - 0:11:01]:
+die sie nicht beanträgt. Und, was wir auch gesagt haben, alle Behördendienstleistungen vom Bund werden nach wie vor auch analog angeboten. Niemand soll gezwungen werden, eine EID zu machen. Aber diejenigen, die es nützlich finden, diejenigen, die es brauchen können, und das sind ganz viele, die es wollen, sollen eine sichere Infrastruktur haben, damit sie sich sicher bewegen können.
+
+Person10 [0:11:01 - 0:11:09]:
+Das meiste braucht ein Wort. In dem 1 zu 1 eindeutiges Wort «sicher». Aber da hat man etwas Zweifel und den Glauben verloren, wenn man Schlagzeilen wie diese gesehen hat.
+
+Person10 [0:11:10 - 0:11:28]:
+Ausführprogramm «Soprano» in Bern versenkt Millionen mit IT-Debakel. Insieme Informatik, der «Soprano» kostet 102,4 Millionen. Gestohlene Fettball-Daten sind wieder im Darknet aufgetaucht. Jetzt gibt das Bundesamt für Polizei, also das Fettball, genau diese EID raus. Tauchen die Passdaten wieder im Darknet auf?
+
+Person10 [0:11:33 - 0:11:37]:
+Ist Ihnen aufgefallen, dass Sie 2 Sekunden gebraucht haben, bis Sie Nein gesagt haben?
+
+Person5 [0:11:40 - 0:12:11]:
+Es gibt keine 100-prozentige Sicherheit. Das ist mir wichtig. Das Fettball hat heute schon ihre Passdaten, weil sie ja die Pässe ausstellen müssen. Künftig machen wir das elektronisch. Darum haben wir die Informationen auch weiterhin im Fettball. Wir haben den Sicherheitsstandard weiter erhöht. Was mir noch wichtig ist, es gehen also nicht alle IT-Projekte beim Bund schief. Es gibt etwa 1'000 Programme und Applikationen, die laufen.
+
+Person5 [0:12:11 - 0:12:26]:
+die vielleicht auch vom Zeitbudget oder Geldbudget ausser Kontrolle geraten. Diese Liste liest man in den Medien, aber die meisten funktionieren gut. Gerade bei diesem Projekt, ich habe mich immer informiert,
+
+Person5 [0:12:27 - 0:12:32]:
+läuft es gut, sind Finanzen und Zeitbudget im Lot.
+
+Person5 [0:12:32 - 0:12:42]:
+Aktueller Stand ist, jawohl, wir sind auf Kurs. Das Projekt sollte in einem Jahr so weit sein, dass es die Bevölkerung brauchen kann.
+
+Person10 [0:12:43 - 0:13:01]:
+Danke, Herr Bundesrat. Das 1 zu 1 mit der Gegenseite, konkret mit Monika Amgewerth vom Referendumskomitee. Ihr habt 20 Min. Wir gehen jetzt wieder in die Runde. Amgewerth, Kampagnenleiterin des Komitees EID, sagt Nein. Der Bundesrat sagt, die EID sei eine sichere Sache. Warum solltet ihr das sagen, wenn es nicht stimmt?
+
+Person3 [0:13:02 - 0:13:33]:
+Weil er das gerne verkaufen möchte, dass es so daherkommt. Es gibt Akteurinnen und Akteure, die Interesse an der EID haben. Sie sind unsere Sprecherin. Wir haben die Schweizer Passdaten im Internet verteilt an private Firmen und auch an Big Tech. Das Gesetz ist so ausgestaltet, dass das möglich ist. Wenn man etwas nicht möglich haben möchte, z.B. auf eine gesetzlich vorgeschriebene Situation beschränken möchte, würde man das im Gesetz so beschränken. Das ist nicht so. Das ist ein Problem, darum sagen wir Nein.
+
+Person10 [0:13:35 - 0:13:45]:
+Maiya Balli, Nationalrätin der Mitte aus dem Kanton Aargau, Projektleiterin einer Informatikfirma. Wird mit der EID unnötig Passdaten verarbeitet und gespeichert?
+
+Person4 [0:13:46 - 0:14:17]:
+Nein, ich weiss nicht, wie man auf die Idee kommt. Es steht auch nichts im Gesetz, dass die Passdaten so verarbeitet werden. Im Gegensatz, all diese Daten habe ich zentral auf dem Handy. Ich bin verantwortlich für diese Daten und für das, was weitergegeben wird. Das ist dezentral. Wir haben nie einen grossen Datenspeicher, wo diese Daten gespeichert sind. Ausser was der Bundesrat sagt. Die Passdaten, die wir eh schon gespeichert haben. Aber ich bin Herrin über diese Daten.
+
+Person10 [0:14:17 - 0:14:29]:
+Lukas Reimann, SVP-Nationalrat aus St. Gallichen. Eine EID wurde vor vier Jahren deutlich abgelehnt. Aber jetzt gibt es den Staat, und nicht mehr private Unternehmen sollen diese EID herausgeben. Immer noch kein Vertrauen?
+
+Person9 [0:14:30 - 0:15:20]:
+Ich finde das ganze Vorgehen sehr problematisch für die Demokratie. Das Volk hat mit 64,5 Prozent, alle Kantone haben Nein zu dieser EID gesagt. Das war der Hauptgrund für den Datenschutz. Der Hauptgrund war auch, dass man nicht wollte, dass seine Daten im Netz verschwinden. Ein Grund, bei dem wir waren, ist die Sicherheit. Die EID ist eine grosse Gefahr für die Sicherheit aller Schweizerinnen und Schweizer. Oder ich gebe Ihnen ein praktisches Beispiel. Wenn Ihnen irgendwo ein Passwort gehackt wird, das passiert ja laufend, dann ändern Sie das Passwort. Dann sind Sie in diesem Sinne wieder sicher. Wenn ein Hacker oder ein Scammer ein Video von Ihrem Gesicht hat, dann hat er das immer. Sie können nicht einfach Ihr Gesicht ändern, dann haben Sie ein neues Passwort und sind wieder sicher. Sondern er kann mit Ihnen machen, was er will. Das ist ganz gefährlich für die Bevölkerung der Schweiz.
+
+Person10 [0:15:21 - 0:15:28]:
+Gefährlich für die Bevölkerung der Schweiz, aber auch demokratiepolitisch heikel, wenn ich es richtig verstehe. Sie werden es nicht auf sich sitzen lassen, oder? Nein.
+
+Person5 [0:15:28 - 0:17:36]:
+Der Bundesrat hat erstens eine Hochabstimmungsbefragung gemacht und hat dort klar herausgefunden, dass der Hauptgrund war, dass Privaten solche elektronischen Identitätsnachweise rausgeben können. Die Bevölkerung wollte das nicht. Typisch schweizerisch, Pass, Identitätskarte und auch elektronische Identität, das ist die Sache des Staates. Das könnten wir demokratisch kontrollieren. Da könnten wir mitreden, wenn sich Entwicklungen ergänzen. Und genau so haben wir sie jetzt ausgestaltet. Aber wichtig war, der Bundesrat ist nicht von sich aus angekommen, dass er aktiv wurde. Im Parlament gab es Motionen von sämtlichen Fraktionen, auch von der SVP, die sagten, sie machen möglichst schnell eine sichere und staatliche elektronische Identität. Was mir noch wichtig ist, wir machen mehr als nur den Identitätsnachweis. Wir bauen eine Infrastruktur für das Internet, die man anknüpfen kann. Wir bauen einen Wallet, eine Portemonnaie. Das ist etwas sehr Nützliches, wo man künftig nicht nur die ID elektronisch stellen kann, sondern auch einen Vierer-Ausweis, damit man, wenn man den vergisst und in Kontrolle kommt, sich retten kann. Oder vielleicht auch einen Versicherungsausweis. Auch für die Firmen gibt es viele Möglichkeiten, um anknüpfen zu können. Wir stellen sicher, dass diese Ausweise am richtigen Ort verwendbar sind. Wir bauen also für das Internet eine sichere Infrastruktur. So wie wir früher zum Beispiel Gleise gebaut haben, wo die Züge und die Eisenbahn aufkamen. Wie wir Strassen gebaut haben, wo die Autos aufkamen. Und wir machen es so, wie es die Schweiz immer gemacht hat, mit einer staatlichen, demokratisch kontrollierbaren Lösung. Wenn es ein Problem gibt, kann man es demokratisch verbessern.
+
+Person3 [0:17:37 - 0:17:50]:
+Herr Jans hat es gerade gesagt, es gibt viele Möglichkeiten, die auch Firmen anknüpfen können. Jetzt haben Sie doch gerade Frau Balli widersprochen. Können Sie das schnell ausführen? Wie könnten die Firmen daran anknüpfen?
+
+Person5 [0:17:52 - 0:18:27]:
+Die elektronische Identität, dieser Nachweis, den können Firmen nicht mehr so einfach verlangen, wenn das Gesetz angenommen wird wie heute. Da gibt es eine klare Verbesserung. Wir schreiben ins Gesetz, für was man ihn überhaupt einfordern darf. Sie müssen sich vorstellen, plötzlich erscheint der QR-Code auf Ihrem Bildschirm und dann heisst es, Sie müssen jetzt einen elektronischen Nachweis, einen Identitätsnachweis bringen. Dann haben Sie das Telefon an, Sie kennen das. Und dann haben wir jetzt Sicherheiten eingebaut.
+
+Person5 [0:18:29 - 0:18:31]:
+Wenn die E-ID-Nachweise,
+
+Person5 [0:18:32 - 0:19:22]:
+die verwendet werden darf, dann gibt das eine Rückkopplung. Und der Nachweis ist erbracht und er ist sicher. Wenn die Firma hingegen Daten verlangt, die sie nicht darf, dann haben wir jetzt neu auf Ihrem Handy eine Warnung. Dann schaltet diese Ampel quasi auf gel. Und Sie werden darauf aufmerksam gemacht, Achtung, schauen Sie zuerst, welche Daten Sie überweisen. Das ist nicht seriös. Und dann gibt es sogar noch eine Rote, nämlich alle Firmen, die Daten verlangt haben auf dem Internet, die sie eigentlich nicht dürfen, lösen eine Warnung auf, auskünftig auf Ihrem Handy, bevor sie die elektronische Identität liefern. Ich bin davon ausgegangen, dass Sie das als Argument bringen.
+
+Person10 [0:19:19 - 0:19:35]:
+Ich will Ihnen nicht ins Wort fallen, sondern ich möchte den Leuten zuhause verständlich machen, worüber Sie jetzt gesprochen haben. Weil wenn eine Behörde oder ein Unternehmen, wie z.B. ein Onlineshop, unsachgemäss vorgeht, dann gibt es eine Warnung, die dann so aussieht.
+
+Person10 [0:19:36 - 0:19:53]:
+Das ist das Beispiel eines Schweizer Onlineshops, der die Infrastruktur, so wie Sie es beschrieben haben, uns unsachgemäss gebraucht hat. Damit erhalten die NutzerInnen von dieser EID Warnhinweise. Ich nehme an, kein Unternehmen kann sich leisten, so ein rotes Signal überzukommen.
+
+Person3 [0:19:54 - 0:21:46]:
+Ja, also zuerst hat man gesagt, es sei für Firmen nicht zugänglich. Jetzt ist Herr Janssen so weit, dass er sagt, er will nicht, dass er sich verletzt. Ich könnte das abfragen. In freiheitlichen Demokratien werden unsere Ausweisdokumente grundsätzlich überhaupt nicht überprüft. Weder auf der Strasse noch sonst irgendwo, auch nicht im Internet. Der Staat hat nur eine gewisse Möglichkeit, das zu machen. Grenzübertritt oder auch die Polizei kann das machen. Oder bei gesetzlich vorgeschriebenen Situationen. Aber dass Firmen unsere Passdaten überprüfen, quasi eine Identifikation von uns vornehmen, das ist mit der Demokratie nicht kompatibel. Und das ist aber genau das, was das Gesetz jetzt veranlasst. Und dann noch zu dem, im Gesetz ist das überhaupt nicht, das ist falsch, was Herr Janssen gesagt hat, im Gesetz ist nicht ausgeschlossen, wer das wie brauchen darf. Da ist überhaupt nichts drin. Jede Firma kann das machen, jede Firma kann unsere Passdaten abfragen. Und was heikel ist, ist das, wenn man normalerweise den Pass hochladen nehmen musste, das muss man ja eigentlich nicht. Und wenn man es muss, dann ist es uns allen ein bisschen unwohl. Wenn man doch so ein bisschen findet, ich will aber nicht meinen Pass abgeben. Was jetzt ist, ist plötzlich so, ah, erstens legt sich der Staat legitimieren und sagt, das ist gar kein Problem, dass ihr eure Passdaten abgebt. Und das Zweite ist, nachher ist es quasi nur noch ein Knöpfchen und schwupp, die Passdaten sind weg. Und noch zu etwas möchte ich noch schnell Stellung nehmen, was Herr Janssen gesagt hat, ah, es sei so sicher und in den Partizipationsmeetings und so. Also dort wurden diverse Sachen gesagt, in diesen Partizipationsmeetings, die nicht beherzigt worden sind. Zum genau, das Online-Ident-Verfahren, worauf Sie vorhin hingewiesen haben, das ist ein hochproblematisches Verfahren. Diese Typologie, die wir hier haben, ist bereits gehackt worden in Deutschland, und zwar zwei Wochen nachdem sie herauskam. Jetzt, wir haben ein grosses Netzwerk von Expertinnen und Experten hinter uns und auch Hackerinnen und Hacker. Und was die sagen ist, es ist nicht eine Frage, ob man das hacken kann, es ist eine Frage, von wie vielen Wochen. Und was dann passiert, dann haben wir Identitätsklau im grossen Stil
+
+Person3 [0:21:47 - 0:21:52]:
+und das ist dann wirklich eine Idee, also eine staatlich verifizierte Identität, die erschlichen werden kann.
+
+Person10 [0:21:52 - 0:21:55]:
+Etwa fünf Vorrufe miteinander, wo wollen Sie anfangen?
+
+Person5 [0:22:02 - 0:22:10]:
+wenn Sie ein Mobilfunk-Abo lösen oder einen Bankkonto eröffnen und das auf dem Internet machen.
+
+Person5 [0:22:11 - 0:22:25]:
+Künftig haben Sie eine staatliche Lösung, die viel besser kontrollierbar ist. Und diese Information, diese Video-Selfies, auf abgesicherten Servern, die sicher in einer Cloud sind,
+
+Person5 [0:22:26 - 0:22:35]:
+Das ist jetzt der eine Vorwurf. Und der andere, das waren viele, ich möchte es nochmals sagen,
+
+Person5 [0:22:37 - 0:23:16]:
+heute, wenn Sie auf dem Internet sind, müssen Sie sich manchmal ausweisen. Nochmals, das Gesetz sagt jetzt ganz klar, welchen Firmen das dürfen. Das Gesetz sagt, nur wenn Ihre Identität nachgewiesen werden muss, das ist z.B. bei einem Banken, oder bei einem Mobilfunkkonto, Mobilfunk-Abo. Das Gesetz sagt aber auch ganz klar, das ist wirklich ausgeschlossen, dass ein Onlineshop, der Kleider verkauft, von Ihnen keine elektronische Identität verlangen darf. Und neu ist, dass Sie jetzt gewarnt werden.
+
+Person3 [0:23:16 - 0:23:27]:
+Jetzt muss ich Sie eingreifen. Wir haben das Gesetz hier. Können Sie mir den Artikel zeigen, der das alles sagt? Sie sagen, das Gesetz ist kurz, 36 Artikel. Wo steht das, was Sie gesagt haben? Sie kennen sich auswendig, Sie kennen sich aus.
+
+Person4 [0:23:29 - 0:23:45]:
+Es steht nicht in diesem Gesetz. Es steht nicht in diesem Gesetz. Es steht nicht in diesem Gesetz, aber es ist klar, einen Onlineshop oder einen Kleiderladen dürfen Sie heute nicht, auch wenn Sie physisch vor Ort gehen, von Ihnen keine ID verlangen dürfen. Er hat keinen zwingenden Grund.
+
+Person4 [0:23:45 - 0:24:34]:
+Und im E-ID-Gesetz steht, verlangen dürfen Sie nur bei gesetzlich zwingenden Gründen. Und ein gesetzlich zwingender Grund kann z.B. sein, die Altersgrenze, wenn man Alkohol bestellt oder Snus usw. Und in den nächsten zwei Jahren, das ist das Gesetz für den Jugendschutz, müssen alle Shops in den nächsten zwei Jahren die ID überprüfen. Und ich weiss nicht, ob es sicherer ist, wenn Sie Ihre gesamte ID einscannen, irgendwie via Mail oder so ins Internet schicken. Das geht irgendwo hin. Oder wenn Sie mit der ID nur einfach die Bestätigung durchgeben, dass Sie nicht einmal Ihr Geburtsdatum durchgeben müssen und sonst gar nichts. Ich glaube, das ist viel sicherer.
+
+Person9 [0:24:34 - 0:25:37]:
+Ich würde einfach sagen, wir stimmen am Schluss über das Gesetz ab. Und hier drin steht das nicht. Ich finde es auch völlig realitätsfremd, was Sie jetzt sagen. Wenn nachher die grossen Big-Tech-Konzerne, Google, Microsoft, vielleicht auch noch TikTok, dann geht es noch an die chinesische Regierung. Wenn die plötzlich sagen, wir wollen jetzt die ID für die Darmeldung, was wollen Sie dann machen? Wollen Sie die verwarnen? Oder wollen Sie Google in der Schweiz sperren? Oder Apple oder all diese grossen Konzerne? Nein, sie bieten eine staatliche Infrastruktur, die nachher diese Konzerne nutzen können und auch nutzen werden. Und wenn wir jetzt in der Schweiz bleiben, was machen Sie, wenn alle Krankenkassen sagen, wir wollen jetzt so eine ID? Oder was machen Sie, wenn jede Bank sagt, wir verlangen diese ID? Dann kann man gar nichts machen. Und wenn Sie wirklich Alternativen oder Freiwilligkeit zulassen wollten, dann hätten Sie das ins Gesetz geschrieben. Eine freiwillige Möglichkeit eines alternativen digitalen Logins. Und da steht nichts drin. Es gibt einzig die analoge Möglichkeit. Und das ist ein grosser Fehler an diesem Gesetz.
+
+Person3 [0:25:37 - 0:26:14]:
+Ich muss noch etwas replizieren, was Frau Balli gesagt hat. Sie hat gesagt, es sei nur möglich bei bestimmten gesetzlich vorgeschriebenen Sachen. Das ist nicht richtig. Firmen dürfen das abrufen, um sogenannte Identitätsdiebstahl zu verhindern. Was ist Identitätsdiebstahl? Wenn ich jetzt Ihrem Namen ein Online-Formular ausfülle, ist das bereits Identitätsdiebstahl. Das bedeutet nachher, bei jeder Interaktion im Internet ist es anwendbar. Jede Firma kann das praktisch bei allem verwenden. Das ist quasi ein Schlupflach im Gesetz, das das öffnet für alle Firmen. Und darum stehen wir heute hier, genau wegen dem, Frau Balli.
+
+Person4 [0:26:14 - 0:26:52]:
+Nein, aber das könnte es ja heute sein. Wer hindert heute einer dieser Tech-Firmen daran, von Ihnen eine ID zu verlangen? Dann läuft es halt nicht mit der E-ID und dann läuft es mit den ganzen ID-Daten. Das könnte nur sie sagen. Nein, mache ich nicht mit. Mit dir kommuniziere ich nicht mehr oder bestelle bei dir nichts mehr, wenn er solche Daten verlangt. Gesetzlich zwingend ist es nicht, dass eine Tech-Firma einfach Identifikation verlangt. Und sonst könnte das heute schon sein und dann kann er ein eigenes Identifikationssystem anbieten. Ich weiss nicht, ob ein eigenes Identifikationssystem besser ist, als eine staatlich geprüfte E-ID.
+
+Person10 [0:26:52 - 0:27:07]:
+Ich möchte nachher die Runde gleich aufmachen. Dann haben noch weitere Pro- und Contra-Gäste im Studio. Aber eine Frage, die über allem ein bisschen schwebt, wenn ich das zusammenfasse, was da Kritik von selber kommt. Und die Frage kann ich an Sie, Herr Bundesrat. Ist das Gesetz ein bisschen zu ungenau?
+
+Person10 [0:27:08 - 0:27:15]:
+Dass nicht klar ist, dass z.B. eine Garantie herrscht, dass die Daten am Schluss nicht bei Unternehmen landen?
+
+Person5 [0:27:15 - 0:28:10]:
+Vielleicht die wichtigste Antwort. Das Gesetz ist demokratisch kontrollierbar. Wenn man es verbessern will, kann man das im Parlament. Und das wird man auch machen, wenn es Probleme gibt. Aber zunächst bringt das viel bessere Sicherheit, wenn Sie jetzt neu gewarnt werden. Davor, wenn eine Firma etwas von Ihnen verlangt, was nicht sauber ist und legal. Diese Dienstleistung haben Sie bis jetzt nicht. Das ist ein ganz wichtiger Punkt. Im Moment ist die Datenklau fast nicht zu verhindern. Wir haben ein ganz gutes Datenschutzgesetz und jetzt neu auch das EID-Gesetz. Aber erst mit einer guten Applikation, die der Bund und das Volk demokratisch kontrollieren, kann man es verbessern und die Sicherheit herstellen. Das ist, glaube ich, das Allerwichtigste daran.
+
+Person10 [0:28:10 - 0:28:12]:
+Das ist die Abstimmungsarena.
+
+Person5 [0:28:11 - 0:28:38]:
+Das ist etwas, was unser Team im Bundesamt für Justiz von Anfang an ganz ernst genommen hat. Ich bedauere, wenn Sie sagen, dass hier Kritiker gekommen sind, die nicht aufgenommen wurden. Ich höre das zum ersten Mal. Ich kenne ganz viele IT-Fachleute, die sagen, das sei ein riesiger Fortschritt zum Schutz der Bevölkerung. Und es mache das Leben für viele auch einfacher.
+
+Person10 [0:28:38 - 0:29:23]:
+Wir sind weiter im Studio. Auf der Pro-Seite Gerhard Andrei, Nationalrat der Grünen und IT-Unternehmer, und Vanessa Grant, Inklusionsaktivistin. Auf der Contra-Seite Markus Zollinger, Vorstandsmitglied des Vereins Massvoll. Und Jorgo Ananiadis, Präsident der Piratenpartei Schweiz. Eine Partei, die von der ersten Stunde an kritisch war gegen die EID, trotz all den Verbesserungen, die es im Vergleich zur ersten Vorlage gab. Und die jetzt auch vor allem von den dazumaligen Referentumsführern wie Anwalt Martin Steiger von der Digitalen Gesellschaft mitgetragen werden. Er sagte, wenn die Kritikpunkte aus dem früheren Referendum alle behoben sind, gibt es keinen Grund, diese neue Lösung abzulehnen. Aber Sie bleiben immer noch misstrauisch. Warum?
+
+Person6 [0:29:23 - 0:30:46]:
+Wir waren schon lange misstrauisch und bleiben misstrauisch. Wir haben effektiv vor über acht Jahren beim ersten Gesetz bereits in unserer Vernehmlassungsantwort eine konkrete Richtlinie gegeben, dass wir an Datenschutz, an Datensparsamkeit und vieles anderes abgeben. Wir sind seit über acht Jahren an diesem Gesetz dran. Zuerst ist Abfreiheit, und das ist gut so. Aber dort haben wir effektiv über ein Login gesprochen und nicht über eine richtige Identität. Im zweiten Gesetz haben wir genau diese Identität, die jetzt diskutiert wird. Auch dort haben wir in den Vernehmlassungsantworten und auch in der Anhörung des Nationalrats ganz klar unsere rote Linie aufgezeigt. Unter Identifikationszwang zum Beispiel. Online. Online war für uns immer ein Risiko. Dies hat man im Gesetz nie explizit ausgeschlossen. Wir haben gleichzeitig auch ein Jugendschutzgesetz, bei dem man den Identifikationszwang quasi gesetzlich legitimiert einführen muss. Wir haben auch gesagt, dass die Videoidentifikation eure Kontore mittelfristig, kurzfristig wahrscheinlich sogar, fliegt. Das ist jetzt im Gesetz so drin. Genau so ist es drin. Dort hat man wirklich nicht auf uns gelassen. Da muss ich Herrn Janz schon wieder sprechen. Wir haben die rote Linie mehrfach klar kommuniziert. Sie wurden nicht wahrgenommen. Wir wurden ernst genommen. Das ist ein wenig Arbeitsverweigerung, ehrlich gesagt.
+
+Person10 [0:30:46 - 0:30:53]:
+Herr Andre, Sie sagen, die EID sei besser geschützt als die heutige Identitätskarte. Worauf machen Sie das fest?
+
+Person8 [0:30:53 - 0:32:07]:
+Ich bin an dieser ganzen Menge vermischt. An Diskussionen fühle ich mich fast nicht am falschen Film. Zurück verschoben, 4,5 Jahre war ich da, auf der einen Seite. Das letzte Gesetz war tatsächlich ein schlechtes Gesetz. Privatisiert eine hoheitliche Aufgabe, also dass die Identität bei Privaten quasi an uns ausgehen wird, absolutes No-Go. Und zum Zweiten, Datenschutz und Datenwirtschaft waren dahinter wirklich nicht gut gemacht. Die Gründe, die jetzt noch als Kritik angeführt werden, waren die Grundlage für die neue Vorlage. Wir haben uns über das Abstimmungswochenende alle zusammengetan, über alle Fraktionen hinweg, wir haben es vorhin gehört, und haben gesagt, natürlich brauchen wir im Internet so etwas wie eine Vertrauensinfrastruktur. Das haben wir heute noch nicht. Es ist ganz klar, dass wir etwas brauchen, das in der digitalen Welt funktioniert, genauso wie Karten in der physischen. Es ist nur noch einmal etwas anderes im Internet als an einem Kiosk. Das war die Grundlage. Datenschutz, Staatlichkeit, damit genau das nicht passiert, was jetzt kolportiert wird. Wir haben über vier Jahre jetzt ganz intensiv alle Details, die wir irgendwie technisch und im Gesetz
+
+Person8 [0:32:08 - 0:34:00]:
+wirklich verbessern konnten. Wir haben in der Rechtskommission über eine Stotze Verschärfungen eingebracht, um genau diese Probleme zu adressieren. Jetzt kann man sagen, natürlich, kein Gesetz ist perfekt. Ich möchte da nicht irgendwie den Anspruch erheben, dass das fehlerlos der beste Gesetz ist, den es je gegeben hat. Jedes Gesetz hat gewisse Unschärfungen. Das gehört ein wenig zum politischen Prozess dazu. Ich glaube, da möchte ich es nicht so tun, aber wenn man sieht, was wir geschafft haben bezüglich der Hoheit, die wir als Menschen im Internet zurückbekommen, ich habe plötzlich Kontrolle darüber. Nein, ich gebe dir das nicht, was du hier von mir wäschst, denn das tut nichts zur Sache. Wenn du mir das wäschst, nehmen wir noch einmal das Beispiel des Alkoholshops. Wenn ich in einem Shop bin und mir das Gegenüber das Geburtsdatum fragt, dann bekomme ich einen Warnhinweis, das braucht nicht das Geburtsdatum, sondern nur die Tatsache, dass ich über 16 oder über 18 bin. Das ist eine so grosse Übung, dass ich die Änderung zu dem erlebe, was ich katastrophal finde. Das ist das Problem. Es ist keine Lösung, die von der Nei-Seite angeboten wird. Wir machen einfach weiter mit Kopien der Identitätskarte. Ich habe sie hier, wenn sie irgendwann mal gefunden haben. Ich musste zu oft eine Kopie machen, mit allem drauf, inklusive Körpergrösse, um irgendwie zu bestätigen, dass ich ein Rechthaufen, ein Produkt habe. Das ist die Situation. Und dort wüsste ich nicht, was die Lösung ist, die vom Neilager angeboten wird. Das führt mich zu dem Verdacht, dass wir noch fünf IID-Gesetze machen können. Es wird nie passen. Man ist grundsätzlich dagegen, im Internet eine tatsächliche Möglichkeit zu geben, sich auszuweisen. Das ist eine Arbeitsverweigerung. Nicht zu realisieren, dass wir in einer Situation sind, die wirklich unangenehm ist. Die Schweiz hat ein tolles Gesetz und eine tolle Technologie gemacht, die viel besser ist als das, was in den anderen Ländern passiert. Wie z.B. in Grossbritannien. Vielleicht sprechen wir darüber später.
+
+Person10 [0:34:00 - 0:34:25]:
+Flamens Plädoyer. Vor vier Jahren war er noch auf der anderen Seite. Jetzt hier, Gerhard André. Gleichzeitig muss ich Sie daran erinnern, dass Sie wahrscheinlich noch auf Ihrer eigenen Basis etwas Überzeugungsarbeit leisten müssen, wenn man schaut, wie das bei der ersten SRG-Umfrage des Forschungsinstituts GfS ausgesehen hat. 30 % der befragten grünen Wählerinnen und Wähler sind eher oder bestimmt gegen das IID-Gesetz. Das Misstrauen ist auch noch um sie herum da.
+
+Person8 [0:34:26 - 0:35:25]:
+Ihr müsst euch vorstellen, wenn wir ganz Europa, wenn wir laut Nein zu einem IID-Gesetz sind, vier Jahre später kommt und ganz laut Ja zu einem IID-Gesetz, ohne dass man sich damit beschäftigt hätte, ich weiss nicht, wie es euch ergangen ist, aber viele Leute wissen noch nicht richtig, worüber darüber abgestimmt wird. Wenn man sich daran erinnert, dass man letztes Mal Nein sah, dann ist man dagegen. Man muss sich damit beschäftigen. Es ist ein komplett anderes Gesetz und ein anderes Geschäft. Aber das ist ein Anspruch. Das versuchen wir heute Abend auch, um zu erklären, dass wir über ganz etwas anderes abstimmen. Ich habe auch gewisse technische Expertise. Das ist nicht nur auf dieser Seite verortet. Das ist absolut top und hält nach meinem Dafürhalten ein neues Kapitel auf. Weg von zentralisierten Datenbanken, weg von der Idee, dass alle Daten, die jedes Mal eine IID braucht, irgendwo gespeichert werden. Das ist nicht so. Und Daten, die nicht entstehen, kann man auch nicht hacken. Das ist der beste Sicherheitsschutz.
+
+Person10 [0:35:27 - 0:35:35]:
+und sagen, mit dieser IID werde die totale Überwachung zur Realität. Warum machen Sie den Menschen Angst?
+
+Person7 [0:35:35 - 0:36:24]:
+Ich mache den Menschen keine Angst, sondern ich möchte sie darauf hinweisen, was in diesem Gesetz grundsätzlich angelegt ist. Wir haben in diesem Gesetz die Möglichkeit, das wurde vorhin kurz angekündigt, Herr Jans hat es nicht ganz verstanden, was Frau Ampgwert meinte, dass man auf diesem Gesetz weitere Ausweise draufpacken kann. Dann kann man weitere Zertifikate auf die Infrastruktur aufbauen, wo man nachher alles Mögliche machen kann. Der Bundesrat hat es in der Hand, das zuzulassen. In diesem Sinne wissen wir im Moment nicht, was da kommt. Das ist eine Blackbox, muss man so sagen. Man kann schlussendlich ein Gesundheitszertifikat drauflegen, man kann auch ein CO2-Zertifikat drauflegen. Das ist technisch grundsätzlich machbar. Das öffnet Türen und Tore, damit wir am Schluss etwas auf dem Handy haben, wo wir uns nicht mehr frei bewegen können, weil wir uns überall wegen irgendetwas im Mund weisen müssen.
+
+Person10 [0:36:24 - 0:36:31]:
+Eine Blackbox, wo man auf jeden Fall etwas drauf tun kann, CO2-Zertifikate, Gesundheitszertifikate, haben Sie das vor, Herr Bundesrat?
+
+Person5 [0:36:32 - 0:37:17]:
+Ich weiss nicht, ob Sie auch ein Handy haben, aber dort gibt es schon so Wollens. Und die bieten Firmen an. Und wenn ich jetzt meine Ausweise dort drauflege, bin ich mir nicht ganz so sicher, ob das die privaten Firmen so sicher machen wie der Bund. Beim Bund bin ich viel sicherer, und darum geht es ja. Das Bedürfnis ist vorhanden. Und alle, die ein Handy haben, wissen, dass es praktisch ist, wenn man einen Ausweis oder ein Ticket, das man gelöst hat, einfach in der Wallet versorgen kann. Dann findet man es auch wieder. Beim Bund schaffen wir eine Infrastruktur, schaffen wir Standards, Sicherheitsstandards, auf die kann man aufbauen. So wie bei der Eisenbahn, damit wir eine solide, verlässliche Infrastruktur haben in Zukunft.
+
+Person7 [0:37:17 - 0:37:35]:
+Wer macht denn diese Infrastruktur? Wer bringt die Software ein? Es sind ja wiederum die Privaten. Der Bund muss grundsätzlich den Quellcode offenlegen, damit alle mitsehen können, was da drin ist. Und dann hat es aber die grosse Ausnahme drin, das hat das Parlament noch eingefügt, ausser zum Schutz von rechten Privaten.
+
+Person7 [0:37:35 - 0:37:59]:
+Und warum? Weil man dort natürlich wieder den Quellcode hat, der wahrscheinlich geschützt ist von Tech-Firmen, die damit Geld verdienen. Und auch das ist eine Blackbox. Wir wissen schlussendlich nicht, was da drin ist. Sie haben vorhin gesagt, friendly Hacker hätten das angeschaut. Ich würde gerne unfriendly Hacker sehen, wenn sie das anschauen. Alles, was in der Quellcode nicht offen liegt, ist grundsätzlich ein Angriffsvektor für einen Hacker.
+
+Person7 [0:38:00 - 0:38:00]:
+Das ist wirklich im Gesetz so angelegt,
+
+Person5 [0:38:00 - 0:38:13]:
+dass wir alles transparent machen. Und in diesem Sinne die Quellcode offenlegen. Und haben das überall gemacht, bei allen Details. Bei dieser Applikation ist das so offen. Stimmt, aber ich finde...
+
+Person5 [0:38:13 - 0:38:42]:
+Bis auf eine Ausnahme, das ist bei diesen Selfie-Videos. Und dort haben wir den Schutz der Behörden, die die Bevölkerung höher gewichtet. Die sicherste Applikation ist eben nicht die, die schon in anderen Ländern missbraucht wurde, sondern eine andere. Und wir wollen nicht, dass mögliche Hacker sie kennen und Zugang haben. Das ist der einzige Punkt. Aber auch hier ist das Gesetz klar.
+
+Person5 [0:38:43 - 0:38:47]:
+dann werden wir diese verwenden.
+
+Person10 [0:38:47 - 0:38:53]:
+Eine Reaktion noch auf das. Und dann möchte ich bitte Vanessa Grant in die Diskussion einbinden.
+
+Person3 [0:38:53 - 0:38:56]:
+Ich muss jetzt schnell ein paar Sachen sagen. Zuerst...
+
+Person10 [0:38:56 - 0:38:58]:
+Schaffen Sie sich auf eine, maximal zwei Sachen.
+
+Person3 [0:38:58 - 0:40:04]:
+Ich mache es einfach rasch, dann sind es drei. Alle guten Dinge. Nicht das Gleiche wie drei. Alle guten Dinge. Nein, nein. So einfach geht das bei mir nicht. Ich mache mal voran. Okay, ist gut. Also, das Wallet ist abhängig vom Betriebssystem von Google und Apple. So wie Sie es darstellen, dass es unabhängig ist. Nein, man macht sich abhängig von Big Tech. Das ist das Erste. Dann das Gesetz. Entschuldigung, Herr Andre, ich muss auf Sie zurückkommen. Das Gesetz sei ein Gesetz, das sich nicht nur auf die Anwendung des Wettbewerbs,   Das ist nicht so super. Das sind grobe Sachen, die da drin fehlen. Grobe Garantien, die fehlen. Wir bestellen hier nicht im Kleinen herum. Unsere Kritik zielt nicht ab auf kleine Sachen, sondern der Ausschluss, dass private Firmen das brauchen können, müsste drin sein. Es müsste ganz klar sein, dass nur gesetzlich vorgeschriebene Situationen abgerufen werden könnten. Zum Beispiel ein Handyvertrag wurde gesagt oder die Bank. Das ich bei Ihnen im falschen Film, muss ich ganz klar sagen. Und dann heisst es, wir hätten keine Lösung. Natürlich haben wir eine Lösung. Wir haben verschiedenste Punkte aufgelistet, die rein müssen. Das ist das Erste. Und das Allererste ist auch noch, wir müssen digital souverän werden und uns unabhängig machen von Big Tech. Und das geht genau in die falsche Richtung. Das EID-Gesetz macht eigentlich eine veraltete Form von Digitalisierung.
+
+Person10 [0:40:04 - 0:40:04]:
+Das ist falsch.
+
+Person10 [0:40:05 - 0:40:28]:
+Gut, danke. Ich möchte jetzt in diese Richtung gehen. Vanessa Grant, Journalistin und Sängerin, eine Frau, die sich für Inklusion einsetzt. Sie lebt mit einer Glasknochenkrankheit und da muss man vielleicht kurz erklären, was Inklusion mit einer EID zu tun hat. Das Dachverbänd Inklusion, Handicap und Agile haben die Anwesenheit herausgegeben, weil die EID zu mehr Barrierefreiheit führen würde. Was würde sich für Sie im Alltag verändern und verbessern?
+
+Person2 [0:40:29 - 0:42:24]:
+Also zuerst einmal zu sagen, ich glaube, man macht hier recht Angst. Und das zählt eigentlich nicht zu. Und es ist schön, dass ich heute die Position von Menschen vertreten darf, die genau diese EID sehr gerne nutzen. Weil es einiges vereinfacht. Was bringt die? Es bringt Selbstbestimmung. Es bringt Teilhabe. Es bringt Autonomie. Es bringt sogar, wir persönlich würden sagen, sogar Privatsphäre. Und das alles zusammen ist kein Luxus. Das ist ein Grundrecht. Ihr habt vorhin von Demokratie gesprochen. Wenn man viele Menschen mit Behinderungen, aber ich würde sagen Senioren, weil im Alter wird es ja auch mit der Mobilität meistens ein bisschen schwierig, wenn man diesen Menschen alle zu Grundrecht verwehrt, dann glaube ich, sie wäre auf dem falschen Weg. Und die EID, gerade bei mir im Alltag, ich stehe vor einem Schalter, der mir sagt, ich muss den Datenpreis geben, der ist meistens auf 1,20m Höhe. Am Oberwallis zum Beispiel. Ich muss der Dame am Schalter sagen, alle meine Daten preisgeben, damit sie das in ein Papierformular ausfüllen kann. Hinter mir stehen zehn Leute. Die kehren das alles mit. Wahrscheinlich bis zur E-Bahn und weiss nicht was alles. Wo ist da die Privatsphäre? Wo ist da die Selbstbestimmung? Ich muss immer jemanden mithaben. Menschen mit einer Sehbehinderung können kein Formular ausfüllen. Und die müssen einfach annehmen, was man ihnen da abliest. Aber umsonst. Die können kein Formular ausfüllen. Die können nicht selber etwas ins Kritikschreiben. Sie müssen abhängig sein von dem, was aus uns fehlt. Ob es überhaupt richtig ist oder nicht. Oder gehörlose oder hörbehinderte Menschen, die haben keine Verdolmetschungsmöglichkeiten an gewissen Behörden-Schalter. Und da sehe ich gerade Herrn Einmann, er schmunzelt schon. Ich möchte nur gerne von den Leuten, die wirklich das verhindern wollen, die Möglichkeit der Autonomie, der Selbstbestimmung, der Freiheit, die, die das verhindern wollen, ich möchte, dass ihr mir in die Augen schaut und sagt, ist das eine Demokratie? Sind wir nicht gleichberechtigte Menschen wie ihr euch?
+
+Person2 [0:42:24 - 0:42:28]:
+Oder hättet ihr gerne, wenn ich euch jetzt frage, kann ich mal eine Einbahn haben?
+
+Person9 [0:42:29 - 0:43:05]:
+Ich schaue ihnen in die Augen und ich nehme das sehr ernst, was sie sagen. Ich bin absolut für Inklusion. Und die Menschen, die irgendwo beeinträchtigt sind, die müssen wir mit ins Boot holen und dürfen nicht diskriminiert werden. Aber dieses Gesetz, das schliesst so viele Menschen in diesem Land aus, das diskriminiert so viele Menschen in diesem Land. Nein. Alle, die Mühe haben, das Handy zu bedienen, Seniorinnen und Senioren, die nicht mehr mit dem Handy umgehen können, die werden ausgeschlossen. Sie schliessen, sie setzen mit diesem Gesetz neue Barrieren für ganz viele Menschen in diesem Land aus und schliessen andere aus, während ein paar wenige jetzt einen zusätzlichen Vorteil haben. Und da bin ich total dagegen. Das tut mir leid.
+
+Person2 [0:43:05 - 0:43:31]:
+Das stimmt nicht. Wir haben nur die Pass- und die Idee für die Menschen, die nicht die E-Idee machen wollen. Also schliessen wir niemanden aus. Wir schliessen nur dann aus, wenn wir die E-Idee nicht haben. Dann schliessen wir uns nämlich eine grosse Menschengruppe aus. Und Herr Aymann, das Thema Inklusion, da sind wir mit der Europatino ganz am Krampfen, aber das ist ein anderes Thema. Nein, ganz ehrlich, ihr schliessen uns in die E-Idee, wenn das nicht stehen kann.
+
+Person3 [0:43:31 - 0:45:29]:
+Da würde ich auch gerne etwas darauf sagen. Ich bin mit Ihnen. Ich finde auch, es muss für alle Menschen mit eingeschlossen sein. Und es ist wichtig, dass jedes Individuum das bestmögliche Leben haben kann. Und man muss das Möglichste machen für all das. Das Problem ist tatsächlich am Gesetz selbst. Für das, was Sie jetzt so sagen, sind wir auch. Das ist richtig. Und zum Beispiel gibt es ja auch die Plattform «AGOV». Darüber sind die Behördengänge schon heute möglich. Und das wird auch in Zukunft über «AGOV» abgewickelt werden. «AGOV» übrigens hat eigene Probleme, das muss man auch sagen. Diese behandeln wir hier nicht. Aber es wird auch in Zukunft darüber abgewickelt werden. Dafür braucht man keine E-Idee. Das ist ein falsches Argument des Ja-Lagers, das verbreitet wird. Technisch ist das nicht so. Die E-Idee ist nur eine Identifikation, es ist kein Slogan. «AGOV» ist jetzt und in Zukunft. Das ist das eine. Und das andere am Gesetz ist wirklich das. Das wurde gut gemacht. Da haben Sie recht. Für Menschen mit Behinderungen ist das berücksichtigt. Und das finden wir selber auch sehr gut. Das hätten wir sonst kritisiert. Was im Gesetz aber fehlt, ist ein Diskriminierungsschutz für andere Leute, die andere Beeinträchtigungen haben oder eingeschränkt sind. Zum Beispiel ältere Personen. Dass man an den Schalter gehen kann. Doch, es ist wahr. Es ist nicht drin, dass zum Beispiel Gebühren garantiert nicht anfallen dürfen. Es ist nicht drin, dass garantiert kein Umtreib gegeben werden darf. Dass es zum Beispiel heisst, dass es nur noch einmal am Freitag von 9 bis 10 Uhr offen ist. Das ist möglich. Das ist eine der Garantien, die wir kritisieren. Wenn man will, dass es unbedingt freiwillig ist, dann schreibt man das genau so in das Gesetz. Und wir haben nur das Gesetz. Und man muss auch sagen, die heutige Rechtskultur, wie sie funktioniert, ist eher überexplizit. Man schreibt eher mehr Sachen ins Gesetz als weniger. Und gerade da ist es besonders erstaunlich, dass so ganz grundlegende Gesetze, wie die Garantie, wie das sogenannte Recht auf ein Offline-Leben, da geht es um die diskriminierungsfreie Nutzung von analogen Alternativen, dass das nicht drin ist. Und darum sagen wir Nein zu dem. Weil wir müssen eine Gesellschaft machen für alle. Auch für ältere Personen. Wir machen eine solidarische Gesellschaft. Und das geht nicht mit dem Gesetz.
+
+Person4 [0:45:29 - 0:45:56]:
+Es steht niemandem im Gesetz, dass man eine E-ID lösen muss. Das steht einfach niemandem. Das müssen Sie mir jetzt im Gesetz sagen. Das habe ich nicht behauptet. Sie gehen nicht auf das ein, was ich gesagt habe. Sie erzählen jetzt etwas anderes. Sie können die E-ID lösen. Und die Kantone warten darauf, damit sie auch ihre Prozesse weiter digitalisieren können. Aber die Kantone werden weiterhin die Möglichkeit schaffen, dass man an den Schalter gehen kann. Und das Gleiche gilt sogar für die umstrittene Installation der E-ID.
+
+Person4 [0:45:56 - 0:46:03]:
+Sie können an den Schalter gehen, Sie können an den Schalter gehen und die E-ID lösen. Analog.
+
+Person4 [0:46:03 - 0:46:04]:
+Es ist nicht garantiert im Gesetz.
+
+Person3 [0:46:03 - 0:46:08]:
+Es ist nicht garantiert. Gerade für die älteren Personen nicht. Und das passt mir nicht.
+
+Person5 [0:46:08 - 0:46:40]:
+Aber all diese Möglichkeiten gibt es heute. Sie können mit der E-ID-Karte oder einem Pass an den Schalter gehen. Und niemand will diese Möglichkeiten irgendjemandem wegnehmen. Der Bund sagt sogar ganz explizit, er will alle Dienstleistungen weiterhin analog anbieten. Und bei den Kantonen ist es genau das Gleiche. Wieso ist es nicht garantiert im Gesetz? Wenn das jemand abschaffen will, dann muss er eine demokratische Mehrheit finden. Aber diese E-ID,
+
+Person5 [0:46:40 - 0:46:53]:
+diese hilft einem, freiwillige Dienstleistungen für alle anzubieten. Diese ist freiwillig. Das ist ein zusätzliches Angebot. Es wird niemand gezwungen, das zu machen.
+
+Person9 [0:46:54 - 0:47:51]:
+Also mit dieser Freiwilligkeit ist es einfach nicht wahr. Das ist Salamitaktik. Es kommt mehr und mehr und mehr. Man wird es für ganz viele Dienstleistungen brauchen. Und am Schluss, man sieht es in Österreich, die haben eine Austria-ID. Da werden die Lehrer entlassen, die keine Austria-ID haben. Da sagen Pensionisten, ich kann im gesellschaftlichen Leben nicht mehr teilnehmen. Da sind Landwirte, die sagen, ich kann meine Daten online nicht mehr eingeben vom Landwirtschaftsbetrieb ohne Austria-ID. Und das wird in der Schweiz alles auch kommen. Irgendwann sagen die Krankenkassen, wir machen es nicht mehr. Wir haben hier im Publikum zukünftiges Gesundheitspersonal. Das Patientendossier ist drin. Da ist jetzt schon klar, das Gesundheitspersonal wird eine E-ID haben müssen. Und man wird Schritt für Schritt einfach weitergehen. Und ich finde dann vor allem noch gefällig, dass dann noch drinsteht, dass der Bundesrat die Daten international weitergeben kann. Dass es kompatibel ist, sei es mit Brüssel, sei es mit den USA. Und dass sie dann die Daten am Schluss in der ganzen Welt herunterschicken. Gut, ich möchte ein...
+
+Person10 [0:47:49 - 0:48:19]:
+Am Ende möchte ich etwas aufnehmen. An einem konkreten Fall, das tut mich spannend. Österreich. Sie haben gesagt, Lukas Reimann, ich habe die Schlagzeilen auch gelesen. Denkt ihr, Sie kommen mit dieser? Das wäre diese hier, oder? Vor letztem Schuljahr, die Lehrerin verweigert die E-ID, Austria und wird entlassen. Wir haben bei der Bildungsdirektion Wien nachgefragt, ob wir das bestätigen, um als Lehrkraft Daten für den Schulbetrieb zu verwalten. Zum Beispiel Noten zu erfassen, braucht es eine E-ID. Und die Lehrerin weigerte sich mehrfach, diese E-ID zu benutzen. Steuern wir auch auf so Zeiten zu?
+
+Person5 [0:48:19 - 0:48:27]:
+Nein, weil das Gesetz die Freiwilligkeit postuliert. Und wenn man das ändern will, muss man das Gesetz ändern, und dann gibt es eine Abstimmung.
+
+Person5 [0:48:29 - 0:48:30]:
+Sie sagen, das tut es nicht.
+
+Person3 [0:48:29 - 0:48:38]:
+Wo zeigen Sie mir, was garantiert ist? Ich habe ja hier mein Gesetz. Ich habe es ja hier mitgebracht. Genau, dass Sie mir solche Sachen nicht sagen können. Wo steht das?
+
+Person5 [0:48:38 - 0:48:40]:
+Wenn Sie mir das geben. Wo steht das?
+
+Person3 [0:48:39 - 0:48:46]:
+Dass es diskriminierungsfreier Zugang zu analogen Alternativen sind. Keine Führer können anfallen usw.
+
+Person4 [0:48:46 - 0:48:53]:
+Ich würde mich noch etwas anderes interessieren. Ihr malt jetzt eine ganz schwarze Zukunft.
+
+Person3 [0:48:53 - 0:48:53]:
+Nein.
+
+Person4 [0:48:53 - 0:49:31]:
+Aber diese schwarze Zukunft ist rund um uns herum. Alle Länder rüsten auf. Alle haben eine E-ID. Wenn wir unsere Souveränität behalten wollen, unsere digitale Souveränität, dann müssen wir auch eine E-ID haben. Dann können wir bestimmen, wie diese ausgestaltet ist. Nämlich genau so dezentral. Ich bestimme, welche Daten ich weitergebe. Und sonst müssen wir plötzlich irgendwelche E-IDs vom Ausland übernehmen. Oder die Tech-Konzerne kommen und sagen, du musst dich bei mir mit so ausweisen. Doch, das ist viel ärgerer. Das ist wirklich Quatsch.
+
+Person3 [0:49:32 - 0:49:40]:
+Nein, das ist kein Quatsch. Wer pusht diese E-IDs international? Die EU baut ihre Überwachungsstaaten zunehmend aus. Dann haben wir die USA.
+
+Person3 [0:49:41 - 0:50:23]:
+Dort ist Big Tech zuhause. Ganz ehrlich gesagt, sich von ihnen abhängig zu machen, mit dieser undemokratischen Entwicklung, die dort vor sich geht, ist auch keine gute Idee. Aber genau das macht die E-ID. Wer pusht sie dann noch? China. Die haben ein Social Credit System. Und wer pusht es auch noch? Es pusht auch noch Indien. Indien ist ein Fall, der in der Akademie die ganze Zeit besprochen wird, von einer hochproblematischen, hochproblematischen E-ID. Über 8 Jahre, am Anfang, wurde sie freiwillig eingeführt. Und nachher ging es Stück für Stück weiter, sodass man sogar humanitäre Probleme bekam. Indien hat Probleme. Die Leute konnten zum Beispiel nicht mehr Essen beziehen, weil sie diese E-ID nicht hatten. Können Sie nachschauen?
+
+Person4 [0:50:23 - 0:50:33]:
+Aber genau. Wir wollen nicht, dass wir plötzlich angewiesen sind auf irgendeine externe E-ID, weil wir sie nicht haben. Und die Leute wollen trotzdem in den Ausland bestellen.
+
+Person9 [0:50:33 - 0:50:39]:
+Schauen Sie, was in Österreich passiert. Man sagt, offiziell gemäss Gesetz ist es freiwillig. Aber in der Praxis ist es einfach nicht mehr freiwillig.
+
+Person10 [0:50:38 - 0:50:52]:
+Gut, ich möchte bei dieser Freiwilligkeit, und wahrscheinlich landen wir dann bei Artikel 25, könnte ich mir vorstellen, was es um das geht.  Ich muss schnell vorlesen. Ich habe ihn sonst auch noch parat gemacht, weil ich auch hier wieder antizipiert habe, dass es wahrscheinlich in die richtige Richtung geht.
+
+Person10 [0:50:53 - 0:51:06]:
+Und dort heisst es, wer die E-ID oder Teile davon als Nachweis akzeptiert, muss auch einen Ausweis nach Artikel 14 akzeptieren, wenn die Inhaberin oder Inhaber persönlich erscheinen. Haben Sie das damit gemeint? Das habe ich gemeint, genau. Das reicht Ihnen nicht?
+
+Person3 [0:51:06 - 0:51:22]:
+Nein, das reicht nicht. Im Internet kann man nicht anders. Dann ist es auch noch okay, persönlich erscheinen ist ja schön, aber es steht nicht, dass keine Gebühren erhoben werden dürfen, wenn man sie nicht braucht. Und es steht auch nicht, dass kein Umtreib passieren darf. Zum Beispiel, dass es ganz beschränkte Öffnungszeiten gibt. Jetzt muss ich noch etwas dazu sagen.
+
+Person10 [0:51:22 - 0:51:27]:
+Sie können nachher noch ganz viele Meilen zu Eins sagen. Ich möchte auch noch die Runde etwas aufmachen. Um welch persönlich erscheinen?
+
+Person9 [0:51:25 - 0:51:40]:
+Ihr habt immer Alkoholshop genannt. Wenn ich jetzt einen Whisky bestelle von Schottland, ist das wichtig? Das ist ein intensives Beispiel. Dann muss ich persönlich beim Shop in Schottland erscheinen. Das ist sehr schlecht von mir. Nein, aber dann haben Sie...
+
+Person4 [0:51:38 - 0:51:59]:
+Aber nochmals, Herr Raimann. Wie wollen Sie sich ausweisen, wenn das Jugendschutzgesetz fast... Sie hatten ja auch mal einen Snooze-Shop. Wenn ich nachweisen muss, dass ich um 18 Uhr die Bestellung machen kann, muss ich wirklich meine Idee einscannen und schicken? Dann können viel mehr Daten geklaut werden. Wie wollen Sie das sicherstellen?
+
+Person9 [0:51:58 - 0:52:12]:
+Ich habe diesen Shop. Wir haben niemanden unter 18 Jahren. Wir haben keine Alterschecks. Wir hatten ganz klare Alterschecks. Du musstest das Geburtsdatum eingeben, das überprüft wurde. Es gibt diverse Anbieter. Wie überprüft wurde?
+
+Person9 [0:52:13 - 0:52:51]:
+Ihr wollt etwas anderes. Ihr wollt, dass am Schluss alles überwacht wird. Wie ist überprüft worden? Dass am Schluss jeder Schritt im Internet überwacht wird. Dass du jede Seite, die du besuchst, einen Identifikationsniveau hinzugeben musst. Es ist auch gefährlich für die Zuschauer des SRF. Ich habe nachgeschaut, dass das Nächste läuft. Nach dieser Sendung läuft Conan der Barbar. Da steht, dieses Programm kann verstörend wirken und ist für Kinder nicht geeignet. Was Sie wollen, ist, dass es auf den Bildschirm kommt. Sie müssen die Idee anheben und anweisen, dass Sie schon 16 oder 18 Jahre alt sind. Ich weiss nicht, ob in welchem Alter der Film noch die Arena ist. Das möchte ich nicht.
+
+Person10 [0:52:50 - 0:53:03]:
+Ein Ordnungsantrag. Zwei interessante Fragen. Sie haben eine gestellt und Sie haben eine gestellt. Beide haben keine Antwort gegeben. Das wollen wir jetzt klären. Sie haben gefragt, ob er, wie das funktioniert, in seinen Snus-Shop das überprüft hat.
+
+Person10 [0:53:05 - 0:53:05]:
+Wie haben Sie das gemacht?
+
+Person9 [0:53:05 - 0:53:25]:
+Es gibt diverse Online-Anbieter, die die Idee überprüfen. Da gibst du dein Geburtsdatum ein. Dann musst du einen Teil deiner Idee, also nicht die ganze scanne oder fettel, sondern einen kleinen Teil der Nummer nehmen. Anhand der ist das Geburtsdatum dann safe. Okay. Die Idee ist sicher?
+
+Person5 [0:53:25 - 0:53:25]:
+Nein.
+
+Person3 [0:53:25 - 0:53:27]:
+Die Idee?
+
+Person5 [0:53:25 - 0:53:34]:
+Zeigt einfach, Sie sind über 16 oder über 18. Je nachdem. Alle anderen Informationen bekommt dieser Laden nicht.
+
+Person3 [0:53:34 - 0:53:35]:
+Das ist nicht wahr.
+
+Person5 [0:53:35 - 0:53:39]:
+Weder der Name noch sonst irgendetwas. Doch, das ist ganz sicher. Das muss ich repräsentieren.
+
+Person5 [0:53:41 - 0:53:43]:
+Das war natürlich das Ziel und das haben wir so entwickelt.
+
+Person10 [0:53:44 - 0:54:00]:
+Ich möchte noch einen Sinnpunkt aufnehmen und gehe damit zum Gehör an André. Vorhin haben wir den Artikel 25 gesehen. Wenn ein Online-Geschäft nur online geschäftet ist und keinen Ort hat, an dem man persönlich erscheinen kann, wird die Idee dann doch zum Zwang, oder?
+
+Person8 [0:54:00 - 0:54:18]:
+Ja, wir haben tatsächlich zwei Bereiche. Das Behördliche, das haben wir gehört. Man wird nach wie vor an einen Schalter gehen können und dort die Identitätskarte passen. Oder vielleicht auch die ID-Berufe. Darüber haben wir noch gar nicht gesprochen. Man könnte auch die ID-Berufe an einen Schalter geben, weil es einfach ein besserer Ausweis ist. Dann gibt es die Privatwirtschaft.
+
+Person8 [0:54:19 - 0:55:11]:
+Das ist ja schon heute so. Ein Shop, ein Nuschop entscheidet, wie wir von Lukas Reimann gehört haben, ich möchte die ID-Daten, also die Kartendaten, also das tatsächliche Wissen, wichtige, sensible Daten, um herauszufinden, ob ich Snus posten darf. Das ist die aktuelle Situation. Jetzt könnte natürlich ein Shop, ein Nuschop kommen, der vielleicht ein bisschen zeitgemässer sagen würde, der sagen könnte, ich biete meinen Snus an mit der Garantie, dass niemand unter 18 das posten darf. Ich frage aber nur ab, ob da jemand über 18 ist oder nicht. Ohne dass irgendetwas mitkommt. Das ist genau das, was Herr Bundesrat vorher erklärt hat. Das haben wir im Gesetz geklärt. Das wird man auch sehen auf der App. Dass ein Nuschop so etwas abfragt, was man nicht darf. Und da ist natürlich die Shop-Frage, das ändert nichts zu heute. Heute kann ein Onlineshop, offenbar hat das der Shop von Lukas Reimann, Ich möchte einfach noch richtigstellen,
+
+Person9 [0:55:10 - 0:55:15]:
+ich habe meinen Shop 2019 verkauft. Das war vor sechs Jahren.
+
+Person8 [0:55:13 - 0:56:17]:
+Aber es ging noch so. Ich habe es heute getestet. Was haben Sie getestet? Ich habe getestet, was man machen muss, damit man Snus posten kann. Das ist genau so, wie wir es erklärt haben. Aber das war nicht sein Shop. Das wollte ich nicht, dass es so war. Auf etwas ganz wichtiges. Heute entscheidet der Shop, wie er das Problem lösen kann. Künftig wird das nach wie vor die Möglichkeit sein. Ich hoffe, dass ganz viele sagen werden, dass sie eine Altersprüfung mit IED machen. Denn das ist eine viel datensichere Lösung. Man kann doch keine Online-Anbieter zwingen, eine schlechte Lösung aus der Vergangenheit zu nehmen. Das kostet ja auch. Das ist mühsam. Die Identitätskarte. Ich möchte als Online-Shop nicht die Körpergrösse, Geschlecht und Heimatort meiner Leute. Nur, damit sie vielleicht Snus verkaufen können. Das ist der Punkt. Wir haben Wirtschaftsfreiheit. Wenn ein Shop das will, kann er das ausschliesslich mit der IED machen. Das ist viel günstiger. Wenn jemand nicht posten will, gibt er zu einer Konkurrenz oder vielleicht einfach in den Kiosk. Es ist ja niemand gezwungen, online etwas zu posten.
+
+Person10 [0:56:18 - 0:56:53]:
+Wir gehen jetzt auch einen Schritt weiter. Nicht zum Kiosk, sondern 2-3 Meter weiter rüber. Wenn man auf die Redezeit geht, sieht man, dass die Pro-Seite ziemlich voraus ist. Vielleicht können wir das auch im Studio zeigen. Das ist eine Disziplinierungsmassnahme. Was damit zu tun hat, dass Bundesrat Beate Janz am Anfang sein 1 zu 1 bestritten hat. Das gleichen wir jetzt aus mit der Kampagnenleiterin des Komitees, das Nein zum EID-Gesetz sagt. Worum geht es Ihnen hier eigentlich? Das möchte ich jetzt klären. Das 1 zu 1 mit Monika Amgwert. Darf ich Sie bitte sehen?
+
+Person3 [0:56:53 - 0:56:54]:
+Darf ich das mitnehmen?
+
+Person10 [0:56:54 - 0:56:57]:
+Sie dürfen das mitnehmen, was immer das auch ist. Dann werden wir es gleich klären.
+
+Person10 [0:57:05 - 0:57:13]:
+Frau Amgwert, ich nehme an, Sie haben keine Cumulus-Karten und auch keine Superkarten, denn dort werden das in Jahrzehnten schon Daten erhoben.
+
+Person3 [0:57:13 - 0:57:19]:
+Ganz ehrlich gesagt, habe ich die wirklich nicht, weil ich das wirklich unsympathisch finde und eigentlich ein Unsitten.
+
+Person10 [0:57:20 - 0:57:23]:
+Beide nicht, gar nichts in dem Bereich, den Sie sich hinbekommen müssen.
+
+Person3 [0:57:23 - 0:57:30]:
+Das mache ich wirklich nicht. Ganz selten, wenn es dann heisst, wenn Sie das jetzt lösen, dann gibt es jetzt gerade 20% Rabatt, dann mache ich es einst und dann wieder weg.
+
+Person10 [0:57:30 - 0:57:39]:
+Aber jetzt einfach ich. Aha, okay, nicht ganz konsequent. Reden wir darüber, wer die Verantwortung für so eine EID hat. Ich zeige Ihnen zwei Bilder und Sie sagen mir, wer Ihnen lieber wäre.
+
+Person10 [0:57:40 - 0:57:46]:
+Soll die Verantwortung für eine EID bei Beate Janz und dem Bund oder bei Mark Zuckerberg und Metallica?
+
+Person3 [0:57:46 - 0:58:14]:
+Herr Janz. Also Herr Janz ist natürlich schon sympathischer als Herr Zuckerberg. Das ist ja klar. Aber das Problem ist eben, dass Herr Janz nicht weiss, dass dann trotzdem die Verantwortung nachher bei Herrn Zuckerberg liegt. Weil halt die Daten, also vielleicht weiss er es auch, aber sagt er weiss es nicht, dass es halt dann trotzdem bei ihm liegt. Und das ist das grosse Problem, das man kritisiert, weil die Daten werden verteilt und die sind nicht sicher. Die liegen nachher auf Servern von diesen Firmen umeinander. Das ist es. Und dort sind Sie ein einfaches Ziel für Hacker.
+
+Person10 [0:58:14 - 0:58:23]:
+Aber wenn wir keine staatliche EID haben, dann passiert genau das, was Sie nicht wollen. Dann springen eben die Tech-Konzerne ein. Ihr Nein ist eine Einladung an Herrn Zuckerberg.
+
+Person3 [0:58:24 - 0:59:28]:
+Nein, das ist nicht so. Also erstens mal in unserem Hoheitsgebiet, in der Schweiz quasi, können wir selber bestimmen, dürfen überhaupt da Unternehmen EIDs abfragen, die hier angesiedelt sind. Und da muss man eigentlich klar sagen, nein, nur bei gesetzlich vorgeschriebenen Situationen, wie wir es vorhin besprochen haben. Das ist aber nicht so im Gesetz. Das müsste ja als Garantie drin sein. Nachher im internationalen Raum sieht es anders aus. Und dort müsste man halt vielleicht fairerweise auch sagen, dass wir eine andere Digitalisierungsstrategie brauchen, also eine, die man zum Beispiel auch Big Tech mehr kritisiert. Auch seitens des Staates, das wünsche ich mir seitens des Bundesrates. Weil man weiss, dass Big Tech hochproblematisch ist für Demokratien. Also zum Beispiel der Cambridge Analytica-Skandal, das kennen die meisten noch, wo quasi die US-Wahlen unterlaufen wurden. Man weiss, dass in den letzten zehn Jahren über 60 Demokratien unterlaufen wurden durch solche Sachen. Also wir sollten jetzt mit der EID einen weiteren Schritt hin machen, zumi Datenabgabe an Big Tech. Man macht sich abhängig von Big Tech. Mit der App, die man dort hat, die nur über Big Tech betriebssystem läuft. Aber das Gegenargument ist, der Bund nimmt sie jetzt in die Hand,
+
+Person10 [0:59:23 - 0:59:32]:
+damit das genau nicht passiert. Es ist genau das Falsche. Sie trauen einfach dem Bund nicht. Nein, das ist falsch.
+
+Person3 [0:59:29 - 1:00:02]:
+Ich habe einen Fall Sympathie, nicht nur für Herrn Janz, sondern auch für den Bund. Das ist es nicht. Ich glaube, die versuchen auch eine gute Arbeit zu machen. Das ist es nicht. Aber es ist das Gegenteil von digitaler Souveränität, was Frau Balli gesagt hat, wenn wir uns abhängig machen von Big Tech. Digitale Souveränität bedeutet, wir geben möglichst wenig Daten ab. Wir stellen privat die Daten ab.  Wir bringen die Staatssphäre und die Demokratie ins Zentrum der Digitalisierung. Und by the way, wir malen überhaupt keine schwarze Zukunft. Das ist the way to go. Und das ist möglich. Und möglich wird es mit einem Nein zur EID.
+
+Person10 [1:00:02 - 1:00:26]:
+Gut, wir sind im Moment ein bisschen zu viel Schlagwörter. Ich möchte es ein bisschen runterbrechen. Die Nutzerin oder der Nutzer hat die Kontrolle über die EID. Sie entscheiden selber, welche Informationen übermittelt werden sollen. Oder wie es auf dem Plakat der Pro-Kampagne steht, damit wir das auch noch gezeigt haben, staatlich sicher freiwillig. Wenn wir dort, wenn wir die zentralen Daten speichern, das weiss auch ich als Nicht-Experte,
+
+Person3 [1:00:25 - 1:00:26]:
+sind jetzt auch viele Schlagwörter,
+
+Person10 [1:00:26 - 1:00:31]:
+dann ist doch das Risiko kleiner, dass es zu grossen Daten-Licks kommt.
+
+Person3 [1:00:31 - 1:01:16]:
+Ist doch logisch, nicht? Nutzerinnen und Nutzer entscheiden das nicht selber. Sondern es läuft so. Die Firma macht eine Abfrage und sagt, wenn du das bei uns kaufen willst, musst du das angeben. Und dann kann man noch sagen, ja oder nein. Und man kennt es von sich selber, mit den AGB-Höglern. Man ist irgendwie im Stress. Vielleicht hat man noch ein Kind, das irgendwann etwas haben muss. Und dann setzt man das Hökli. Also nein, das stimmt natürlich nicht. Und dann das andere mit der dezentralen Speicherung. Das wird jetzt auch so als Feigenblättchen vor sich hergetragen. Aber der Fakt ist natürlich, wenn wir jetzt im Internet beliebig die Passdaten von Schweizerinnen und Schweizer verteilen, was das EID-Gesetz Grundlage dafür schafft, dann liegt das nachher auf sehr vielen Servern überall auf der Welt verteilt. Und dort wird es hackbar. Die Dezentralität, das ist wie, ich sage immer das, das bringe ich noch. Das ist wie ein Kessel
+
+Person3 [1:01:16 - 1:01:28]:
+und man hat 20 Löcher darin. Und man hat Wasser. Und es zittert überall raus. Und jetzt, jetzt hat mir dort ein Löcher gestopft. Und jetzt sagen sie die ganze Zeit, aber schauen Sie, wir haben doch dieses Löcher so super gestopft. Aber die anderen 19 tönen immer noch raus. Und das ist das EID-Gesetz.
+
+Person10 [1:01:29 - 1:01:42]:
+Was ich aber trotzdem nicht ganz nachvollziehen kann, die gleichen Leute, die vor vier Jahren noch dagegen waren, stehen jetzt auf der anderen Seite, mit Werbung und sagen, ja, das hat man wirklich miteinander entwickelt. Das ist eine gute Sache. Das geht in die richtige Richtung. Aber sie bleiben einfach stur.
+
+Person3 [1:01:42 - 1:02:03]:
+Nein, nicht so sehr stur. Ich finde zum Beispiel, wenn diese Garantien drin wären, wäre es kein Problem. Man muss sich eigentlich fragen, so offensichtliche Garantien, wieso stehen denn diese nicht im Gesetz? Und das ist einfach etwas, wo wir kein Vertrauen geben. Es sollte niemandem Vertrauen geben. Man sollte darum Nein sagen zu dem. Und man kann es verbessern. Es ist nicht so schwierig. Aber man muss die absolut wichtigsten Garantien dort reinbringen.
+
+Person10 [1:02:03 - 1:02:13]:
+Aber Sie unterstellen dem Bundesrat, dem Parlament, all denen, die jetzt für das EID-Gesetz sind, unlautere Absichten, dass ganz Böses auf sie zukommt, dass man zu einem Überwachungsstaat kommt.
+
+Person3 [1:02:13 - 1:03:11]:
+Nein, nein, das unterstelle ich ehrlich gesagt nicht. Es mag sein, dass es Leute gibt, die das machen. Nein, ich unterstelle im Fall nicht unterstellen,  dass es unlautere Absichten gibt. Ich glaube, es ist ein sehr komplexes Feld, das man hier hat. Ich muss sagen, meine Organisation, die Digitale Integrität Schweiz, mein Team, meine Kollegen und Kollegen, haben über 2'500 Stunden mit dieser Frage verbracht. Das ist sehr viel Zeit. Da hat Herr Jans nicht Zeit dazu. Er muss sich auf Berater verlassen. Berater, das ist einfach so. Das sind je nachdem Leute, die dann auch vielleicht finanzielle Interessen haben. Dieses Projekt kostet 200 Millionen. Da muss man einfach sehen, da gibt es viele Firmen, die Interessen daran haben. Das ist mein Anspruch. Das ist mein Ansatz. Technologisch ist es komplex. Es ist aber auch juristisch komplex. Und es sind auch demokratisch, demokratietheoretische Fragen drin. Und ich unterstelle niemandem etwas Böses. Ich glaube, Parlamentarierinnen und Parlamentarier machen einen extrem guten Job. Und sie haben viele wichtige Geschäfte auf dem Tisch. Und man hat einfach nicht Zeit, sich 2'500 Stunden mit etwas auseinanderzusetzen.
+
+Person10 [1:03:11 - 1:03:36]:
+Gut, Sie haben sich vorher etwas dagegen gesperrt, dass Sie angeblich nicht sagen, das werde zu einer Überwachungsstatt. Sie haben es genau gemacht. Nämlich, wenn es um China geht, dann malen Sie das Gespenst, haben Sie es vorhin in dieser Sendung schon gesagt, vom sogenannten Sozialkreditsystem Advant. Das ist ein Ausschnitt aus einer Rundschau-Reportage. Das meinen Sie, glaube ich. So wie in China, wo die Bevölkerung überwacht und bewertet wird mit einem Punktesystem für das finanzielle, soziale, moralische und politische Verhalten.
+
+Person3 [1:03:36 - 1:03:37]:
+Ich hätte vielleicht ein Glas Wasser.
+
+Person10 [1:03:38 - 1:03:44]:
+Mit Verlaub einfach. Und unterdessen bitte ich die Aufnahmeleitung Vanessa, ein Glas Wasser zu bringen, das sie, glaube ich, gerne hätte.
+
+Person10 [1:03:44 - 1:03:48]:
+Ich teile die Frage ein wenig aus, damit sie nicht gleich Antwort bekommen.
+
+Person10 [1:03:48 - 1:03:56]:
+China ist etwas, was Sie jetzt behaupten, komme in Zukunft auf uns zu. Aber mit Verlaub, danke vielmals.
+
+Person10 [1:03:58 - 1:04:00]:
+Bitte sehr, nehmen Sie zuerst einen Schluck.
+
+Person3 [1:04:00 - 1:04:00]:
+Ja, danke.
+
+Person10 [1:04:02 - 1:04:06]:
+Und dann eine Antwort bitte auf die Frage, die ich klar sage, jetzt kommt es von allen Seiten. Danke.
+
+Person10 [1:04:07 - 1:04:10]:
+Die Schweiz ist nicht China, Frau Angerth.
+
+Person3 [1:04:09 - 1:04:31]:
+Nein, natürlich nicht, Herr Protz. Das ist mir völlig klar. Und das machen wir ja auch nicht. Ich bin von der Digital Integrität der Schweiz und mir leidet das Konzept, das ich mit den EID-Gesetzen zusammenfasse. Und das, was wir einfach sagen, ist, die EID als Infrastruktur, und das ist ein technologischer Fakt, das ist nicht eine Meinung, das ist ein technologischer Fakt, das ist ein Kernelement des Sozialkreditsystems.
+
+Person3 [1:04:32 - 1:05:20]:
+Wenn wir so etwas installieren, dann müssen wir Sicherheitsvorkehrungen treffen. Und das ist einfach sorgfältige Gesetzgebung und das ist vorausschauendes Handeln der Politik. Weil, ich habe vorhin das Beispiel Indien gesagt, der sogenannte Feature-Creep, oder man kann auch inkrementelle Implementierung sagen, oder Salamitaktik, wie auch immer. Das ist Realität und das muss man einfach anschauen. Und das bedeutet eben genau nicht schwarzmalen. Was wir doch machen müssen, als Menschen allgemein, aber auch in der Politik, wir müssen uns doch mit der Realität auseinandersetzen, Sachen offen ansprechen. Und übrigens, das unterstützt auch TA Swiss, das ist die Stiftung für Technikfolgenabschätzung, die auch bundesnah ist. Die untersuchen die Risiken von Technologien. Ja. Und die sagen auch, die Forscher dort sind in einem Interview zitiert, kürzlich herausgekommen, vor etwa einem Monat,
+
+Person3 [1:05:21 - 1:05:37]:
+das Gefährlichste betreffend dieses Sozialkreditsystem ist erstens, dass man keinen Dialog darüber hat. Das sehen die als Gefahr. Und das Zweite ist, dass es zuerst freiwillig eingeführt wird und dann eine schleichende Implementierung gibt. Aber Sie unterstellen schon wieder,
+
+Person10 [1:05:35 - 1:06:00]:
+und damit gehen wir dann zurück in die Runde, dass wir Richtung China unterwegs sind, aber ausser dass ehemalige Bundesrat Reiseteam macht, was wieder ein anderes Thema ist. Nein, ich unterstelle nicht, dass wir Richtung China unterwegs sind. Ich möchte Ihnen noch etwas zeigen, was man im Abstimmungsbüro lesen kann. Die EID fördert die Innovation und die Wettbewerbsfähigkeit des Wirtschaftsstandortes Schweiz. Also zum Schluss, letzte Frage, kurze Antwort. Lieber Steinzeit als Neuzeit bei Ihnen?
+
+Person3 [1:06:02 - 1:06:09]:
+Lieber eine sorgfältig, vorausschauend gestaltete Zukunft.
+
+Person10 [1:06:10 - 1:06:11]:
+Danke für dieses Gespräch.
+
+Person3 [1:06:11 - 1:06:12]:
+Gerne.
+
+Person10 [1:06:13 - 1:06:22]:
+die EID sei wichtig, damit die Schweiz mit der Digitalisierung Schritt halten könne. Im Abstimmungsbüro hängt es wirklich von dieser Abstimmung ab,
+
+Person10 [1:06:22 - 1:06:24]:
+ob die Schweiz digital abgehängt wird oder nicht.
+
+Person5 [1:06:24 - 1:07:41]:
+Ich muss zwei Dinge richtigstellen. Diese Informationen landen nicht bei den Big-Tech-Firmen. Und zwar gibt es zwei Sicherheitsmechanismen, die eingebaut sind. Das Erste ist nochmals, es gibt kein zentrales Register, das gespeichert ist, was Sie mit Ihrer EID machen. Das ist nie zentral. Das kann auch eine Firma von aussen nicht hacken. Und das Zweite ist, wenn Sie immer wieder bei einer Firma etwas bestellen, dann besteht ja die Gefahr, dass diese Firma irgendwann herausfindet, was sie will. Macht ein Profil von Ihnen. Aber selbst das haben wir abgesichert mit der modernsten Technologie. Das heisst, diese EID auf Ihrem Handy ändert die Randdaten ständig. So, dass ein Algorithmus Sie nicht erkennen kann. Wenn Sie so wollen, wechseln die EID-Karten ständig die Farbe. Und auf der Gegenseite weiss nicht, dass das Mia Müller oder Walter Meier ist, der dahinter steckt. Diese Sicherheit haben wir eingebaut. Diese gibt es jetzt. Und bei allen Möglichkeiten, die jetzt bereits existieren auf dem Internet, haben Sie diese Sicherheit nicht.
+
+Person9 [1:07:42 - 1:08:57]:
+Es ist einfach so, dass der Bund 10 Jahre lang während der Dauer der EID und nach 5 Jahren darüber hinaus den 3D-Abgleich des Gesichtes zentral speichern wird. Und der Bund weiss auch, dass das gefährlich ist. Darum schreibt er in das Gesetz, dass er sofort informiert werden muss, wenn die Sicherheit der EID nicht mehr gewährleistet werden kann. Das habe ich so noch nie in einem Gesetz gesehen. Und am Schluss schiebt er auch noch die Verantwortung auf die Nutzer der EID ab. Im Artikel 22 steht, dass die Inhaber der EID die Sorgfaltspflicht ertragen. Wenn sie gehackt werden, wenn die Konten abgezogen werden, dann haften nicht der Bundesrat an, sondern am Schluss die Nutzerinnen und Nutzer der EID. Das ist sehr gefährlich. Die Frage war ja noch, hängt die Schweiz digital ab? Dazu würde ich einfach sagen, Silicon Valley und die USA haben nicht einmal eine nationale EID, geschweige denn eine EID. Und die sind trotzdem Digitalisierungstreiber. Ich glaube nicht, dass man hier mit dem Schub für Digitalisierung vergleichen kann. Ich finde auch, dass die Schweiz vorwärts machen sollte. Aber sicher nicht mit solchen Projekten vom Bund. Der Bund gibt 1,8 Milliarden pro Jahr für Informatik aus. Es sind viele Projekte verreckt. Da habe ich leider wenig Vertrauen, dass es jetzt besser wird.
+
+Person10 [1:08:57 - 1:09:05]:
+Aber trotzdem sehen Sie sich bei der SVP als Wirtschaftspartei. Aber wenn es darum geht, Nägel mit Köpfen zu machen in der Digitalisierung, stehen Sie wieder hinten an.
+
+Person9 [1:09:05 - 1:09:39]:
+Wir sind absolut für die Wirtschaft und wollen das vorwärts machen. Aber ich glaube, das schafft vor allem mehr Bürokratie. Das schafft einen zusätzlichen Bürokratieregister, mit dem man sich registrieren muss. Das Parlament will schon die Ausweispflicht. Wenn man einen Kommentar abgibt, im Online-Forum, vielleicht bei SRF, dann muss man sich in Zukunft mit einer EID ausweisen können. Das hat das Parlament angezeigt. Sie hat auch eCollecting angezeigt. Das kannst du nur mit einer EID machen. Das ist eine große Frage. Das sind alles Fragen, die für die Demokratie eine grosse Gefahr sind.
+
+Person3 [1:09:39 - 1:10:39]:
+Zu wichtig ist das. Eine Digitalisierung ist wichtig. Es ist einfach, dass man eine positive Digitalisierung macht. Das bedeutet auch, dass man genau überlegt, wie man was wo macht. Man darf das nicht abhängig machen von Big Tech. Es darf nicht so Sachen führen wie Überwachung durch Big Tech. Das ist unser Hauptanliegen. Denn die sammeln Daten. Das ist vielen nicht bewusst. Aber das sind Überwachungsfirmen. Das ist das grosse Problem daran. Und nicht die Digitalisierung per se. Man muss sie positiv gestalten. Die Menschen müssen im Zentrum stehen. Und es ist nicht wirtschaftsfördernd, wenn man Überwachung fördert. Auch von Privaten nicht. Das Big Tech-Überwachungsgeschäftsmodell führt nicht zu einer florierenden Wirtschaft. Eine florierende Wirtschaft ist Innovation und solche Sachen. Man weiss, es wird eher gedrosselt von Überwachung. Die Leute fühlen sich nicht frei. Die Leute trauen sich nicht frei, sich auszutauschen. Das ist eher ein Problem. Und es ist undemokratisch. Das müssen wir verhindern. Darum ein Nein.
+
+Person10 [1:10:39 - 1:10:53]:
+Frau Balli, der Wirtschafts-Tagverband Economyswiss sagt, die EID sei ein richtiges Entscheid für unsere digitale Zukunft und stärke den Wirtschaftsstandort. Stärke den Wirtschaftsstandort? Also geht es doch darum, dass am Schluss private Unternehmen profitieren?
+
+Person4 [1:10:53 - 1:11:02]:
+Ja, z.B. eine Bank. Wenn ich ein Bankkonto eröffnen möchte und ich will nicht an den Schalter gehen und mich ausweisen, ist das selbstverständlich für die Bank eine Möglichkeit.
+
+Person3 [1:11:02 - 1:11:10]:
+Das ist aber eine gesetzlich vorgeschriebene Situation. Das unterstützen wir ja. Das ist genau das, was wir unterstützen würden. Wir kritisieren, dass Sie es allen anderen Firmen geben.
+
+Person4 [1:11:08 - 1:11:25]:
+Nein, wir geben es nicht allen anderen Firmen. Jetzt nochmals, Frau Amgewehrt. Warum soll jetzt plötzlich irgendein Onlineshop, der noch keine EID-Daten braucht, plötzlich von mir EID-Daten verlangen? Das ist absolut nicht ...
+
+Person4 [1:11:26 - 1:11:26]:
+Das ist ...
+
+Person3 [1:11:26 - 1:11:29]:
+Weil das sehr attraktiv ist. Das machen alle.
+
+Person4 [1:11:29 - 1:11:36]:
+Und wieso sollen jetzt die Tech-Konzerne plötzlich von mir EID wählen, wenn sie das nicht gesetzlich brauchen?
+
+Person3 [1:11:37 - 1:11:43]:
+Das wäre so vorgemacht. Das ist ja dann Ihr Geschäftsmodell. Haben Sie die Digitalisierung der letzten 25 Jahre nicht mehr bekommen?
+
+Person4 [1:11:43 - 1:12:14]:
+Nein, das ist nur, wenn das Gesetz sagt, z.B. soziale Medien ... Du darfst erst auf die sozialen Medien mit einem gewissen Alter gehen, dann müssen Sie das Alter abfragen. Aber sonst gibt es keinen Grund, dass Sie etwas abfragen. Und wenn ich in meinem Heimat identifizieren muss, das hat der Bundesrat ja gesagt, und ich mich das nächste Mal wieder identifizieren muss, der hat keine Ahnung, dass ich das letzte Mal schon mal gemacht habe und dort schon mal etwas bestellt habe. Diese Verknüpfung ist nicht gegeben. Das ist nicht wahr. Und ganz ... Wieso sagen Sie einfach, das ist nicht wahr? Weil ich das weiss. Ich habe den Technologieentscheid angeschaut.
+
+Person3 [1:12:12 - 1:13:04]:
+Weil darin ganz klar ... Wir haben das kritisiert. Also erstens mal, im Gesetz ist die Unverknüpfbarkeit nicht gegeben. Das ist wieder so ein grosses Fragezeichen, das ich habe. Die Unverknüpfbarkeit, das ist klar, dass das ein Problem ist, ist übrigens auch in den Partizipationsverfahren moniert worden. Und dann ... Jetzt, wieso ist das als Garantie nicht drin? Dann haben wir das kritisiert. Dann sind Sie mit einer PR-Mitteilung gekommen und haben gesagt, wir passen es jetzt an in der Verordnung und was auch immer, und passen es dann an im Technologieentscheid. Wenn man den Technologieentscheid anschaut, sieht man, es gebe zwei Varianten. Es gebe eine, wo die Unverknüpfbarkeit nicht sei und quasi Privatsphäre schütze, die auch quasi kompatibel mit dem Rest der Wirtschaft seien. Und dort ist genau die Verknüpfbarkeit drin. Dort kann man alle Sachen zusammenschleifen. Und das ist das, was Herr Neymann gesagt hat.
+
+Person3 [1:13:05 - 1:13:18]:
+Am Schluss landen z.B. diese Daten bei TikTok, bei China. Die haben sowieso Profilweiser gestellt und verknüpfen das mit unseren Passdaten. Das Gleiche gilt für die USA. Also es ist einfach, ehrlich gesagt,
+
+Person3 [1:13:20 - 1:13:22]:
+unverständlich, dass man so etwas machen würde.
+
+Person10 [1:13:22 - 1:13:45]:
+Gut, wir sind am Moment, wo der Moderator jonglieren muss, aus zwei Gründen. Einerseits geht die Sendung langsam zu Ende. Andererseits ist die Kontraseite noch hinten drin, mit dem, was ich zu gut hätte, um da zu argumentieren. Jetzt versuchen wir mal, den Spagat zu machen und gehen zum stetig lächelnden Georg Ananiadis. Das fällt mir da hinten auf. Sie haben es gut da hinten, oder?
+
+Person6 [1:13:45 - 1:13:55]:
+Ja, es ist schön. Wir können zuschauen. Wir hören sehr gute Argumente, v.a. auf eurer Seite. Und ich muss da vielleicht noch sagen, dass ich das auch noch schnell ergänzen kann.
+
+Person10 [1:13:55 - 1:14:17]:
+Darf ich Ihnen eines der wichtigsten Pro-Argumente in diesem Abstimmungskampf zeigen? Das ist laut SRG-Umfrage vom Meinungsvollständigkeitsinstitut GFS das hier hinten. Die Idee ist wichtig, damit die Schweiz mit der Digitalisierung Schritt halten kann. 64 % der Befragten sind mit diesem Argument voll oder eher einverstanden. Haben Sie von den Piratenparteien den digitalen Anschluss verpasst?
+
+Person6 [1:14:19 - 1:15:44]:
+Wir sind eigentlich eine Digitalpartei. Und wie wir vorhin schon gehört haben, wollen wir eine gute Digitalisierung für die Schweiz. Wir wollen eine gute Digitalisierung auch für die Schweizer Bürger haben. Und das ist in diesem Gesetz ... Vielleicht, wenn man sich das Gesetz genau anschaut, sieht man im Anhang hinten, ziemlich hinten, dass es Einfluss auf ein Patientendossier, auf ein Jugendschutzgesetz hat. Es hat aber auch Einfluss, das ist jetzt neu, auf das Überwachungsgesetz. Wir haben in der Schweiz ein Überwachungsgesetz, das der Bundesrat mit seiner Verwaltung im Moment extrem ausbaut. Und darin verlangt man den Identifikationszwang bei Plattformen wie Threema, WhatsApp und sogar Vereinen, Clubs, Organisationen mit mehr als 5'000 Mitgliedern müssen zukünftigen Identifikationszwang einführen, gemäss dieser Verordnung des BÜPF. Was wir jetzt im Moment erleben, wenn wir sagen technischer Anschluss. Eine Firma wie Proton ist bereits am Abwandern aus der Schweiz. Sie holt ab, weil sie die gesetzlichen Grundlagen nicht mehr so akzeptieren kann, die der Bundesrat mit seinen Verwaltungen im Moment so gestaltet. Threema, eine der besten, sichersten Messenger-Plattformen, die wandern ab, wenn es so weitergeht, in diesem Tempo. Ich finde, diese E-Idee mit ihrer Digitalisierung, das ist ein Figenblatt, das uns im Moment vorgelegt wird, um irgendwelche anderen Sachen im Hintergrund völlig zu verpacken. Dass sie schon genug verpackt haben, haben wir ja gesehen.
+
+Person10 [1:15:44 - 1:15:55]:
+Aber schauen wir ein bisschen in die Zukunft. Gehen wir mal darauf aus, es würde ein Nein geben. Man würde das ablehnen. Für Sie ist die E-Idee für alle Zeiten gestorben. Könnte man nicht noch eine bessere schaffen?
+
+Person7 [1:15:56 - 1:16:55]:
+Herr Zollinger? So wie es jetzt aussieht, definitiv gestorben. Wir dürfen das Projekt nicht nochmals angehen, denn es besteht Gefahr, dass wir in den Sog kommen, der jetzt mal läuft. Es wurde vorhin gesagt, wenn man da international mithält, die EU macht das auch, wir müssen das jetzt auch machen. Was passiert dann im E-Ideegesetz Artikel 32, das auch ganz weit hinten drin steht, dass der Bundesrat künftig völkerrechtliche Verträge in Eigenregie abschliessen. Was bedeutet das? Das Parlament ist ausgehebelt, das Volk ist ausgehebelt. Der Bundesrat kann künftig, basierend auf dem E-Ideegesetz, alles annehmen, was die EU im Moment vorantreibt, die ganze Überwachungsindustrie, die dort läuft, über das E-Ideegesetz dank des Bundesrates in die Schweiz ziehen. Damit haben wir alles abgegeben. Wir könnten es nicht mehr kontrollieren, auch als Volk. Wir könnten nicht mehr darüber abstimmen. Das steht so im Gesetz drin. Ich frage mich schon, warum. Wenn der Bundesrat die ganze Zeit sagt, sie könnten wieder darüber abstimmen, wenn es noch Änderungen gibt. Nein, das werden wir nicht können, weil sie können es über das Völkerrecht ziehen. Das ist eine grosse Gefahr in diesem Gesetz.
+
+Person10 [1:16:55 - 1:17:03]:
+Gleichzeitig gibt es auch Ableger der Piratenpartei der Westschweiz, die das gut finden, die Ja dazu sagen. Es gibt auch Sektionen der SVP, die Ja dazu sagen.
+
+Person9 [1:17:03 - 1:17:05]:
+Es gibt keine bekannten Besetzer.
+
+Person10 [1:17:05 - 1:17:16]:
+Mal im Tessin, glaube ich. Im Tessin, ja. Sonst alle deutlich Nein bei der SVP. Okay. Was ich noch einmal darauf hinaus möchte, für Sie ist das Thema erledigt,
+
+Person10 [1:17:17 - 1:17:21]:
+Das habe ich noch nicht ganz verstanden.
+
+Person6 [1:17:21 - 1:17:49]:
+Es war seine Aussage, dass es eine komplette Ablehnte ist. Wir von der Piratenpartei haben schon vor acht Jahren aufgezeigt, in welche Richtung es gehen soll. Wir haben in der Vernehmlassung bei all diesen Partizipationsverfahren immer gesagt, in diese Richtung wäre der richtige Weg. Auch hier haben wir Unterstützung von vielen anderen digitalpolitischen Organisationen. Auch die, die jetzt ein Ja sagen zu dieser Idee, wären nicht unglücklich, wenn man es noch etwas würdigen würde, dass sie die Idee verbessern. Da sind wir auf dem richtigen Weg. Wir finden eine Lösung, versprochen.
+
+Person9 [1:17:49 - 1:18:06]:
+Ich habe auch versucht, mitzuschaffen und diese Idee zu verbessern. Ich habe vor einem Jahr schon Anfragen im Parlament gemacht, dass sie die Quellcode offenlegen. Das wurde bis heute nie offengelegt. Man macht es einfach nicht. Ich finde, das Gesetz ist völlig absurd. Im Abs. 1 schreibt man, die Quellcode sei offen.
+
+Person9 [1:18:07 - 1:18:22]:
+Und im Abs. 2 schreibt man, die Quellcode sei nicht offen. Ich habe noch nie so ein absurdes Gesetz gesehen wie dieses. Herr Janz, wenn Sie sagen, dass Sie so transparent sind, legen Sie den Code jetzt offen. Stellen Sie ihn zur Verfügung? Dann hat man vielleicht auch etwas mehr Vertrauen.
+
+Person10 [1:18:23 - 1:18:33]:
+Somit haben wir fast jongliert, insofern so, als das das letzte Wort beim Bundesrat ist. Vielleicht kann er noch etwas dazu sagen, was jetzt gerade Lukas Reimann gesagt hat.
+
+Person10 [1:18:33 - 1:18:36]:
+Das sind die letzten Sekunden für Sie in dieser Abstimmungsarena. Beat Janz.
+
+Person5 [1:18:38 - 1:18:45]:
+Ich freue mich, dass ich gehört habe, dass das Gesetz ein Fortschritt ist. Es erlängt einfach noch nicht. Das habe ich bei Ihnen verstanden.
+
+Person5 [1:18:48 - 1:19:08]:
+Ich wünsche mir den Mut, dass wir diesen Schritt gehen, dass wir das demokratisch auf den Weg machen. Und wenn es Nachbesserungen braucht, dann können wir das machen. Dafür ist Demokratie da. Dafür schaffen wir eine demokratisch kontrollierbare Lösung im Internet.
+
+Person10 [1:19:09 - 1:19:49]:
+Die fünf Sekunden lassen wir sein. Sonst geht es immer wieder hin und her. Wir stehen morgen noch hier. Hier abschliessen wir. Vielen Dank für die engagierte Debatte zum EID-Gesetz. Vor allem an den Bundesrat. Danke, dass Sie in die Abstimmungsarena gekommen sind. Danke auch. Produziert wurde die Sendung von Lisa Kenzig und Chiara Stähli in der Leitung von Franziska Egli. Eine Zusammenfassung finden Sie bald in der SRF News App und auf srf.ch. Den Blick in die Hinterkulissen gibt es bei mir auf den sozialen Medien, z.B. auf Instagram. Nächste Woche begrüsst Sie an dieser Stelle mein Kollege Mario Gross-Niklaus. Dann geht es um die Abschaffung des Eigenmietwerts, also wieder in die Abstimmungsarena. Bleiben Sie uns treu, bleiben Sie kritisch. Gute Nacht aus dem Studio 8.
+

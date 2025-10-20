@@ -199,14 +199,16 @@ def convert_transcript_to_lines(input_file, output_file):
     print(f"💬 Total lines written: {len(lines)}")
 import os
 # Usage
+from tqdm import tqdm
 if __name__ == "__main__":
     # Example usage
     idx = 1
-    vtt_file = f"subtitles/{idx}.vtt"
-    vtt_old_file = f"subtitles/{idx}_old.vtt"
-    transcript_file = f"transcripts/transcription_{idx}.txt"
-    # output_file = "combined_output.vtt"
-    if os.path.exists(vtt_file):
-        combine_files(vtt_file, transcript_file, vtt_old_file)
-    else:
-        convert_transcript_to_lines(transcript_file, vtt_file)
+    for idx in tqdm(range(5,421)):
+        vtt_file = f"subtitles/{idx}.vtt"
+        vtt_old_file = f"subtitles/{idx}_old.vtt"
+        transcript_file = f"transcripts/transcription_{idx}.txt"
+        # output_file = "combined_output.vtt"
+        if os.path.exists(vtt_file):
+            combine_files(vtt_file, transcript_file, vtt_old_file)
+        else:
+            convert_transcript_to_lines(transcript_file, vtt_file)

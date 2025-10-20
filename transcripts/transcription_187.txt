@@ -1,0 +1,676 @@
+============================================================
+Video Transcription Results
+============================================================
+
+Person4 [0:00:00 - 0:00:15]:
+Künstliche Intelligenz, KI, für die einen die wichtigste technologische Erfindung der Menschheit. Für die anderen eine reale Gefahr, die Kontrolle über die Maschinen zu verlieren. KI und wir. Was bringt es uns? Was nicht? Über das müssen wir reden.
+
+Person2 [0:00:28 - 0:01:49]:
+Heute in der Arena. Pascal Kaufmann, KI-Unternehmer und Neurowissenschaftler. Er sagt, künstliche Intelligenz bietet enorme Chancen. Die Schweiz ist weltweit führend in der Forschung. Das müssen wir nutzen. Dabei hilft eine neue Technologie. Eine liberale Gesetzgebung. Peter G. Kirchschläger, Ethiker Universität Luzern und ETH Zürich, sagt, weil künstliche Intelligenz auch mit Risiken verbunden ist, muss sie reguliert werden. Die Einhaltung der Menschenrechte ist zentral, um das Vertrauen in die Technologie zu stärken. Monika Rühl, Direktorin Economy Suisse, sagt, KI ist eine Riesenchance für Gesellschaft und Wirtschaft. Wenn wir diese mutig nutzen, profitiert auch die Arbeit. Die Schweiz ist dafür in einer exzellenten Ausgangsposition. Miriam Hostetmann, Präsidentin Juso, sagt, wir dürfen die Entwicklung von KI-Technologien nicht privaten, profitorientierten Tech-Firmen überlassen. Diese Firmen müssen verstaatlicht und zu voller Transparenz verpflichtet werden. Ausserdem im Studio Marcel Salaté, Co-Direktor KI-Zentrum EPFL Luzern und Epidemiologie. Die Arena, moderiert von Sandro Protz.
+
+Person4 [0:01:49 - 0:01:54]:
+Guten Abend, herzlich willkommen liebe Zuschauerinnen und Zuschauer. Vielen Dank.
+
+Person4 [0:01:57 - 0:03:13]:
+Herzlich willkommen zu Hause, herzlich willkommen hier in der Runde und herzlich willkommen im Publikum. Da haben wir heute unter anderem junge Menschen von der Fachmittelschule Mutens, vom Bildungszentrum für Wirtschaftsweifelde und von der Kantist Frauenfeld und Zürich Oberland. Ist Ihnen am Anfang dieser Sendung etwas aufgefallen? Irgendetwas hat doch hier nicht gestimmt. Mit diesem Kogen-Moderator schauen wir uns noch einmal kurz einen Ausschnitt an. KI und wir. Was bringt es uns? Was nicht? Über das müssen wir reden. Genau, der Anfang dieser Arena war KI-generiert, also von künstlicher Intelligenz, mit einem einzigen Bild aus dem Internet. Und die Stimme von mir, die finden wir natürlich in alten Sendungen. Das alles kann man mit mehr oder weniger einem einfachen Programm per Knopfdruck machen. Was nicht gestimmt hat, nachweislich. Ich habe keinen Ring an, der ist irgendwo gekommen. Wahrscheinlich sagt die KI, wenn jemand einen Anzug anhat, muss er automatisch einen Ring anhaben. Ich weiss es nicht. Wir werden es vielleicht noch klären. Klar ist eine Untersuchung der Uni Zürich, die diese Woche herausgekommen ist, zeigt, 54% der Befragten nutzt KI, obwohl es Tools wie Chat-GPT erst seit zwei Jahren gibt. Da möchte ich Sie noch einmal nachfragen, wenn wir so viele junge Menschen bei uns haben, z.B. bei Ihnen. Chat-GPT, ist das bei Ihnen Alltag unterdessen?
+
+Person1 [0:03:13 - 0:03:22]:
+Ja. In der Schule. In der Schule vor allem. Ich benutze es mega oft für Hausaufgaben oder auch wenn ich für eine Prüfung lernen muss, um einfach so Lücken wieder aufzufüllen.
+
+Person12 [0:03:22 - 0:03:35]:
+Wie ist es bei Ihnen? Ich benutze es tagtäglich, vor allem auch im Hinblick auf die Prüfungen, weil es meistens relativ viel Stoff ist und dann ist es halt ein relativ gutes Tool, um dann zusammenzufassen.
+
+Person12 [0:03:36 - 0:03:37]:
+Da muss ich euch nicht fragen, ob KI einer der Chancen oder das Risiko ist.
+
+Person4 [0:03:39 - 0:03:40]:
+Wie seht ihr das?
+
+Person4 [0:03:40 - 0:03:42]:
+Für mich ist es definitiv eine Chance.
+
+Person1 [0:03:43 - 0:03:43]:
+Für mich auch.
+
+Person4 [0:03:44 - 0:04:13]:
+Zwei junge Stimmen werden noch viele heute Abend hören. Vielen Dank. Damit sind wir eigentlich schon mitten in der Ausgangslage der heutigen Sendung. Eine Arena aus Anlass der SRF-Themenwoche KI und wir. Wir diskutieren in einer gemischten Runde mit Vertreterinnen und Vertretern der Politik, Wirtschaft, Ethik und Forschung. Monika Rühl, Direktorin des Wirtschafts-Dachverbands «Economy Suisse». Was lösen die beiden Buchstaben «K» und «I» bei Ihnen ganz persönlich aus?
+
+Person8 [0:04:13 - 0:04:41]:
+Ich habe Begeisterung. Ich finde das etwas total Lässiges. Ich bin nicht mehr ganz 20, aber ich finde, das ist eine riesige Herausforderung, die wir haben. Eine riesige Chance, die sich uns auftut. Wir gehen in eine neue Welt hinein. Wir haben eigentlich eine Chance, das zu erleben. Die Schweiz ist extrem gut aufgestellt. Wir haben alle Voraussetzungen, dass wir die Reise gemeinsam unternehmen können, zum Gewinn von uns allen, von der Gesellschaft und von der Wirtschaft. Also ich bin begeistert.
+
+Person4 [0:04:42 - 0:04:54]:
+Peter G. Kirchstein, «Economy Suisse»  «K»-Aufkläger, Ethikprofessor, unter anderem Leiter des Instituts für Sozialethik an der Uni Luzern. Die grosse Frage gerade am Anfang ist «K.I. ein Säge oder ein Fluch?». Gehen Sie mit auf die Reise, die Frau Rühl gesagt hat?
+
+Person3 [0:04:54 - 0:05:38]:
+Ja, zum Teil schon, weil es gibt wirklich ein ethisch positives Potenzial von sogenannten «K.I.». Aber gleichzeitig müssen wir auch sehen, es gibt auch ethisch negative Risiken. Und ich glaube nicht, dass wir so weitermachen können wie bisher, sondern wir müssen die beiden sehr präzise identifizieren, um dann auch entsprechend zu können, um ethische Chancen zu fördern und ethische Risiken zu minimieren oder auch wirklich zu vermeiden. Ich möchte kurz noch ein Beispiel aufzeigen. Heute kann ich eine Kinderbilder-sexualisierende App, eine Kinderbilder-sexualisierende App, als etwas Widentliches auf den Markt rühren, als legal eingetragenes Unternehmen. Und das einzige, was mir passiert ist, dass ich unglaublich viel Geld verdiene. Also da haben wir einen Bedarf, etwas zu unternehmen.
+
+Person4 [0:05:38 - 0:05:58]:
+Mehr als nur ein Spannungsfeld, da geht es dann wieder in die Richtung der Regulierung, wo ein Teil, ein wichtiger Teil wird es sein, auch von dieser Sendung heute Abend. Ich begrüsse bei uns herzlich Pascal Kaufmann, K.I.-Unternehmer und Neurowissenschaftler, damit wir uns das vorstellen können bei Ihnen im Unternehmen. An was arbeiten Sie und Ihre Leute im Moment ganz konkret im Zusammenhang mit dieser viel zitierten K.I.?
+
+Person10 [0:05:59 - 0:06:14]:
+Wir bauen das Swiss-GPT. Wir finden es nicht so gut, wenn alle Chat-GPT setzen. Wir haben das Know-how in der Schweiz. Wir haben Talent, das wir aus der ganzen Welt anziehen. Wir können das Beste, was wir in China sehen und das Beste, was wir in den USA sehen, können wir hier in der Schweiz kombinieren. Wir können eine Führungsposition übernehmen, auch mit unseren Produkten aus der Technologie in der Welt.
+
+Person4 [0:06:14 - 0:06:18]:
+Swiss-GPT, was verändert sich für mich, ob ich jetzt das oder das brauche?
+
+Person10 [0:06:18 - 0:06:31]:
+Es ist zum Beispiel legal Swiss-GPT. Also wenn Sie einem Spitalschaffenden und Medizinalakten würden so ein Chat-GPT schicken, ist das nicht so gut. Das Gleiche auch als Behörde. Das Gleiche auch, wenn Sie in hochregulierten anderen Umgebungen sind, sollten Sie eigentlich kein Chat-GPT setzen.
+
+Person4 [0:06:32 - 0:06:40]:
+Miriam Hochstedtmann, Präsidentin der Juso. Sehen Sie neben all diesen Risiken, die es gibt, auch eine Chance? Wenigstens eine?
+
+Person6 [0:06:40 - 0:06:52]:
+Absolut. Ich sehe sehr viele Chancen. Ich glaube, KI kann uns helfen, damit wir unser Zusammenleben besser organisieren können. Ich sehe wirklich eine Chance in der Unterstützung der Menschen.
+
+Person4 [0:06:53 - 0:06:56]:
+In der Unterstützung der Menschen und Sie wollen Geld damit machen?
+
+Person10 [0:06:57 - 0:07:04]:
+Ja, wir wollen Geld damit machen, wir bauen etwas, was die Leute wollen, was der Kunde will. Das ist ein gutes Zeichen, wenn die Leute Geld dafür zahlen. Dann baut man nämlich etwas, das der Markt braucht.
+
+Person6 [0:07:07 - 0:07:41]:
+Das sehe ich anders. Also es ist ein bisschen anders.  Es ist ein riesiges Problem, dass man heute vor allem Profit macht mit KI. Es sind vor allem fünf grosse Firmen, die sogenannte Big Tech, die maximal damit profitieren, während wir keine Ahnung haben, was mit unseren Daten passiert, wem die Daten weitergegeben werden. Das ist ein grosses Risiko für uns. Es ist auch ein grosses Risiko für unsere Demokratie. Das kann ganze politische Systeme destabilisieren. Das ist wirklich ein grosses Risiko.
+
+Person4 [0:07:41 - 0:07:43]:
+Holt Ihre Blickbeformung einen Schritt weiter?
+
+Person10 [0:07:43 - 0:08:00]:
+Ich glaube, das Problem eines Monopols ist, dass wir in Europa so schlechte Software machen, dass alle auf dem WhatsApp oder dem Chatbleut bleiben. Eigentlich ist die Ursache eines Monopols, dass es nicht so viel Konkurrenz braucht. Wir hätten die Kompetenz, um bessere Produkte zu bauen, sogar aus Europa. Dann gibt es auch diese Monopole nicht mehr.
+
+Person3 [0:08:00 - 0:08:25]:
+In der Stadt könnte das auch eine Rolle spielen. Der Staat hat Möglichkeiten, wenn er merkt, dass es einen Monopol im Markt gibt. Bei Suchmaschinen hatten wir ca. 25-30 Jahre Zeit, das zu machen. Da könnte man auch intervenieren, wenn man möchte. Es ist ein ethischer und ökonomischer Überlegung. Wir haben ein Interesse an einem freien Markt. Nicht nur Konsumenten und Nutzer, sondern auch die Unternehmen. Denn sie wollen nicht von diesen fünf bis neun multinationalen Technologiekonzernen ausgeübt werden.
+
+Person8 [0:08:25 - 0:09:07]:
+Der freie Markt funktioniert eben ohne staatliche Intervention oder mit möglichst geringer staatlicher Intervention. Ich würde einfach sagen, der Staat ist nicht zwingend ein guter wirtschaftlicher Akteur. Was hat der Staat für ein Know-how? Das Know-how liegt bei diesen Unternehmen, bei diesen fünf grossen und bei vielen anderen. Es ist nicht so, dass nur die fünf grossen Tech-Unternehmen das Know-how haben. Das haben auch noch ganz viele andere Akteure, auch in der Wissenschaft. Ich habe immer Mühe mit der Verteuflung der wirtschaftlichen Kräfte, die da spielen. Es gibt eine ganz klare Nachfrage.
+
+Person8 [0:09:07 - 0:09:11]:
+Und eine Nachfrage ist auch eine Nachfrage.  Es gibt eine Nachfrage, generiert ein Angebot, und das sind die wirtschaftlichen Kräfte.
+
+Person3 [0:09:11 - 0:10:15]:
+Also im Gegenteil, irgendeine Verteuflung der wirtschaftlichen Kräfte. Im Gegenteil, ich sage ja gerade, wir müssen eigentlich Sorge tragen zu unserem Markt. Und es kann zu Monopolbildungen im Markt kommen. Und dann wird sich der Markt, also das Suchmaschinenmonopol, nicht von selbst auflösen. Also ich glaube, wenn man das träumt, dann wird es wirklich ein Albtraum. Also ich glaube, da müssen wir schon überlegen, wie man aus dieser Position wieder rauskommt, im Dienst dieser wirtschaftlichen Kräfte, bei denen ich bei Ihnen wäre. Aber wir können nicht von selbst, der Markt selbst wird das nicht herbekommen, dass wir das nicht machen. Also es muss zum Beispiel aus dem Suchmaschinenmonopol herauskommen. Also das ist eine Illusion. Wir haben das in den letzten 25, 30 Jahren gespielt, haben gemerkt, dass das nicht funktionieren wird. Also da gibt es Handlungsbedarf. Es gibt auch Handlungsbedarf mit den ganzen Biases, mit denen wir zu tun haben. Mit diesen Verzerrungen, wo plötzlich zum Beispiel in den Niederlanden, hat man plötzlich eine diskriminierende sogenannte KI gehabt, wo Menschen, die über Jahre Kinderbetreuungsgelder bekommen haben, plötzlich die wieder zurückzahlen mussten, weil es einfach eine diskriminierende KI war. Also wir können nicht so tun, als gäbe es diese Probleme nicht. Es gibt auch riesige Chancen, insbesondere in der Forschung, die IPFL bei der ETH Zürich, fantastisch. Aber wir können nicht so tun, als gäbe es diese Probleme nicht. Also das halte ich für unverantwortlich.
+
+Person4 [0:10:14 - 0:11:06]:
+Das geht ja fast schon mehr ab, als in einer regulären Arena. Ich möchte wirklich die einzelnen Blöcke, wir kommen auf das, was Herr Kirschleger gesagt hat, Bias, also wenn es Vorurteile gibt, wenn es Diskriminierung gibt, wir werden über die wirtschaftlichen Möglichkeiten reden. Aber er hat jetzt gerade so schön den Pass weitergegeben an die IPFL. Und das ist sozusagen mein Stichwort. KI ist die wichtigste technologische Erfindung von KI.  Das sage nicht ich, sondern ein Mann, der heute Abend eine Art Expertenrolle haben wird und sich immer wieder von der Vis-a-vis-Position aus in die Debatte einschalten wird. Marcel Salat ist Professor an der EPFL Lausanne und Co. Chef des neuen KI-Zentrums. Sie kennen ihn sicher noch als Epidemiologe und als Gesicht aus der Corona-Zeit. Aber heute ist das nicht das Thema, sondern KI. Ich habe von Ihnen gelesen, Sie brauchen die Chat-JPT 40 bis 50 Mal am Tag. Für was?
+
+Person11 [0:11:06 - 0:11:19]:
+Mindestens. Also für jeden. Zum Abfragen, zum Wissen abzuholen, um Texte zu verbessern, um Analysen zu machen, um Bilder zu generieren. Eigentlich nonstop.
+
+Person4 [0:11:19 - 0:11:21]:
+Und warum sind Sie sicher, dass es dann bessere Texte gibt?
+
+Person11 [0:11:22 - 0:11:26]:
+Ja, ich habe ja das Original von mir. Also ich könnte dann schauen, dass es am Schluss besser wird.
+
+Person4 [0:11:27 - 0:11:39]:
+Sie sagen, die KI bedeutet eine Revolution, die alle Bereiche betrifft. Das werden wir noch vertieft anschauen. Aber jetzt am Anfang auf den Punkt gebracht. Wo wird sich diese Revolution am meisten bemerkbar machen?
+
+Person11 [0:11:39 - 0:12:00]:
+Sie wird sich überall bemerkbar machen. Es ist eine ähnliche Revolution wie die industrielle Revolution, wo wir Maschinen gebaut haben, die körperliche Kraft hatten, die weit über das Menschliche gegangen sind. Und jetzt sind wir dran, Maschinen zu bauen, die weit über das gehen, was die menschliche Intelligenz kann. Und da wir heute in einer Wissensgesellschaft leben, wird die ganze Gesellschaft davon betroffen sein.
+
+Person4 [0:12:00 - 0:12:15]:
+Danke für den Moment, Marcel Salaté. Bevor wir abtauchen in die Welt dieser Technologie, KI und uns fragen, was sie für den Menschen bedeutet, um vielleicht auch mal die Grenzen zu setzen, kommt unser Erklärvideo dazu, was KI eigentlich bedeutet.
+
+Person2 [0:12:17 - 0:12:44]:
+KI, kurz für künstliche Intelligenz, steht für Systeme, die Aufgaben erledigen können, für die sonst menschliche Fähigkeiten nötig wären. Damit eine KI funktioniert, muss sie mit Daten trainiert werden, sogenanntem maschinellen Lernen. Ein KI-System analysiert eine grosse Menge an Daten und findet selbstständig Muster. Für das Training und die Anwendung der KI werden oft grosse Rechenzentren benötigt.
+
+Person2 [0:12:45 - 0:12:55]:
+Schon heute kommt künstliche Intelligenz zum Einsatz. Beispielsweise im Verkehr von San Francisco, mit selbstfahrenden Autos als Taxis.
+
+Person2 [0:12:57 - 0:13:03]:
+In der Medizin kann KI Ärztinnen und Ärzte dabei unterstützen, Krankheiten zu erkennen. Zum Beispiel Krebs.
+
+Person2 [0:13:05 - 0:13:18]:
+Eine bekannte KI ist ChatGPT. Dieser sogenannte Chatbot kann in Form einer natürlichen Unterhaltung Fragen beantworten, Informationen suchen, Texte verfassen und bearbeiten oder Bilder generieren.
+
+Person2 [0:13:21 - 0:13:26]:
+Künstliche Intelligenz wird nebst zivilen Zwecken auch für militärische Absichten eingesetzt.
+
+Person2 [0:13:27 - 0:13:32]:
+Im Ukraine-Krieg sollen beispielsweise auch KI-Drohnen zum Einsatz kommen.
+
+Person2 [0:13:34 - 0:13:38]:
+Wie wird die künstliche Intelligenz die Zukunft von uns allen beeinflussen?
+
+Person4 [0:13:41 - 0:14:05]:
+Einen grossen Einfluss wird KI natürlich auf die Arbeitswelt haben. Da gibt es eine Studie von Economy Suisse, ein sogenanntes White Paper. Dort kann man darin lesen, gut 20% der Arbeitsplätze weisen ein signifikantes Optimierungspotential durch KI auf. Wenn ich optimieren höre, Frau Rühl, dann klingt das schambart positiv. Aber übersetzt heisst das doch, mehr KI, weniger Arbeitsplätze.
+
+Person8 [0:14:06 - 0:15:07]:
+Das kann es heissen, aber das muss es nicht heissen. Es heisst effizienter werden, die Produktivität steigern und die so freigespielten Arbeitskräfte an einem anderen Ort einsetzen. Was ich in der Arbeitsmarktdiskussion wichtig finde, ist, dass wir dort eine Chancendiskussion führen sollten. Wir diskutieren immer, es werden Unternehmer in die Schweiz kommen. Sie generieren Arbeitsplätze und auch Hilfe. Dann kommt die Zuwanderung. Dann sehen wir Risiken ohne Ende. Hier sagt man, wir haben die Chance effizienter zu werden, die Produktivität zu steigern und Arbeitsplätze einzusparen. Und dann sagt man auch Risiken. Da müssen wir irgendwie einen Umgang finden. Wir haben eine andere Studie gemacht. Es fehlen uns 460'000 Menschen für die Arbeitsplätze bis in 10 Jahre. Über KI können wir die Arbeitsplätze bis in 10 Jahre einsetzen. Wir müssen die Menschen teilweise ersetzen und die Arbeitsplätze in der Schweiz behalten. Das ist ja unser Ziel.
+
+Person4 [0:15:07 - 0:15:23]:
+Eine der vielen Studien, die ich diese Woche gelesen habe, sagt, dass KI bis zu 3'9 Millionen Arbeitsplätze beeinflusst. 8% der heutigen Arbeitsplätze werden mit generativer KI, z.B. Chetschibiti, voraussichtlich ganz oder teilweise wegfallen. Ist das eine gute Entwicklung?
+
+Person8 [0:15:24 - 0:16:04]:
+Das sind 8%. Dann haben wir 92% andere Fälle. Was ich daran glaube und den grossen Wert von KI sehe, ist die Zusammenarbeit zwischen Maschinen und Menschen. Ich finde das total spannend. Und jetzt auch die genannten Beispiele von den Schülerinnen und Schülern. Man geht auf Chetschibiti, holt sich Informationen, aber am Schluss muss doch noch der Mensch diese überprüfen und verifizieren. Chetschibiti macht ja momentan doch noch relativ viele Fehler. Von daher, eine Arbeitsplatzsituation, die Synergien zwischen Maschinen und Menschen, finde ich extrem spannend.
+
+Person4 [0:16:04 - 0:16:08]:
+Synergien optimieren, machen Sie mit?
+
+Person6 [0:16:08 - 0:16:57]:
+Es klingt alles sehr harmonisch. Ich verstehe auch, wo Sie Chancen sehen. Sie sehen Chancen für die Unternehmen, aber für die Angestellten sieht es etwas anders aus. Wir haben es gehört, 40'000 Jobs stehen auf dem Spiel. Wir haben es auch bei der Digitalisierung gesehen, wo wir grosse Chancen angeschaut haben. Das ist ja auch ein viel gutes Beispiel.  Aber es hat auch dazu geführt, dass es jetzt Firmen gibt wie Uber, die Sozialversicherungssysteme austricksen können, die Menschen in Scheinselbständigkeit treiben. Das sind eben Gefahren. Und diese werden von eurer Seite verdrängt. Vor allem auch, weil Sie ja nicht die sind, die finden, es gibt eine Arbeitszeitverkürzung bei gleichbleibendem Lohn. Da würden die Angestellten ja auch profitieren. Aber das wollen Sie in dieser Utopie nicht. 
+
+Person10 [0:16:58 - 0:17:35]:
+Vielleicht ergänze ich das kurz. Ich finde, Künstliche Intelligenz ist für Arbeitnehmerinnen und Arbeitnehmer super. Denn es ist doch ideal, wenn Roboter oder KI diese langweilige, repetitive Routinearbeit übernehmen. Dann gibt es halt 10% weniger Jobs. Aber wenn es für 20-30% produktiver ist, ist das ein super Steuersubstrat. Ich glaube, davon können alle profitieren. Und wieso nicht einmal von der 8-Stunden-Woche auf die 6-Stunden-Woche runtergehen? Äh, 6 Stunden am Tag. Ich habe mir schon gedacht, wenn man eigentlich nur produktiv ist, irgendwo an einem muss ja der Produktivitätsgewinn gehen. Und ich finde, es wird die Arbeitnehmerin weitergeben.
+
+Person4 [0:17:35 - 0:17:38]:
+Habe ich das jetzt richtig verstanden? Dank KI schaffen wir in Zukunft weniger.
+
+Person3 [0:17:38 - 0:18:46]:
+Das ist doch eine gute Sache, Herr Kirschläger. Das wäre in der Tat aus ethischer Sicht nicht so schlecht. Aber ich glaube, die Problemlage ist ein bisschen eine andere. Die Problemlage ist, dass wir so tun, als ginge es so weiter wie bisher. Und es würden einfach ein paar bezahlte berufliche Aufgaben wegfallen. In der Tat wird es aber zu einer massiven Reduktion von bezahlten beruflichen Aufgaben kommen. Weil wir Zielsetzungen ja haben. Wir wollen ja gerade. Das Ziel ist ja gerade, mit sogenannten KI Menschen am Arbeitsplatz zu ersetzen und nicht ihnen die Arbeit zu erliegen. Das Ziel ist ja, dass wir sie wegbekommen. Und es betrifft eben alle beruflichen Aufgaben. Also es verstärkt den Effekt noch. Jetzt heisst es aber nicht, wenn der Arbeitsplatz wegfällt, muss das nicht einmal von Anfang an schlechte Nachrichten ziehen. Auch aus ethischer Sicht nicht. Aber was schlecht ist, wenn wir so tun, das hätten wir weiterhin Streben nach Vollbeschäftigung. Und in der Tat haben wir das aber nicht. Wir haben eine systemische Veränderung. Wenn wir die Politikerinnen und Politiker und Entscheidungsträgerinnen in Wirtschaft und Gesellschaft hören, die dann sagen, sie würden doch einfach weiterbilden und sie machen sich fit für diese Veränderung, dann muss man einfach sagen, das kann man doch nicht. Man kann doch nicht ein systemisches Problem auf die Schulter der Individuen anbelagen. Man muss das auch systemisch angehen. Sprich, wir müssen uns das Wirtschaftssystem angehend anpassen, dass es das Streben nach Vollbeschäftigung nicht mehr gibt.
+
+Person4 [0:18:46 - 0:18:53]:
+Das macht wiederum umgekehrt vorhin Frau Hochstädtmann mit Frau Rühlen nicht mit. Frau Rühlen nicht bei Herrn Kirschläger mit, oder?
+
+Person8 [0:18:53 - 0:19:07]:
+Teils, teils. Das Ziel ist sicher nicht, Arbeitsplätze zu vernichten. Das wäre völlig falsch. Ich habe vorhin gesagt, wir hätten über die nächsten zehn Jahre 460'000 Arbeitsplätze in diesem Land, die wir nicht besetzen können.
+
+Person3 [0:19:06 - 0:19:20]:
+Aber das ist ja teilweise auch zyklisch bedingt. Es ist ja nicht nur, dass wir wieder einmal anders kommen. Das finde ich ein schwieriges Argument. Und automatisiert das Kassensystem, dann nimmt es sich ein Wunder, wo dieser Job entsteht.
+
+Person8 [0:19:18 - 0:20:18]:
+Schauen Sie sich mal die Demografie an. Die Demografie. Wir werden immer älter. Immer mehr Ältere gehen aus dem Arbeitsmarkt raus. Immer weniger Jüngere kommen in den Arbeitsmarkt rein. Und das wird über längere Zeit so bleiben, weil wir da nicht kurzfristig etwas ändern können. Und die Ansprüche der Gesellschaft, der Nutzen für die Gesellschaft verändern sich. Leute, die heute vielleicht stark repetitive Arbeiten machen und ihren Job verlieren, wir brauchen mehr Leute in der Pflege. Die sich dann um Menschen kümmern. Und das ist eine sehr sinnstiftende Arbeit. Deswegen kann man das nicht einfach so sagen, Arbeitsplatzverlust und danach eine riesige Katastrophe. Sondern es wird Verlagerungen geben. Aber ich glaube, wie in früheren Revolutions- oder Evolutionsschritten unter dem Strich, werden alle weiterhin einen Arbeitsplatz haben.
+
+Person3 [0:20:18 - 0:20:52]:
+Nur ist das Problem, dass wir alle beruflichen Aufgaben betroffen sind. Es ist nicht so, dass die Pflege oder die Medizin nicht betroffen wären. Sondern wir arbeiten für die Pflegeroboter, die den Pflegefachpersonen überflüssig machen. Darum geht das nicht ganz auf. Ich finde es auch korrekt, zu sagen, es ist so. Zielsetzung ist, wir wollen eine Effizienzsteigerung über Reduktion bezahlter beruflicher Aufgaben für Menschen. Das auch zugestehen. Und dann gemeinsam darüber nachzudenken, wie wir darauf reagieren können, was wir machen können, damit das für alle ein menschenwürdiges Dasein ist.
+
+Person10 [0:20:51 - 0:21:14]:
+Eine Ärztin oder ein Arzt arbeitet zu 40% mit Dokumentation von dem, was sie oder er gerade gemacht hat. Es gibt eine künstliche Intelligenztechnologie, die man heute einsetzen kann, um die Ärztinnen und Ärzte freispielen zu können. Das ist innerhalb eines Berufskartens etwas extrem Sinnvolles, weil das das Gesundheitssystem entlastet. Da finde ich der KI-Einsatz sehr plastisch und logisch, dass man das machen müsste.
+
+Person3 [0:21:14 - 0:21:47]:
+Aber Sie wissen auch, dass z.B. die Bilderkennungssoftware ebenfalls medizinische Aufgaben erfüllen kann, die über das Administrativen hinausgehen. Der Roboterchirurg kann auch schon medizinische Aufgaben erfüllen, die über diese repetitiven Aufgaben hinausgehen. Ich finde es nicht ganz so ehrlich, mir zu sagen, es kommt eine massive bezahlte berufliche Aufgabe, und lassen Sie uns doch zusammen darüber nachdenken, wie wir es schaffen können, dass trotzdem allen Menschen ein menschenwürdiges Dasein möglich wird. Auch durch eine Entkoppelung von Einkommen und Arbeit, was durchaus auch ein Weg wäre, das ethisch positiv zu gestalten.
+
+Person8 [0:21:47 - 0:22:02]:
+Bei mir wäre es anders gewesen. Das ist eine extrem repetitive und langweilige Arbeit. Stellen wir das jetzt mal vor. Das wird verschwinden. Man kann jetzt schon im Coop und im Migros und sonst was
+
+Person8 [0:22:02 - 0:22:20]:
+selber auschecken. Eine Person kann sich dann weiterbilden und in die Pflege gehen und mit Menschen arbeiten. Solche Sachen, solche Verlagerungen, dass der Mensch mit Menschen arbeitet, weg von dieser Maschine kommt, das ist etwas, das wir auch im Auge behalten müssen.
+
+Person4 [0:22:20 - 0:22:49]:
+Aber ich habe gerade einen Moment gestellt. Ich möchte Sie noch anknüpfen und vielleicht noch zwei, drei andere Beispiele von Branchen mit KI besonders unter Druck bringen. Das ist sicher auch eine Realität. Gefährdet sind zum Beispiel Jobs im Büro und Verwaltungstätigkeiten, Callcentern oder in der Grafikbranche, zum Beispiel Illustratoren. Aber diese Seite sagt auch, es kommen neue Jobs, neue Berufsbilder. Wieso schauen Sie da einfach weg, Frau Hostetmann?
+
+Person6 [0:22:49 - 0:23:19]:
+Bei Frau Rühl klingt es so, als ob man heute am Sonntag sein könnte und morgen am nächsten sein könnte. KI entwickelt sich enorm schnell. Es geht darum, dass Leute sehr schnell umgeschult werden müssen. Und es ist ja nicht so, dass von Ihrer Seite diese Angebote ankommen. Das ist einfach ein bisschen das Problem. Sie machen es so, als ob man ganz easy in den Job wechseln könnte. Aber ich glaube, Ihnen sind die Menschen etwas egal.
+
+Person8 [0:23:20 - 0:23:45]:
+Da steht jetzt die Frage, ob Sie das überhaupt nicht sind. Ich habe gerade versucht, zu erklären, dass uns die Menschen überhaupt nicht egal sind. Ich glaube, es ist eine Chance, dass Menschen, die heute repetitive Arbeit machen müssen, sinnstiftendere Arbeiten machen können. Für gewisse dieser sinnstiftenden Arbeiten kann man durchaus ohne ein 5-jähriges Studium solche Arbeiten erledigen.
+
+Person6 [0:23:45 - 0:23:51]:
+Super, dann sind Sie auch für eine Arbeitszeitverkürzung bei gleichbleibendem Lohn. Ich verstehe nicht,
+
+Person8 [0:23:51 - 0:23:55]:
+was dieses Argument mit dieser Diskussion zu tun hat. Es wird eine andere Arena, eine interessante.
+
+Person4 [0:23:53 - 0:24:10]:
+Aber die machen wir jetzt nicht heute Abend. Heute Abend sprechen wir über KI-Möglichkeiten, Risiken und fragen auch Marcel Salathe immer wieder, den Co-Chef des neuen KI-Zentrums an der EPFL Lausanne. Wenn jetzt so eine neue Technologie kommt, das löst natürlich Ängste aus. Sind diese berechtigt?
+
+Person11 [0:24:11 - 0:24:35]:
+Ich glaube schon. Wir haben gehört, es ist eine gewaltige Entwicklung. Sie passiert auch extrem schnell. Das Tempo muss realistisch gesehen werden. Der richtige Ansatz, zumindest für mich persönlich, ist ein gewisser kritischer Optimismus. Man will dem offen gegenüberstehen, man will Chancen sehen. Aber man darf nicht ganz blauäugig hineingehen. So wirfe ich auch niemandem vor.
+
+Person11 [0:24:35 - 0:24:46]:
+Es ist eine enorme Veränderung der Art. Ich glaube, wir haben das letzte Mal erst vor 200 Jahren gesehen. Niemand kann sich genau erinnern, wie das lief.
+
+Person4 [0:24:47 - 0:25:23]:
+Kritischer Optimismus ist fast das Jobprofil eines Arenamoderators. Bleiben wir dabei. Die Hochschule für Wirtschaft Zürich machte eine Umfrage bei Mitgliedern von acht unabhängigen Angestellten und Berufsverbänden. Das sind z.B. kaufmännische Angestellte, Personalfachleute und Anwältinnen. Aufgrund dieser Umfrage konnte man lesen, dass die Umfrage zur Arbeit mit KI viele Angestellte fühlen sich bei künstlicher Intelligenz allein gelassen. 80 % der Befragten sagten, sie bräuchten mehr Fachwissen, um KI effektiv in ihre Arbeit zu integrieren. Fehlt es an Know-how oder wird das Wissen zu wenig vermittelt?
+
+Person11 [0:25:23 - 0:25:53]:
+Es hat effektiv damit zu tun, wie wir heute Wissen vermitteln. Unsere ganzen schulischen, universitären und Weiterbildungssysteme sind aus einer Zeit, in der sich die Technologie über Jahrzehnte verändert hat. Heute leben wir aber in einer Zeit, in der sich die Welt innerhalb von zwei Jahren unter unseren Füssen verändern kann. Wir müssen neue Modelle machen, um mit dem umzugehen. Diese Diskussion ist in der Schweiz effektiv noch zu wenig aktiv.
+
+Person4 [0:25:53 - 0:26:00]:
+Wenn man von dieser Seite davon spricht, dass KI ein Jobkiller ist, wie nehmen Sie das entgegen? Und was verurteilen Sie das?
+
+Person11 [0:26:01 - 0:26:25]:
+Das Tempo ist heikel, aber sonst würde ich auch sagen, wir haben immer wieder neue Wege gefunden. Eine Technologie ersetzt einen gewissen Teil der Arbeit, aber schafft wahnsinnig neue Gebiete.   Jedes Mal, wenn es von einer Technologie entwickelt wird, haben wir am Schluss noch weniger Arbeitslosigkeit und noch höhere Fachkräftemängel. Da bin ich eher optimistisch.
+
+Person4 [0:26:25 - 0:26:30]:
+Es ist eine Art industrielle Revolution, ein neuer Level. Sind Sie entspannter, Herr Kirschläger?
+
+Person3 [0:26:30 - 0:27:38]:
+Nein, gar nicht. Das ist nicht gesprächslos gemeint, aber ich glaube, man riskiert einen Denkfehler. Nur weil technologiebasierte Wandel-Epochen früher so abgelaufen sind, müssen sie wieder genau gleich ablaufen. Es kann ja sein, dass die Epoche einzigartig ist. Es gibt auch Gründe, weshalb sie einzigartig ist. Es geht um Ersatz, nicht um Erleichterung. Es geht darum, selbstständige Systeme zu entwickeln, die genau arbeiten, ohne menschliche Inputs sich weiterentwickeln. Und zweitens, es betrifft wirklich alle beruflichen Aufgaben. Es betrifft nicht nur die beruflichen Aufgaben, die keine oder wenige Qualifikationen voraussetzen. Darum denke ich, man sollte das ernst nehmen und sagen, okay, dann schaffen wir das. Gibt es weniger bezahlte Jobs für Menschen? Was können wir machen, damit wir unser Wirtschaftssystem so umstellen, dass es menschenwürdig ist, wie es möglich ist? Mein Vorschlag wäre, erstens eine Entkoppelung von Einkommen und Arbeit, damit alle ein Grundeinkommen bekommen, aber nicht ein bedingungsloses. Zweitens sollen alle ein Society-Time leisten, also eine Zeit für die Gesellschaft, in der sie sich gesamtgesellschaftlichen Aufgaben einbringen. Alle gleich viel, aber frei und selbstbestimmt gewählt. Und drittens soll auch ein Anleitz gesetzt werden für Innovation und Unternehmertum, indem wir nämlich Unternehmer, innovative Leute, von dieser Society-Time befreien.
+
+Person4 [0:27:38 - 0:27:43]:
+Es sind ein paar Schlagwörter viel miteinander. Wie meinen Sie das ganz konkret?
+
+Person3 [0:27:43 - 0:28:20]:
+Ganz konkret denke ich das in Anlehnung am Schweizerischen Zivildienst, dass ich mir zum Beispiel überlegen kann, ich würde mich gerne für Bergbäuerinnen und Bergbäuer engagieren, ich würde mich gerne für Menschen auf der Flucht engagieren und da kann ich meine Gesellschaftszeit quasi für das einsetzen. Mir geht es weniger darum, um die finanzielle Absicherung, sondern mir geht es vor allem darum, Sie müssen sich einmal vorstellen, ein Arbeitsplatz ist nicht nur finanzielle Absicherung, sondern auch eine Sinnstiftung. Auch der Job als Kassierer, als Kassierer, um das noch kurz einzufangen. Ich finde es nicht okay, wenn man einfach sagt, gewisse Arbeiten sind nicht sinnvoll und darum kann man die wegnehmen. Nein, das kann für jemand sehr sinnerfüllend sein. Ich habe das nicht gesehen. Nein, aber wegen der repetitiven Aufgaben. Ich finde das ein bisschen heikel. Das ist Sinnstiftung. Wenn ich nie in einen bezahlten Job reinkomme,
+
+Person3 [0:28:21 - 0:28:26]:
+dann nehme ich möglichst mehr Gesellschaftszeit, damit ich das einmal erleben kann. Sie haben es anders gemeint und nicht so fest zugespitzt,
+
+Person4 [0:28:26 - 0:28:27]:
+wie Sie es gesagt haben, oder?
+
+Person8 [0:28:27 - 0:28:48]:
+Nein, absolut. Ich weiss nicht, ob Sie schon einmal den ganzen Tag an einer Kasse gesessen sind und diese bedient haben. Ich schon. Ich stelle mir vor, dass ich meine Berufskarriere in einem Migros-Selbstbedienungsrestaurant begann und dort die Abwaschmaschine eingeräumt habe. Das war auch ziemlich repetitiv.
+
+Person8 [0:28:49 - 0:29:15]:
+Für zwei Wochen ist das lustig, aber irgendwann ist es nicht mehr so lustig. Ich habe es so gemeint. Sie gehen davon aus, dass es keine neuen Jobs geben wird. Meine These, unsere These ist, dass gewisse Berufe, gewisse Aufgaben wegfallen werden. Ja. Und es werden andere dazukommen. Und unter dem Strich bin ich weiter von Ihnen überzeugt, werden wir gleich viele Jobs haben wie jetzt.
+
+Person4 [0:29:15 - 0:29:18]:
+Herr Käfermann, was sind denn das für neue Jobs?
+
+Person10 [0:29:18 - 0:30:38]:
+Ich muss dazu schnell etwas grundsätzlich in Frage stellen. Und zwar das Ziel, dass alle Menschen immer schön die acht Stunden pro Tag arbeiten müssen, möglichst 100 % Vollbeschäftigung. Was ist das für eine Vision für unsere Gesellschaft? Für mich ist die Künstliche Intelligenz, so wie ich das jetzt gesehen habe,  Ich habe auch die letzte Woche, das KI-Format von SRF, super gefunden. Das ist eine Widerfindung vom Führer, eine Widerfindung vom Buchdruck. Das gibt eine neue Perspektive auf unsere Gesellschaft. Es ist wie ein Vergrösstungsglas. Ich mache es mit Bias. Plötzlich sieht man, was wir für eine rassistische, sexistische Gesellschaft in den letzten paar Hundert Jahren waren, wie man das mit KI extrem deutlich sieht. Wir haben auch nicht die Chance, die Gesellschaft zu verbessern. Oder auch etwas anderes. Es ist wie ein Spiegel, das vorgehalten wurde. Das war in der Renaissance. Da haben wir Teleskope gefunden und die ersten Spiegel etc. Es gab enorme Umwälzungen. Ich glaube, wenn wir das richtig machen, haben wir die Chance, eine neue Gesellschaft, ein neues Zeitalter einzuladen. Dort arbeitet man vielleicht nicht mehr acht Stunden pro Tag, sondern nur sechs, fünf Stunden pro Tag. Und ist mindestens produktiver voran. Was sind denn das für neue Jobs, die kommen? Ich finde, die neuen Jobs, die kommen, könnten wir an der Maschine geben. Falls es neue Jobs gibt, sind das vielleicht Datensammler. Das haben wir auch in der Dokumentation gesehen. Aber eigentlich ist das gar nicht das Ziel, dass wir die Menschen von einem Job in den anderen verfrachten. Es ist doch super, wenn man mit so wenig arbeiten muss, weil das die Maschinen ausabnimmt.
+
+Person6 [0:30:38 - 0:31:36]:
+Es geht langsam in eine Lobbyveranstaltung. Ich sehe auch Chancen für die Privatwirtschaft. Das haben wir jetzt genug lange gehört. Aber die Frage ist nachher, was ist auch mit der ganzen geopolitischen Lage? KI wird enorm schnell mit enorm viel Informationen gefüttert. Und ich glaube, der Wettbewerb ist vor allem ein Wettbewerb auch um Macht und nicht einfach um Sicherheit und sichere Systeme. Und ich meine, all diese Programme, die CGPT, die wurden vorher nicht getestet. Das muss man sich mal vorstellen, wenn das bei einer Impfung so der Fall wäre. Wenn man einfach ein Produkt auf den Markt bringen würde, ohne das vorher lange erforscht zu haben, dann würden die Leute das wahrscheinlich so nicht akzeptieren. Aber bei diesen Programmen ist es so, dass niemand garantieren kann, dass man mit diesen Programmen nicht ganz gefährliche Sachen machen kann. Im Gegenteil. Und dass man dann immer noch ganz naiv nur von den Chancen für die Wirtschaft redet, das finde ich echt bedenklich.
+
+Person10 [0:31:36 - 0:31:52]:
+Ich kurze etwas zur Geopolitik. Ich habe lieber, dass die Schweizer im Bereich AI ganz, ganz vorne sind, als dass man da, wenn man in Zürich beruht, über die Strasse einen Punktabzug über hat, weil man eine China-AI hat. Oder ein Grosskonzern, der sagt, wir müssen glauben etc. Also eigentlich müssten wir als Europa...
+
+Person4 [0:31:52 - 0:31:53]:
+Social scoring, oder?
+
+Person10 [0:31:53 - 0:32:06]:
+Genau, Social scoring, oder? Eigentlich müssten wir unsere Werte, was etwas bedeutet, etwas machen. Und in diesem Thema ganz, ganz vorne dabei sein. Und da probiere ich jetzt zu bremsen, die Privatwirtschaft abzuklemmen. Das interessiert die Chinesen und die Amerikaner überhaupt nicht.
+
+Person3 [0:32:06 - 0:32:52]:
+Es geht überhaupt nicht darum, die Privatwirtschaft abzuklemmen. Ich glaube, was jetzt schön war, ist, dass Sie bestätigt haben, dass es zu einer durch die Summe bezahlten beruflichen Aufgaben kommt. Und das andere ist, es geht gar nicht darum, die Wirtschaft abzuklemmen. Es geht nur darum, dass man merkt, es gibt neben vielen ethisch positiven Chancen auch Risiken. Und diese sind auch entsprechend zu adressieren. Wir können einfach nicht so tun, als gäbe es diese nicht. Und es gibt schon einen Unterschied in Bezug auf Vorurteile und Verzerrungen bei Menschen. Wir Menschen sind dazu fähig, selbst kritisch zu merken, dass wir Vorurteile haben und damit auch arbeiten. Wenn ich z.B. einen Kultivierungsprozess mache für eine neue Stelle, dass ich jemanden suche, wenn das ein System macht, also eine sogenannte KI macht, dann kann es sein, dass Frauen aussortiert werden. Diese Daten hemmen, dass das passiert. Aber auch bei den Menschen, dass Frauen aussortiert werden.
+
+Person10 [0:32:49 - 0:32:54]:
+Ja, aber dann scheint es...
+
+Person3 [0:32:52 - 0:33:12]:
+Der entscheidende Unterschied ist, dass ich mein Vorurteil als Mensch wissen kann und ich entsprechend darauf reagieren kann. Ich kann den Bewerbungsprozess umbauen, um z.B. vier Augenprinzipien einzuführen oder gezielt die Vorurteile, die ich möglicherweise habe, entsprechend zu adressieren. Das kann eine Maschine nicht. Was Sie im Bereich Human Resources sagen,
+
+Person4 [0:33:12 - 0:33:26]:
+wir haben auch Schlagzeilen vorbereitet, die man im Zusammenhang mit dem bewerben hätte können. BewerberInnen automatisch aussortieren. Allianz fordert Regeln für den Einsatz von KI. Ist das eine Gefahr, die Sie sehen, oder etwas, das man regeln kann?
+
+Person8 [0:33:26 - 0:34:14]:
+Ich glaube, man muss KI so trainieren, dass sie das nicht macht. Was mich in dieser ganzen Diskussion stört, wir tun das so, als ob wir Menschen perfekt seien. Wir Menschen sind nicht perfekt. Es gibt in der Musik, hat man ja eingeführt, dass Musikerinnen und Musiker hinter einem Vorhang vorspielen müssen, damit man nicht sieht, ob es ein Mann oder eine Frau ist, weil man diesen Gender Bias hatte. Menschen lügen, Menschen machen Fehler. Es ist nicht so, dass wir Menschen perfekt wären und die Maschine nicht perfekt ist. Wenn die Maschinen jetzt irgendwelche Diskriminierungen machen, dann ist das ein Spiegelbild, wie wir als Menschen sind. Das sollte eigentlich eine heilsame Wirkung haben.
+
+Person4 [0:34:14 - 0:34:24]:
+Ein kleines Beispiel, ein Spiegelbild, ein kleines Beispiel, in der Woche haben wir gesagt, zeige uns mal so ein Röntgen, das ist der Trainer, das ist das Studio und der Moderator. Und dann ist das dabei herausgekommen.
+
+Person4 [0:34:26 - 0:34:35]:
+Abgesehen davon, ja, kann man darüber reden, ob das kulturistisch und lässig ist oder nicht, was der Typ in der Mitte mit der Krawatte macht, die er sonst nicht hat. Aber wenn man genau hinschaut, wie viele Frauen sehen sie?
+
+Person4 [0:34:36 - 0:34:40]:
+Ich sehe eine rechts draussen irgendwo. Ist das nicht eigentlich ein Beispiel
+
+Person4 [0:34:41 - 0:34:42]:
+von diesem diskriminierenden Sexistischen?
+
+Person10 [0:34:42 - 0:34:54]:
+Also, das wird uns jetzt allen völlig bewusst, dass das eigentlich so nicht geht. Das war in den letzten paar Hundert Jahren so. Und in dem Sinne, da hält uns das KI wie ein Spiegel vor das Gesicht und hilft uns auch, diese Fehler zu korrigieren.
+
+Person3 [0:34:54 - 0:35:29]:
+Aber das haben wir ja schon vorher herausgefunden, dass das nicht geht. Wir haben nicht das gebraucht, damit wir merken, dass wir Frauen nicht diskriminieren sollen. Ich meine, die Beschönigung, ich sehe, es gibt ein positives Potenzial, aber wir müssen auch ein wenig bremsen. Wir haben wirklich drängende Probleme im Bereich der sogenannten künstlichen Intelligenz, die wir angehen müssen. Das sind Biases, das ist Bedrohung für demokratische Prozesse, das sind Attacken auf Männer, das ist eine Art, wie man Menschen auf die Natur... Wir haben einen enormen Energieverbrauch im Bereich der sogenannten KI. Ich bin auch bei dir, das ist eine positive Chance, aber wir können nicht so tun, als gäbe es diese Probleme. Das Problem ist vor der Technologie,
+
+Person10 [0:35:28 - 0:35:38]:
+es ist das Problem vor der Gesellschaft. Da würde ich dann nicht einmal nachschauen und nicht unbedingt versuchen, die Technologie ganz vorne zu regulieren.
+
+Person4 [0:35:38 - 0:35:55]:
+Ein Stich hoch schnell aufnehmen. Energieverbrauch, Marcel Salaté. Man kann ja zum Beispiel lesen, dass die Chat-GPT-Anfrage zehnmal mehr Energie braucht, als eine Google-Suche, oder in zehn Jahren so viel Energie wie in Indien braucht. Stimmt das eigentlich?
+
+Person11 [0:35:56 - 0:36:36]:
+Ja, es gibt gewisse Vergleiche, die stimmen, aber es klingt auch immer schlimmer, als es wirklich ist. Wenn man jetzt endlich 100 Chat-GPT-Anfragen macht, ist das am Schluss etwa so viel Energie, wie wenn man eine Stunde lang ein TikTok-Video streamt. Ich würde sagen, nach dem Chat-GPT, nach dieser Stunde ist man etwas smarter als nach einer Stunde TikTok, aber das kommt auf den TikTok-Filter an. Die Energie ist im Moment vor allem im Training dieser Modelle. Das braucht viel Energie. In der Zukunft sehen wir vor allem auch viel Energie in der Benutzung. Auch wenn eine Chat-GPT-Anfrage nicht viel ist, sind es natürlich Hunderte von Millionen Menschen, die das tagtäglich nutzen. Das ist natürlich ein Energiebedarf, und den müssen wir jetzt schon planen.
+
+Person4 [0:36:37 - 0:37:09]:
+Und es geht auch darum, KI verantwortungsvoll einzusetzen. Das wollen alle, das sagen alle. Aber wie soll das aussehen? Das sehen wir schnell beim Thema Regulierung. Der Bundesrat ist im Moment ein Leitfaden für den Umgang mit künstlicher Intelligenz zu erarbeiten. Das soll bis Ende Jahr der Fall sein. Die EU ist da schon weiter. Und sie hat seit dem Sommer eine verordnete Kraft, die das erste Mal Regeln für den Einsatz von KI in den EU-Mitgliedstaaten festlegt. Darüber sprechen wir gerade, Stichwort Regulierung. Aber zuerst schauen wir uns an, was hier in dieser EU gemacht wurde.
+
+Person2 [0:37:10 - 0:37:19]:
+Die KI-Verordnung der EU, auch die EU-Verordnung, wird auch AI Act genannt. Sie sieht für KI-Systeme verschiedene Risikostufen vor.
+
+Person2 [0:37:21 - 0:37:30]:
+KI-Anwendungen, von denen ein minimales Risiko ausgeht, etwa Videospiele mit KI, dürfen weiterhin frei genutzt werden.
+
+Person2 [0:37:32 - 0:37:47]:
+Für KI-Systeme mit begrenztem Risiko gelten neue Transparenzpflichten. So müssen etwa Betreiber von Chatbots, wie zum Beispiel ChatGPT, die Nutzerinnen und Nutzer darauf aufmerksam machen, dass sie mit Maschinen interagieren.
+
+Person2 [0:37:50 - 0:37:58]:
+Als hochriskant gelten beispielsweise KI-Anwendungen, die in einem Einstellungsverfahren Bewerbungen von Personen auswerten.
+
+Person2 [0:37:59 - 0:38:06]:
+Bei diesen Anwendungen muss die Aktivität der KI protokolliert oder auch von einem Menschen überwacht werden.
+
+Person2 [0:38:09 - 0:38:13]:
+KI-Anwendungen mit inakzeptablen Risiken werden ganz verboten.
+
+Person2 [0:38:15 - 0:38:26]:
+Etwa Systeme, die soziales Verhalten bewerten können. Unternehmen dürfen zum Beispiel keine KI verwenden, die den Gefühlszustand von Kunden automatisiert bewertet.
+
+Person4 [0:38:30 - 0:38:47]:
+Wie gesagt, der Bund arbeitet an einem eigenen Ansatz für die Regulierung von KI. Bis Ende Jahr sollten wir mehr wissen als EU-Gesetz, wo KI in vier Risikogruppen unterteilt gilt. Also nicht für die Schweiz, aber für die EU. Aber die Frage ist, was in der Schweiz kommt. Monika Rüli, als Wirtschaftsdachverband wollen Sie so wenig wie möglich regulieren?
+
+Person8 [0:38:48 - 0:39:42]:
+Wir wollen vor allem nicht eine Regulierungskeule wie die EU gemacht hat. Wir sind in diesem KI-Bereich. Das ist etwas, das in Entwicklung ist. Es ist enorm schwierig, etwas zu regulieren, das sich weiterentwickelt. Das ist das eine. Das andere ist, wir leben in der Schweiz in einem Rechtsstaat. Wir haben eine Verfassung, wir haben Gesetze und wir haben Gerichte. Das Bundesgericht hat übrigens kürzlich entschieden, dass ein Polizeigesetz im Kanton Luzern nicht anwendbar sein soll für eine automatische Überprüfung von Autos und deren Insassen. Von daher, wir haben nicht nichts. Was wir glauben, was wichtig ist, ist, dass man schaut und sagt, hier haben wir in diesen verschiedenen Orten Lücken in den bestehenden Regeln.  Dass man diese Lücken gezielt füllt und nicht einfach ein umfassendes KI-Gesetz macht.
+
+Person4 [0:39:42 - 0:39:44]:
+Also eher ist das zu flächendeckend.
+
+Person4 [0:39:44 - 0:39:47]:
+Aber Sie sehen auch Lücken, die es gilt zu schliessen.
+
+Person8 [0:39:47 - 0:39:48]:
+Absolut.
+
+Person8 [0:39:48 - 0:39:56]:
+Das letzte Beispiel, da bin ich auch dafür, dass man das dort streng reguliert oder von mir aus auch verbietet.
+
+Person6 [0:39:57 - 0:40:42]:
+Wenn wir bei diesen Lücken sind, das sieht man ja jetzt bei den EU-Regeln. Was ist denn von diesem Risikomodell ausgeschlossen? Es sind wieder die EU-Regeln. Die EU-Regeln sind für Sicherheit und Militär. Und dann, ja, ich finde, es macht keinen Unterschied, ob jetzt ein Schweizer Kreuz auf einer Drohne ist oder ob es von irgendjemand anderem abgeschossen wird. Aber das sind Technologien, die höchst gefährlich sind. Wir sehen heute schon an den EU-Aussengrenzen, dass Frontex mit KI arbeitet, um Menschen zu erkennen. Auch beim neuen Asylgesetz in Europa sollte quasi ein solches KI-Gesetz  wie ein gesamteuropäisches Überwachungssystem ausgearbeitet werden. Und das ist höchst bedenklich.
+
+Person4 [0:40:43 - 0:40:51]:
+Gut, es ist jetzt schwierig, den Ball weiterzugeben an Pascal Kaufmann als Unternehmer in diesem Bereich. Ihr lebt wirklich in anderen Welten, kann man so sagen?
+
+Person10 [0:40:53 - 0:41:24]:
+Ja, ob wir jetzt in die Vorreiterrolle gehen sollen und schneller als alle anderen regulieren, ich glaube, wir sind in einer super Ausgangslage. Wir in der Schweiz können schauen, was in den USA passiert, was in China passiert. Wir können das Beste von beiden Welten übernehmen. Ich sehe bei uns keinen akuten Handlungsbedarf. Ich glaube auch, dass wir nicht so schnell legiferieren sollten, so schnell müssen wir Gesetze anpassen. Das ist noch so jung, die Technologie. Also, ich glaube, wir haben hier eine gute gesetzliche Grundlage und die, die es gibt, sollten wir erfüllen. Aber ich sehe keinen Handlungsbedarf, wir müssen sofort etwas machen.
+
+Person3 [0:41:24 - 0:42:46]:
+Ich meine, es kommt in diesem Bereich zu Datenschutzverletzungen, zu Verletzungen der Privatsphäre. Ich meine, jedes Mal, wenn wir die CGPT brauchen, verletzen wir Urheberrechte von jemandem. Das tut dir vielleicht oder ihnen nicht weh, aber jemandem, der künstlerisch abhängig ist von den Einnahmen der eigenen, rechtlich geschützten Werke. Das tut dir sehr weh, das bedeutet Existenzen. Da gibt es einen grossen Handlungsbedarf. Die Nächste-Geografische Organisation «Algo in the Watch» hat, wie gesagt, sehr sinnvolle Vorschläge gemacht. Sie haben gesagt, wir müssen schauen, dass wir Schäden verhindern, an Menschen, an Demokratie, an der Gesellschaft, an der Umwelt. Gleichzeitig müssen wir zweitens dafür sorgen, dass alle davon profitieren und nicht nur ein paar, ganz wenige multinationale Technologiekonzerne. Also, es gibt ja auch ein paar, die nicht so gut sind, aber auch aus Unternehmen, viele Stimmen, die sagen, da müssen wir dagegen sein, gerade auch um die Schweizer Wirtschaft zu schützen. Im ganzen Bildungsbereich haben wir Wildwuchs. Obwohl wir keine Studie haben, die zeigt, dass Bildschirmzeit im Bildungserfolg dient, obwohl wir keine Studie haben, die zeigt, dass es irgendwie den Lernprozess fördert, sondern im Gegenteil kognitive Fähigkeiten degeneriert, dass sie sich verringern, tun wir die Technologie in die Schuhe. Ich würde eigentlich dafür plädieren, dass wir die Technologie in die Schuhe  schützen, damit die Bildschirmfreie Oase in den Schulen arbeitet. Wieso? Weil ich glaube, eine Sorge, die wir nicht mehr machen müssen, eine Sorge ist, dass Kinder und Jugendliche zu wenig Zeit von einem Bildschirm verbringen.
+
+Person4 [0:42:46 - 0:42:47]:
+Und was wir ja nicht machen wollen, ist,
+
+Person4 [0:42:47 - 0:43:07]:
+über uns Kinder und Jugendliche zu reden, sondern wir werden ja etwa eine Viertelstunde mit Ronny und Juri, zwei H., uns zeigen, was wir davor alles behaupten, was sie machen und was sie dann wirklich machen, während der Reality-Check machen. Aber ich möchte gleich, ich weiss, was Sie sagen wollten, aber... Ich glaube, das wird... Ja, aber es ist schon interessant. Das Heisst, Sie haben sich selbst
+
+Person3 [0:43:04 - 0:43:28]:
+das Chat-GPT-Verbot aufgelegt? Nein, ich brauche es einfach nicht. Und zwar aus zwei Gründen. Chat-GPT und andere aktuelle Produkte in diesem Bereich haben kein Wahrheitskriterium. Es ist eigentlich völlig egal, was gesagt wird. Hauptsächlich wird etwas gesagt. Und zweitens sind Urheberrechtsverletzungen, Datenschutzverletzungen, Privatschutzverletzungen... Das kann man verbessern. Ich sage nicht, dass es nicht möglich ist, aber man kann es verbessern. Aber es muss gemacht werden.
+
+Person8 [0:43:32 - 0:43:33]:
+Sie müssen ein wenig lachen.
+
+Person8 [0:43:34 - 0:43:40]:
+Nein, ich meine, es ist meine Aufgabe, die Wirtschaft zu schützen und für gute... Nein, er will sie auch nicht schützen.
+
+Person8 [0:43:40 - 0:43:45]:
+Das ist super. Danke vielmals. Aber für all die Beispiele, die Sie jetzt gebracht haben,
+
+Person8 [0:43:46 - 0:43:54]:
+wir haben das Datenschutzgesetz, wir haben Persönlichkeitsschutz, wir haben Grundrechte in diesem Land. Wir sind nicht irgendwie ein rechts... Aber die Gesetze sind gemacht, bevor Sie sie ausreden, bitte, Herr Kirschläger.
+
+Person8 [0:43:55 - 0:44:23]:
+Wir sind nicht ein rechtsfreier Raum. Und von dem her, das muss man genau anschauen. Und dann vielleicht, was Frau Hostetmann gesagt hat, wenn es darum geht, Respektieren von Menschenrechten, von Demokratie, von Rechtsstaatlichkeit. Da gibt es eine Konvention des Europarates und der Bundesrat will diese dann offenbar zur Ratifizierung vorschlagen. Es gibt auch Dinge, die man auf internationaler Ebene regeln muss. Und da finde ich den Europarat ein wichtiges Gremium.
+
+Person4 [0:44:24 - 0:44:51]:
+Ich möchte vielleicht ein Beispiel machen. Vor kurzem wurde der Supercomputer Elbs in Lugano eingeweiht, und zwar vom Bundesrat und Wirtschaftsminister Guy Pamelin am nationalen Hochleistungsrechenzentrum in Lugano. Dieser Supercomputer kann z.B. in der Klimatologie in einem Tag so viele Berechnungen durchführen, wie ein normaler Laptop dafür 40'000 Jahre bräuchte. Herr Kirschläger, Sie wollen aber mit der angezogenen Handbremse unterwegs sein.
+
+Person3 [0:44:51 - 0:45:52]:
+Ich möchte überhaupt nicht mit der angezogenen Handbremse unterwegs sein. Ich möchte einfach viel präziser arbeiten. Ich würde mir wünschen, dass wir viel genauer schauen, was die ethisch positiven Potenziale sind, wie z.B. das beschriebene Beispiel. Gleichzeitig aber auch, dass man die ethisch negativen Risiken einfach adressiert. Insammtenweise, das Jugendparlament des Kantons Luzern musste sich auf eine Petition einigen, eine Petition, die sie als offizielles Parlament wieder erreichen konnten. Auf was haben sie sich geeinigt? Auf eine obligatorische Elternarbeit, die die Erwachsenen vorbereitet, besser darauf, Kinder und Jugendliche vor Social Media zu schützen. Das ist eine Sucht. Das muss man sich mal auf den Zungen zergehen lassen. Hat es je eine Generation gegeben, die gesagt hat, die Eltern schützen uns vor dem Rauchen oder Alkohol? Ich glaube nicht, weltweit. Aber hier sieht man, wie dringend das Anliegen ist, dass mit den Suchtproblemen im Bereich von Social Media die Gifte kommen. Das sagen nicht die Erwachsenen, sondern die Jugendlichen selber, das Jugendparlament des Kantons Luzern, die sich auf diese Petition geeinigen. Sind Sie eine Art Dealer, Herr Kaufmann,
+
+Person4 [0:45:52 - 0:45:54]:
+die die Sucht befriedigen?
+
+Person10 [0:45:54 - 0:46:36]:
+Ich finde, Generation Z, die Sie ansprechen, die Kirchschläger, hält uns in vielen Fällen den Spiegel vor das Gesicht. Sie sagen, wir könnten eine falsche Teilzeit schaffen. Sie sagen, es sei sinnstiftend, das ganze Leben zu arbeiten. Sie stellen uns Fragen, die wir uns nie vorgestellt haben. Von dem her ist das auch eine Chance. Die ganzen Social Media, die virtuellen Welten sind so verlockend, so attraktiv, dass man sich überlegt, ob das nicht auch ein interessantes Business ist. Die Generation Z stellt uns Fragen, die wir noch nie gehört haben. Ich finde, das ist eine Chance, die Gesellschaft zu überdenken.
+
+Person6 [0:46:36 - 0:47:07]:
+Das sind nicht Fragen, die noch nie gestellt wurden. Ich glaube, es ist nicht nur Generation Z, die gerne weniger arbeiten würde, aber nicht Einbußen beim Lohn machen würde. Bei Social Media ist das Problem, dass die Daten einfach abgezogen werden und die Daten von Konzernen nicht mehr verarbeitet werden. Sie sprechen davon, dass wir auf bestehende Gesetze aufbauen sollten. Aber die bestehenden Gesetze greifen einfach nicht mehr für die aktuelle Situation. Das ist das Problem.
+
+Person4 [0:47:07 - 0:47:21]:
+Da haben Sie als Juso auf die ganz grossen Fragen eine ganz einfache Antwort. Die Enteignung grosser digitaler Unternehmen und die demokratische Kontrolle von KI-Technologien. Ernsthaft?
+
+Person6 [0:47:21 - 0:47:57]:
+Ja, ernsthaft. Ich glaube, wir müssen als Gesellschaft Kontrollen zurückholen. KI hat enorme Grenzen überschritten, aber ich glaube, wir können dort noch zurückgehen. Jetzt ist es eine Frage von Transparenz. Ich glaube, das ist der erste Schritt. Es muss Transparenz geschaffen werden von diesen Unternehmen. Wie funktionieren diese Algorithmen? Welche Daten werden dafür verwendet? Was wird nachher mit diesen Daten gemacht? Und nachher soll die Gesellschaft darüber entscheiden, wann wir das machen und welche Formen davon wir brauchen. Das ist das Wichtige.
+
+Person8 [0:47:58 - 0:48:30]:
+Juso will einfach enteignen. KI-Unternehmungen enteignen, Familienunternehmen in der Schweiz enteignen. Es ist hoffentlich eine flächendeckende Enteignung geplant. Da muss ich Ihnen sagen, die Schweizer Wirtschaft leistet einen wichtigen Beitrag zu dieser Gesellschaft. Wenn Sie alle diese Unternehmungen enteignen, haben Sie keine Steuereinstellungen. Dann haben Sie keinen Arbeitsplatz. Dann geht es einfach uns allen schlechter. Und da frage ich Sie, wollen Sie das wirklich?
+
+Person6 [0:48:30 - 0:48:55]:
+Es geht um Demokratie. Ich bin der Überzeugung, dass Menschen überall in ihrem Leben mitbestimmen sollten. Das heisst auch an ihrem Arbeitsplatz. Ich glaube, dass wir wahnsinnig bessere Produkte haben, wenn die Menschen zusammen entscheiden können, wie sie hergestellt werden sollen. Aber wenn auch NutzerInnen von diesen Produkten entscheiden können, wo sie sie kaufen wollen, dann muss ich sagen, dass das mit meinen Daten passiert oder nicht. Frau Hofstädt-Bahn, haben Sie mal in einer Unternehmung gearbeitet?
+
+Person8 [0:48:55 - 0:49:19]:
+Wissen Sie, wie dort die Arbeitsprozesse sind? Wissen Sie, dass man dort zusammensitzt und gemeinsame Entscheidungen fällt? Wissen Sie, dass man gemeinsame Produkte entwickelt? Wissen Sie, dass man den Rat der Wissenschaft einhält? Das sind nicht einsame Entscheidungen von irgendwelchen Profiteuren. Das sind gemeinsame Entscheidungen. Und Sie skizzieren hier ein Weltbild,
+
+Person6 [0:49:19 - 0:49:42]:
+das schlicht und einfach nicht funktioniert. Entschuldigung, Frau Hofstädt-Bahn. Es ist einfach lächerlich, wenn man immer mit dem Argument kommt, wir hätten nie gearbeitet. Ich habe nie so viel Geld verdient wie ein CEO. Ich konnte nie auf dieser Ebene mitbestimmen. Das stimmt. Ich habe aber so viel gearbeitet, also ja, ich habe gleich viel gearbeitet, würde ich behaupten. Und dass diese Leute dann einfach schlechter behandelt werden, das geht nicht.
+
+Person4 [0:49:42 - 0:49:54]:
+Gut, ich möchte noch den Rat des Wissenschaftlers einholen, um ein bisschen, ich möchte nicht Ruhe reinbringen, aber um zu schauen, dass sich die Mütter wieder ein bisschen beruhigen. Kann man überhaupt eine Balance finden zwischen Innovation und Regulierung?
+
+Person11 [0:49:55 - 0:50:58]:
+Ich glaube schon, man kann immer eine Balance finden. Wie gesagt, es ist nicht das erste Mal, dass wir eine neue Technologie finden. Vielleicht wird es das letzte Mal, das steht noch in den Sternen. Aber man muss immer eine Balance finden zwischen Innovation und Regulation. Die Frage ist natürlich, wo setzt man das an? Da gehen die Meinungen natürlich auseinander. Aber man denkt, man spricht in unterschiedlichen Themen, sozialen Medien, KI und so, man muss das schon unterscheiden. Ich meine, die KI ist im Moment sehr stark unterwegs. Und das stimmt, das ist sicher, die Leute haben ein Bedürfnis an Transparenz, wie funktioniert das? Und weil Sie gerade Lugano gezeigt haben, kann man da vielleicht noch eine Tür öffnen, weil das ist wirklich etwas Interessantes für die Schweiz. Die Schweiz hat jetzt ihre Rechner, die der Forschung zur Verfügung stehen. Und was wir dort jetzt machen, ist, wir trainieren unsere eigenen Modelle und die sind völlig offen und transparent. Und das kann man dann auch der Gesellschaft und der Wirtschaft zur Verfügung stellen. Ich denke, da haben wir ein gutes Mittelmass gefunden. Weil es ist natürlich klar, dass die Wirtschaft, das sind auch Geschäftsgeheimnisse, das kann man auch verstehen. Also ich glaube, die Balance ist relativ gesund im Moment.
+
+Person4 [0:50:58 - 0:51:12]:
+Sie sind ja eine Art Schiedsrichter heute Abend in dieser Diskussion. Aber wenn Sie... Ich habe meine Karte vergessen. Aber wenn Sie das Wort Enteignung hören, dann sträuben sich bei Ihnen wahrscheinlich auch die Nackenhaare, oder? Ja.
+
+Person11 [0:51:12 - 0:51:47]:
+Sorry. Aber bei mir ist das klar. Wir leben am Ende des Tages in einer Gesellschaft, in der wir alle sehr schätzen, dass es um das Privateigentum geht. Und ich glaube auch hier findet die Schweiz durch die Demokratie immer wieder den guten Mittelweg. Was machen wir als Gesellschaft? Es gibt gewisse Elemente, das ist nicht einfach Anarchie, das Gesundheitssystem zum Beispiel, daran arbeiten wir zusammen, ein Bildungssystem. Und dann gibt es natürlich ganz viele Teile, wo wir sagen, das ist Sache der Einzelnen. Und dort suchen wir immer wieder diese Balance.
+
+Person4 [0:51:47 - 0:51:51]:
+Was erwartet Sie vom Bundesrat, also bis Ende Jahr, was für Steps?
+
+Person11 [0:51:53 - 0:52:30]:
+Bis Ende Jahr erwartet man eigentlich nichts. Wir erwarten mittelfristig eine gute Forschungslandschaft natürlich, wir als Forscher. Im Moment ist natürlich der Rotstift die treibende Kraft in der Politik. Und das ist ein wenig heikel. Ich habe Verständnis für balancierte Budgets, das haben wir alle. Aber trotzdem, wir haben es gehört, wir sind in einer extrem aussergewöhnlichen Situation. Wahrscheinlich historisch. Und wenn wir am Schluss zurücksehen und sagen, dort haben wir den Anschluss verpasst, weil dort gerade die Rotstift-Session war, das würde mir ein wenig Sorgen machen.
+
+Person4 [0:52:30 - 0:52:34]:
+Sie haben ja auch schon gesagt, wir haben die Digitalisierung eigentlich verschlafen, oder?
+
+Person11 [0:52:34 - 0:52:43]:
+Ja, ich glaube, es ist nicht umsonst, dass wir in Europa und in der Schweiz von der digitalen Souveränität sprechen, weil wir das natürlich auch ein wenig verpasst haben.
+
+Person4 [0:52:43 - 0:52:54]:
+Danke. Wie gross ist die Gefahr, dass wir das verschlafen? Sie sagen, wir könnten genauso gut sein wie die Amerikaner, auch unter Donald Trump als Präsident. Und im Vergleich zu den Chinesen?
+
+Person10 [0:52:55 - 0:53:41]:
+Also es geht fast um Wirtschaftsnationalismus, dass man sagt, diese und diese Produkte werden wir in diesem Land einsetzen und in einem anderen nicht. Das ist viel teurer. Wir müssen die Abhängigkeit von diesen Technologien aus fremden Ländern reduzieren, vor allem mit Blick auf die geopolitische Lage. Und als Schweiz können wir auch Beispiele machen, wie wir es besser machen können. Transparente Systeme, Open Source zum Beispiel. Wir haben auch neuartige Algorithmen, die nicht so viel Energie brauchen, wo man nicht riesige Rechenzentren und AKWs bauen muss. Die Schweiz hat ein paar Beispieltechnologien, die wir in der Welt positionieren können. Und ich sehe da wichtige Rolle für uns. Wir sind Vermittler, wir sind neutral in der Welt. Eigentlich eine ausgezeichnete Ausgangslage zum Führen, die Rolle übernehmen, im KI-Rennen.
+
+Person4 [0:53:42 - 0:53:44]:
+Und da stehen so Leute wie Herr Kirschläger im Weg?
+
+Person3 [0:53:44 - 0:55:19]:
+Nein, im Gegenteil. Ich würde ja gerade aus dem Grund, wie wir in der Schweiz mitführend sind in der KI-Forschung, würde ich sagen, wir könnten das verbinden mit menschenrechtsbasierter sogenannten KI. Weil immerhin ist das Menschenrecht einer der ausserpolitischen Pfeile der Schweiz. Also wir könnten ja gleich zeigen, wie das funktioniert, wenn man menschenrechtsbasiert KI macht. Und zwar durch die ganze Lebensphase von KI. Da geht es um die Rohstoffschärfung, da geht es um die Billigproduktionsstandorte, die menschenrechtskonform gemacht werden sollten, da geht es um die Nutzung und teilweise, was menschenrechts angeht, auch um die Nutzung von KI-Möglichkeiten. Und gleichzeitig muss man aber auch realistisch sein, wenn man menschenrechtsbasiert eine globale Regulierung will, die ich basierend auf meinen Forschungen vorschlagen würde, dann braucht es auch eine globale Durchsetzungsinstitution, weil sonst ist die Regulierung das Papier nicht wert, auf dem sie draufsteht. Wir müssen es schon vor Augen behalten. Die multinationalen Technologiekonzerne warten nicht darauf, die Regulierung einzuzahlen, sondern regeln sie ihnen so, dass sie solange die Regeln verletzen, solange der Gewinn höher ist als die Bussen. Von daher braucht es eine Durchsetzungsinstitution. Ich würde vorschlagen, eine internationale Datenbasierte Systemagentur, abg. Ida, bei der UNO, die eigentlich gebaut ist im Modell folgend der internationalen Atomenergiebehörden. Das wird ganz kurz vereinfacht gesagt. Was haben wir mit den Nuklear-Technologien gemacht? Wir haben geforscht, wir haben Atombomben gebaut, wir haben sie ein paar Mal gelöscht,  sie haben sie eingesetzt und dann haben wir gedacht, wenn wir so weiter machen, gibt es bald Menschheit und Planeten nicht mehr. Dann haben die internationalen Atomenergiebehörden es geschafft. Sie ist nicht perfekt, sie wird insbesondere von Supermächten missbraucht, für die eigenen Interessen. Aber wir müssen zugestehen, sie hat es geschafft, Schlimmeres zu verhindern. Das wäre auch Aufgabe von Ida.
+
+Person4 [0:55:19 - 0:55:29]:
+Ida, das wäre die internationale Datenagentur, die Ihnen vorschwebt. Aber Sie machen auch einen steilen Vergleich von der Atombombe zur KI.
+
+Person3 [0:55:30 - 0:55:55]:
+Ja gut, wenn wir uns vor Augen führen, dass wir die Atomwaffen nicht mehr in der Hand nehmen, dann ist das eine große Herausforderung. Es gibt ein riesiges ethisches Potenzial, das hat man in aller Deutlichkeit gesagt. Aber wir haben gleichzeitig die Herausforderung, dass ich bei mir zuhause am Computer, also nicht ich, weil ich nicht so talentiert bin, aber es könnte sein, dass jemand ein automatisiertes Waffensystem tödlicher Natur baut und damit einen grossen Schaden anrichtet. Ich glaube, wir können das einfach so tun, als gäbe es diese Herausforderung nicht. Ich komme noch einmal ganz kurz zurück zu einem Beispiel der Kinderbilder-sexualisierenden App.
+
+Person4 [0:55:55 - 0:55:56]:
+Haben Sie ganz am Anfang dieser Sendung gesagt?
+
+Person3 [0:55:56 - 0:56:10]:
+Wenn wir Ida hätten, käme so etwas gar nicht auf den Markt, aber für die Pharmaindustrie selbstverständlich. Man muss zuerst einen Test durchlaufen, ob das Medikament nicht schädlich ist für Menschen und nicht schädlich ist für die Natur, bevor wir es auf den Markt bringen können.
+
+Person4 [0:56:11 - 0:56:19]:
+Ida, eine Agentur, die schaut, dass es menschenrechtsbasierte KI gibt. Was halten Sie davon, Herr Rühl?
+
+Person8 [0:56:19 - 0:57:18]:
+Jetzt sind wir gerade in einer Krise des Multilateralismus. Die Geopolitik ist extrem angespannt. Ich glaube wirklich nicht, dass man das heutzutage herbringt, dass sich die Länder hier auf das einigen können. Aber nochmals, die Unternehmen, die grossen Unternehmen, die Paarunternehmen, die haben ihren Sitz in den USA. Auch die USA sind ein Rechtsstaat. Auch die USA müssen die Unternehmen überwachen, sodass sie die Gesetze in die amerikanischen und internationalen einhalten. Da gibt es jetzt ein Beispiel, wo eine von den USA-Unternehmen    wegen einer Monopolstellung einen Teil ihrer Aktivitäten verkaufen muss. Stattdessen zu bauen, dass man hier auf multilateraler Ebene konstruktiv baut, muss man auf die Rechtsstaatlichkeit setzen in den Ländern, in denen die Unternehmen sitzen.
+
+Person3 [0:57:18 - 0:57:57]:
+Ich meine, Ida, setzt man auf die Rechtsstaatlichkeit, nur ist es etwas realistisch, dass KI ein globales Phänomen ist. Wenn man anfängt, was in den USA zu beobachten ist, und das ist in keinem Fall im Interesse der Unternehmen, dann muss man auch nicht sagen, dass die USA die KI regulieren. Denn sie finden, es geht langsam auf der Gesamtebene der USA. Das ist definitiv nicht im Interesse der Unternehmen. Man muss dann für jeden US-Bundestaat das eigene Produkt basteln. Und ich glaube, die Grossmehrheit der Unternehmen hat nicht Freude, dass eine Kinderbilder-sexualisierende App legal auf der Marktwahl aufwächst. Niemand spricht davon. Aber das ist ein Feminin.
+
+Person10 [0:57:54 - 0:58:26]:
+Ich glaube, es wird mit einem reguliert, wenn man die Kompetenz nicht hat. Ein Schutz, der nicht reguliert wird, wenn wir die Kompetenzen aufbauen. Die Schweiz ist extrem kompetent in diesen Themen. Wir sind in der Lage, eigene Regulationsmodelle zu machen. Wenn wir nicht die Kompetenz aufbauen und andere geschehen lassen, dann wird mit uns reguliert. Ich finde es extrem wichtig, dass man die Regulationen für ein Land macht, weil es auch sehr kulturbestimmend ist.
+
+Person3 [0:58:26 - 0:58:28]:
+Aber dann ist das Problem, dass Unternehmen... Die nächste Frage.
+
+Person6 [0:58:30 - 0:59:00]:
+Die Schweiz sollte nicht ein Tech-Eldorado werden. Es braucht Regeln, Rahmenbedingungen, wie bei allen anderen Dingen. Dort hat die Schweiz einfach verpasst. Das muss jetzt möglichst schnell nachgeholt werden. Für das muss auf der einen Seite die EU-Regeln übernommen werden, aber es müssen auch Schlupflöcher gestopft werden, damit Menschenrechte garantiert werden können. Wie wir es ein paar Mal gehört haben.   Darf ich kurz nachfragen? Vielleicht ist es auch in Ihrem Interesse.
+
+Person4 [0:58:58 - 0:59:07]:
+Sie haben gesagt, die Schweiz soll kein Tech-Eldorado werden. Wieso eigentlich nicht?
+
+Person8 [0:59:05 - 0:59:08]:
+Ich möchte, dass die Schweiz führend wird.
+
+Person8 [0:59:08 - 0:59:19]:
+Führend, das wollte ich sagen. Eldorado ist ein komischer Begriff. Ich möchte, dass die Schweiz führend wird. Sie hat alle Voraussetzungen dafür.
+
+Person6 [0:59:19 - 0:59:50]:
+Der Supercomputer ist ein wichtiges Element. Ich möchte schon, dass die Schweiz Fortschritte macht in der Forschung. Aber das kann an öffentlichen Plattformen  und Universitäten passieren. Das passiert heute schon an öffentlichen Universitäten. Das Problem ist, was mit dieser Technologie passiert. Und dann kommen wir wieder zurück zum wichtigsten Punkt. Es geht eben darum, bei wem leidet die Technologie, wem gehört die Technologie und wer profitiert mit dieser Technologie. Ich finde einfach, KI soll für die Menschen arbeiten und nicht gegen die Menschen.
+
+Person8 [0:59:51 - 1:00:17]:
+Absolut. KI soll für die Menschen arbeiten und nicht gegen die Menschen. Ich sehe das Problem nicht, wenn die Besitzer dieser KI private Unternehmen sind. Die Verteufelung der privaten Unternehmen habe ich Mühe damit. Sie haben gesagt, enteignen. Ich kann Ihnen sagen, wenn Sie meinen, dass der Staat die Aufgabe besser erledigen würde, dann setze ich mich an eine grössere Frage.
+
+Person3 [1:00:16 - 1:00:42]:
+Ich komme weg von Tim und Eike. Schauen Sie sich mal die Entwicklung an, die wir in den Social Media hatten. Wir haben ein paar Technologieunternehmen gewalten und schalten lassen. Was ist passiert? Wir haben eine wachsende Sucht unter Jugendlichen. Die neueste WHO-Studie wurde im September 2024 herausgegeben. Wachsende Sucht. Das wollen Sie wegregulieren? Darf ich das kurz fertig ausschalten? Er fährt auch fertig raus. Er hat mehrfach unterbrochen.
+
+Person3 [1:00:43 - 1:01:32]:
+Ich habe mich aber entschuldigt. Ich möchte kurz den Gedanken fertig machen. Was ich damit sagen möchte, wir haben ein wachsendes Suchtphänomen, wir haben mentale Gesundheitsprobleme bei Kindern und Jugendlichen, wir haben eine hohe Suizidrate. Es ist wahrscheinlich auch nicht so eine schlaue Idee, aus schweizerischer und europäischer Perspektive die politische Bildung von Kindern und Jugendlichen TikTok zu überlassen. Das ist wahrscheinlich auch nicht so clever. Wir müssen aufpassen, dass Social Media, die eigentlich als asoziale Medien gebaut wurden, um Kinder und Jugendliche abhängig zu machen, einfach so laufen lassen. Das ist auch nicht im Interesse der Grossmehrheit der Unternehmen und auch nicht der Unternehmerinnen und Unternehmer. Denn sie haben auch Kinder und Jugendliche, die nicht wissen, was sie mit der ... Das Jugendparlament Kanton Luzern sagt uns, bitte schützt uns besser und lernt das besser.
+
+Person4 [1:01:32 - 1:02:19]:
+Danke für diesen Steilpass. Jetzt gehen wir zu den Jugendlichen. Das ist die Arena, die sich wie andere SRF-Gefäße am Fernsehen, am Radio und online in einer Themenwoche der Frage annimmt, was künstliche Intelligenz für uns alle, für Sie, für mich, für uns in diesem Raum bedeutet. Jetzt könnte man davon ausgehen, dass jüngere Menschen dieser Technologie offener gegenüberstehen und vielleicht auch ein bisschen mehr Ahnung haben, wie ältere Semester, wie ich. Wir machen den Reality-Check mit zwei Schülern der Kantonsschule Zürich Oberland. Bei uns sind Ronny Siegenthaler, 17 Jahre alt, aus Gossau und Juri Kaspar, 18 Jahre alt, aus Bauma. Beide im letzten Gimmi-Jahr. So schnell geht es am meisten Teil dieser Arena. Willkommen. Wir haben vorhin miteinander abgemacht, dass wir uns tauschen. Das gilt natürlich gegenseitig. Juri, ist künstliche Intelligenz eine Sache, die dir das Leben einfacher macht in der Schule?
+
+Person5 [1:02:20 - 1:02:50]:
+Ja und nein. Man kann Gruppenarbeiten, Podcast-Konzepte, Übersetzungen, Textüberarbeitungen, Bildmaterial wie Plakate mit KI machen. Man kann Brainstorming machen mit KI. Nur lernen muss man es am Schluss dann eben doch noch selber. Das kann einem die KI in diesem Sinne nicht abnehmen. Dort sehe ich auch die grösste Herausforderung. Das Risiko, dass man genug Eigenverantwortung hat, um dann zum eigenen Lernerfolg doch noch beizutragen.
+
+Person4 [1:02:50 - 1:02:56]:
+Und wie gross deine eigene Eigenverantwortung ist, zeigt sich daran, dass du deine Motoren   in der Kulturerarbeit ohne KI geschrieben hast.
+
+Person5 [1:02:57 - 1:03:14]:
+Bewusst ja. Es war natürlich erlaubt, von der Schule her, mit gewissen Richtlinien, dass man das auch als Quellenangabe zitiert, das zu brauchen. Ich habe mich bewusst gegen das entschieden, für einen anderen Weg, wo ich einfach herkömmliche Studien habe genommen und eigentlich am Schluss auch sagen kann, das ist von mir.
+
+Person4 [1:03:15 - 1:03:21]:
+Und Stichwort Weg ist so genial, weil sag es genau selber, was der Titel und die Untersuchung war, die du gemacht hast.
+
+Person5 [1:03:22 - 1:03:33]:
+Ich habe die Wanderbedürfnisse der jungen Generation untersucht und Routenvorschläge im Zürcher Oberland vorgeschlagen.
+
+Person4 [1:03:33 - 1:03:38]:
+Und ist das Wanderbedürfnis dieser Gen-C grösser geworden?
+
+Person5 [1:03:38 - 1:03:45]:
+Es ist grösser als bei älteren Generationen und grundsätzlich der erfolgreichste Volkssport in der Schweiz.
+
+Person4 [1:03:46 - 1:03:52]:
+Hat aber auch etwas mit Social Media zu tun, weil dort so viel gezeigt wird. Von diesen schönen Regionen auch, wo man wandern kann.
+
+Person5 [1:03:52 - 1:04:01]:
+Das ist auch ein Ergebnis meiner neuen Arbeit. Ich denke, dass eine der Hauptinspirationsquellen Social Media ist. So erreicht man diese Zielgruppe am besten.
+
+Person4 [1:04:03 - 1:04:11]:
+Roni hat auch eine Maturarbeit geschrieben über das Verkehrskonzept der Stadt Wetzikon. Mit oder ohne KI? Ohne KI natürlich.
+
+Person9 [1:04:11 - 1:04:21]:
+Wieso natürlich? Weil meine Lehrperson auch eine war, die eher konservativ eingestellt war gegenüber KI. Das war mühsam, oder okay?
+
+Person9 [1:04:21 - 1:04:46]:
+Zusätzlich hätte ich, wenn ich KI gebraucht hätte, wahrscheinlich fast mehr Aufwand betreiben müssen, als wenn ich das selber geschrieben hätte. Weil das eine individuelle Arbeit ist. Bis ich die Ideen alle entwickelt habe, müsste ich das alles KI erklären. Alles, was ich genau machen möchte. Das würde mehr Aufwand brauchen, als diese Arbeit einfach selber zu schreiben.
+
+Person4 [1:04:47 - 1:05:13]:
+Jetzt konnte man vom Lehrer-Dachverband lesen, und er sagte, dass er die Arbeit nicht  mit KI vermitteln kann. Das ist eine öffentlich generative KI-Systeme, bergende Gefahr, eine Abwertung von Expertise und Motivationsverlust. Die Lehrer unterstellen euch hier, dass die Schüler wegen KI weniger selber denken und auch weniger motiviert sind, neue Sachen zu lernen. Aber wenn ich euch zuhöre, ist überhaupt keine Gefahr da. Jetzt könnt ihr mal gegen die Lehrer wettern, was die so meinen.
+
+Person5 [1:05:14 - 1:05:17]:
+Ich finde die Kritik durchaus berechtigt.
+
+Person5 [1:05:17 - 1:05:38]:
+Wenn Mitschüler weniger Aufwand betreiben für das gleiche Produkt und eine bessere Note bekommen, ist Eigenverantwortung gut und recht. Aber es braucht auch gesetzliche Rahmenbedingungen. Gerade bei benoteten Sachen, wie bei Abschlussprüfungen, wie bei der Matur, muss einfach transparent deklariert werden, wo man es brauchen darf und wo nicht. Ich habe fast versucht zu sagen,
+
+Person4 [1:05:38 - 1:05:51]:
+ich komme in diese Runde hinein, aber ich weiss nicht, wer ich rausschicken sollte. Ich finde es unglaublich gut, wie ihr argumentiert und das auf den Punkt bringt. Ihr habt jetzt die miterlebte Diskussion um Regulierung, ja oder nein. Wie siehst du das?
+
+Person9 [1:05:51 - 1:06:24]:
+Ich sehe durchaus Probleme bei der KI, vor allem moralische Probleme und das Problem, dass das ein Monopol ist, das von grossen Tech-Konzernen kontrolliert ist, die vor allem aus den USA kommen. Denn die KI hat grosse moralische Bedenken, vor allem so quellenkritisch und was alles gebraucht wird, was sie mit der KI trainieren kann. Das sind ja oft, wie bereits gesagt wurde, Materialien von irgendwelchen Künstler, Künstlerinnen oder alles mögliche, eigentlich alles, was man im Internet findet.
+
+Person9 [1:06:25 - 1:06:41]:
+Und dass das von der KI auf eine neue Art irgendwie zusammengemischt wird, das muss man stark hinterfragen. Wenn man mit KI arbeitet, muss man auf jeden Fall gut hinterfragen, was KI genau herausbekommt. Man muss vor allem verstehen, was KI sagt.
+
+Person4 [1:06:42 - 1:06:49]:
+Das sagt Ronny Sigenthaler neben Juri Kaspar. Vielen Dank. Monika Rühl, auch so begeistert wie ich?
+
+Person8 [1:06:49 - 1:06:58]:
+Ich finde es super. Es kann nicht anders sein, ihr seid von den gekannten Wetzigen. Also super habt ihr das gemacht. Das wusste ich nicht.
+
+Person4 [1:06:57 - 1:07:09]:
+Aber trotzdem, er sagt schon, da sind moralische Bedenken rum. Man muss etwas machen, man muss hinschauen. Man kann nicht einfach den Markt spielen lassen.
+
+Person8 [1:07:10 - 1:07:24]:
+Nein, ich sagte ja nicht, dass man nicht hinschauen soll. Ich finde das absolut berechtigt. Es gibt Risiken. Aber ich wollte heute Abend einen Akzent auf die Chancen setzen. Wir sprechen immer nur von den Risiken für alles.
+
+Person8 [1:07:24 - 1:07:40]:
+Das muss man genau hinschauen. Da hast du absolut recht. Das sehe ich auch so. Was Juri gesagt hat, das Wort ist nicht nur in Mode, sondern auch als Verhalten. Das finde ich super.
+
+Person4 [1:07:40 - 1:07:43]:
+Was sagt der Ethiker dazu?
+
+Person3 [1:07:43 - 1:08:48]:
+Fantastisch, ich würde meinen Platz übernehmen. Man kann es nicht besser argumentieren. Ich bin einfach begeistert von der Art und Weise, wie ihr eure Positionen vertreten. Aber auch inhaltlich gibt es eine gewisse Nähe. Von daher habe ich mich nicht beeindruckt, wie ihr euch vertreten habt. Ich bin nicht ganz sicher, ob ich Ihnen zustimmen würde, dass man immer von diesen Risiken spricht. Das ist ja das Wichtigste. Wir haben einen Markt, der von sich her läuft, der nichts gemacht wird und wir einfach zuschauen. Ein Beispiel ist Chet Chippity. Das ist eigentlich nichts anderes, als wenn wir Wanderer gewesen wären. Es frisst alles auf, was Menschen mal geschrieben, gedenkt, geschrieben, formuliert haben. Spült es mal durch, spuckt es wieder aus. Ich teile die Begeisterung von der Bedeutung her einigermassen Sinn macht. Aber was ich nicht verstehe, ist, dass man gleichzeitig kritisch hinschauen kann und sagt, man könne so etwas bauen wie Chet Chippity, ohne Urheberrechtsverletzungen, ohne Datenschutzverletzungen, ohne Privatsphärenverletzungen. Es muss doch möglich sein, ein profitables Produkt auf den Markt zu bringen, das menschenrechtskonform ist.
+
+Person4 [1:08:48 - 1:08:52]:
+Vielen Dank nochmal Juri und Ronny. Spezialapplaus für Ronny.
+
+Person4 [1:09:00 - 1:09:10]:
+Was kann man aufnehmen, was er sagt, es muss doch auch möglich sein, das zu bauen ohne Urheberrechtsverletzungen usw. Ist das das, was Ihnen mit dem Swiss Chippity vorschwebt?
+
+Person10 [1:09:11 - 1:09:25]:
+Auf jeden Fall ja. Die Technologien kann man so bauen, dass sie legal sind. Kann man so bauen, dass auch ihre Werte reflektiert sind. Und kann man so bauen, dass sie für die Welt kompatibel werden. Also unbedingt sollte man so ein Werkzeug bauen.
+
+Person4 [1:09:26 - 1:09:27]:
+Marcel Salaté, der ist in der Technologie.
+
+Person4 [1:09:28 - 1:09:52]:
+Chef des KJ-Zentrums in Lausanne. Zurück auf die Jugendlichen. Was man auch sagen muss, mit der Einführung des Lehrplans 21 ist das Thema in der Schule jetzt sehr viel präsenter als vorher. Medien und Informatik gehören heute zum verbindlichen Inhalt auf allen Volksschulstufen. Heisst das aus Ihrer Sicht, man macht genug genau richtig oder man kann noch mehr machen?
+
+Person4 [1:09:53 - 1:09:54]:
+Wenn es um KJ-Kompetenz geht.
+
+Person11 [1:09:54 - 1:10:53]:
+Ich denke, man kann noch einiges mehr machen. Das höre ich auch in der Diskussion. Es gibt immer noch sehr viel Missverständnis. Was ist KI? Wir hören immer wieder von Apps, die überhaupt nicht mit KI zu tun haben. Wenn illegale Apps auf den Markt kommen, ist das ein Problem vom Marktplatz und nicht von der Technologie selber. Ich denke, wir sind im Moment dabei herauszufinden, wie das geht. Das ist auch in den Hochschulen so. Wir haben gerade eine Studie gemacht, wo wir gefragt haben, wenn ein Präsepe-Feldstudium nur mit ChatGPT durch wie viele Prüfungen durchkommen würde. Mittlerweile sind es über 60 Prozent, also mit einem genügend genügendem Schnitt. Die Idee, dass aus ChatGPT KI geworden kommt, ist etwas amüsant. Natürlich wurden diese Systeme auf Daten trainiert. Nicht nur auf sozialen Mediedaten, sondern auch auf wissenschaftlichen Arbeiten. Das hat man dann feintunet, dass es das sagt, was einigermassen wahrheitsgetreu ist. Das sehen wir jetzt immer mehr und mehr.  
+
+Person11 [1:10:54 - 1:11:38]:
+Das ist nicht nur bei ChatGPT so. Ich muss auch erinnern, die KI hilft uns bei medizinischen Diagnosen. Dort wissen wir heute schon, dass es teilweise besser geht als viele Ärzte. Man macht eine Einweisfaltung für neue Medikamente. Das geht massiv viel besser, als wenn man das noch von Hand machen würde. Das sind alles Sachen, die objektiv korrekt sind. Ich glaube, da muss man noch schneller auf die Jugendlichen zugehen und sagen, richtigen kritischen Opfer zu sein.  Ich habe schon von Anfang an Vertritt. Aber ich versuche, das mehr zu erlernen. Am Schluss will man auf einem globalen Werkplatz sein, wo man die Tools benutzen muss. Sonst sind die anderen immer zwei Schritte voraus.
+
+Person4 [1:11:38 - 1:12:11]:
+Wir gehen mit kritischem Optimismus in die Schlussrunde der Sendung. Das heisst, wir haben etwa 5 Minuten. Ich möchte in der Hauptrunde etwas abholen. Wir haben uns jetzt bemüht, in dieser Sendung nicht nur schwarz und weiss zu malen, sondern auch die Möglichkeit, auf den Tisch zu legen. Gleichzeitig gibt es jemanden, der im Moment eine wahnsinnige Präsenz hat in den Medien. Ein Historiker, Lehrer und Bestsellerautor, der Bücher geschrieben hat über die Gefährlichkeit aus seiner Sicht im Zusammenhang mit KI. Ich möchte schnell den Juval Noah Harari einspielen.
+
+Person7 [1:12:13 - 1:12:24]:
+Dies ist das Ende der Menschheitsgeschichte. Nicht das Ende der Geschichte, sondern das Ende der von Menschen dominierten Geschichte. Die Geschichte wird weitergehen,  von jemand anderem.
+
+Person4 [1:12:26 - 1:12:32]:
+Das wäre ein Horrorszenario. Sind wir einig? Mache Sie sich Sorgen, dass uns KI irgendwann dominieren wird?
+
+Person8 [1:12:33 - 1:12:44]:
+Nein, absolut nicht. Ich bin überzeugt, dass der Mensch weiterhin der Taktgeber wird. Er wird Zusammenarbeit mit den von ihm gesteuerten Maschinen haben.
+
+Person4 [1:12:45 - 1:12:49]:
+Peter G. Kirchschläger macht sich der Mensch mit künstlicher Intelligenz
+
+Person3 [1:12:49 - 1:12:49]:
+selber überflüssig.
+
+Person3 [1:12:50 - 1:13:37]:
+Zumindest wäre es sinnvoll, dass wir gewissen Aufgaben, die uns Maschinenmassive legen, auch diesen Maschinen anvertrauen. Nur müssen wir das etwas genauer hinschauen. Vorher sagte man, App habe ich mit KI zu tun. Wenn die App mit KI gebaut ist, haben sie sehr wohl etwas mit KI zu tun. Wenn Social Media mit KI gesteuert wird und gewisse Sachen anrichten, dann hat das mit KI sehr viel zu tun. Das müssen wir adressieren. Mir geht es darum, dass wir präziser hinschauen, genauer schauen, was sind die ethischen Chancen, Risiken. Wenn wir das nicht machen, besteht die Gefahr, dass wir mit den Systemen, die selber auch dümmer werden, weil wir sie mittlerweile mit den eigenen Daten trainieren und keinen Unterschied zwischen wissenschaftlichen Studien und einem Neonazi-Blatt machen, die werden genau gleich mit den Daten nicht qualifiziert, dass wir selber als Menschheit leider auch dümmer werden.
+
+Person4 [1:13:37 - 1:13:42]:
+Pascal Kaufmann, der KI-Unternehmer, ein bisschen Pionier in diesem Bereich.
+
+Person4 [1:13:43 - 1:13:44]:
+Was sagen Sie zu diesen Ängsten?
+
+Person10 [1:13:45 - 1:14:34]:
+Ich habe null Angst vor KI. Für mich ist KI wie eine Schaufel. Entweder kann man ein Loch mit nackten Menschenhänden selber graben oder man nimmt eine Schaufel. Ich behaupte, es ist immer das gleiche Loch, das man selbst gemacht hat. Genauso ist es mit einem Chat-GPT-Text oder einem Swiss-GPT-Text. Ob ich den Text mit meinen nackten Fingern schreibe oder ob ich sage, ich hätte gerne so, so, so, dann kommt der Text genauer. Aber nach meinen Wünschen finde ich eigentlich etwas, das man unbedingt einsetzen sollte. Wenn man an einem Taschenrechner Selbsthaltungstriebe einbauen würde oder eine Machtfantasie hätte, hätte ich von einem Taschenrechner Angst. Wir bauen nicht solche Werkzeuge, die Selbsthaltungstriebe und Überlebens-Triebe haben. Das ist Angstmacherei des Juwel-Araris. Ich halte gar nicht davon.
+
+Person4 [1:14:34 - 1:14:38]:
+Miriam Hostertmann, nehmen Sie doch die Schaufel in die Hand und graben Sie mit.
+
+Person4 [1:14:39 - 1:14:43]:
+Oder propagieren Sie lieber das Reich der Finsternis mit?
+
+Person6 [1:14:43 - 1:15:01]:
+Nein, ich glaube gar nicht, dass KI das Ende der Menschheit ist. Ich sehe KI als ... ... Instrument, als Werkzeug, das von den Menschen genutzt werden muss. Es muss aber von der gesamten Gesellschaft genutzt werden können und nicht nur von den Mächtigen. Denn dann sehe ich Risiken, sonst sehe ich ganz viele Chancen.
+
+Person4 [1:15:01 - 1:15:07]:
+Die Stimme der Ausgewogenheit noch zum Schluss. Marcel Salate, wie gross ist die Gefahr, dass man Kontrollen über Maschinen verliert?
+
+Person11 [1:15:07 - 1:15:23]:
+Das ist sehr schwer zu voraussagen. Das hatten wir noch nie. Aber das ist die Urangst. Ich gehe mit Ihnen einig. Das ist etwas, wo man versuchen muss, den Finger draufzuhalten. Aber ich möchte Ihnen eine Gegenfrage stellen, Herr Protz.
+
+Person4 [1:15:22 - 1:15:24]:
+Mir? Oh, jetzt wird es interessant.
+
+Person11 [1:15:24 - 1:15:33]:
+Hätte Sie Harari gezeigt, wenn er gesagt hätte, KI sei eine balancierte Sache, es gebe Chancen, es gebe Risiken, wir müssen beides anschauen.
+
+Person4 [1:15:34 - 1:15:43]:
+Er hat mir eine Frage gestellt. Ich bin derjenige, der behauptet, es seien kritische Fragen. Dann muss er auch eine kritische Antwort beantworten können.
+
+Person4 [1:15:44 - 1:15:50]:
+Tendenziell weniger. Ganz ehrlich. Weil es die interessante Ausgangslage für eine Diskussion ist.
+
+Person4 [1:15:51 - 1:15:52]:
+Okay?
+
+Person4 [1:15:53 - 1:15:54]:
+Gut.
+
+Person3 [1:15:56 - 1:16:22]:
+Ich meinte, wir müssen aufpassen, dass wir nicht sagen, es gebe ethische Chancen, es gebe ethische Risiken. Es gibt auch ethische Risiken, die wir vermieden müssen. Wenn Menschenrechte verletzt werden, Kinderrechte, dann kann man das nicht aufwägen. Wir müssen wirklich aufpassen. Wie Sie das formuliert haben, ich lasse mir sagen, wie ich das denken kann. Da spüren wir das Denken vor. Ich würde dazu einladen, wirklich zu denken.
+
+Person4 [1:16:22 - 1:17:16]:
+Ich lade dazu ein, die weitere Sendung im Zusammenhang mit KI im Rahmen der «SF-Themenwoche» zu konsultieren. Es sind wirklich ganz spannende Sachen. Das findet man alles unter srf.ch-ki. Ich nehme etwas vorweg. Wir haben von der Regie geplant, das nachher zu machen. Aber wenn ihr jetzt schon davon redet, zeigen wir es jetzt. Ich hoffe, dass man den Einblender auch sieht, wo man das nachschauen kann. Eine lebhafte Debatte zu den Chancen und Risiken der künstlichen Intelligenz, produziert von Lisa Känzig. Die Leitung hat Franziska Egli. Die Zusammenfassung gibt es bald in der SRF News App, ohne Einsatz von KI. Und auf srf.ch. Den Blick in die Kulisse gibt es bei mir auf Instagram. Nächste Woche begrüsst Sie an dieser Stelle mein Kollege Mario Bresl. Ich grüsse Sie, Niklaus. Gute Nacht aus dem Studio 8.
+

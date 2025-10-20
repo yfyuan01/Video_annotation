@@ -1,0 +1,937 @@
+============================================================
+Video Transcription Results
+============================================================
+
+Person5 [0:00:00 - 0:00:25]:
+5G ist das neue Handynetz der 5. Generation, das vieles möglich machen soll. Von blitzschnellem Internet bis zu selbstfahrenden Autos. 5G macht aber auch vielen Angst, wegen der Strahlung und der Sicherheit. Was sind die Chancen und Risiken von 5G? Und wenn alles immer mehr am Internet hängt und wir den Kopf nur noch in den Datenwulchen haben, was macht das überhaupt mit uns?
+
+Person1 [0:00:43 - 0:01:50]:
+SWISS TXT AG – 2020 Peter Zagletli, Nationalrat Grüne, sagt, es ist wissenschaftlich nicht restlos geklärt, wie schädlich die 5G-Strahlen sind. Deshalb sollte man mit 5G noch zuwarten. Dalit Steiger, Mitgründerin Swiss Cognitive, sagt, der Mensch entwickelt sich und mit ihm die Technologie. Das birgt grosse Chancen, auch im Bereich der künstlichen Intelligenz. Peter G. Kirschschläger, Professor für Theologische Ethik, sagt, schon jetzt übertreffen Maschinen den Menschen zum Teil massiv. Aus Sicht der Maschinen könnte der Mensch irgendwann überflüssig werden. Später in der Sendung Agile Bot von der ETH Zürich. Er verbindet künstliche Intelligenz mit Robotik und bringt sich eigenständig neue Bewegungen bei. Die Arena, moderiert von Jonas Kroll.
+
+Person5 [0:01:50 - 0:02:16]:
+Danke, dass Sie da sind. Sehr verehrter Gäste, herzlich willkommen auf dem Freitagabend in der Arena. Danke für den freundlichen Korn. 5G, die neue Handynetztechnologie. Danke für den Empfang. 5G, die neue Technologie, soll vieles ermöglichen, macht aber auch vielen Leute Angst. Viele haben uns aus dem Publikum geschrieben. Bei uns heute Abend ist Edith Losli. Guten Abend.
+
+Person5 [0:02:18 - 0:02:22]:
+Frau Losli, warum sagen Sie Nein zu diesem neuen Netz, das alles viel besser machen soll?
+
+Person6 [0:02:22 - 0:02:37]:
+Diese Technik hat mir viel zu viele Fragen zuzeichen. Schauen Sie sich die jungen Leute an. Sie sind hier im Studio, voll aufgestellte Leute. Ihr Leben liegt mir wirklich fest am Herzen.
+
+Person5 [0:02:37 - 0:02:42]:
+Sie haben das Gefühl, sie würden nicht nur strahlen, sondern wären verstrahlt mit dem Netz.
+
+Person6 [0:02:41 - 0:02:48]:
+Genau. Und vor allem denken sie viel zu wenig mit all dieser Technologie.
+
+Person9 [0:02:49 - 0:03:16]:
+5G wird der neue weltweite Mobilfunkstandard. Nicht erst irgendwann, sondern schon nächstes Jahr. Wir müssen uns als Schweiz entscheiden, ob wir eine Insel bleiben, die nicht an der Zukunft teilnimmt, oder ob wir an der Zukunft teilnehmen, als innovatives Land, wie wir es in der Vergangenheit immer gemacht haben. Ich bin der Meinung, gerade die jungen Leute haben ein grosses Interesse daran, weil sie mit diesen technischen neuen Mitteln umgehen können und vor allem die Chancen darin sehen.
+
+Person6 [0:03:16 - 0:03:34]:
+Es ist immer etwas ähnlich. Man sagt immer, wir seien eine Insel, wir wollen nicht mitmachen. Ich bin einfach anderer Meinung. Ich finde, wir sollten gesund unterwegs sein. Nur wenn wir gesund unterwegs sind, physisch und psychisch, ist das Leben lebenswert.
+
+Person9 [0:03:34 - 0:03:49]:
+Gesundheit liegt uns ja allen am Herzen. Darauf müssen wir schauen. Aber man muss sehen, gerade in Bezug auf diese Strahlung, gibt es keine einzige Untersuchung, die eine Korrelation, also einen Zusammenhang feststellen kann zwischen dieser Strahlung und der Gesundheit der Menschen.
+
+Person6 [0:03:49 - 0:04:04]:
+Genau das ist das Problem. Wir wollen zuerst Untersuchungen, wir wollen zuerst wissen, worauf wir uns einlassen. Wir wollen nicht einfach blind gezwungen werden, das anzunehmen. Das verstehe ich.
+
+Person9 [0:04:03 - 0:04:20]:
+Es gibt schon viele Studien, die gemacht wurden. Allein die EU, aber auch in der Schweiz, hat über 100 Millionen Euro in den Forschungsbereichen ausgegeben. Man kann nicht feststellen, dass es schädlich ist. Übrigens sind das nicht die einzigen Strahlungen, die wir ausgesetzt haben. Die stärksten Strahlung ist das Handy.
+
+Person5 [0:04:20 - 0:04:32]:
+Aber die kann man entscheiden, ob man das Handy im Sack hat oder nicht. Allein die Steiger. Diese Sorgen, da haben uns unzählige Leute geschrieben, das macht den Leuten Bauchweh oder vielleicht Kopfweh. Dalit Steiger, sind diese Sorgen berechtigt?
+
+Person7 [0:04:33 - 0:05:00]:
+Ich würde sagen, wir müssen die Sorgen ernst nehmen, sie sind legitim. Aber warten, bis wir wirklich alle diese Erhebungen hätten, dann läuft wirklich die Wirtschaft und die Entwicklung uns vorbei. Und es geht wirklich darum, wir Schweizer haben die Chancen und Möglichkeiten, weltweit ein Zentrum für Technologie, für künstliche Intelligenz zu sein. Und was wir sicher nicht wollen, ist, dass wir fremdbestimmt werden von anderen Ländern. Aber vielleicht wollen wir halt eben auch gesund bleiben.
+
+Person12 [0:05:00 - 0:05:58]:
+Aber das finde ich jetzt, das sind zwei Sachen, die sich nicht ausschliessen. Aus meiner Sicht bin ich gerne bereit, im technischen Fortschritt gerade auch in der künstlichen Intelligenz vorne mitzumachen. Aber was das jetzt zwingend mit einem 5G-Ausbau, und zwar mit einem 5G-Ausbau auf einer völlig veralteten Geografie zu tun hat, das verstehe ich nicht. Es gibt ja auch beim 5G-Ausbau zum Beispiel verschiedene Möglichkeiten. Es gibt das Konzept der Anbieter, die sagen, wir legen das einfach auf die alten bestehenden Antennen drauf. Wir brauchen dann höhere Grenzwerte, damit wir es anderen noch laufen lassen können und das 5G darauf hoch. Und das ist quasi ihr Argument, wir brauchen das. Aber die technische Sicherheit helfen wir niemals. Aber die Technik hat ja auch noch Chancen. Gerade die Technik 5G hat die Möglichkeit, zum Beispiel kleine Zellen zu machen, die weniger strahlen. Da steht wenig Handy, aber dafür kann man nicht einfach auf den austretenden Autobahnen weiter denken.
+
+Person5 [0:05:58 - 0:06:00]:
+Es ist heute noch nicht sicher genug, Talit Steiger.
+
+Person7 [0:06:00 - 0:06:06]:
+Ja, also ich denke, wenn wir wirklich so lange warten würden, dann verpassen wir den Anschluss. Es geht ja nicht um die Frage warten, sondern wie entwickeln wir uns.
+
+Person10 [0:06:08 - 0:06:48]:
+Es gibt ja die Möglichkeit, die Sorge der Bevölkerung ernst zu nehmen. Es geht ja nicht nur darum, einfach generell die Bevölkerung, sondern es gibt auch wirklich eine Gruppe von elektrosensiblen Menschen, die auch ganz legitime Ansprüche haben, dass sie ein lebenswertes, menschenwürdiges Leben führen dürfen. Und darüber können wir nicht einfach hinweisen, wenn wir die Technologie wegschauen oder technologische Fortschritte vorantreiben. Zumal, Herr Burkhard, es gibt eine Studie von der USA-Mechanischen Gesundheitsbehörde aus dem 2018, die zeigt, dass bei Beratung Tumorerkrankungen steigen. Krebsberatung? Krebsberatung, wenn sie intensiver Strahlung ausgesetzt haben. Also so eindeutig ist das nicht, dass da alles in bester Ordnung ist. Die Sorgen der Bevölkerung haben Wurzeln in der Realität.
+
+Person9 [0:06:48 - 0:07:13]:
+Also die Sorgen der Bevölkerung müssen wir ernst nehmen. Und ich möchte auch gar nicht bestreiten, dass es Leute gibt, die sehr sensibel darauf reagieren. Das ist tatsächlich so. Aber es gibt wirklich Aussagen von vielen Experten. Der Herr Professor Rösli ist hier, der selber gesagt hat im Beobachter, auch gestützt auf das Krebsregister in den letzten Jahren gibt es keine Zunahme von Hirntumoren, obwohl wir ja massiv viel mehr ins Handy brauchen.
+
+Person10 [0:07:11 - 0:07:16]:
+Und einfach noch schnell zum Balthasar Glättli noch ein schnelles Wort.
+
+Person5 [0:07:15 - 0:07:18]:
+Der Balthasar Glättli hat gesagt...
+
+Person5 [0:07:18 - 0:07:40]:
+Darf ich ganz kurz reingehen, Herr Burkhard? Sie sprechen Herrn Rösli an. Sie sprechen Herrn Rösli an. Hören wir doch, was Herr Rösli selber sagt. Er ist heute Abend hier. Guten Abend, Herr Rösli. Guten Abend. Schön, haben Sie Zeit für die Arena, dann für einen Freitagabend. Sie sind der, der die Expertengruppe vom Bund leitet, die genau untersuchen soll, was die Fakten sind, was die Realität ist, die das alles darauf baut. Sagen Sie uns jetzt, ist es gefährlich oder ist es ungefährlich?
+
+Person11 [0:07:40 - 0:08:14]:
+Also, ihr erwartet jetzt nicht ein Ja oder ein Nein, nehme ich an. Fragen, oder? Klar, Fragen darf man. Aber die Situation ist natürlich schon ein wenig komplizierter und es gibt tatsächlich auch Unsicherheiten. Aber es ist auch nicht so, dass man irgendetwas nachgewiesen hat. Also z.B. bei dieser Rattenstudie ist es so, dass man bei den männlichen Ratten etwas gesehen hat, bei weiblichen Ratten nicht und bei den Mäusen auch nicht. Und man hat es nur für einen bestimmten Tumor gesehen, den es eigentlich beim Menschen so praktisch nicht gibt, bei diesen sogenannten Herzschwanoma. Und die Ratten wurden sehr viel stärker bestrahlt, als wir im Alltag bestrahlt sind. Also das heisst, die Studie kann zeigen,
+
+Person10 [0:08:14 - 0:08:30]:
+vielleicht ist da ein Mechanismus rum. Aber ich bin seit dem US-Amerikanischen Gesundheitsbehörde. Aufgrund dieser Studie muss das Thema noch genauer rumgehen. Und das würde es ja nicht, wenn es nur ein paar wenige Ratten betrifft. Also so funktioniert die Forschung nicht. Wenn da etwas dran ist, muss man es genauer untersuchen. Und dann muss man sich dafür Zeit nehmen.
+
+Person11 [0:08:30 - 0:08:40]:
+Auf jeden Fall muss man es genauer untersuchen. Aber es ist nicht so, dass es ein eindeutiges Indiz ist. Es zeigt einen gewissen Mechanismus, der sein könnte. Aber es gibt noch viele offene Fragen. Frau Lohse.
+
+Person12 [0:08:39 - 0:08:50]:
+Als Grüne freut es mich natürlich, dass Sie jetzt gesagt haben, Tierversuche helfen nicht immer, um etwas über den Menschen auszusprechen. Das war eigentlich Ihr Punkt, den Sie gemacht haben. Ein Epidemiologe würde das immer sagen.
+
+Person12 [0:08:52 - 0:09:18]:
+Aber was ich nicht die richtige Alternative finde, ist, wenn man ein grosses Feld Menschenversuche macht in der Schweiz. Und das, finde ich, sollte eigentlich verhindert werden durch unsere jetzige Gesetzesgrundlage, die sagt, wir haben das Vorsorgeprinzip. Das heisst, es muss nicht bewiesen sein, dass etwas schlecht ist, sondern wenn man das Gefühl hat, es besteht ein gewisses Risiko, dass dann Gesundheit stärker gewichtet wird als die wirtschaftlichen Interessen.
+
+Person5 [0:09:17 - 0:09:22]:
+Im Zweifel für die Gesundheit, nicht für die wirtschaftlichen Interessen. Auf jeden Fall.
+
+Person11 [0:09:21 - 0:09:52]:
+Das unterschreibe ich auch. Das Vorsorgeprinzip ist sehr wichtig. Da muss man Rechnung tragen. Entsprechend muss man auch schauen, wie gross der Verdacht und die Verdachtsmomente sind. Es ist nicht so, dass es nur diese eine Studie gibt. Es gibt sehr viele Studien. Unsere Expertengruppe hat seit den vier Jahren, in denen es diese gibt, 1'800 Studien angeschaut. Man kann nicht einfach eine herauspicken. Das ist zwar eine wichtige, aber es ist nicht die einzige Studie. Insgesamt ist für die Belastungen, die wir uns ausgesetzt haben,
+
+Person11 [0:09:52 - 0:09:56]:
+der Verdacht nicht so gross. Es gibt auch noch ein Moratorium,
+
+Person10 [0:09:54 - 0:10:14]:
+das von über 180 Ärztinnen und Ärzten gefordert wird, aus über 60 Ländern. Ich komme nicht aus dem Blauen raus und sage, passen Sie auf. Alle Beteiligten wissen, was das für ein Innovationsstandort, Wirtschaftsstandort und Forschungsstandort bedeutet. Das sind ja renommierte Leute, die das sagen.
+
+Person5 [0:10:15 - 0:10:42]:
+Es wurde verschiedentlich angefangen, dass die Wirtschaft betroffen ist. Herr Glättli, ich würde das auch noch einmal sagen. Wenn man Technologie baut, oder wenn man sie nicht baut, macht das natürlich einen rechten Unterschied für die Wirtschaft in der Schweiz. Wir haben die Chance, dass heute Abend eine Wirtschaftsführerin bei uns im Studio ist. Guten Abend, Frau Janik. Sie sind Chefin von Microsoft Schweiz. Was bedeutet es für Microsoft? Braucht es 5G oder nicht?
+
+Person2 [0:10:43 - 0:10:52]:
+Das kommt grundsätzlich aus der Diskussion. Ich denke, es ist wichtig, diese Diskussion zu haben. Aus Sicht der Wirtschaft und dem, wofür die Schweiz steht, ist 5G zentral.
+
+Person5 [0:10:53 - 0:10:55]:
+Wieso denn?
+
+Person2 [0:10:55 - 0:11:20]:
+Weil es ermöglicht, um ein Bild zu schaffen, die mobile Basisinfrastruktur für Digitalisierung. Wir brauchen sie dort, wo die Schweiz stark ist, im ganzen Bereich Internet der Dinge, im Gesundheitswesen. Und damit braucht es eine Diskussion, wofür sie heute stattfindet, mit den richtigen Fakten. Wären wir jemals alles wissen? Ich glaube nicht.
+
+Person2 [0:11:20 - 0:11:23]:
+Aber es ist wichtig.
+
+Person5 [0:11:23 - 0:11:35]:
+Es ist wichtig, dass man diese Diskussion führt, auch wenn man vielleicht noch nicht alle Fakten hat. Für die Wirtschaft, Frau Losli, ist das wie ein Strassennetz. Ohne Strassennetz tut die Wirtschaft nichts. Ohne schnelles Handynetz in Zukunft auch nicht mehr.
+
+Person6 [0:11:37 - 0:12:11]:
+Das wird uns immer erzählt. Immer nur die Wirtschaft. Aber dass es noch einen anderen Aspekt im Leben gibt, als nur die Wirtschaft, darüber spricht niemand. Und zum Vorredner vorher. Wer gibt mir die Garantie, dass dieser Versuch nicht schon voll am Laufen ist? Warum operieren wir im Kinderspital an den Säuglingsherzen immer mehr? Gerade erst in der NZZ am Sonntag. Ein grosser Bericht. Ein Säuglingsherz ist so gross wie eine Baumnuss. Nicht grösser. Und man operiert immer mehr.  Und viel mehr muss man korrigieren.
+
+Person5 [0:12:11 - 0:12:21]:
+Wir haben heute Abend deutliche Gegner von 5G und deutliche Befürworter. Und irgendwo dazwischen ziehen, Herr Rösli, ist da etwas dran mit den Herzversäugern im Kinderspital? Sie sind ja nicht pro, sondern kontra. Sie leiten die Gruppe des Bands.
+
+Person11 [0:12:22 - 0:12:50]:
+Da kann ich nicht sagen, ob da etwas dran ist. Ich habe von dem noch nie gehört. Aber grundsätzlich ist es so, dass es den Eindruck erweckt wird, dass es mit 5G ganz neue Technologien gibt. Insofern stimme ich mit ihnen überein. Wir haben schon seit 30 Jahren sehr ähnliche Frequenzen, die wir im Mobilfunk brauchen. Und mit 5G im Moment ändert noch nicht so wahnsinnig viel. Die Frequenzen, die wir jetzt versteigert haben, haben sehr ähnliche Charakteristiken. Da würde man auch ähnliche Auswirkungen auf die Gesundheit erwarten, als das, was wir bis jetzt schon haben.
+
+Person5 [0:12:50 - 0:12:53]:
+Also es ist nicht derweil eine Revolution, Herr Röker?
+
+Person9 [0:12:53 - 0:13:42]:
+Ich bin froh, dass das jetzt gesagt wurde. Wir haben ja bereits Antennen, die strahlen. Und wir haben im Vergleich zu den internationalen Grenzwerten, die herrschen, haben wir sehr viel tiefer. Es gibt Empfehlungen von der WG. Und das haben wir bei den Anlagen, die die Grenzwerte 10-mal tiefer machen. In diesem Sinne sind wir in der Schweiz schon sehr viel vorsichtiger als viele andere Länder. Und was wir im Hinblick auf 5G wollen, ist nicht einmal auf die Empfehlungen der WG zu gehen, sondern sogar noch tiefer zu bleiben. Und ich meine, in das ist schon etwas, den Schritt machen sollten. Und es geht eben nicht nur um die Wirtschaft. Jerry Burkert, schauen wir doch den Punkt an. Sie haben gerade eine grenzwerte Ansprache. Es geht eben nicht nur um die Wirtschaft, sondern Technologie im Mobilfunk, das betrifft uns alle. Und das ist das, was wir jeden Tag brauchen. Sie haben ja gerade den heiklen,
+
+Person5 [0:13:40 - 0:13:56]:
+strittigen politischen Punkt angesprochen. Jerry Burkert, 5G kommt sowieso. Das ist im Moment schon am Ausrollen. Aber die Diskussion ist, ob wir, um 5G einfacher auszubauen, den Strahlungsgrenzwert in der Schweiz aufsetzen sollen.
+
+Person1 [0:13:58 - 0:14:05]:
+Unsere Handys sind fast immer in Kontakt mit Mobilfunkantennen. Heute vor allem über das aktuelle Netz 4G.
+
+Person1 [0:14:07 - 0:14:29]:
+Nun wird ein neues Mobilfunknetz gebaut. 5G. 5G ist sehr schnell und hat viele weitere Vorteile, wird aber auch kritisiert. 5G nutzt nicht nur die heute üblichen langen Funkwellen. Neu werden auch kürzere Funkwellen genutzt. Und in Zukunft könnte 5G noch kürzere Wellen, sogenannte Millimeterwellen, nutzen.
+
+Person1 [0:14:30 - 0:14:34]:
+Kürzere Wellen reichen weniger weit.
+
+Person1 [0:14:35 - 0:14:42]:
+Um trotzdem überall Netz zu haben, bräuchte es viele neue Mobilfunknetze.    Es gibt aber auch eine andere Möglichkeit.
+
+Person1 [0:14:43 - 0:14:52]:
+Statt mehr Antennen zu bauen, könnte man auch mehr Power auf die bestehenden Antennen geben. Man könnte sie stärker senden lassen.
+
+Person1 [0:14:53 - 0:15:05]:
+Heute ist das verboten. Und zwar durch die sogenannte Verordnung über den Schutz von nicht-ionisierender Strahlung, NISV. Dieser müsste nun angepasst werden, wenn wir die stärkeren Antennen zulassen wollen.
+
+Person5 [0:15:07 - 0:15:13]:
+Wir haben es gerade mit dem neuen Netz  gehört. Wir brauchen es schnell für die Wirtschaft. Dann müssen wir doch jetzt diesen Grenzwert erhöhen.
+
+Person12 [0:15:14 - 0:15:44]:
+Da bin ich dagegen. Ich denke, die Firmen haben jetzt die Frequenzen ersteigert. Sie haben gewusst, was die Spielregeln sind. Wenn jetzt die kommen und sagen plötzlich, damit sich das für uns rechnet, damit wir vorwärts kommen, dann müssen wir die Spielregeln ändern. Das kommt mir so vor, wie wenn ich um ein Baugrundstück mitsteigern würde. Das heisst, da darf man dreistöckig bauen. Dann gewinne ich das, zahle ein paar Millionen und sage, ich brauche einen Zehnstöcker. Sonst rechnet sich das nicht.
+
+Person9 [0:15:44 - 0:16:14]:
+Aber Balthasar Glättli, das stimmt ja nicht ganz. Diese Diskussion über die Erhöhung des Grenzwerts findet schon mehr als zwei Jahre im Parlament statt. Das ist keine neue Diskussion. Was ist die Alternative? Die Alternative ist, wie es im Film gezeigt wurde, dass wir viel mehr Antennen bauen. Wir rechnen mit 15'000 neuen Antennen. Balthasar Glättli, ich bin der Meinung, dass wir diesen Weg gehen. Aber dann musst du mir helfen, dass wir im Bereich des Bewilligungsverfahrens
+
+Person9 [0:16:15 - 0:16:20]:
+beim Baurecht massiv erleichtern können. Nein, das hilft doch nicht.
+
+Person10 [0:16:18 - 0:16:48]:
+Aus ethischer Perspektive finde ich es interessant. Demokratietheoretisch. Das Parlament hat mehrmals gesagt, nein. Aber es wird immer wieder versucht. Zweitens finde ich es interessant, dass Sie gesagt haben, es gibt nicht nur ein ökonomisches Argument. Natürlich muss man die ökonomischen Anliegen für den Wirtschafts- und Forschungsstandort in der Schweiz ernst nehmen. Aber es gibt nicht nur diese. Ich bin als Vater von zwei kleinen Töchtern sehr daran interessiert, dass sie auch in Zukunft gesund aufwachsen können.
+
+Person9 [0:16:48 - 0:17:01]:
+Einverstanden. Aber wir haben ja schon miteinander besprochen, da gibt es offenbar sehr unterschiedliche Auffassungen. Aber nach wie vor kein studios Beleid. Aber ob Ihre Kinder einverstanden sind, wenn Sie... Darf ich noch ganz schnell fertig machen?
+
+Person10 [0:16:58 - 0:17:04]:
+Entschuldigung, darf ich noch einen Satz fertig machen? Wirklich nur noch einen Satz?
+
+Person9 [0:17:02 - 0:17:24]:
+Wenn Ihre Kinder dann irgendwann nicht an dieser neuen Technologie teilhaben können, die in ein paar Jahren Realität wird... Es ist ja nicht so, dass es nur diese eine Lösung gibt. Darf ich nur noch einen Satz fertig machen? Entschuldigung, wenn Ihre Kinder nicht teilnehmen können an dieser Technologie, die überall sonst einfach selbstverständlich sein wird, bin ich auch nicht sicher, ob sie so happy sind über Ihre Fähigkeiten. Aber jetzt reden wir mal...
+
+Person10 [0:17:23 - 0:17:37]:
+Es ist ja nicht so, dass es nur diese Lösung gäbe, wie es alle tun. Es ist ja nicht so, dass wir es mordmütig einführen. Wir sind uns in der Schweiz gewohnt, dass demokratische Meinungsbildungs- und Entscheidungsfindungsprozesse in der Politik und in der Politik eine Legitimität haben.
+
+Person5 [0:17:36 - 0:17:41]:
+Nehmen wir uns doch die Zeit, wieso so gesprankt mit dem 5G?
+
+Person7 [0:17:42 - 0:18:04]:
+Ich denke, wie gesagt, über das Thema Gesundheit sind wir uns alle einig. Das ist definitiv etwas vom Wichtigsten. Aber auf der anderen Seite, die Perspektive, die man den jungen Generationen geben muss, ist unglaublich wichtig. Kreativen Ansatz finde ich gut, das müssen wir anschauen. Und ich glaube, was auch noch wichtig ist, dass wir uns überlegen, wenn wir das 5G jetzt mal reinbringen, geht es ja im Moment vielleicht gar nicht um das Individuum, sondern es geht einmal wirklich um die Industrie.
+
+Person5 [0:18:05 - 0:18:08]:
+Also, rein geht es vor allem um die Industrie und weniger, was es um das Individuum bringt.
+
+Person7 [0:18:07 - 0:18:11]:
+Dann gibt es ja wieder...
+
+Person5 [0:18:10 - 0:18:12]:
+Aber das ist genau das, was die Gegenseite stört. Dann kann man die Diskussion auch etwas versachlichen
+
+Person12 [0:18:11 - 0:18:27]:
+und in einen richtigen Rahmen einordnen. Bei uns wird heute drei Viertel dieser Bandbreite zum Videolauen gebraucht. Ich schaue manchmal auch Video. Auf meinem Handy, ehrlich gesagt.
+
+Person5 [0:18:27 - 0:18:28]:
+Die Arena zum Beispiel.
+
+Person12 [0:18:28 - 0:18:30]:
+Nein, die Arena bin ich lieber live dabei.
+
+Person12 [0:18:32 - 0:18:47]:
+Aber das ist jetzt nicht das, wo... Wir schauen heute schon Video. Ob wir jetzt auf 4K, 5K oder 7K Video schauen können, wenn wir unterwegs sind, im Auto oder im Zug, ist nicht das, was das Land behindert oder voranbringt.
+
+Person7 [0:18:47 - 0:18:50]:
+Aber das mit dem Video finde ich gut.
+
+Person12 [0:18:48 - 0:19:02]:
+Nichts davon, was wir holen, über die mobilen Geräte, die finden irgendwo in einem geschlossenen Innenraum statt. Also in einem Ort, wo es andere Technologien auch schon gibt.
+
+Person7 [0:19:02 - 0:19:05]:
+Aber ich finde das mit dem Video und der Geschwindigkeit ein gutes Beispiel.
+
+Person7 [0:19:07 - 0:19:26]:
+Wie viele Leute sind blind? Wie viele Leute könnte man mit der Technologie... Kann man heute schon, als Beispiel, singen, kann man den Leuten schon helfen zu sehen? Und um da Echtzeit zu garantieren, brauchst du es. Also ich glaube, da müssen wir schon schauen. Ich glaube, wir haben hier viele positive, gute Beispiele.
+
+Person10 [0:19:25 - 0:19:40]:
+Selbstverständlich. Aber muss ich diese Rechnung immer auch berücksichtigen? Die elektrosensiblen muss man berücksichtigen, dass es nicht ganz so sicher ist, wie es das für die Gesundheit bedeutet. Und wir haben noch ein riesiges Problem.
+
+Person10 [0:19:40 - 0:19:54]:
+Ich meine, wir wollen die Infrastruktur eines Konzerns herstellen, Huawei, wo diplomatisch gesagt dem chinesischen Regime sehr nahe ist. Das ist eine diplomatische Variante. Wo wir dann noch andere 
+
+Person5 [0:19:54 - 0:20:08]:
+Die sicherheitspolitische Diskussion. Aber nehmen wir doch auch den Böllen auf, den Sie gesagt haben, wegen der Strahlung. Wir haben heute Abend jemanden im Studio, Herrn Martin Zahnd. Guten Abend. Sie sind, jetzt muss ich es richtig sagen, Verein für Schutz vor Strahlung, Herr Zahnd. Was Sie jetzt schon gehört haben.
+
+Person5 [0:20:09 - 0:20:10]:
+Was hat sich denn passiert?
+
+Person4 [0:20:10 - 0:20:36]:
+Ich finde es unglaublich. Ich wollte eigentlich reinrufen. Studien, die Sie immer sagen, es gibt keine Studien, das stimmt hinten und vorne nicht. EMF-Data.org hat 1'000 Studien aufgelistet. EMF-Portal hat 30'000 Studien aufgelistet. Was Sie sagen, wegen der Blinden, die man schauen muss. Es gibt eine Umfrage in der Schweiz von 2004, wenn wir richtig erinnern. Da gab es 5% an, dass sie mit der Funkstrahlung Probleme haben.
+
+Person5 [0:20:36 - 0:20:38]:
+Also mehr als Sehbehinderte.
+
+Person4 [0:20:37 - 0:20:48]:
+2011 waren es 8,5%. Seit hier gibt es keine neuen Ehrenzahlen. Und das sind nur die, die es gemerkt haben, dass sie damit ein Problem haben. Da müssen Sie ja noch ein bisschen weiterdenken über das Ganze.
+
+Person7 [0:20:47 - 0:20:58]:
+Das haben wir auch mit den Stromleitungen. Ich würde auch lieber noch in eine Zahnheizung gehen, die ich in Stromleitungen habe. Darum haben wir diese Probleme immer und auf diese würden wir auch nicht verzichten. Wir müssen es ernst nehmen. Sie müssen eine andere Technik suchen.
+
+Person4 [0:20:55 - 0:21:08]:
+Sie können doch nicht stur sagen, wir brauchen die neuen Antennen, ihr müsst Grenzwerte anpassen, elektrosensibel, das sind so Minderheiten usw. Das geht nicht.
+
+Person7 [0:21:09 - 0:21:16]:
+Ich kann zu Studien nichts sagen. Ich bin keine Expertin, dafür haben wir diese Experten. Für mich geht es vor allem um den gesunden Menschenverstand,
+
+Person7 [0:21:18 - 0:21:33]:
+dass wir uns in der Schweiz wirklich öffnen müssen, Chancen geben müssen. Wir müssen uns weltweit positionieren, wir müssen ein kompetitiver Werkplatz werden. Gesund, absolut. Ich habe zwei Töchter, ich will, dass sie gesund sind. Grundsätzlich ist 5G nicht Digitalisierung.
+
+Person4 [0:21:31 - 0:21:38]:
+Das muss man mal strikt trennen.
+
+Person7 [0:21:37 - 0:21:39]:
+Digitalisierung ist ein Teil von 5G,
+
+Person4 [0:21:39 - 0:21:54]:
+wenn das kommt. Aber dass man das immer zusammen misst, das stimmt nicht. Wir haben einen super Glasfaseranschluss, da kann man alles, wie es Herr Glättli gesagt hat, im Haus hinein über den Glasfaser ableiten. Da gibt es kein Problem. Marianne Jani, Chefin von Microsoft Streets.
+
+Person2 [0:21:54 - 0:22:20]:
+Zwei Themen. Digitalisierung und 5G haben schon klare Überschneidungen. Und am Ende, wenn die Diskussion hier zu Ende gedacht wird, ist das Szenario, wenn man das so ausspricht, zu sagen, dass gewisse Themen der Digitalisierung, wo 5G gebraucht wird, hier am Wirtschaftsstandort Schweiz nicht mehr stattfinden. Also die ganzen Innovationen im Bereich Internet der Dinge, im Bereich...
+
+Person4 [0:22:20 - 0:22:22]:
+Internet der Dinge ist auch zu Hause ein grosser Teil.
+
+Person2 [0:22:22 - 0:22:25]:
+Ja, aber trotzdem...
+
+Person2 [0:22:25 - 0:22:30]:
+Sie brauchen heute Sensoren, die keine Batterien haben, das heisst sie brauchen 5G.
+
+Person2 [0:22:30 - 0:22:34]:
+Und dann ist die Konsequenz zu sagen, dann finden diese Dinge...
+
+Person12 [0:22:32 - 0:23:01]:
+Das stimmt doch technisch nicht. Entschuldigung. Das ist ein existierendes LoRa-Netz. Das ist ein Netz mit sehr geringer Intensität, genau für das Internet der Dinge. Das funktioniert. Man kann keine Videos darüber übertragen, sondern nur wenige Daten. Es braucht aber auch ganz wenig Energie. Also wenn man jetzt einfach sagt, IoT, Internet der Dinge, das braucht 5G, es gibt gewisse Anwendungen. Also schauen wir doch mal,
+
+Person5 [0:22:59 - 0:23:07]:
+was wirklich möglich wäre mit 5G, auch wenn Sie keine grossen Fans von Videos sind. Wir haben genau dazu ein Video vorbereitet.
+
+Person1 [0:23:09 - 0:23:14]:
+ Mit 5G werden Daten bis zu 100 Mal schneller übertragen als mit 4G.
+
+Person1 [0:23:15 - 0:23:19]:
+Ein ganzer Kinofilm. In Sekunden heruntergeladen.
+
+Person1 [0:23:21 - 0:23:25]:
+Selbstfahrende Autos. In Echtzeit miteinander vernetzt.
+
+Person1 [0:23:28 - 0:23:31]:
+Maschinen in der Industrie. Gelenkt aus der Cloud.
+
+Person1 [0:23:32 - 0:23:38]:
+Roboter operieren im Spital. Gesteuert aus der Ferne durch einen Spital. Ein Spezialarzt.
+
+Person1 [0:23:39 - 0:23:47]:
+Fachleute sagen, 5G ist schneller, besser, sicherer und nötig für die Wirtschaft.
+
+Person5 [0:23:48 - 0:23:56]:
+Das ist eben das Argument dafür, Herr Zahnd. All das, auch medizinische Fortschritte, Leben retten, wäre nicht möglich ohne 5G.
+
+Person4 [0:23:56 - 0:24:04]:
+Also das Beispiel war in einem Operationssaal. Da haben Sie sicher auch einen Glasfaseranschluss. Einfach nur mal. So plakativ gesagt.
+
+Person2 [0:24:05 - 0:24:21]:
+Am Ende geht es darum, wir haben in dieser ganzen Kommunikation heute natürlich weltweit nicht wirklich Standards. 5G ist der erste Standard, den man natürlich global nutzen kann. Und der natürlich vieles ermöglicht, was vorher nicht möglich war.
+
+Person10 [0:24:21 - 0:24:38]:
+Aber es ist ja nicht so, dass es einen globalen Konsens gibt, wir müssen jetzt unbedingt auf 5G umstellen. Es gibt ja in ganz verschiedenen Demokratien genau die Diskussion, die wir heute Abend hier führen, eben auch. Und es ist eine offene Diskussion, die noch nicht absehbar ist, ob sich jetzt alle demokratischen Staaten aufgrund dieser Diskussion für diesen Weg entscheiden. Darum hören wir Sie.
+
+Person11 [0:24:37 - 0:25:02]:
+Die Frage ist natürlich, wenn man das Ziel hat, und das haben wahrscheinlich alle, dass man möglichst wenig Strahlen ausgesetzt hat und alle Strahlenquellen denkt, auch unsere schönen, geliebten kleinen Dinger, die eigentlich 90 bis 95% unserer Strahlendosis ausmachen, ist natürlich die Frage, was die beste Netzwerkarchitektur ist, damit wir möglichst wenig Risiken eingehen. Damit Sie sich mit diesem Verstand ansehen.
+
+Person11 [0:25:03 - 0:25:11]:
+mit einer effizienteren Technologie, wahrscheinlich... Also stellen wir uns vor, wir würden immer noch alle Daten mit 2G übertragen, wir hätten 100x mehr Strahlung.
+
+Person5 [0:25:11 - 0:25:25]:
+Herr Rösli, damit Sie es richtig verstehen, Sie sagen 90, 95% der Strahlung, die ich ausgesetzt habe, kommt von meinem Handy. Wieso diskutieren wir denn, Walter Sacklättli, über die letzten 5% und wollen das ganze Netz blockieren, wenn ich einfach das Handy heimlassen könnte,
+
+Person12 [0:25:26 - 0:25:53]:
+oder nicht? Das ist meine Entscheidung. Hingegen, ob ich im Bereich einer Funk-Antenne bin, ist nicht meine Entscheidung. Das ist das Gleiche, wie wenn man mir, ich bin ein E-Voting-Gegner, sagt man mir immer, ja, aber da machen doch andere Leute das auch, machen ein E-Banking, abgesehen davon, dass das nichts miteinander zu tun hat. Wenn bei einem E-Voting jemand entscheidet, dann gilt das für mich auch, unabhängig davon, ob ich die Technik gebraucht habe oder nicht.
+
+Person5 [0:25:53 - 0:26:03]:
+Also man ist ausgesetzt, man hat die KfG-Evolution, oder Evolution, das sehen Sie anders, ob man will oder nicht. Herr Ibrucca, gerade als Liberaler, müssten Sie sagen, kommt nicht in Frage?
+
+Person9 [0:26:03 - 0:26:41]:
+Nein, gerade als Liberaler habe ich den Glauben, dass es uns grosse Chancen gibt. Wir argumentieren jetzt auf dem Stand von heute. Man sagt, vor allem im Film sei das Thema, das wir abladen können. Ich bin einverstanden, das ist nicht immer das Wichtigste. Aber es eröffnet neue Chancen. Beispielsweise kann man in einer Form vernetzt sein, so, dass, wenn ich vor einem Herz im Fach stehe, dass es eine Meldung gibt, dass ich vielleicht gerettet werde. Das ist doch etwas sehr Positives. Das ist doch etwas sehr Positives und gibt uns doch grosse Chancen. Noch ein Wort zu der Glasfaser-Thematik. Ist das heute schon möglich? Der Herr Recht hat gesagt, es gibt Elektrosensiblen, die keine Wahl mehr haben.
+
+Person5 [0:26:41 - 0:26:50]:
+Es ist so ein Klassiker in der Arena, dass man einen Gedanken fertig macht, wie es Herr Ibrucca gerade gemacht hat, und dann gleich den zweiten lanciert. Aber Sie dürfen den zweiten ganz kurz formulieren.
+
+Person9 [0:26:47 - 0:27:12]:
+Ich möchte auch dem Herrn Recht geben, mit der Glasfaser-Technologie kann man das tatsächlich machen. Das Problem ist nur, man kann nicht bis zu jedem Haus Glasfasern ziehen. Das ist sehr problematisch. Und das Zweite ist noch, dass ganz viel, gerade im Bereich Internet der Dinge, objekte miteinander verbunden werden können über Funknetze.
+
+Person10 [0:27:10 - 0:27:22]:
+Also gerade als Liberaler müsste Ihnen die Selbstbestimmung der Menschen ganz besonders am Herzen liegen. Und Sie würden zum Beispiel den elektrosensiblen Menschen in unserem Land eindeutig nehmen. Aber das haben wir offenbar jetzt schon.
+
+Person10 [0:27:22 - 0:27:27]:
+Aber Sie wollen ja noch mehr aussetzen und dann noch mehr die Wahlmöglichkeiten nehmen. Aber Herr Prof. Rösler hat ja gerade gesagt,
+
+Person9 [0:27:27 - 0:27:37]:
+je schlechter die Senderleistung ist, desto höher ist die Strahlung beim Telefon. Umso mehr haben wir Interesse daran, starke und gute Leistung zu bringen. Aber da habe ich als elektrosensibler Mensch
+
+Person10 [0:27:33 - 0:27:51]:
+die Möglichkeit, darauf wegzulegen, zu verzichten, abzustellen, um mich dieser Strahlung nicht auszusetzen. Das habe ich bei 5G nicht, weil es ja gerade in dieser flächendeckenden Version ... Das haben wir grundsätzlich bei Mobilfunknetz nicht. Wir haben eine sehr reine,
+
+Person12 [0:27:47 - 0:28:42]:
+sehr gute Abdeckung von Mobilfunknetz und man hat nicht die Wahl, sich dem zu entziehen. Der Punkt ist ja ein anderer, dass jetzt die Wirtschaft sagt, weil wir nicht wollen, neue, weniger strahlende Antennen bauen, sondern die bestehenden dort drauf noch eine 5G drauf tun, und weil wir aber gleichzeitig wollen, die 4G-Antennen auch noch laufen lassen, brauchen wir pro Antennenstandort einen viel höheren Grenzwert. Das ist die Diskussion. Und dort wehre ich mich dagegen. Das ist die Diskussion. Wenn ich das möchte, dann schalte ich halt das 4G ab und dann könnt ihr das auch machen. Die Problematik ist wirklich die, dass man versucht, eine Nachfrage durch das Angebot zu kreieren. Denn all die Beispiele, die wir hier hatten, können wir ohne 5G problemlos technisch lösen.
+
+Person5 [0:28:41 - 0:28:43]:
+Mageni, alles gar nicht nötig.
+
+Person2 [0:28:44 - 0:28:56]:
+Leider nicht mehr ein Konzept. Die Idee ist wunderbar, allerdings haben wir noch so viele Geräte da draussen, die auf 4G laufen oder sogar drunter. Das kann man natürlich nicht in einer Welle alles austauschen.
+
+Person5 [0:28:56 - 0:29:40]:
+Also von daher müssen wir das überlappend bauen. Aber ich möchte eine andere Frage aufnehmen, die Sie hier diskutiert haben und schon wunderbar im Raum steht. Wer hat das überhaupt entschieden? Irgendwie wird das 5G jetzt gebaut und kommt. Wie ist das eigentlich demokratisch abgestützt? Das ist ein Thema, das Sie beschäftigen. Ich schaue gerade, dass das Mikrofon kommt. Und ich möchte eigentlich gerne auch jemanden dazu schalten, meine Damen und Herren, der genau zu dem Auskunft geben kann. Wir wussten nicht, ob die Frage kommt, darum haben wir ihn nicht ins Studio eingeladen. Aber der Präsident der unabhängigen Behörde von der Comcom, der vom Bund, der genau diese Sachen regelt, die Versteigerung organisiert hat, der sollte eigentlich von der Redaktion  Mal schauen, ob das klappt. Ich frage Sie, Frau Losli, was möchten Sie von dieser Behörde wissen?
+
+Person6 [0:29:40 - 0:30:02]:
+Was mich einfach enttäuscht, ist, dass der Ständerat vor einem Jahr meines Wissens entschieden hat, dass es nicht mehr gibt. Grundsätzlich sind wir alle fasziniert von dieser ganzen Technologie. Auch ich. Aber ich möchte zuerst, bevor ich mehr gebe, das, was wir haben, abgesichert haben.
+
+Person5 [0:30:02 - 0:30:04]:
+Bevor wir noch mehr geben.
+
+Person6 [0:30:03 - 0:30:06]:
+Genau. Und das hat der Ständerat beschlossen.
+
+Person5 [0:30:06 - 0:30:11]:
+Einen Ständerat haben wir heute Abend nicht im Studio, nur einen, der gerne bald werden will, Thierry Burkert aus dem Kanton Aargau.
+
+Person5 [0:30:12 - 0:30:16]:
+Aber in der Leitung ist jetzt Stefan Netzli. Guten Abend, Herr Netzli.
+
+Person5 [0:30:17 - 0:30:22]:
+Sie sind der Präsident der KomCom und live in der Arena. Ich hoffe, Sie haben guten Empfang.
+
+Person5 [0:30:23 - 0:30:35]:
+Ja, ich habe den. Ich möchte Sie etwas fragen. Wir haben uns gefragt, wie das eigentlich gelaufen ist. Wie das gelaufen ist, dass jetzt plötzlich Telekom-Anbieter das Netz bauen, obwohl wir nie darüber abgestimmt haben. Ist das einfach gemischtelt worden, oder wie ging das?
+
+Person3 [0:30:36 - 0:31:00]:
+Nein, das ist nicht gemischtelt worden. Das Funkfrequenz-Spektrum wird international laufend harmonisiert. Es geht um Frequenzen für Radio, Fernsehen, Flugfunk, Militär, Garage-Tour und eben auch für Mobiltelefone. Wenn eine Frequenz nicht mehr genutzt wird, wird sie vor allem, wenn es um Fernsehfrequenzen geht, an Mobilfunk zugewiesen.
+
+Person5 [0:31:00 - 0:31:09]:
+Moment, das sind Frequenzen, die früher im Fernsehen ausgestellt wurden. Da ist die Arena auf diesen Frequenzen gelaufen, die Sie jetzt von FG bauen wollen?
+
+Person3 [0:31:09 - 0:31:18]:
+Das sind vor allem die Frequenzen für die Fernsehfrequenzen, die Sie mit den Dachantennen empfangen haben.
+
+Person5 [0:31:19 - 0:31:26]:
+Ich frage gerade Frau Losi, das heisst, diese Frequenzen sind gar nicht neu besendet. Die gibt es schon. Dann möchte ich Herrn Netzli wiederhören.
+
+Person5 [0:31:28 - 0:31:31]:
+Da senden wir schon lange darauf, da ich früher noch das terrestrische Fernsehen drauf habe.
+
+Person4 [0:31:32 - 0:31:34]:
+Aber nicht in dieser Intensivität.
+
+Person5 [0:31:34 - 0:31:35]:
+Bitte, Herr Zahn.
+
+Person4 [0:31:35 - 0:31:37]:
+Nicht in dieser Intensivität, die kommt.
+
+Person5 [0:31:37 - 0:31:46]:
+Ok, das heisst, wir bauen jetzt viel intensiver, Herr Netzli, wenn Sie noch da sind in der Leitung. Wir bauen viel intensiver. Wer hat entschieden, wer das jetzt bauen darf?
+
+Person3 [0:31:48 - 0:32:02]:
+Der Bundesrat legt dann fest, wie die Frequenzen, die man eigentlich hat und die schon genutzt werden, wie man diese in Zukunft nutzen soll. Und wenn Frequenzen frei wären für den Mobilfunk, dann gibt er den kommenden Auftrag
+
+Person5 [0:32:02 - 0:32:10]:
+mit den Verbrauchern. Also das heisst, es wurde vom Bundesrat legitimiert. Ganz herzlichen Dank, Herr Netzli. Herr Zahn, das ist nicht in einer Dunkelkammer passiert.
+
+Person4 [0:32:10 - 0:32:13]:
+Ich hätte auch noch eine wichtige Frage, wenn wir da schon Herrn Netzli dran haben.
+
+Person5 [0:32:13 - 0:32:16]:
+Sind Sie noch dran, Herr Netzli? Oder kann man Sie wieder aufschalten? Das kann eine Frage sein.
+
+Person4 [0:32:17 - 0:32:29]:
+Wir reden hier über Grenzwerte. Und es wird gemunkelt, ich meine, die Grenzwerte, die Messmethoden kann man ja auch ändern. Und es wird gemunkelt, dass diese geändert wird auf eine 24-Stunden-Mittelung und auf eine räumliche Mittelung.
+
+Person5 [0:32:30 - 0:32:38]:
+Jetzt wird es zumindest für mich ein wenig technisch, aber Herr Netzli, die Frage ist, ob man die Messmethoden anpasst, damit es nachher wieder irgendwie aufgeht.
+
+Person3 [0:32:41 - 0:33:01]:
+Also, man überprüft Messmethoden natürlich schon, aber nicht, dass es irgendwie aufgeht, sondern um zu schauen, ob die Messmethoden mit der Technologie überhaupt übereinstimmen. Als Beispiel, die Antennen, die man für 5G nutzt, die strahlen eben nicht rundherum, sondern die strahlen gezielt dort hin,
+
+Person5 [0:33:01 - 0:33:02]:
+wo sie tatsächlich Handys haben und brauchen.
+
+Person5 [0:33:02 - 0:33:13]:
+Aha, also dann machen wir es wegen dem. Herzlichen Dank jetzt wirklich, Herr Netzli. Vielen Dank, dass Sie mitgemacht haben und von der Arena angeklopft werden konnten. Herzlichen Applaus vielleicht für Herrn Netzli. Dankeschön.
+
+Person5 [0:33:15 - 0:33:17]:
+Jetzt habe ich wieder etwas gehört.
+
+Person5 [0:33:18 - 0:33:29]:
+Jetzt habe ich wieder etwas gehört. Ich habe gehört, dass die neuen 5G-Antennen gezielter strahlen, dass sie nicht mehr Flächenabwurf machen, sondern ganz gezielt dort hin strahlen, wo man sie braucht. Wäre eigentlich in Ihrem Sinn.
+
+Person4 [0:33:30 - 0:33:54]:
+Genau, da haben Sie ja nachher die 64 kleinen Antennen, die Sie jetzt eingehauen haben, und die fahren dann irgendwo durch, darum muss man wahrscheinlich Messmethoden anpassen, weil das dann nicht mehr so messbar ist. Und die 24-Stunden-Mittlung möchte ich jetzt schon noch ganz plakativ sagen. Das ist das gleiche, wenn ich jemandem eine Flatterung gebe, so eine, die richtig weh tut, ich mache dann so 24-Stunden-Mittlung und dann habe ich dann nur gestreichelt.
+
+Person5 [0:33:54 - 0:34:05]:
+Aha, so würde ich das jetzt auch nicht messen. Thierry Burkhardt war jetzt noch bildhaft beschrieben. Thierry Burkhardt, wird damit Messmethoden ein bisschen beschönigen, was kommt?
+
+Person9 [0:34:05 - 0:34:47]:
+Da muss ich mich als Politiker darauf verlassen, was die Experten sagen. Sie sagen, das hat einen Zusammenhang mit der neuen Technologie. Aber was da genau gemacht wird, das sagt auch niemand. Aber ich kann vielleicht noch etwas sagen, was Frau Losli gesagt hat. Der Ständerat hat entschieden, dass Grenzwerte nicht aufgesetzt werden. Das ist zwar die Kompetenz des Bundesrates, aber der Ständerat wollte diese Grenzwerte aufsetzen, sie wurde aber abgelehnt. Das gilt nach wie vor. Und ich sage nochmals, die Grenzwerte sind bis zu zehnmal tiefer als das, was die WHO empfiehlt. In dem Sinne sind wir hier auf einer sehr sicheren Seite in der Schweiz. Wir sind auf der sicheren Seite. Im internationalen Vergleich.
+
+Person5 [0:34:44 - 0:35:01]:
+Im internationalen Vergleich. Aber wir könnten uns doch etwas mehr Zeit nehmen. Man könnte doch sagen, die Digitalisierung kommt schon irgendwann, aber sie muss ja nicht morgen kommen und nicht morgen mit dem 5G. Ist es dieser Art pressant mit der Digitalisierung?
+
+Person7 [0:35:02 - 0:35:30]:
+Erstens ist sie nicht heute, nicht morgen, sondern sie ist schon lange gestartet. Und ich denke, was auch noch wichtig ist, und das nimmt mich schon auch noch Wunder, das mit dem Glasfaser, das leuchtet mir ein. Ich bin auch keine Expertin. Mir ist Gesundheit wichtig, das ist mir wichtig. Ich möchte gar nicht negieren. Aber wenn ich jetzt mal anschaue, was die Inklusivität der Regionen anbelangt. Wir sind alle Städtler oder irgendwie in nahurbanen Gebieten. Aber das ist auch eine riesen Chance für die Schweiz. Aber das ist auch eine riesen Chance für die Schweiz. Wie seht ihr das?
+
+Person5 [0:35:29 - 0:35:34]:
+Also wenn die Landregionen nicht abgehängt werden wollen?
+
+Person12 [0:35:34 - 0:35:59]:
+Das ist ein gutes Thema. Weil ich finde auch, dass gerade die Digitalisierung dazu beitragen sollte, dass man in der ganzen Schweiz eigentlich arbeiten kann. Und zum Beispiel nicht immer in die Städte pendeln muss, um arbeiten zu können. Aber dort ist es so, dass man eigentlich mit LTE, also mit der 4G-Technologie, hat man eine Technologie, die viel mehr in die Reichweite geht, als jetzt mit dieser neuen 5G-Technologie. Das haben wir ja in der Erklärung gehört.
+
+Person5 [0:35:58 - 0:36:02]:
+Aber nicht so schnell. Sie ist viel langsamer
+
+Person12 [0:36:01 - 0:36:44]:
+und sie hat auch viel höhere Latenzen. Also es geht nicht so schnell hin und her, dass man die Reaktion merkt. Und ich finde, man kann, mit mir jedenfalls, kann man durchaus über gewisse Anwendungen diskutieren. Ein Beispiel, das Swisscom gebracht hat, das sie für 5G-Werbung gemacht hat. Sie hat eine Fabrikhalle gebracht und gesagt, es ist doch viel gescheiter, wenn man die Roboter in dieser Fabrikhalle über 5G miteinander vernetzt. Man kann das nicht alles verkabeln. Wenn man hier Glaskaserkabel nicht hat, dann würden die Roboter noch drüber fahren. Dieser hier nicht, der ist drahtlos. Und darum muss ich sagen, ja gut, aber es ist ein Unterschied, ob man alle Leute bestrahlt, ob man in einer Fabrikhalle sagt...
+
+Person5 [0:36:43 - 0:36:48]:
+Ja, der Roboter. Sie haben gesagt, in der Fabrikhalle, ganz lokal.
+
+Person12 [0:36:48 - 0:37:06]:
+Ob man das mit WLAN macht, oder man sagt, man braucht mehr Bandbreite, dann macht man es halt mit 5G. Dann ist allenfalls noch die Frage des Arbeitsschutzes, die man klären muss, von den Leuten, die dort arbeiten müssen. Aber das ist doch nicht das gleiche, wie wenn man einfach einen Feldversuch über die ganze Schweiz macht.
+
+Person10 [0:37:05 - 0:37:28]:
+Ich würde gerne bei all der Inklusion aufgreifen. Wenn Inklusion wirklich das Thema ist, dann müssen wir auch alle Menschen, die in der Schweiz leben, einschneiden. Dann müssen wir aber auch den Teil der Bevölkerung einschneiden, der elektrosensibel ist. Dann müssen wir das auch inklusiv betrachten. Und in so einer Frage müssen wir halt immer... Einerseits hat man Gesundheitsrisiken, dann hat man ökonomische Vorteile, dann hat man wissenschaftliche Vorteile. Das muss man miteinander verhältnismässig aus ethischer Perspektive.
+
+Person5 [0:37:28 - 0:37:30]:
+Sie haben ja gerade angesprochen,
+
+Person5 [0:37:30 - 0:37:40]:
+Die, die elektrosensibel sind, aber auch die Regionen, die genannt wurden. Und Balthasar Glättli hat auf den Roboter hingewiesen, wo man es schon kaum erwarten kann. Ich übrigens auch nicht. Da und die Frage an Sie.
+
+Person5 [0:37:41 - 0:37:47]:
+Die Digitalisierung, die jetzt kommt, Sie haben gesagt, Frau Steiger, das hat schon angefangen. Ist das so? Sind wir schon dazwischen?
+
+Person10 [0:37:47 - 0:38:12]:
+Selbstverständlich. Ja, absolut. Also digitale Transformation hat schon massiv eingesetzt. Wenn Sie zum Beispiel einkaufen gehen, in Lebensmittelgeschäfte, können Sie es mit automatisierter Kasse tun. Das ist eine Form von digitaler Transformation, die ich noch nicht... Problematisch ist, wenn man eine sorgfältige Lösung für die Menschen findet, die dann keine bezahlte berufliche Aufgabe mehr haben können.
+
+Person5 [0:38:12 - 0:38:47]:
+Über genau diesen Punkt müssen wir reden, Herr Kirschläger. Was bringt Digitalisierung überhaupt für Risiken und Chancen? Werden wir Jobs verlieren, wie die Migros oder die Grobkassierer, die jetzt zum Teil durch eine Zahlsäule ersetzt wurden? Was kommt da auf uns zu? Die ETH Zürich forscht unter Hochdruck an genau diesen Fragen. Da werden Roboter entwickelt, das glauben Sie gar nicht. Sie bringen sich selber Sachen bei. Sie bringen sich zum Beispiel bei, wie man sich bewegen muss. Und sie finden es selbst heraus, wenn man tanzen zu der Musik tanzen will. Meine Damen und Herren, begrüssen Sie mit einem Applaus den Anibot, nein, er heisst richtig, ich sage es richtig, Agilebot von der ETH Zürich.
+
+Person5 [0:39:08 - 0:39:11]:
+Die ETH Zürich mit Agilebot, meine Damen und Herren.
+
+Person5 [0:39:15 - 0:39:28]:
+Guten Abend. Guten Abend. Uns ist jetzt Moritz Geilinger, Doktorand an der ETH Zürich. Das sind ziemlich coole Moves, die wir gerade gesehen haben. Ich sage mal, das ist Digitalisierung, wenn sie spielerisch aussieht. Wie genau hat er das gemacht?
+
+Person8 [0:39:29 - 0:39:39]:
+Das Spezielle an diesem Roboter ist, dass er in sehr kurzer Zeit erstellt wurde und dann in der Zeit,  als er selber gelernt hat, wie er sich mit diesen Reden unter den Beinen bewegen muss.
+
+Person5 [0:39:38 - 0:39:44]:
+Ich habe es seit 37 Jahren nie richtig gelernt. Wie lernt er das? Wie hat er sich dem Move selbst beigebracht?
+
+Person8 [0:39:44 - 0:40:09]:
+Genau, es ist, der Roboter wird von einem Benutzer, kommt der Befehl über, was er jetzt zum Beispiel machen soll. Soll er sich um die eigene Achse drehen? Soll er eher runtergehen? Soll er sich gegen Feuer lehnen? Und die Algorithmen oder die künstliche Intelligenz, die dahinter steckt, die müssen genau mit all diesen Gelenken und diesen Reden machen, um das userdefinierte Ziel zu erreichen.
+
+Person5 [0:40:09 - 0:40:15]:
+Aber jetzt haben die Zuschauer gesehen, Sie haben einen Controller in der Hand. Eigentlich haben sie ihn einfach ferngesteuert, wie ein ferngesteuertes Auto.
+
+Person8 [0:40:15 - 0:40:19]:
+Ja, wenn Sie hier sehen, das ist ein Xbox-Controller. Hat nichts mit Microsoft,
+
+Person5 [0:40:18 - 0:40:22]:
+nichts mit der Pionex zu tun. Wir müssen jeden zusammen laufen. Ich habe allgemein gesagt,
+
+Person8 [0:40:21 - 0:40:39]:
+ein Gamepad und ich kann natürlich nicht mit all diesen Knöpfen die 20 verschiedenen Motoren einzeln steuern. Was ich damit mache, ist, ich sage, jetzt bitte der Agile Bot für diese Bewegung aus. Genau, wenn ich einem Hund sage, mach Sitz oder träg dich, kann ich das auch dem Agile Bot sagen.
+
+Person5 [0:40:39 - 0:40:50]:
+Aber wie er es macht und wie es umgesetzt wird, das sagt der Hund selbst. Vielleicht schauen wir uns noch einmal an, wo ist jetzt diese Intelligenz drin? Wo steckt das in diesem Roboter drin?
+
+Person8 [0:40:50 - 0:41:02]:
+Also der Agile Bot hat bereits die Bewegung, die wir gesehen haben, bereits vorher gelernt. Und die Intelligenz besteht eigentlich mehr, wie er diese Bewegung generiert.
+
+Person5 [0:41:02 - 0:41:10]:
+Also das heisst, jetzt müssen wir es noch einmal erklären. Ich doktoriere, bin nicht an der ETH Zürich. Er hat schon gelernt, aber wie er es generiert, also wie er es generiert hat, vor der Sendung.
+
+Person8 [0:41:11 - 0:41:19]:
+Ja genau, also vor der Sendung hat er die verschiedenen Bewegungen bereits gelernt und dann haben wir die Bewegungen auf den Roboter transferiert.
+
+Person5 [0:41:20 - 0:41:26]:
+Nein, das ist nicht so schwer. Das ist jetzt eine Spielerei, oder?
+
+Person5 [0:41:26 - 0:41:28]:
+Hat das auch ernsthafte Anwendungen?
+
+Person8 [0:41:27 - 0:41:49]:
+Also der spezifische Roboter ist vielleicht eine Spielerei, vor allem wenn er zu einem Lied tanzt. Aber allgemein ist das natürlich ein grosses Thema oder eine grosse Herausforderung in der Robotik, wie kann man Bewegungen generieren oder vielleicht sogar, wie kann man Bewegungen generieren, die lebensecht aussehen oder tierähnlich, damit vielleicht die Roboter nicht so angsteinflößend sind.
+
+Person5 [0:41:49 - 0:41:55]:
+Das heisst, wenn man es schaffen würde, mehr als ein lebensweiser Bewegung, dann würde es uns nicht mehr so Angst machen.
+
+Person8 [0:41:56 - 0:41:58]:
+Also persönlich für mich ist das so, ja.
+
+Person5 [0:41:58 - 0:42:07]:
+Was haben Sie das Gefühl, wir haben es vorhin schon gehört, Jobs, die wegfallen durch die Robotik, was haben Sie das Gefühl, was können denn für konkrete Anwendungen erhaben?
+
+Person8 [0:42:07 - 0:42:26]:
+können natürlich für Rettungseinsätze eingesetzt werden, in Gebieten, wo es für Menschen zu gefährlich ist, um hinzugehen. Sie können aber auch in der Medizin oder in der Altersvorsorge,  eine wichtige Rolle spielt, dort wo man vielleicht zu wenig Arbeitskräfte hat.
+
+Person5 [0:42:26 - 0:42:31]:
+Also das heisst, irgendwann müsste ich mich pflegen lassen von einem Roboter?
+
+Person8 [0:42:31 - 0:42:40]:
+Ich hoffe es nie, dass Sie sich irgendwann pflegen lassen. Ich hoffe auch, dass Sie dann noch die Entscheidung haben, von wem Sie sich pflegen lassen. Aber das ist sicher ein Einsatzgebiet.
+
+Person5 [0:42:40 - 0:42:47]:
+Wäre ein Einsatzgebiet. Ganz herzlichen Applaus für Moritz Geilinger von der ETH Zürich. Danke, dass Sie hier reingekommen sind. Danke vielmals.
+
+Person5 [0:42:51 - 0:43:00]:
+Ja, Dalit Steiger, wenn das so ist, wenn die Pflegekräfte durch Robotik ersetzt werden könnten, dann fallen aber die Jobs weg. Dann verändert sich unsere Welt.
+
+Person7 [0:43:01 - 0:44:01]:
+Falsches Vokabular. Es geht nicht ums Ersetzen. Es geht ums Ergänzen. Und wenn du sagst, du willst dich nicht von einem Roboter im Alter pflegen lassen, es geht nicht um eins, schwarz oder weiss. Wir haben in gewissen Bereichen definitiv zu wenig Personal. Wenn man sich überlegt, was uns Menschen wichtig ist. Uns Menschen ist wichtig, dass wir miteinander zu tun haben, dass wir Berührungen haben, dass wir miteinander reden. Ich musste längere Zeit im Kinderspital mit meiner Tochter verbringen. Da hat es Zeiten, da will sie unbedingt Nähe haben. Da ist es mir wichtig, dass eine Krankenschwester oder ein Krankenpfleger neben ihr sitzen kann. Zeit für sie haben. Aber wenn es ihr ein bisschen besser geht, ob es ein herziger Roboter kommt und ihr zum Mittag bringt oder ein Medikament, dann gibt es eine Rückendeckung für die Pflegepersonal, die Zeit investieren können, die Kinder, die es in diesem Moment nötig haben. Es geht nicht ums schwarz oder weiss. Es geht ums Gemeinsames. Es geht um eine Erweiterung von uns Menschen.
+
+Person10 [0:44:01 - 0:44:57]:
+Meine Sorge ist, dass es in Zukunft zwei Modelle geben wird. Es gibt das Modell mit Menschen, aber es ist etwas, das teuer ist und sich nur gewisse Leute leisten können. Ich sehe den Roboter den ganzen Tag. Das stimmt doch nicht. Wir Menschen brauchen Berührung. Ich freue mich, wenn Sie auf Begrifflichkeit eingehen. Ich muss aber auch nachkorrigieren, dass es selbstverständlich zum Ersatz geht. Im Bereich der automatisierten Kasse geht es nicht darum, dass die Kassiererinnen und Kassierer während der Arbeitszeit Zeit lesen dürfen. Man will sie von der Lohndiste haben. Man will die Kosten senken. Das ist auch ökonomisch absolut legitim. Was ich noch einfordern würde, dass man ehrlicher darüber debattiert, was passiert, wenn der Arbeitsmarkt 20 bis 50 % einsackt. Da haben wir zwei Sachen. Es geht um Ersatz, weil es keine Kostensenkungsmassnahmen gibt. Zweitens sind es selbstständige Systeme, die darauf aussehen, dass es weniger menschlichen Input braucht.
+
+Person7 [0:44:56 - 0:45:14]:
+Gehen wir zu den Kostensendungen. Für das Publikum ist es wichtig, dass man genau in diesen Punkt einhakt. Die Angstmacherei ist ein schlechter Begleiter. Man redet ständig davon, dass die Jobs verloren gehen. Im Härtefall ist es so, dass die Kosten immer mehr sind. Diskussionslos haben wir die ganze Geschichte.
+
+Person10 [0:45:14 - 0:45:17]:
+Wenn wir aber 20 bis 50 % sind, sind das nur ein paar Härtefälle. Wenn wir aber davor reden,
+
+Person7 [0:45:15 - 0:45:27]:
+welche Leute mit Behinderungen in Arbeitsprozesse integriert werden können oder überhaupt jemals Zugang haben können. Und wir schauen mal, was die Frau für Kosten machen muss.
+
+Person10 [0:45:27 - 0:45:33]:
+Sie wissen, dass ich die Kosten machen muss. Sie wissen, dass ich die Kosten machen muss.
+
+Person7 [0:45:33 - 0:45:46]:
+Wer hat das Recht zu entscheiden, ob ich als Härtefall, wenn es mich tüpft, wirklich schlimm ist? Für die müssen wir auch sorgen, genauso wie wir gesund sind. Aber wer sagt, ob ich das Recht habe, im Arbeitsprozess zu bleiben oder jemand, der eine Behinderung hat?
+
+Person10 [0:45:46 - 0:46:11]:
+Es geht aber nicht darum, dass wir das als Härtefall-Diskussion darstellen. Ich bin mit Ihnen verstanden, dass es ein extrem höheres, positives Potenzial gibt für Digitalisierung, Robotisierung, insbesondere im Bereich Assistenzsystem für Menschen mit Behinderung. Aber wir können doch nicht 20 bis 50 % Reduktion von Härtefall-Diskussionen machen. Wir haben die Studie international, die Offensive geht von 50 % aus. Werden wir diese Jobs verlieren?
+
+Person5 [0:46:11 - 0:46:14]:
+Das ist plausibilisierbar,
+
+Person10 [0:46:14 - 0:46:30]:
+weil das Selbstständigen-System erstens weniger menschlichen Input braucht, zweitens das Ziel ist, und das sagen auch die Unternehmen, Ersatz und dort Erleichterung. Aber wer sagt, dass man 8 Stunden im Tag ... Darf ich ausreden? Wir sind beim Pflug zum Traktor.
+
+Person10 [0:46:30 - 0:46:51]:
+Der Schritt vom Pflug zum Traktor hat die Aufgabe der Bäuerinnen und Bäuerinnen zu erleichtern. Aber die haben weiter gearbeitet. Die automatisierte Kasse will nicht noch jemanden nebenan stehen lassen. Das ist auch ökonomisch betrachtet absolut effektiv. Es ist eine effizienzsteigernde Massnahme. Aber wir müssen uns Gedanken darüber machen, was passiert. Sie reden von 50 %.
+
+Person7 [0:46:50 - 0:47:01]:
+Ich bin definitiv nicht einverstanden. Ich habe von 20 bis 50 % Reduktion. Das ist genau dort, wo man die Bevölkerung abholt.
+
+Person5 [0:46:59 - 0:47:03]:
+Dalit steigen hat das Wort.
+
+Person7 [0:47:03 - 0:47:17]:
+Es gibt viele Jobs, die neu kommen werden, die wir uns heute noch nicht mal erträumen können. Das ist das. Wir müssen die Perspektiven für die Jungen haben. Es sind andere, aber Moment mal. Wenn wir einen relevanten GDP haben wollen,
+
+Person7 [0:47:17 - 0:47:39]:
+Das machen wir weder mit Uhren noch mit Schokolade und auch nicht mit Käse. Da müssen wir unsere smarten Dienstleistungen und Produkte hineinbringen. Um das zu schaffen. Da werden wir ganz viele neue Jobs haben. Vielleicht nicht die gleiche. Moment mal, ich habe eine Frage. Wir ermöglichen es anderen Leuten, in Arbeitsprozesse hineinzukommen. 
+
+Person12 [0:47:38 - 0:47:39]:
+Baldasar Gwätl.
+
+Person12 [0:47:40 - 0:48:22]:
+Ich bin dafür, dass wir nicht schwarz-weiss malen. Ich bin aber auch dafür, dass wenn man so grosse Ziele setzt, dass man die richtige Masseinheit nimmt. Sie sagen, das Bruttosozialprodukt sei die Masseinheit, auf die Sie das Glück messen. Ich sage, wenn Sie wollen, dass Sie das Bruttosozialprodukt um einen Schlag verdoppeln, erhöhen wir die Steuern, und dann können wir auch Hausfrauen bezahlen. Und Hausmänner, Baldasar Gwätl. Und Hausmänner auch. Dann haben wir das Bruttosozialprodukt. Das ist der Umsatz von Geld. Mir geht es nicht um Geld, sondern um Nutzen. Es gibt ganz viele Nutzen, die man generieren kann. Aber was macht man mit dem Nutzen?
+
+Person12 [0:48:22 - 0:48:54]:
+Ein Teil des Nutzens sind Gewinne von Unternehmen. Gewinne, die Unternehmen nicht mehr anstellen müssen, sondern sie können, sei es Roboter oder sonst was, IT nutzen, um effizienter, effektiver zu werden. Das ist ja nichts Schlechtes. Aber die Frage ist, gehen die Gewinne von all dem Fortschritt, von all dem wissenschaftlich tollen Arbeiten, das an der ETH und überall in der Schweiz gemacht wird, gehen die nur in die Zecken von ein paar Aktionären oder kommen die in den Kurs? Thierry Bocart. Ich verstehe nicht,
+
+Person9 [0:48:52 - 0:49:52]:
+dass wenn man in Zukunft die Entwicklungen anschaut, man manchmal Angst hat. Ich habe das auch ab und zu. Ich denke mir auch, was passiert da? Wo geht es durch? Weil ich nicht weiss, wo es durchgeht, bin ich manchmal etwas unsicher. Aber wenn man es genau anschaut, muss man feststellen, in den Vergangenheiten, in denen es immer wieder Veränderungen gab, gab es immer Berufe, die weggefallen sind. Vor 100 Jahren gab es mehr Haufschmiede. Heute gibt es dafür etwas mehr Mechatroniker und so gibt es andere Entwicklungen. Und diese Veränderungen, die stattfinden, finden statt so oder so. Die Frage ist, ob wir als Schweiz daran teilnehmen. Wir haben so einen grossen Vorteil als innovativer Standort. Wir haben vorhin gerade jemanden gesehen von der ETH. Das ist nur eines, aber ein gutes Beispiel, wie wir vorne mitspielen. Und wenn wir diesen Standortvorteil behalten können, haben wir die Chance, neue Arbeitsplätze zu schaffen. Allein in den letzten 25 Jahren hat es 900'000 neue Arbeitsplätze in der Schweiz.
+
+Person10 [0:49:52 - 0:49:59]:
+Ich bin absolut mit Ihnen verstanden, dass wir den Forschungsstandort und den Innovationsstandort noch so gerne stärken müssen.
+
+Person10 [0:50:00 - 0:51:05]:
+Gleichzeitig finde ich es wichtig, dass wir ehrlich darüber diskutieren, was die Folgen eines Fortschritts sind. Es gibt wesentliche Unterschiede zu bisherigen Wandel-Epochen bei der digitalen Transformation. Es sind selbstständige Systeme. Sie wollen nicht nur menschlichen Input. Sie lernen selbst. Wir haben vorhin bei diesem Roboter gesehen, der selbst weiter lernt. Er braucht keinen Menschen, der ihm erklärt, wie er diesen Move machen muss. Es betrifft alle beruflichen Aufgaben. Es ist nicht nur ein Job mit einer niederen oder keine beruflichen Qualifikation, sondern es sind alle beruflichen Aufgaben. Es gibt Roboter-Chirurgin, es gibt Roboter-Richterinnen und Richter, die ein Problem mit der Begnadung und der Gnade haben. Es gibt Roboter und Roboterinnen-Anwälte, die ihnen in einer Zehntelsekunde Millionen von Fällen durchrattern, die ähnlich sind wie ihr Fall. Also mir wäre es wichtig, nicht um die digitalen Transformation zu stoppen. Das wäre ich noch einverstanden. Darf ich noch etwas sagen? Nein, das ist nicht unmöglich. Sondern wir müssen darüber diskutieren, ob es eine Arbeitsplatzreduktion geben wird. Denn das Ziel dieser digitalen Transformation im Unterschied zu anderen Wandel-Epochen ist,
+
+Person10 [0:51:06 - 0:51:14]:
+Darf ich das kurz sagen? Ja, einen Moment. Wir müssen darüber diskutieren, ob es eine Arbeitsplatzreduktion gibt. Aber wir haben doch die gleiche Entwicklung,
+
+Person9 [0:51:07 - 0:51:19]:
+Herr Kirchgessner, wo Tampfmaschinen z.B. Tampfmaschinen gegeben werden.
+
+Person5 [0:51:17 - 0:51:24]:
+Entschuldigung, wenn ich kurz einhake. Nein, das ist nicht so. Es ist eine andere Transformation.
+
+Person9 [0:51:22 - 0:51:29]:
+Nein, das ist es eben nicht. Darf ich kurz den Punkt aufnehmen? Der Tierenburger hat recht.
+
+Person5 [0:51:25 - 0:51:42]:
+Moment, Herr Glättli. Es ist eine andere Revolution. Es ist, als ob man den Mähdrescher erfinden würde. Dann fällt nicht nur der Erntehelfer weg, sondern der Mähdrescher erfindet dann auch gleich ein Smartphone.
+
+Person9 [0:51:42 - 0:51:54]:
+Aber der Mähdrescher hat ja auch nicht nur einen Erntehelfer ersetzt, sondern verschiedene, die es dann benötigt hat. Oder ein Traktor hat auch verschiedene Leute ersetzt. Das ist eine andere Revolution.
+
+Person10 [0:51:54 - 0:52:03]:
+Das ist ein besonderer Unterschied. Doch, das ist doch ein Ersatz. Wenn der Mähdrescher kommt, Herr Kirchgessner. Nein, aber der Bauernbauer hat es noch gebraucht. Aber der Mähdrescher hat nicht selber gelebt, bis es den Bauern und Bauern in Ordnung gab.
+
+Person9 [0:52:02 - 0:52:03]:
+Auf der Baustelle musste man eine Grube...
+
+Person5 [0:52:03 - 0:52:08]:
+Einer nach dem anderen. Auf der Baustelle musste man eine Grube
+
+Person9 [0:52:08 - 0:52:28]:
+früher alles von Hand mit den Schaufeln herausnehmen. Heute macht das ein Bagger. Es ist ersetzt worden. Und zwar mehrere Mitarbeiter sind ersetzt worden. Aber der Bagger liegt nicht selber, bis es den Menschen benötigt. Es ist einfach noch eine weitere Entwicklung. Aber der Richterwisch für sich oder der Anwalt wird nie ganz anders. Wenn Sie gleichzeitig reden, komme ich nicht mehr daraus.
+
+Person5 [0:52:26 - 0:52:31]:
+Jetzt, Moment, Pause.
+
+Person12 [0:52:30 - 0:53:04]:
+Sie haben beide recht. Die Diere Burkhardt hat recht, dass schon die industrielle Revolution nicht einfach darum ging, den Menschen das Erleichtern zu arbeiten, sondern die industrielle Revolution ist darum gegangen, möglichst viele Arbeitskräfte auch zu ersetzen. Weil das für das Kapital einfacher zu kontrollieren ist. Eine Maschine zu kontrollieren, ist eine Maschine, die eine ganze Menge Arbeiter streiken kann. Aber Maschinen sind nicht Selbstlernung. Aber, und da haben Sie recht, die neuen Maschinen sind eben nicht einfach Maschinen, Jetzt lassen Sie sogar Ihren Mitstreiter nicht ausreden, Herr Körstein.
+
+Person12 [0:53:05 - 0:53:06]:
+Schlecht für den Ethiker.
+
+Person12 [0:53:07 - 0:53:24]:
+Das sind eben Maschinen, universelle Maschinen. Da hat er recht. Das ist eine neue Dimension. Wenn Maschinen neue Sachen dazulernen können, die ihnen niemand gesagt hat, wie, was sie tun sollen, dann stellt das auch neue Fragen. Darlie Steiger, was sagen Sie dazu?
+
+Person5 [0:53:22 - 0:53:34]:
+Wenn Maschinen nicht nur gebaut werden, sondern dann selber weitergebaut werden, dann ersetzt es doch mehr Arbeitsplätze als der Mähdrescher oder die Dampfmaschine.
+
+Person7 [0:53:33 - 0:53:52]:
+Klar ersetzt es gewisse... Ich würde es nicht mal Arbeitsplätze, sondern ich würde es mal auf einzelne Arbeitsschritte mal Aufgaben reduzieren. Und ich möchte jetzt zwei Sachen sagen. Das eine ist in Bezug auf welche Taschen das Geld geht. Unser Wohlstand, den wir hier haben,
+
+Person7 [0:53:53 - 0:54:26]:
+der ist uns beschert, weil wir eben Firmen haben und wir alle in irgendeiner Firma, ob es die eigene ist oder irgendeiner anderen, arbeiten. Und das hat nicht nur mit Investoren zu tun. Der zweite Punkt, der hier mit der Forschung geht, wenn wir wollen, dass unser Brain Asset, diese Superleute an der ETH, an der EPFL usw. usf. mit ihren Spin-offs und Start-ups in der Schweiz bleiben können, dann müssen wir ihnen auch Perspektiven geben. Und das ist auch wichtig. Nicht alles, was man umsetzen kann, hat der Mensch in der History ersetzt. Und das kommt mir noch einmal zu der Gesundheit.
+
+Person5 [0:54:25 - 0:54:29]:
+Sie haben das letzte, Talit Steiner. Bevor Sie noch einmal zurückgreifen...
+
+Person7 [0:54:27 - 0:54:36]:
+Ich muss mich von den Männern positionieren. Ich nehme an, dass Frau Losli mir recht gibt. Gesundheit ist eine Sache.
+
+Person7 [0:54:36 - 0:54:39]:
+Was aber ganz, ganz wichtig ist, ist auch das Muss.
+
+Person7 [0:54:39 - 0:54:45]:
+Und wer sagt denn, dass wir acht Stunden im Tag arbeiten müssen? Vielleicht können wir einfach weniger arbeiten.
+
+Person6 [0:54:44 - 0:54:56]:
+Genau, das ist der Punkt. Das ganze Zeug bringt uns nämlich gar keine Minuten mehr Freizeit. Im Gegenteil, man schaut immer auf sein Handy.
+
+Person5 [0:54:56 - 0:54:58]:
+Aber da ist man ein wenig selbst geschoben, Frau Losli.
+
+Person6 [0:54:57 - 0:55:04]:
+Ich nicht, oder? Nein, aber ich. Aber viele Leute, es gab keine
+
+Person7 [0:55:04 - 0:55:05]:
+ein bisschen mehr Freizeit.
+
+Person5 [0:55:05 - 0:55:06]:
+Gut, ich möchte...
+
+Person7 [0:55:05 - 0:55:11]:
+Haben Sie bei Ihrer Geschirrspülmaschine oder Wäschmaschine jemals ein Buch genommen und gelesen, wer es für Sie gewaschen hat?
+
+Person6 [0:55:13 - 0:55:16]:
+Nein, ich hatte das zu tun, rund um die Uhr, 20 Jahre lang.
+
+Person5 [0:55:16 - 0:55:19]:
+Aber Sie hätten vielleicht noch etwas mehr zu tun gehabt ohne Wäschmaschine.
+
+Person6 [0:55:18 - 0:55:37]:
+Das ist schon so, das schätze ich. Und ich möchte sagen, ich bin fasziniert. Vor allem, wirklich, auch von dieser ETH. Wirklich sehr fasziniert. Aber ich möchte mal einen ganz anderen Punkt jetzt noch hinbringen. Vorher heisst es, wir haben zu wenig Pflegeleute. Sie, ich sage es euch,
+
+Person6 [0:55:38 - 0:56:07]:
+wir haben überhaupt nicht zu wenig Pflegeleute und wir haben auch nicht zu wenig Lehrer. Warum haben wir diese? Gerade wegen diesem Computer, wegen dieser Digitalisierung. Weil diese Leute nur noch an ihrem Computer sitzen und müssen Krankengeschichten reintippen und die Lehrer müssen sich kümmern um Gugus. Sind wir das ganze Zeug hat, das ist ein Ärgernis. Ich kenne eine ganz tolle Lehrerin... Gut, lassen Sie sie reagieren.
+
+Person5 [0:56:05 - 0:56:12]:
+Edit los, lassen Sie sie reagieren. Dalit Steiger, eigentlich machen uns die Kaisen das Leben nicht einfacher.
+
+Person7 [0:56:15 - 0:56:32]:
+Nein, also erstmal denke ich, ist sicher eine gewisse Eigenverantwortung. Zweitens haben wir in der Entwicklung mit den Industrialisierungen jedes Mal einen Fortschritt gemacht. Und was ich ganz wichtig finde, der Mensch ist prädestiniert dafür, Lösungen zu finden für Probleme, die er selber erschaffen hat. Sonst würden wir heute nämlich einen Sicherheitsgurt im Auto haben.
+
+Person5 [0:56:32 - 0:56:35]:
+Gut, Marion Janich, Digitalisierung, wo treibt sie uns hin?
+
+Person2 [0:56:36 - 0:56:57]:
+Also aus Industrie- und Sichtersicht der Wirtschaft und auch unseren Partnern in der Schweiz, hier sind 4000 km U. Ich habe das Gefühl, wir sind Opfer. Und wir sind bei weitem nicht Opfer. Weil wenn wir verstehen, was Digitalisierung bedeutet, dann können wir das auch gestalten. Wir können immer noch entscheiden. Das reden wir ja.
+
+Person10 [0:56:56 - 0:57:01]:
+Da bin ich absolut mit Ihnen einverstanden. Aber wir wissen ja darüber, dass es nicht einfach passiert, sondern dass man es gestalten soll.
+
+Person2 [0:57:02 - 0:57:03]:
+Und diese Opfer-Diskussion...
+
+Person10 [0:57:02 - 0:57:21]:
+Mir geht es nicht darum, zu sagen, da bin ich absolut mit Ihnen einverstanden, Versteigen. Wenn es weniger Arbeits-, dann ist es aus ethischer Sicht noch nicht problematisch. Problematisch wird es dann, wenn wir diesen Menschen, die keine bezahlte berufliche Aufgabe mehr nachgehen können,
+
+Person10 [0:57:22 - 0:57:45]:
+eine Perspektive bieten können, damit sie weiterhin in das menschenwürdiges Dasein leben können. Also ich bin nicht dafür, dass wir das irgendwie stoppen versuchen. Weil ich naiv bin, ist ich nicht möglich. Aber wir können es eben gestalten. Und mir ist wichtig, dass wir es so gestalten, dass auch jemand, der jetzt z.B. an der Kasse gearbeitet hat und jetzt seinen Job verlieren wird, dass man dieser Person jetzt sagt, wir zahlen dir eine Weiterbildung für neue Informatik. Marion Janich, komm mal.
+
+Person2 [0:57:46 - 0:57:58]:
+Das Thema, das passiert ja schon heute. Und wir diskutieren über eine Zukunft. Und der Mensch war noch nie gut, die Zukunft vorauszusagen. Es gibt Studien, es gibt Dinge, die wir heute wissen. Aber es ist heute. Heute können wir schon gestalten. Moment, Herr Kerschläger.
+
+Person5 [0:57:58 - 0:58:15]:
+Wir können heute schon gestalten, sagen Sie. Und der Mensch sei noch nie gut darin gewesen, die Zukunft vorauszusagen. Jetzt muss ich den Kolleginnen und Kollegen der Kamera eine Chance geben, sich zu reorganisieren. Weil sonst haben wir dahinten nämlich ein riesiges Genusch. Ich möchte Ihnen nämlich einen Gast vorstellen, der jetzt Geduld hatte,
+
+Person5 [0:58:16 - 0:58:36]:
+mehr als die halbe Sendung, um uns zu erzählen, was in der Zukunft passieren könnte. Bei uns ist Kevin Schawinski. Guten Abend. Er ist Astrophysiker. Und er forscht genau das, was passiert, wenn wir jetzt den Schritt in die Zukunft machen. Über die Migros-Kasse raus, die GoP-Kasse raus, über die kleinen Roboter raus. Was haben Sie das Gefühl, Herr Schawinski? Was blüht uns noch bei der Digitalisierung?
+
+Person13 [0:58:37 - 0:59:26]:
+Es sind schon viele Ansätze angesprochen worden. Was mir klar ist, ist, dass die Aufgaben, die Maschinen äquivalent leisten können wie ein Mensch, und dann eventuell besser leisten können als ein Mensch. Das kann das historische Beispiel vom Schach sein. Es wird nie wieder einen menschlichen Schachbilder geben, der je nur ein Spiel gegen den besten Computer gewinnt. Es wird immer weitergehen. Immer mehr Aufgaben werden immer besser, immer besser von Maschinen gemacht werden. Und es wird ganz klar, immer mehr menschliche Berufe, die es jetzt gibt, werden die Maschinen  ersetzen. Das ist ganz klar. Aber ich sehe das als Techno-Optimist nicht als Gefahr, sondern als wahnsinnige Möglichkeit. Wir haben nicht die Vision des Terminators, die kommt und uns ersetzt.
+
+Person5 [0:59:26 - 0:59:44]:
+Wir können vielleicht sogar schnell zeigen, wie wir uns vorbereitet haben. Bilder vom Terminator, vom Killer-Roboter, der uns grämig anschaut, Arnold Schwarzenegger, von einem Computer, der die Weltherrschaft übernimmt. Herr Schawinski, wenn Computer in immer mehr Sachen immer besser werden, besser als wir, dann blüht es doch so eine Zukunft.
+
+Person13 [0:59:44 - 1:00:26]:
+Wenn man natürlich ganz unvorsichtig wäre und einen Unfall hat, klar. Aber so sehe ich die Entwicklung einfach überhaupt nicht. Weil die Maschinen nicht von uns separat sein werden, sondern sie werden uns sein. Was heisst das jetzt genau? Ich habe jetzt hier das Thema Handy, Mobiltelefon. Ich habe ein Mobiltelefon in meiner Tasche. Da habe ich mein Gedächtnis drauf, meine Navigation, meinen Kalender. Das ist ein externer Teil meiner kognitiven Kapazität. Das heisst, wir alle, ich weiss nicht, ob 100% von Ihnen ein Mobiltelefon dabei haben, aber 99% von uns sind schon eigentlich Human-Machine-Kombinationen. Und das wird einfach weitergehen. Wow, Herr Kretschner.
+
+Person10 [1:00:29 - 1:01:15]:
+Ja, ich sehe, ich würde Folgendes sagen. Die Interaktion an sich ist auch wiederum etwas Positives. Da gibt es unglaubliche Chancen. Gerade im Bereich der Assistenz von Menschen mit Behinderung, die ein selbstbestimmtes Leben führen können, dank dieser Interaktion zwischen Menschen und Maschine. Aber wenn wir jetzt hier weiterdenken, Herr Schawinski, und ich finde das sehr plausibel, das Ego, das Sie entwickelt haben, dass man sagt, ja, jetzt sind es gewisse Intelligenzbereiche, wo Maschinen schon viel besser sind als Menschen, also können auch andere Intelligenzbereiche dazukommen. Es kann auch sein, dass es noch massiver wird als beim Schachtcomputer. Und dann ist dann irgendwann einmal die Frage, wenn die Maschinen so viele intelligenter sind, wie jetzt zum Beispiel die Menschen sich intelligenter wahrnehmen als ein Insekt, dann sind die Menschen irrelevant. Also dann irgendwann einmal sagt eine Maschine, es ist ja nicht so nett, dass du mir sagen möchtest, was ich machen soll, aber eigentlich ich, für die Erreichung meines Zwecks in effizienter Art und Weise,
+
+Person10 [1:01:16 - 1:01:17]:
+kümmere mich sicher nicht mehr um mich. Lassen Sie mich bitte wieder reagieren.
+
+Person5 [1:01:16 - 1:01:23]:
+Also so ein Ameischen finde ich ja noch ganz herzig, bis es mich stört, Kevin Schawinski. Das könnte auch uns blühen.
+
+Person13 [1:01:23 - 1:01:36]:
+Das könnte uns sicher blühen, aber ich sehe das einfach wirklich nur als ein Szenario, das gut für Sci-Fi ist. Weil die Maschinen der Zukunft, die viel grössere Kapazitäten haben als wir, das sind nicht eine neue Spezies, die wir schaffen,
+
+Person10 [1:01:36 - 1:01:43]:
+die uns gerne auf die Seite schickt. Also wenn es Intelligenzbereiche sind, die relevant sind für das menschliche Dasein, und ich kann eigentlich nur ihre Argumentationslinie weiterentwickeln.
+
+Person10 [1:01:45 - 1:01:45]:
+Herr Kerstlack, lassen Sie mich noch schnell weiterzuhören?
+
+Person13 [1:01:45 - 1:02:19]:
+Kevin Schawinski. Das werden wir sein. Wir werden uns mit den Maschinen so verbinden. Das sind nicht eine zukünftige Spezies, eine Schöpfung, die wir machen. Das werden wir sein. Das Handy als externer Teil meines Geistes, das ist nur der erste Schritt, wenn wir dann mit grösserer Bandbreite, oder 5G geht ja auch um grössere Bandbreiten, wenn wir uns dann wirklich noch mehr mit den Maschinen verbinden, oder neuronale Laces im Gehirn usw. Die Wesen, die sie 100 oder 1000 Jahre geben, das sind wir, aber sie sehen einfach nicht mehr so aus wie wir Menschen.
+
+Person5 [1:02:19 - 1:02:23]:
+Darf ich? Um sicher zu sein. Sie sagen, Moment, ich brauche eine Sekunde.
+
+Person5 [1:02:25 - 1:02:32]:
+Sie sagen, die Maschine wird nicht der Terminator sein, der uns bedroht. Sie sagen, wir werden Teilmaschinen, wie wir es heute schon sind über das Handy.
+
+Person13 [1:02:33 - 1:02:43]:
+Und wenn wir erstmal die Technologie haben, werden wir nicht die Jobs verlieren, weil eine Maschine sie bessern kann, sondern wir werden uns einfach ergänzen, uns die Kapazität geben, diese Aufgaben besser zu leisten.
+
+Person12 [1:02:43 - 1:02:52]:
+Ganz simpel gesagt, ganz ohne künstliche Intelligenz ist es ja die Idee, dass man sagen kann, heute gibt es Menschen mit
+
+Person12 [1:02:53 - 1:03:54]:
+Bein amputiert. Die haben eine Prothese. Das ist im Normalfall etwas, das sehr viel schlechter ist. Aber es kann Prothesen geben, die einem Sachen ermöglichen, die jemand Normales gar nicht kann. Zum Beispiel gibt es Sprinterprothesen, wo man viel schneller rennen kann, als der beste 100 Meter Läufer. Von daher ist es schon so, Technik kann einem natürlich wie ergänzen. Jetzt kann es direkt körperlich sein oder es kann natürlich auch geistig sein. Für mich allerdings ist die Frage dann, all das ist ja nicht kontrolliert nur in meinem Umfeld, sondern das ist ja alles vernetzt. Und dort, ich bin jetzt nicht ein Dystopist, also einer, der das Schlimmste immer sehen möchte. Aber dort habe ich doch die Frage, ja und wenn jetzt all diese vernetzten Intelligenzen künstlich untereinander entscheiden, zum Beispiel stellen wir in der Schweiz den Strom ab oder versorgen die Leute weniger mit Geld, denn das ist ja alles dann auch nur noch elektronisch oder was auch immer.
+
+Person5 [1:03:54 - 1:03:55]:
+Lassen Sie uns noch eine Rede geben,
+
+Person12 [1:03:55 - 1:03:57]:
+Kevin Schawinski.
+
+Person13 [1:03:55 - 1:04:02]:
+Das ist eben wieder die Wende in die Dystopie vom Terminator, der dann entscheidet.
+
+Person10 [1:04:02 - 1:04:09]:
+Nein, nein, nein. Ich meine Stephen Hawking, der sicherlich nicht technofindlich ist.
+
+Person10 [1:04:09 - 1:04:20]:
+Elon Musk, der sicherlich auch nicht technofindlich ist, sagt, genau die Entwicklung, die Sie vorhin so elaboriert haben, ist genau das, was Ihnen die grössten Sorgen macht. Lassen Sie uns noch einmal reagieren,
+
+Person5 [1:04:18 - 1:04:23]:
+wie Sie unterbrochen haben.
+
+Person13 [1:04:23 - 1:04:53]:
+Also die Sorgen, dass wir etwas schaffen könnten, das gefährlich ist, die ist da. Die muss man ernst nehmen. Daran wird geforscht. Elon Musk und andere haben da viel Geld gegeben, um daran zu arbeiten. Das ist wichtig. Aber ich sehe das eher als Versicherung für den schlimmsten Fall. Was ich viel spannender finde, ist das, was wir jetzt daran schaffen, die Technologie aufzubauen, die uns die Verschmelzung ohne Probleme, die Verbesserung ohne Probleme ermöglicht.
+
+Person5 [1:04:53 - 1:04:55]:
+Also eigentlich ist es nicht so, wie wir jetzt sind, Herr Kirchlein.
+
+Person10 [1:04:55 - 1:05:48]:
+Bei der Verschmelzung müssen wir den Punkt der Vernetzung im Blick haben und den Punkt der Verselbständigung. Wieso soll eine superintelligente Maschine, die den Menschen massiv überragt, noch irgendwie auf uns Menschen hören? Ich gebe Ihnen ein Beispiel. Ein automatisiertes Waffensystem und ein selbstfahrendes Fahrzeug kommunizieren miteinander. Das ist ein drastisches Beispiel, um es zu illustrieren. Im selbstfahrenden Fahrzeug gibt es Menschen, die den Fussgängerstreifen anhalten müssen, weil es Menschen wird von allen Menschen, die es respektieren, auch wenn du eigentlich deine Zwecke ineffizienter erwünscht hast, weil du den Passagier von A nach B langsam erbringst. Jetzt sprechen die beiden Systeme miteinander und der lernt, selbstfahrende Fahrzeuge vom automatisierten Waffensystem, ich bin dafür gearbeitet, Menschen zu töten. Also macht ihr nicht so Sorgen wegen der absoluten Achtung von den Menschen über die fahrenden Menschen. Du kannst auch deine Zwecke schneller erfüllen,
+
+Person10 [1:05:49 - 1:05:55]:
+wenn du ein paar Menschen überfahren bevor du den Fussgängerstreifen machst. Moment, das ist jetzt Standard. Kevin, ich habe jetzt schon 
+
+Person13 [1:05:52 - 1:06:04]:
+Ich finde es spannend, dass Sie sich so ethische Dilemmas ausdenken wollen, weil Sie natürlich als Ethiker auch nicht ersetzt werden wollen.
+
+Person5 [1:06:04 - 1:06:07]:
+Er hat Ihnen ein Kompliment gemacht, Herr Kirscher.
+
+Person10 [1:06:05 - 1:06:14]:
+Aber es ist ein falsches Kompliment, weil es kein ethisches Dilemma ist. Ob ich einen Menschen am Fussgängerstreifen überfahre, ist kein ethisches Dilemma. Aber ein Dilemma, das wir haben...
+
+Person5 [1:06:12 - 1:06:41]:
+Moment, ein Moment. Wir sind wirklich genau dort angekommen, wo es einen antreibt, wenn man zu lange über Digitalisierung nachdenkt. Ich möchte Ihnen in der Hinterreihe die Chance geben, in Ihnen zu reagieren. Ich habe etwas gehört, das ich mir noch nie so überlegen konnte, dass wir mit Maschinen verschmelzen könnten, uns bedrohen könnten oder dass sie vielleicht in uns, mit uns zusammen noch viel stärker werden könnten. Frau Janik, was löst die Vision bei Ihnen aus?
+
+Person2 [1:06:42 - 1:07:26]:
+Sie löst aus, dass wir aufhören müssen, diese Hollywood-Szenarien nach dem Motto in unseren Köpfen zu haben. Dennoch, und das gilt heute, muss man sich natürlich schon mit diesen Themen sehr ernsthaft beschäftigen. Ich habe das nie gesehen. Auch mit den ethischen Hintergründen. Aber diese Hollywood-Szenarien, die sind nicht hilfreich. Das heisst, ich bin dafür, zu entmythisieren und wirklich anzuschauen. Künstliche Intelligenz ist uralt. Ich glaube 60, 65 Jahre. Es ist etwas, was wenig Fortschritt gebracht hat in den letzten Jahren. Und wir können heute schon sehen, dass sich nicht Dinge wirklich exponentiell schnell entwickeln werden. Das heisst, wir müssen jetzt diskutieren und diese Hollywood-Szenarien
+
+Person2 [1:07:27 - 1:07:30]:
+für Hollywood aufbewahren. Die lassen wir im Kino.
+
+Person5 [1:07:29 - 1:07:31]:
+Herr Schawinski, wie schnell geht das?
+
+Person13 [1:07:32 - 1:07:51]:
+Frau Janik hat das schon angesprochen. Vorhersagen sind da ganz schwierig. Wir reden hier über Entwicklungen, Fragen wie, wann werden wir eine Intelligenz haben, die das und das und das kann. Das sehe ich als unmöglich vorherzusagen. Das sind Forschungsfragen und die kann man darum nur empirisch beantworten.
+
+Person5 [1:07:51 - 1:07:54]:
+Und die lassen wir so stehen. Wie sieht es bei Ihnen aus?
+
+Person11 [1:07:54 - 1:08:31]:
+Für mich zeigt es, dass gesundheitliche Aspekte weit über die Strahlenwirkung der Technologie gehen. Das sieht man auch schon jetzt. Man sieht auch jetzt, dass Kurzsichtigkeit bei Kindern massiv zunimmt. Das schaut eigentlich niemand an, woher das kommt. Und wie viel Arbeit die Bildschirmarbeit beiträgt. Oder man sieht einen Zusammenhang zwischen Mediennutzung, Übergewicht, Depressionen, Müdigkeit. Es sind viele Aspekte. Die ganze Suchtproblematik. Und ich denke, man muss wirklich den Blick offen haben für alle möglichen Risiken in Bezug auf Gesundheit, wenn man über 5G diskutiert.
+
+Person5 [1:08:29 - 1:08:34]:
+Und er hat auch die kritischen Sachen gesehen. Was lösen die Visionen bei Ihnen aus?
+
+Person4 [1:08:34 - 1:08:48]:
+Diese Sachen sieht man ja heute schon. Smartphone-Zombie, die, die so rumlaufen, sind ja heute schon da. Smombies, sagt man denen. Smartphone-Zombies, die miteinander telefonieren. Du hast das geschickt und so. Die gibt es heute schon.
+
+Person5 [1:08:48 - 1:08:50]:
+Frau Losli, was lösen die Visionen aus?
+
+Person6 [1:08:50 - 1:09:08]:
+Also ich werde langsam sprachlos. Und ich bin Gott froh, haben wir den Ethiker noch. Was ist das für ein Leben, wenn wir keinen Ethiker mehr haben? Wo sind wir dann? Sind wir dann irgendwo in einer Welt, in einer Zombiewelt? Ist das noch lustig?
+
+Person5 [1:09:09 - 1:09:17]:
+Ich weiss es nicht. Was geht bei Ihnen ab? Nicht künstlich, sondern natürlich intelligent. Haben Sie so etwas gehört?
+
+Person7 [1:09:17 - 1:09:53]:
+Ja, grundsätzlich gebe ich Marianne Janik recht. Und ich glaube, das ist genau wichtig. Wenn wir so Szenarien, Hollywood-Szenarien diskutieren, und ich will mir gar nicht anmassen, was down the road passieren wird, ob das jemals so auf Schatt finden wird. Der Punkt ist, man sollte es halt voll im Glas anschauen. Wir haben insbesondere im Healthcare, in der Medizin, Möglichkeiten, heute die bestehenden Technologien so einzusetzen, dass wir Menschenleben retten können. Und ich glaube, wir müssen uns in der Technologie entwickeln. Und in dem Moment, wenn wir solche Beispiele vor die Kamera bringen, bremsen wir uns aus. Vor der Zustimmung gibt es auch die Chance. Wir machen Angst und ich glaube, es geht um Aufklären.
+
+Person10 [1:09:51 - 1:10:00]:
+Aber wir müssen trotzdem kritisch bleiben. Sie dürfen den Punkt finden.
+
+Person7 [1:10:00 - 1:10:03]:
+Aber kritisch ist man nicht in dem, dass man schwarz malt.
+
+Person10 [1:10:03 - 1:10:36]:
+Ich male nicht schwarz, ich sage, es gibt aus ethischer Sicht ein riesiges positives Potenzial. Aber ich sage gleichzeitig, es gibt auch Punkte, die man kritisch anschauen muss. Und diese als Hollywood-Szenario disqualifizieren, finde ich höchst problematisch. Denn es sind Forschungsarbeiten dahinter, wo Menschen sich mit dieser Frage auseinandersetzen müssen. Sehen Sie Wissenschaft. Es geht nicht um Hollywood-Szenarien. Es geht um eine plausible Weiterführung Ihrer Argumentationslinie. Und es beschleunigt die Digitalisierung und die Globalisierung der Fülle von Daten. Der ganze Prozess beschleunigt das. Was auch ein Unterschied ist
+
+Person10 [1:10:37 - 1:10:38]:
+zum bisherigen Wandel.
+
+Person10 [1:10:39 - 1:10:52]:
+Das ist die Globalisierung und die Digitalisierung. Dass sich gegenseitig und wechselseitig verstärkt, weil man global auf Daten Zugang hat. Das beschleunigt den Prozess. Und gleichzeitig wird die Globalisierung dazu möglich, dass man gratis mit Australien konferieren kann. Thierry Bocca.
+
+Person9 [1:10:52 - 1:11:13]:
+Ich bedauere, dass die Diskussion so gelaufen ist, wie sie gelaufen ist. Es war hochinteressant. Aber wir haben das gemacht, was wir leider viel machen, wenn wir über die Zukunft reden. Wir sehen vor allem die negativen, Horrorszenarien, die ich nicht gänzlich ausschliessen will. Aber wir haben völlig vergessen, über die Chancen zu reden. Die Chancen, die wir haben als...
+
+Person9 [1:11:14 - 1:11:15]:
+Wir müssen mal eine Sendung machen,
+
+Person9 [1:11:15 - 1:11:15]:
+nur für Sie.
+
+Person5 [1:11:15 - 1:11:22]:
+Wir haben über die Chancen gesprochen. Thierry Bocca, finden Sie einen Punkt. Wir haben über die Chancen gesprochen. Thierry Bocca, machen Sie bitte den Satz fertig.
+
+Person9 [1:11:17 - 1:11:24]:
+Thierry Bocca, Sie haben es wahr.
+
+Person9 [1:11:25 - 1:11:42]:
+Über die Chancen haben wir nicht gesprochen. Es wurde gesagt, gerade im Medizinalbereich. Aber vor allem haben wir nicht darüber gesprochen, was wir als Land erreichen könnten in der Zukunft. Wir sind ein so innovatives Land. Wir haben eine so grosse Chance, dass wir in der Zukunft viel Arbeit schaffen, für unsere Bevölkerung in diesem Land. Moment, Herr Glättli.
+
+Person9 [1:11:42 - 1:11:58]:
+Ohne dass gerade Terminator-Geschichten... Ich wäre mit Ihnen nicht ganz einverstanden. Und nur noch ein letzter Satz. Es gab einen amerikanischen Zukunftsforscher, der sagte, wenn man über künstliche Intelligenz redet, redet man wahrscheinlich dann weniger über Terminator als mehr über einen Toaster. Herzlichen Dank. Ich wäre nicht ganz einverstanden,
+
+Person5 [1:11:57 - 1:12:06]:
+dass wir die positiven Sachen nicht angesprochen haben. Nicht zuletzt von Janik, Kevin Schawinski, Baldasar Glättli. Was bleibt Positives bei Ihnen zurück?
+
+Person12 [1:12:06 - 1:12:48]:
+Technik nutzen zum Wohl von allen. Aber dafür muss das Ziel, dass es zum Wohl von allen ist, zuerst stehen. Nicht was können wir machen, was können wir machen und wie geht es dem Bruttosozialprodukt. Sondern wie können wir diese Technik nutzen, damit wir mehr Zeit haben, mehr Menschen sein können, mehr Ruhe haben, mehr Musse haben, mehr Kreativität, menschliche Kreativität haben können. Und dass uns das auch in einem gewissen Sinne immer noch als Werkzeug zu Handen bleibt und sich nicht einfach selbstständig macht. Das ist eine Chance. Aber dafür darf man nicht einfach sagen, wenn man die Frage stellt, wo wir lenken und wer lenkt und in welche Richtung, dass das schon die Technik findet.
+
+Person5 [1:12:48 - 1:13:17]:
+Aber das war doch ein positives Statement. Herzlichen Dank, meine sehr verehrten Gäste. Ihnen die Eifers Interessen und all diesen vielen Leuten hinter der Kamera und hinter den Robotern. Verantwortlich diese Woche, Christine Keller. Aber eine letzte Frage habe ich noch. Das Natel in der Schweiz, das begleitet uns jetzt schon etwa 30 Jahre. Das ist ein Natel C, das wir im Lager des Fernsehens gefunden haben. 1987. Balthasar Glättli, in welchem Alter hatten Sie Ihr erstes Handy? Haben Sie es einmal gehabt? Nein, Sie hatten kein Auto.
+
+Person12 [1:13:14 - 1:13:36]:
+Nein, ich habe immer noch kein Auto. Das hatte aber ein Gartenarchitekt. Ich kann es immer bewundern, als Kind. Mitte 80er Jahre. Ich glaube, es war ein Natel B, der das hatte. Ich hatte mein erstes Handy Anfang 2000er Jahre. 2002, 2003.
+
+Person9 [1:13:35 - 1:13:49]:
+Thierry Burkhardt. Ich glaube, das war Ende 1995. Anfang 1996. Ich war dort so 20, 21. Als das aufkam. Ich glaube, der Akku hat etwa 2 Stunden gekippt.
+
+Person5 [1:13:48 - 1:13:50]:
+2 Stunden hat er gekippt.
+
+Person10 [1:13:50 - 1:14:10]:
+Hervorragend. Wie ist es bei Ihnen? Das war 1998. Was mich nur erstaunt ist, jetzt haben wir 20 Jahre Handys. Aber wir haben es 20 Jahre nicht in den Griff bekommen. Die Produktionsbedingungen dieser Handys und die Bedingungen der Rohstoffgewinnung für die Handys, dass die Menschen würdig sind. Das ist ein Armutszeugnis für unsere Menschheit. Talit Steiger.
+
+Person7 [1:14:11 - 1:14:20]:
+Ich hatte es auch 1997, als ich an der Uni war. Ich versteckte mich immer hinter irgendeiner Säule, wenn ich telefonierte. Es war mir unglaublich peinlich.
+
+Person5 [1:14:20 - 1:14:32]:
+Dass man so frech ist und in der Öffentlichkeit telefoniert. Ja, meine Damen und Herren, ganz so peinlich ist es heute wahrscheinlich nicht mehr. Danke schön. Hier kommt jetzt der Newsflash. Einen wunderschönen Rest des Abends und ein ganz friedliches Wochenende. Ade miteinander.
+

@@ -1,0 +1,517 @@
+============================================================
+Video Transcription Results
+============================================================
+
+Person10 [0:00:00 - 0:00:17]:
+Was hat mein Pass mit der sogenannten E-ID zu tun? Gerade gar nichts, sagt Bundesrätin Karin Keller-Sutter. Ganz viele sagen Gegner des Gesetzes, das wir am 7. März darüber abstimmen. Darüber müssen wir sprechen. Das ist die Abstimmungsarena.
+
+Person1 [0:00:36 - 0:01:58]:
+Heute in der Abstimmungsarena. Bundesrätin Karin Keller-Sutter. Sie vertritt die Haltung von Bundesrat und Parlament und sagt, es ist höchste Zeit für eine elektronische Identität. Staat und Private sollten zusammenarbeiten. Das ist eine Chance für die Digitalisierung in der Schweiz. Jörg Mäder, Nationalrat GLP, sagt, die Herausgabe eines Ausweises ist allein Sache des Staates. Deshalb gehört der digitale Pass nicht in die Hände von privaten Unternehmen. Martin Kandenas, Nationalrat Die Mitte, sagt, wir haben eine vertrauenswürdige Schweizer Lösung. Mit der geplanten E-ID wird vieles im Internet nicht nur einfacher, sondern v.a. auch sicherer. Minli Marti, Nationalrätin SP, sagt, das Gesetz ist ein Konstruktionsfehler. Der einzige wirksame Datenschutz wäre, unnötige Daten gar nicht erst zu sammeln. Ausserdem für die Vorlage Benjamin Fischer, Präsident SVP Kanton Zürich. Markus Neff, CEO der Firma SwissSign. Und gegen die Vorlage Gerhard André, Nationalrat Grüne. Sanja Ameti, Mitglied Parteileitung GLP Kanton Zürich. Die Arena, moderiert von Sandro Brotz.
+
+Person10 [0:01:59 - 0:02:45]:
+Guten Abend, liebe Zuschauerinnen und Zuschauer. Herzlich willkommen, meine Gäste. Es ist wieder mal eine von den Abstimmungen, wo beide Seiten sagen, je nach Ausgang haben wir dann mehr von dem oder weniger von dem. Die Ja-Seite sagt, es gibt mehr Sicherheit und weniger Passwort-Krüsi-Müsi. Die Nein-Seite sagt, es gibt mehr Missbrauchspotenzial und weniger Datenschutz. Es ist klar, es gibt nicht mehr oder weniger Redezeit für die eine oder andere Seite, sondern genau gleich viel. Das werden Sie im Laufe dieser Abstimmungsarena auch immer wieder mal sehen. Beide Seiten werden sich auch in einem 1 zu 1 im Prüfstand stellen. Position heute Abend von Bundesrat und Parlament vertritt die Stitzministerin Karin Keller-Sutter.
+
+Person10 [0:02:47 - 0:02:49]:
+Guten Abend, Frau Bundesrätin.
+
+Person2 [0:02:49 - 0:02:50]:
+Guten Abend, Herr Brotz.
+
+Person10 [0:02:51 - 0:03:01]:
+Wer heute ein Bankkonto eröffnet, muss sich ausweisen mit einem Pass oder einer ID. In Zukunft ist das mit der elektronischen, elektronischen Identität möglich. Es ist also gleich ein Pass.
+
+Person2 [0:03:02 - 0:03:40]:
+Nein, es ist weder ein Pass noch eine Identitätskarte. Man muss ja sehen, ein Pass oder eine Identitätskarte sind amtliche Ausweisdokumente. Sie sagen, ich bin Schweizer Bürgerin. Sie berechtigen mich auch zum Reisen. Ich kann mich ausweisen in einer Polizeikontrolle. Und eine solche elektronische Identität ist nichts anderes als ein Anmeldeverfahren im Internet, das staatlich geprüft ist, staatlich kontrolliert ist, wo das Bundesamt für Polizei meine Identität als Karin Keller bestätigt. Es ist also nicht ein Pass oder eine ID. Es ist auch nicht im Ausweisgesetz geregelt.
+
+Person10 [0:03:40 - 0:03:45]:
+Aber wissen Sie, was es geht? Das Bundesamt für Polizei schrieb Fettball vor ein paar Jahren. Das hier.
+
+Person10 [0:03:48 - 0:04:07]:
+Eine E-ID dient zum Nachweisen der eigenen Identität in der virtuellen Welt vergleichbar mit Identitätskarte oder Pass in der physischen Welt. Aber im Abstimmungsbüchlein liest sie das. Die E-ID ist kein Ausweis und hat mit dem Schweizer Pass oder Identitätskarte nichts zu tun. Das klingt jetzt plötzlich anders als vor ein paar Jahren.
+
+Person2 [0:04:08 - 0:04:48]:
+Nein, es ist beides richtig. Man spricht von einem Pass landläufig, einfach um zu sagen, man hat einen Zugang. Z.B. einen Skipass oder einen Museumspass, der mir den Zugang gibt. Aber ein Pass oder eine ID im Sinne eines Ausweisgesetzes ist ein amtliches Dokument. Und da ist bei dieser E-ID nichts zu tun.  Keiner Art und Weise der Fall. Sondern wie ich es gesagt habe, geht es um ein qualifiziertes Logging, um ein Anmeldeverfahren im Internet, wo das Bundesamt für Polizei meine Identität überprüft und bestätigt, sodass es auch nicht zu Missbrauch der eigenen Identität kommen kann.
+
+Person10 [0:04:48 - 0:05:00]:
+Sie sagen, das sei sicher. Aber die Sicherheit können offenbar nur private Unternehmen garantieren. Sonst würden sie den Staat machen. Aber jetzt geben Sie die sensiblen Daten einfach an die Private. Meine Daten, Ihre Daten.
+
+Person2 [0:05:00 - 0:05:37]:
+Nein, das stimmt so nicht. Wenn ich eine E-ID möchte, dann ertrage ich sie bei dieser Firma, z.B. dem Kanton oder der Gemeinde, die sie anbietet. Dann geht diese Firma zum Bundesamt für Polizei und sagt, wir haben Karin Keller. Ist das Karin Keller? Und was das Bundesamt für Polizei macht, der Herr ist von den Registern, der Datenhoheit hat, ist nichts anderes, als den Anbieter einer E-ID zu bestätigen, dass das sie ist. Das ist alles, nicht mehr und nicht weniger. Der Anbieter bestätigt meine Identität.
+
+Person10 [0:05:37 - 0:05:42]:
+Aber die Wahrheit ist doch, der Staat hat das Know-how nicht, darum müssen Sie es den Privaten geben. Das ist eine Kapitulation.
+
+Person2 [0:05:43 - 0:06:53]:
+Die Wahrheit ist, dass man eine rein staatliche Lösung schon einmal anvisiert hat. Der Bundesrat hat das eigentlich einmal versucht, mit der sog. Swiss-ID, Swiss, Schweiz geschrieben. Dort hat der Bundesrat 25 Mio. Fr. investiert, und zwar ohne Ertrag. Es war eine Investition, die sich nicht gelohnt hat, weil das Modell ein Flop war. Das Modell hatte keine Wirkung. Das Problem ist, wenn der Staat auch die technische Umsetzung macht, vereinfacht gesagt die Informatiklösung, den Zugang, dann haben wir uns auch auf eine Technologie, auf eine Technologie, auf ein gewisses Zugangsmittel beschränken. Das führt dazu, dass sich in der Wirtschaft in dieser Zeit neue Modelle entwickeln. Und man dann veraltet ist. Die Swiss-ID hatte eine Markttrinkdringung von 6 %. Sie kostete den Steuerzahler 25 Mio. Fr. Zweimal kann das der Bundesrat nicht machen. Jetzt haben wir eine klare Aufgabenteilung. Hoheitliche Aufgaben beim Staat, Datenhoheit. Auf der anderen Seite die Umsetzung, ob es technische Umsetzung ist, können private, aber es können auch Gemeinden sein oder Kantone. Das klingt alles prima.
+
+Person10 [0:06:52 - 0:07:13]:
+Das Problem ist einfach, seit ungefähr 48 Std. ist eines von Ihren Hauptargumenten zusammengebrochen. Sie haben immer gerne das Beispiel von Schaffhausen gebracht, der sich als Anbüter von solchen E-IDs bewerben will. Das hilft Ihnen natürlich, zu sagen, es sind nicht nur die Privaten, die mitmachen. Aber Fakt ist, Schaffhausen weiss noch gar nicht, ob sie das machen wollen. Schauen Sie mal.
+
+Person10 [0:07:15 - 0:07:33]:
+Da heisst es nämlich, wir haben noch keinen Beschluss dazu gefasst. Das sagt der zuständige Regierungsrat Walter Vogelsanger. Jetzt kommt auch noch ein Stimmrechtsbeschwerde von den Gegnern. Schlagzeile, Front der NZZ heute. Beschwerde gegen E-ID-Abstimmung. Mit Verlaub, Frau Justizministerin, Sie bewegen sich auf recht dünne Mies.
+
+Person2 [0:07:33 - 0:08:02]:
+Nein, überhaupt nicht. Ich habe schriftlich vom Kanton Schaffhausen das Interesse begründet. Am 6. Januar haben sie es dem Bundesamt für Justiz geschrieben. Sie wollen sich als Provider anerkennen lassen. Und der Regierungsrat sagt, das hat der Vogelsanger bestätigt. Er war bei 12 Jahren Regierungsrätin. Das ist eine Frage des Verfahrens. Die Regierungsrat Schaffhausen kann keinen Beschluss fassen, bevor die Abstimmung über die Bühne ist und man weiss, was am 7. März passiert.
+
+Person10 [0:08:02 - 0:08:07]:
+Sie haben mit Herrn Vogelsanger Kontakt gehabt. Hat er Ihnen heute bestätigt, dass Schaffhausen mitmacht?
+
+Person2 [0:08:05 - 0:08:35]:
+Er hat das klar bestätigt. Er hat es auch über andere Medien bestätigt. Da ist offensichtlich eine Abstimmungskampagne mitgekommen. Es war nicht möglich, dass man versucht hat, das durchzutun. Aber wir haben das schriftlich vom Kanton Schaffhausen datiert, am 6. Januar 2021, dass Sie sich anerkennen lassen wollen. Aber das ist klar. Den formellen Beschluss kann eine Regierung erst fassen, wenn tatsächlich die Fakten bekannt sind. Es müsste ja zuerst ein Gesetz angenommen sein.
+
+Person10 [0:08:35 - 0:09:01]:
+Was sie nicht schriftlich haben, oder zumindest schriftlich von acht Kantonen, ist, dass sie überhaupt nicht mit dieser E-ID anfangen können. Da haben wir z.B. auch die VAT als grösste Schwesterverwaltung. Das schreibt die Regierungspräsidentin Nuria Gourite dazu. Das Bundesgesetz ist ein Angriff auf die Souveränität des Staates. Jetzt habe ich immer gemeint, Frau Bundesrätin, Souveränität sei Ihnen wichtig. Jetzt opfern Sie die auf dem Altar der Digitalisierung.
+
+Person2 [0:09:02 - 0:09:11]:
+Souveränität ist mir sehr wichtig. Aber da muss man jetzt klar sagen, die Konferenz der Kantonsregierungen hat zu diesem Gesetz gesagt. Das ist eine Minderheitsposition.
+
+Person10 [0:09:11 - 0:09:12]:
+Aber es sind acht Kantone.
+
+Person2 [0:09:13 - 0:09:54]:
+Es waren nicht acht Kantone dagegen, weil sie nicht spitzfindig waren. Es waren nicht acht, die dagegen sind, sondern es gab auch solche E-Bi-Vertreterinnen von meiner Regierung damals in der KTK, die gar keine Parolen fassen wollten. Es gibt auch diese. Aber nochmals, die Konferenz der Kantonsregierungen hat ja gesagt, dass der Städtenverband, der Gemeindeverband, zeigt, dass die Gemeinwesen ein starkes Interesse daran haben, dass die Digitalisierung in diesem Staat weitergeht, dass sie sich entwickeln kann. Denn gerade der Verkehr zwischen Behörden und Bürgerinnen und Bürgern ist bezüglich Digitalisierung im Hintertreffen in der Schweiz. Wir haben es ja auch in der Corona-Krise gesehen. Da wurde ja noch gefaxen. Es gab auch Informatiklösungen, die nicht funktionierten.
+
+Person10 [0:09:55 - 0:10:04]:
+Vorbei mit der Faxerei. Vielen Dank, Frau Bundesrätin. Danke. Das 1 zu 1 mit Gagnadane und Jörg Maeder im Verlauf dieser Sendung.
+
+Person10 [0:10:05 - 0:10:08]:
+Meine liebe Marti, warum wollen Sie den Fortschritt stoppen?
+
+Person5 [0:10:09 - 0:10:54]:
+Ich will den Fortschritt nicht stoppen. Ich bin gegen eine vermurkste Lösung. Ich bin dagegen, dass man einen digitalen Ausweis, das heisst ja auch EID und nicht E-Login, das ist klar ein Ausweis, und es hat klare Funktionen eines Ausweises, ich bin dagegen, dass man die Aufgabe, die klar staatlich und hoheitlich ist, an gewinnorientierte Private auslagert. Wenn ich den Pass erneuere, gehe ich nicht am Bankschalter, gehe nicht an die Kasse von der Bank, gehe nicht zum Detailhändler, sondern gehe auf das Passbüro oder auf die Einwohnergemeinde. Wenn ich Kontakt mit der Behörde haben möchte, möchte ich den Kontakt mit der Behörde haben und keinen Umweg über Privati.
+
+Person10 [0:10:54 - 0:11:26]:
+Keinen Umweg über Privati, sagt meine liebe Marti. Martin Candidas ist im Moment noch knapp auf der Seite der Befürworter, wenn man die Umfragen anschaut. SRG, also von den Ja-Sägern, nicht von den Befürworten. Die SRG-Umfrage im Auftrag mit dem Forschungsinstitut GFS sagt, 52 % der Stimmberechtigten seien bestimmt oder eher für die elektronische Identität, 37 % bestimmt oder eher dagegen. Aber interessant sind die 11 %, das sind doch eher viele, die ein Misstrauen gegen die E-ID haben.
+
+Person6 [0:11:28 - 0:12:40]:
+Seit 15 Jahren diskutieren wir über eine Identität im Internet. Das ist die Lösung, die man gefunden hat. Wir wollen nicht zwischen denen, die gar nichts machen wollten, und allen Privaten überlassen. Wir wollen nicht den Privaten überlassen. Wir wollen eine strenge staatliche Kontrolle. Aber wir wollen auch nicht alles beim Staat haben. Das ist der typische schweizerische Kompromiss, dass der Staat klare, strenge Regeln aufstellt. Die Unternehmer, die sich dafür bewerben und eine Erkennung kriegen, kontrollieren streng. Dafür hat man sogar eine Kommission eingesetzt. Im Parlament, in den Debatten, wo man sich gefunden hat, damit man diese Kontrolle hat. Aber der Privat soll technische Umsetzung machen. So gibt es einen Wettbewerb der Systeme. Wir wissen, gerade in der Digitalisierung bewegt sich sehr viel. Wir hatten ein Projekt vom Staat, das zu einem Flop wurde. Wir wissen von anderen Staaten, die es auch nicht zum Fliegen brachten. Darum glaube ich, das sind die Vorteile aus beiden Systemen, rein privat und rein staatlich. Das hat man mit dieser Vorlage versucht zu erreichen. Genau so wird das zum Erfolg. Das ist meine tiefe Überzeugung. Darum setzt sie mich dafür ein.
+
+Person10 [0:12:40 - 0:12:51]:
+Genau so tief ist die Überzeugung bei Jörg Meder, dass das nicht funktioniert, sondern eine staatliche Lösung annehmen muss. Obwohl sie eine Affinität zur Informatik haben, sagen sie, ihnen traue ich nicht über den Weg.
+
+Person9 [0:12:52 - 0:13:14]:
+Es ist nicht nur das Nichttrauen, sondern für mich ein Staatsverständnis. Wir leben in einer Welt, die immer digitaler wird. Wir als Privatleute, als Unternehmer. Auch die Verwaltung muss digitaler werden. Wir müssen uns gut überlegen, welche die grundlegenden Aufgaben sind, die ein Staat übernehmen muss. Ich muss ehrlich sagen, herauszufinden, ob das mein Bürger ist, ist so Jörg Meder. Das ist so etwas Grundlegendes, das kann man nicht delegieren.
+
+Person2 [0:13:16 - 0:14:03]:
+Ich möchte nochmals Bezug nehmen auf das, was Frau Marti gesagt hat. Sie hat nochmals gesagt, es sei ein Ausweis. Ich muss einfach klar sagen, es ist nicht im Ausweisgesetz geregelt. Es ist falsch, dass die EID ein Ausweis ist. Es ist eine Staatsanweisung. Es ist ein staatliches, anerkanntes Logging, das mehr Sicherheit gibt. Wir bewegen uns heute im Internet. Wir machen E-Banking, schliessen die Verträge ab, bestellen Lebensmittel oder Kleider oder was auch immer. Aber es gibt keinen besonderen gesetzlichen Schutz. Da bin ich sehr erstaunt. Dieser Gesetz ist die Chance, den Verkehr, online, sei das mit privaten Firmen oder mit Behörden, unter einen gesetzlichen Schutz zu stellen, der auch den Datenschutz weitergeht als im Datenschutzgesetz.
+
+Person10 [0:14:02 - 0:14:05]:
+Aber wieso heisst das nicht E-Login?
+
+Person2 [0:14:05 - 0:15:04]:
+Ich war nicht dabei, als man diese Abkürzung erfand. Aber eigentlich heisst es nicht Identität. Der korrekte Titel ist Bundesgesetz über die elektronischen Identifizierungsdienste. Das ist furchtbar technokratisch. Aber gut, es ist ein Logging, das soll, wenn man will, das muss man auch sagen, es ist alles freiwillig. Wenn ich die Passwörter, die ich heute alle habe, an verschiedenen Orten ersetzen will, könnte ich in Zukunft so eine E-ID lösen, die staatlich reguliert ist, staatlich beaufsichtigt ist, wo der Datenschutz stärker ist. Das ist ein Beitrag zum Schutz der Bürgerinnen und Bürger in einer Welt, in der wir einen technologischen Wandel haben, der schnell vorangeht. Wir haben jetzt die Chance, zu sagen, wir als Schweiz, wir müssen das tun. Wir regeln das mit unserem Recht. Wir sorgen dafür, dass wir eine Schweizer Aufsicht haben und dafür sorgen, dass Daten in der Schweiz gespeichert werden.
+
+Person10 [0:15:03 - 0:15:11]:
+Sie sagen, Frau Bundesrätin, dass die E-ID überhaupt nichts mit meinem Pass zu tun hat. Warum behauptet sie das immer?
+
+Person9 [0:15:11 - 0:15:42]:
+Man muss aufpassen, man kann die Begriffe nicht immer 1 zu 1 von der Analogie in die Digitalwelt übersetzen. Der Pass hat zwei Funktionen. Er ist ein Reisedokument, wo Sie physisch reisen. Das braucht man im Internet nicht. Aber es ist auch etwas, um zu identifizieren. Das braucht man im Internet. Was uns wirklich fehlt, die meisten Login-Banking etc. machen alles problemlos, ich nicht mal, sie auch, ist ein gutes Identifizieren gegen die amtlichen Behörden. Ich möchte nur, dass ein Dialog zwischen mir und den Behörden im Staat ist und nicht noch jemand dazwischen.
+
+Person10 [0:15:43 - 0:16:02]:
+Viele Zuschauerinnen und Zuschauer haben uns nach der letzten Abstimmungsarena geschrieben, wie begeistert sie von unserem Erklärstück. Wissen Sie was? Sie sind wieder dabei heute Abend. Wir haben zusammen mit den Grafikern zusammengearbeitet, über was sie am 7. März genau abstimmen. Soll es eine elektronische Idee geben? Und wie soll sie genau funktionieren?
+
+Person1 [0:16:05 - 0:16:14]:
+Wer sich nach einem Umzug auf der neuen Gemeinde anmelden will, muss persönlich auf dem Amt vorbeigehen. Mit der eID soll das direkt am Computer möglich sein.
+
+Person1 [0:16:15 - 0:16:31]:
+Will die Person eine eID, beantragt sie diese bei einer vom Bund anerkannten privaten Firma, die eIDs ausstellt, dem sogenannten Identity Provider. Der Identity Provider wendet sich an das Bundesamt für Polizei, FEDPOL.
+
+Person1 [0:16:34 - 0:16:42]:
+Dieses wiederum prüft die Identität des Nutzers und fragt, ob es die Daten an den Identity Provider übermitteln darf.
+
+Person1 [0:16:44 - 0:16:51]:
+Bestätigt die Person das, überprüft der Provider bei der höchsten Sicherheitsstufe nochmal die Identität.
+
+Person1 [0:16:53 - 0:16:58]:
+Und stellt dann die eID aus. Mit unter anderem Namen, Geburtstag und Foto.
+
+Person1 [0:16:59 - 0:17:07]:
+Mit dieser eID kann sich die Person dann direkt online bei der Gemeinde anmelden. Oder einen Handyvertrag abschliessen.
+
+Person1 [0:17:09 - 0:17:11]:
+Oder ein Bankkonto eröffnen.
+
+Person1 [0:17:13 - 0:17:24]:
+Ist die eID einfach ein amtlich kontrolliertes Login, das auch Private anbieten dürfen? Oder ist sie ein digitales Login, der nur der Staat ausstellen sollte?
+
+Person10 [0:17:26 - 0:17:49]:
+Muss der Staat und nur der Staat eine eID rausgeben? Oder könnte das Private genauso gut? Darüber möchte ich jetzt in der Loge diskutieren. Ich gehe mich einmal um. Ich schaue an, der Nationalrat der Grünen aus dem Kanton Fribourg, Gerhard André, guten Abend. Guten Abend. Jetzt sind Sie ja selber IT-Unternehmer. Eine wichtige Branche profitiert also von diesem Gesetz. Sie aber sagen nein, danke. Wieso stehen Sie auf Bremse?
+
+Person11 [0:17:50 - 0:17:59]:
+Ich bin effektiv von Ungeduldigkeit am Warten für eine gute Lösung. Aber meine Ungeduld und die Ungeduld der Wirtschaft ist nicht die Grundlage, um ein schlechtes Gesetz zu akzeptieren.
+
+Person11 [0:18:00 - 0:19:14]:
+Ich bin etwas irritiert über diese Diskussion, weil ich regelmässig eine eID vom Bund brauche. Und zwar um Mehrwertsteuer einzuheben. Ich bin in verschiedenen Unternehmen unterwegs und bei einem kleinen Start-up mache ich das selber. Ich brauche dort ein Login vom Bund. Das heisst CH-Login. Wenn man schaut, wie das beschrieben ist, ist das eine elektronische Identität. So ist es quasi postuliert. Ich habe einen zentralen Ort, ich kann das brauchen. Es ist vertrauenswürdig, es ist sicher, es ist nach dem Stand der Technik, das mag ich nicht beurteilen. Es ist eben kostenlos und es wird richtig intensiv genutzt. Ich habe mich heute Nachmittag noch von der Verwaltung Zahlen ausstellen lassen. Es hat über eine Million aktive Nutzerinnen und Nutzer auf diesem Portal. Über 200'000 Unternehmen reichen Mehrwertsteuer über das Login ein. Was wollen Sie uns damit sagen? Ich möchte sagen, dass es erstens schon ein Login gibt für die staatliche Interaktion. Und was meine grosse Befürchtung ist, wenn ich das Gesetz richtig lese, wenn wir es annehmen, dass der Bund das nur darf, wenn es die Privatwirtschaft nicht kann, dann gehe ich davon aus, dass es abgeschaltet wird. Ich weiss nicht, wieso. Haben Sie da eine Klärung dafür?
+
+Person2 [0:19:15 - 0:19:50]:
+Ich sehe nicht, wieso man das abschaffen sollte. Aber das CH-Login ist natürlich überhaupt nicht vergleichbar mit der E-ID, über die wir jetzt sprechen. Denn das CH-Login ist nicht einmal die tiefste Sicherheitsstufe, die man beim E-ID-Gesetz vorsieht. Das wollen wir hier sagen. Zweitens hat das Bundesamt für Informatik im Auftrag des Bundesrates überprüfen lassen, was es bedeuten würde, wenn man die Lösung irgendwie hochfahren würde zu einer E-ID-Gesetz-Lösung. Ich sage jetzt irgendwie hochfahren. Ja, hochfahren zu einer E-ID, das würde 300 Stellen bedeuten beim Bund, bei diesem Amt.
+
+Person2 [0:19:50 - 0:20:51]:
+Oder man muss einfach sehen, ich habe es vorher gesagt, man hat schon einmal mit einer Swiss-ID versucht, eine staatliche Lösung zu treffen. Und es ist einfach nicht die Kernkompetenz des Bundes, sich für eine solche technische Umsetzung einzusetzen oder diese zu machen. Denn letztlich, das wissen Sie als IT-Unternehmer besser als ich, dass sich sehr viel entwickelt. Sie haben irgendwelche Apps, sie haben Chips, sie haben verschiedene Sachen. Wenn der Bund das macht, muss er sagen an diesem Tag, ich entscheide mich für eine Technologie, die er bei der Swiss-ID gemacht hat. Das ist nicht angekommen bei den Bürgerinnen und Bürgern. Zuerst hat die irgendwie 165 Franken gekostet, nachher hat man es runtergefahren auf 0 Franken, damit sie benutzt werden. Und es wurde nicht benutzt. Und darum ist es richtig, dass die technische Umsetzung auch private machen könnte, die im Wettbewerb stehen. Und Sie als Konsumentin oder Konsument können die Lösung wählen, die Sie praktisch finden.
+
+Person10 [0:20:51 - 0:20:57]:
+Also die Lösung, die Sie sagen, gibt es schon, und die Sie präferieren, ist gar nicht sicher genug. Und das sagt ausgerechnet ein IT-Unternehmer?
+
+Person11 [0:20:57 - 0:21:34]:
+Nein, es ist eben nicht so. Es braucht genau das gleiche Protokoll. Es ist nach dem Stand der Techniker, es hat mehrere Sicherheitsstufen. Ich habe ein 12-Faktor-Login, um genau diese Mehrwertsteuer einzureichen. Und offenbar taugt die Infrastruktur, von der ich eine hohe Achtung habe, gerade vor, zu Milliarden Mehrwertsteuer einzuziehen. Es sind über 200'000 Unternehmen, die das jedes Quartal brauchen. Also ich glaube, man kann schlecht behaupten, dass der Bund das nicht kann. Er hat heute eine Infrastruktur, mit der er substanziell Steuern einzieht, über genau so eine Infrastruktur. Und die Namen der Wörter sind genau die gleichen. Es geht um Identity Providing, es geht um elektronische Identität, es geht um Sicherheitsstufen.
+
+Person11 [0:21:35 - 0:22:01]:
+Mir ist komisch, dass der Bundesrat nicht an vorderster Front die Lösung, die im Haus schon ist und absolut tadellos ist, parallel anbieten kann. Denn die Gesetze sind ganz klar, dass der Bund, wenn er es angenommen würde am 7. März, nur aktiv werden darf, wenn es die Privatwirtschaft nicht kann. Jetzt frage ich mich, was bedeutet das? Das müsste ja abgeschaltet werden, denn das ist ja im Konflikt mit diesem neuen Gesetz.
+
+Person10 [0:22:01 - 0:22:30]:
+Frau Bundesrätin sagt, es werde nicht abgeschaltet werden. Aber Sie haben die Privaten angesprochen. Und ich möchte auf die Privaten gehen, weil wir ja im Zentrum dieser ganzen Diskussion sind. Wer das in Zukunft soll und will anbieten, bei uns ist Markus Neff, CEO der SwissSign Group. Da stehen Unternehmen wie die Post, SBB, Swisscom, Banken und Versicherungen. Sie wollen die E-ID rausgeben. SwissSign arbeitet jetzt schon mit elektronischen Sicherheits- und Identitätszertifikaten. Wieso machen Sie das besser als der Staat?
+
+Person8 [0:22:30 - 0:23:38]:
+Wir machen es nicht besser. Wir sind einfach agiler als der Staat. Und ich glaube, genau dort liegt der Vorteil. Wenn wir das nutzen, wenn wir das privat machen, dann hat man die Möglichkeit, schlussendlich etwas aufzubauen und der Penetration zu sorgen. Die ISCH Login, die Sie gesagt haben, die 700'000, 800'000 Nutzer, wenn das beim Staat bleibt, ist das okay. Aber dort haben wir das hohe Sicherheitsniveau, das die Frau Bundesrätin angesprochen hat. Das wird nicht angepasst. Sie haben zwar von zwei Faktoren gesprochen, das kann okay sein. Aber das ganze Sicherheitsniveau, das das E-ID-Gesetz vorgesehen hat, wird dort nicht entsprechend abgebildet. Und dort liegt der Vorteil einer privaten Lösung, die eine Penetrationsdurchkringung im Schweizer Markt bringt. Sie sagen agiler, das heisst, der Staat hat das Know-how gar nicht. Der Staat hat das Know-how, aber Frau Bundesrätin hat es gesagt, da gibt es eine Ausschreibung. Wenn das der Staat machen würde, dann eine sehr komplexe Ausschreibung. Dann kann die WTO, notabene auch ausländische Firmen, sich entsprechend dafür bewerben. Die Requirements werden eingefroren. Und dann hat man diese Lösung. Das war eine sehr alte Lösung, die läuft heute noch, aber total veraltet. Und man kann da auch nicht Schritt halten. Man kann nicht Schritt halten.
+
+Person10 [0:23:38 - 0:23:44]:
+Jemand schaut kettisch in Ihre Richtung. Sanja Ameti ist bei uns. Guten Abend.
+
+Person10 [0:23:45 - 0:24:00]:
+Sie sind in der Parteileitung der GLP Zürich, die die Neiparolen herausgegeben hat, aber auch im Vorstand der GLP, die eine Stimmfreigabe beschlossen hat. Sie sind Juristin, Doktorandin für öffentliches Recht an der Uni Bern. Warum wollen Sie Herrn Neve und das Wisssein das Geschäft vermiesen?
+
+Person4 [0:24:01 - 0:24:53]:
+Ich möchte ihm das Geschäft nicht vermiesen. Okay, Herr Neve. Sagen wir, die Privaten sind agiler und können das besser und kompetenter machen als der Bund. Gehen wir mal davon aus. Dann braucht es aber zwei Voraussetzungen, die erfüllt werden müssen. Erstens eine griffige Verantwortlichkeit. Und zweitens eine potente Aufsicht. Zu der Verantwortlichkeit. Wie sieht es bei Ihnen aus? Sie führen ein zentrales Datensystem. Sie sammeln die Daten dort, bewahren sie für sechs Monate lang auf und arbeiten in solchen Firmen. Insofern ist das eine Gefahrenlage. Eine Gefahrenlage, dass Hacker z.B. meine Daten stellen und missbrauchen können. So wie es übrigens letzten September mit der grossen DDoS-Attacke auf Swiss-Sai passiert ist. Und jetzt möchte ich, wenn mir ein Schaden entsteht, wissen, haften Sie jetzt für diesen Schaden.
+
+Person4 [0:24:55 - 0:24:59]:
+Wie sieht es in diesem Gesetz aus? In den AGBs wird die Haftung ausgeschlossen,
+
+Person4 [0:25:00 - 0:25:17]:
+mehrheitlich. Im EID-Gesetz wird auf die allgemeinen Regeln des Obligationenrechts verwiesen. Und diese sind nicht griffig. Ich mache mal ein positives Beispiel, wie das mit der Haftung besser gemacht werden könnte. Die SBB.
+
+Person4 [0:25:18 - 0:25:48]:
+Die macht auch eine Gefahrenlage, indem sie eine Eisenbahn betreibt. Und wenn ich hier einsteigen möchte und klemmen mir das Bein ein, weil einfach mal ein Stromausfall passiert, dann haftet die SBB, ohne dass ich es verschulden muss, dass die SBB die Schuld an diesem Stromausfall trägt. Und genauso sollte die Haftung auch hier ausgestaltet sein. Ohne dass ich beweisen muss, dass Sie Schuld haben, dass meine Daten missbraucht wurden, sollten Sie haften können.
+
+Person10 [0:25:48 - 0:25:50]:
+Ich höre hinter mir jemand sagen, es stimmt nicht. Was stimmt nicht?
+
+Person2 [0:25:50 - 0:26:28]:
+Nein, es gilt das Obligationenrecht. Und wenn man eine Gesetzgebung macht in der Schweiz, dann wird man nicht in Spezialgesetze die grundlegenden Erlässlichkeiten abbilden. Das heisst, man kann nicht das ganze OR auch noch in das EID-Gesetz hineinschreiben. Es gilt das Obligationenrecht. Und was hier drin steht, ist einfach da, und das diskutiert die SBB im Parlament und in der Kommission, dass ich natürlich als Inhaberin der EID auch verantwortlich bin. Wenn ich diese einfach einer Drittperson überlasse, dann muss ich selber für diese schadenhaften. Und sonst, im Übrigen, regelt sich oder wird die Haftung geregelt gemäss dem Obligationenrecht.
+
+Person10 [0:26:27 - 0:26:31]:
+Das ist dann die sogenannte Geschäftsherrenhaftung? Auch, ja.
+
+Person2 [0:26:30 - 0:26:50]:
+Das gesamte Haftungsrecht, Sie schauen mich an wegen der Konzernverantwortung, wir haben auch schon über Haftung diskutiert hier drinnen. Kennen Sie mich langsam. Das gesamte Haftungsrecht, das abgebildete ist im OR, das gilt auch hier. Es ist üblich, dass man sagt, Sie haben es ja selber bestätigt, man verweist auf das OR.
+
+Person10 [0:26:50 - 0:26:52]:
+Es ist extrem schwierig,
+
+Person4 [0:26:52 - 0:27:14]:
+nach den allgemeinen Regeln des OR Haftung zu erwürgen. Sogar für den seltensten Fall, dass mit dem Mixer zu Hause explodiert, gibt es ein Spezialgesetz, das Produktenhaftpflichtgesetz, das eine spezielle Haftung vorgesehen, die ich als Konsumentin besser geschützt bin, als nach den allgemeinen Regeln des OR.
+
+Person10 [0:27:14 - 0:27:19]:
+Moment, Herr Gondinas, Sie sind schon länger unruhig. Was haben Sie zu sagen?
+
+Person6 [0:27:19 - 0:28:48]:
+Ich meine, man kann ja immer über Haftungsfragen führen, aber wir haben ja bewusst, es ist freiwillig und jeder Einzelne entscheidet. Und wenn Herr Andrej jetzt sagt, man hat ja gute Systeme beim Bund, die heute funktionieren, mit den Mehrwertsteuern. Unsere Idee hinter diesem Gesetz ist nicht nur, dass ich eine Identität oder ein Anmeldeverfahren im Internet habe, in Zusammenhang mit dem Bund, sondern, dass ich das auch bei meinen anderen Geschäften habe. Weil ich, bei den Bürgern, dass man weiss, ob ich an einem Ort bestellt habe oder an einem anderen das Buch. Also ich glaube, auch dort müssen wir sehen, wir wollen ja nicht, dass alle Staaten beim Bund sind. Wir haben beim Biometrischen Pass 2009 gesehen, was das für eine riesige Geschichte war. Mit 50,1% hat man ja gesagt, damit auf dem Pass noch ein Fingerabdruck und ein Passfoto drauf ist. Und das war ja die Idee dahinter. Wie können wir jetzt einen Schritt weiter, dass wir im Anmeldeverfahren im Internet etwas haben, das die Staatler reguliert haben, was wichtig ist für unsere Geschäfte, für verschiedene Geschäfte. Und da, glaube ich, spielt eben die Agilität der Privaten eine zentrale Rolle, damit die Leute auch von diesem Gebrauch machen, weil es freiwillig ist und weil es freiwillig sein muss, weil der Bürger sicher nicht eine Vorgabe haben will, dass man plötzlich eine elektronische Identität im Internet muss. Sie waren nicht agil hier, André.
+
+Person11 [0:28:46 - 0:30:09]:
+Ich bin einer agilen Firma unterwegs, also ich weiss, was das bedeutet, aber ich glaube, das gibt es hier nicht. Ich habe vorhin versucht, zu illustrieren, für was die E-ID, die heute beim Bund angeboten wird, gebraucht wird. Also das ist substanziell. Es geht darum, dass unternehmens- Mehrwertsteuer eingereicht werden kann. Das ist eine relativ hohe Anforderung und ich habe diesen Weg gemacht. Jetzt zu der Lösung, was das bedeutet. Der Kompromiss wäre ja gewesen, dass der Bund das weiterhin dürfen soll, das Gesetz sei, aber dass der Bund das macht, nur wenn es die Privaten nicht schaffen. Das steht so im Art. 10. Ich gebe euch ein Beispiel, was im Kanton Freiburg passieren würde. Ich war vor ein paar Tagen mit einem Staatsrat im Radio zu diesem Thema. Der Kanton Freiburg hat in den letzten Jahren eine gute, also das Gische-Virtuell, wie das bei uns heisst, auf B gestellt mit einer E-ID. Eine Fünftel der gesamten Bevölkerung braucht diese E-ID für die Behörden. Und das werden die meisten Sachen machen. Und dann sieht man den Staatsrat und das wird abgeschaltet nach diesem Gesetz. Und das ist das, was ich nicht ganz verstehen kann. Also das frage ich mich einfach, was auf Bundesebene passieren soll. Im Gesetz steht klar, der Bund kann das nur anbieten, wenn es die Privaten nicht können. In der Logik bedeutet das, die E-ID, die der Bund heute anbietet, für über eine Million aktive Nutzer, ist ja dann nicht mehr gültig.
+
+Person10 [0:30:09 - 0:30:39]:
+Vom Kanton Freiburg über zum Kanton Zürich. Dort ist bei der SVP Benjamin Fischer Präsident. Guten Abend. An der TV von Ihrer eigenen kantonalen Sektion ist der Entscheid für eine Ja-Parole knapp. Und auch Umfragen zeigen, die SVP-Basis ist da skeptisch. Da sieht man zum Beispiel auf dieser Umfrage dahinter, 58% der SVP-Basis sagt zu dem Gesetz Nein oder eher Nein. Nur 36% sagt Ja oder eher Ja. Da habe ich die SVP schon geschlossener erlebt.
+
+Person3 [0:30:40 - 0:32:58]:
+Ja, das ist tatsächlich so. Und ich verstehe auch die Bedenken, die sicher ein grosser Teil unserer Basis hat. Unsere Basis ist sicher sehr affin, wenn es um Datenschutz geht und Persönlichkeitsrecht geht. Aber es gibt eigentlich auch die Frage,  was ist mit der SVP? Das sind zwei ganz wichtige Argumente, die im Gespräch mit der skeptischen SVP-Anhängerin immer wichtig sind. Einerseits, es braucht sowieso eine solche Lösung. Wenn wir es nicht machen, machen grosse internationale Konzerne es schon lange. Es gibt immer mehr Logins, die über Facebook oder Google anmelden. Dort haben sie gar keine Privatsphäre. Dort wird dann mit ihren Daten gehandelt. Dort haben sie auch was die Haftung betrifft überhaupt keine Sicherheiten. Und das ist einfach das Ergebnis, wenn wir jetzt nur mal 15 Jahre weiterwurschteln und keine Lösung haben. Wir brauchen endlich eine gute Schweizer Lösung von einem anerkannten Login, der Sicherheit bietet. Und das zweite ist eben auch, es ist eben gerade richtig, dass das nicht voll und ganz beim Staat ist, sondern dass wir die Teilung haben, also die Personendaten, Namen, Geburtsdatum und das Foto und auf der anderen Seite die Nutzerdaten. Das ist wichtig. Der Staat muss nicht wissen, wenn ich mich beim Amorana einloge, was ich machen soll. Sondern wir haben die Teilung, wir haben auch einen Wettbewerb. Ich kann als Kunde auch auswählen, wo ich die E-ID machen möchte. Und die sind auch fähig, das weiterzuentwickeln, Benutzeroberfläche zu machen, die kundenfreundlich ist, die Kompatibilität sicherzustellen. Und das kann der Bund alles nicht. Das kann der Bund alles nicht. Wo haben Sie gesagt, wenn Sie sich wo einloggen würden? Das spielt ja keine Rolle, das ist ein Beispiel. Egal wo ich mich einloge. Was kommt man da drüber? Die Privatsphäre muss hochgehalten werden. Und genau dafür sorgt das Gesetz. Es ist sehr gut austariert. Und wie gesagt, wir haben ja gesehen, dass es mit der vollstaatlichen Lösung nicht funktioniert. Und man kann sich ja alle anderen IT-Projekte beim Bund mal anschauen. Der Bund hat dort wirklich Nachholbedarf. Und ich habe auch aus Sicht des Steuerzahlers keine Lust, dass dort sehr viel Geld verlocht wird. Ich finde es ja immer lustig, wenn von dieser Seite gesagt wird, gewinnorientierte Unternehmen, die dann da Gewinn erzielen wollen, ich garantiere Ihnen, dass es unter dem Strich sehr viel günstiger kommt, als wenn der Bund das sicherstellen muss. Also eine optimale Rollenteilung. Jeder macht, was er am besten kann.
+
+Person5 [0:32:58 - 0:35:12]:
+Ich möchte mal etwas zu den Fiktionen sagen, die hier gerne verbreitet werden. Zum Ersten zum Wettbewerb. Der CEO der Swiss Sign hat selber in einem Artikel mit dem Magazin der Zürcher Kantonalbank gesagt, wir bauen hier die digitale Infrastruktur ähnlich wie den Gleisbau der Eisenbahnen. Und wenn man ein wenig in die Geschichte zurück schaut, dann weiss man, wie das war mit den Eisenbahnen und wie das nicht so gut gelaufen ist, als Private für parallele Gleisstrukturen gebaut haben, wie sie dann Konkurs gingen und sich bekriegten. Und dann haben die politischen Vorfahren von der Bundesrätin Keller-Sutter gefunden, dass das doch ein Zeich ist. Wir brauchen kein privates Monopol. Wir machen eine Verstaatlichung. Und haben dann mit dem die SBB gegründet. Und wie man sieht, in anderen Ländern ist die Privatisierung der Eisenbahn auch keine besonders gute Idee. Und um nochmals einen Art Partei-Kolleg zu zitieren. Rudi Noser hat auf Blick TV gesagt, er weigte gar keinen Wettbewerb. Er weigte nur einen Anbieter. Das soll doch Swiss sein, der alles übernehmen soll. Und dann könnte man es immer noch verstaatlichen. Wieso macht man dann die ganze Übung, dass man ein Gesetz macht, um das alles auszulagern, wenn man am Schluss nur einen gibt und dann verstaatlicht man es wieder? Das ist ein völliger Blödsinn. Die zweite Fiktion ist die Frage der Freiwilligkeit. Jetzt kann man schon sagen, sie müssen das nicht machen. Gerade bei Behördengängen. Sie müssen das nicht machen. Sie können die Steuererklärung von Hand einreichen. Sie können ein Betreibungsregister aufs Amt holen. Leider schliessen wir jetzt alle Schalter. Sie können es am Mittwochmorgen von 8 bis 9 Uhr machen. Dann ist das schon freiwillig. Aber de facto ist die Wahlfreiheit relativ gering. Das ganze System ist so gebaut, dass man an verschiedenen Orten, z.B. bei der Post, aber auch bei anderen de facto gezwungen wird, eine Swiss-ID zu lösen. Das ist ein ganz wichtiger Kanton. Das hat nichts mit Freiwilligkeit zu tun.
+
+Person10 [0:35:13 - 0:35:15]:
+Zwingen Sie die Leute mit ihrer Swiss-Sign?
+
+Person8 [0:35:16 - 0:35:30]:
+Nein, wir zwingen die Leute gar nicht. Das sieht man auch bei der Post, wo Sie erwähnt haben. Parallel ist auch die zweite Login-Möglichkeit da. Swiss-ID garantiert einfach einen einfachen, sicheren Zugang zu den Post-Applikationen. Wir zwingen niemanden dazu.
+
+Person10 [0:35:30 - 0:35:55]:
+Er bezeichnet sich selber als Nerd. Der GLP-Nationalrat Jörg Meder, ein Naturwissenschaftler, der auch programmieren kann. Beim Programmieren sagt man etwas, was ein Fehler ist, einen Bug. Er sagt, das ganze Gesetz ist ein einziger Bug. Warum das so ist, oder er das so meint, will ich jetzt herausfinden. Darf ich Sie bitten, Herr Meder?
+
+Person10 [0:36:02 - 0:36:05]:
+Herr Meder, warum wollen Sie das Rad der Zeit zurückdrüllen?
+
+Person9 [0:36:06 - 0:36:17]:
+Wir müssen das nicht zurückdrüllen. Der Staat ist weitergegangen. Die Kantone sind weit in Erfahrung in Sachen elektronischer Dienstleistungen. Es ist heute mehr Dienstleistungen möglich. Vielleicht kam die alte Swiss-ID zu früh.
+
+Person10 [0:36:18 - 0:36:29]:
+Sie haben aber das Rad der Zeit in der eigenen Partei zurückgedrückt. In der Parlamentsdebatte war die GLP noch für die Lösung mit den Privaten. Zum Beispiel Ihre Parteikollege Beate Flach.
+
+Person7 [0:36:31 - 0:36:50]:
+Das ist eine Tatsache, dass der Staat in diesem Bereich nichts selber machen kann. Darum sind die Grünliberalen der Meinung, auch nach der Beratung in der Kommission, dass der Weg hier, private Anbieter zuzulassen, die diese Idee nachher weitergeben, dass das der richtige Weg ist.
+
+Person10 [0:36:51 - 0:37:14]:
+Beate Flach war nicht allein. Die GLP hat im Parlament noch geschlossen für das IID-Gesetz. Von B wie Bäumle über G wie Grossen bis B wie Weibel. Und das ist eine Tatsache. Heute redet die GLP plötzlich von einem unsorgfältigen Gesetz. Heisst das, Herr Maeder, alle Ihre Kolleginnen und Kollegen haben für ein unsorgfältiges Gesetz Ja gestimmt?
+
+Person9 [0:37:15 - 0:37:36]:
+Leider in Endabrechnung Ja. Aber sie haben selbst diverse Verbesserungen eingebracht. Sie haben eine gute Leistung angebracht. Es ist halt so, dass unsere Partei viele neue Mitglieder und auch kritisch sind. Ich möchte Digitalisierung mit Herz und Verstand. Ab und zu muss man lieber sagen, hey, etwas langsam und die richtige Abzweigung nehmen, als hauptsächlich möglichst schnell etwas hinzulegen.
+
+Person10 [0:37:36 - 0:37:41]:
+Das heisst, Ihre Kolleginnen und Kollegen hatten damals den Verstand nicht eingeschaltet oder das Herz nicht dabei?
+
+Person9 [0:37:41 - 0:38:02]:
+Nicht auf 100 Prozent. Es hat etwas gefehlt, um zu merken, wo der Fehler ist. Meine Kollegen sind alles andere als inkompetent. Ich vertraue ihnen in diversen Sachen aufs Beste. Aber es ist nicht mehr die Frage, welches Detailwissen da ist. In diesem Bereich muss man sagen, wenn man als Programmierer, als Nerd ein bisschen hineinseht, sieht man Gefahrenquellen, die normalen User gar nicht bekannt sind.
+
+Person10 [0:38:02 - 0:38:27]:
+Man muss die E-ID haben. Der gleiche Staat, der bei den IT-Themen bis jetzt nicht wirklich brilliert hat. Schlagzeile wie diese, Sie mögen sich erinnern. Insieme Informatik-Desaster kostet 102,4 Millionen. Bund verschwendet Millionen, erneut für IT-Projekte. Cyberangriff auf Ruag mehr als 20 Gigabyte entwendet. Erklären Sie mir, warum das der Staat besser machen soll als die Privaten.
+
+Person9 [0:38:28 - 0:39:03]:
+Nur schon einmal ein Vergleich. Ich habe schon für diverse Privaten programmiert. Ich habe auch schon mit anderen gesprochen. Die haben schon genügend mit Privaten.  mit den Projekten von 5 Millionen in die Hand gesetzt. Projekte wieder auf Null gesetzt. Dort wird in der Regel möglichst wenig drüber geschnurrt. In der Politik gilt, man kann Zünder von 5 oder 10 Jahren oder egal was noch einmal vorbringen. Und weltweit sind wir zum Beispiel für die Covid-App, was dort Datenschutzrichtlinien anbelangt, gelobt worden. Weltweite Lobbygeheimnisse haben in relativ kurzer Zeit das Projekt angesetzt. Es war schwierig, den Nutzen für die Bevölkerung zu erklären. Darum ist wahrscheinlich dort auch nicht so viele User wie in Sil. Aber rein der technischen Aspekt eine absolut super Lösung, staatlich.
+
+Person10 [0:39:04 - 0:39:09]:
+Es geht darum, wer weniger Fehler macht und weniger Geld verlochen.
+
+Person9 [0:39:10 - 0:39:51]:
+Es geht hier wirklich um das Kernelement, seine eigenen Bürger zu identifizieren. Da muss ich sagen, ja, man soll das finanziell effizient machen, aber das darf nicht an aller vordersten Stelle stehen. Ich möchte ja nicht einfach, hauptsächlich habe ich den Pass für 20 Franken, darum nehme ich auf Altpapier mit einem 4-farbenen Trinkbrocker, den Sie im Shop bestellen können. Man muss durchaus an gewissen grundlegenden Sachen... Es geht nicht um... Es ist immer von Login gesprochen worden. Es geht nicht um Newsletter oder Hobbykoch-Forum, deutschsprachiger Umweltschrift. Das wird eh in Deutschland bleiben, das wird die Swiss-EID nie akzeptieren. Das Zentrale ist, das fehlt, ist die Identifizierung gegenüber den Behörden. Das ist das Entscheidende. Und das soll der Kern des Gesetzes sein.
+
+Person10 [0:39:51 - 0:39:55]:
+Dann reden wir doch über die Rolle der Behörden und des Staates. Würden Sie das da unterschreiben, Herr Maeder?
+
+Person10 [0:39:57 - 0:40:03]:
+Der Staat soll der Wirtschaft möglichst wenig Schranken auferlegen und auf funktionierenden Märkten einen gesunden Wettbewerb spielen lassen.
+
+Person9 [0:40:04 - 0:40:16]:
+Aus diesem Grund hat sich die Swiss-EID mit W geschrieben. Das ist nachfolgeprografie für die Swiss-EID mit U geschrieben. Das können Sie privatwirtschaftlich annehmen. Mit dem können Sie in Läden Alkohol kosten. Wissen Sie, woher das ist?
+
+Person10 [0:40:17 - 0:40:28]:
+Das ist mein Zitat. Sie sind nahe dran, es ist aus der Leitlinie der GLP. Was Sie hier genau machen, ist genau Schranken auferlegen. Genau dieser Wirtschaft, mit der Sie Nein sagen.
+
+Person9 [0:40:27 - 0:40:41]:
+Swiss-EID mit W geschrieben, die gibt es schon. Da gibt es kein Gesetz, keine Schranken. Wenn die ein gutes Angebot hat, wird die sich durchsetzen. Aber die Wirtschaft ist doch nicht verantwortlich dafür, dass ich mich bei meiner Steuerbehörde identifizieren kann.
+
+Person10 [0:40:42 - 0:40:55]:
+Was Sie aber machen bei einem Nein, verhindern Sie einen gesetzlichen Rahmen. Das heisst, Sie überlegen es am Markt, wer die EID herausgibt. Das könnte dann auch ein chinesisches Unternehmen sein. Haben Sie dann Ihre Daten, meine Daten lieber auf einem chinesischen Server?
+
+Person9 [0:40:55 - 0:41:22]:
+Das ist mir immer ganz klar überlegt. Die Mär von dem einen Login mal aufbrechen. Jeder Service, den Sie irgendwo hinterher machen,  die Sie durch eine .com haben oder eine DE oder einen amerikanischen, die werden sich nie und nimmer für so eine Swiss-EID interessieren. Das heisst, die werden weithin ihr eigenes Login haben, einfach bei Google. Und auch Schweizer Firmen, wenn sie ein Google-Login haben, ist es ihnen wahrscheinlich gratis, wie sie mit ihren Werbedaten zahlen. Sie müssen sie zuerst überzeugen, ob sie die Abgabe an Swiss haben, weil die Zahlen das nicht in ihr Geschäftsmodell schliessen.
+
+Person10 [0:41:22 - 0:41:50]:
+Vertrauen Sie am eidgenössischen Datenschutzbeauftragten? Denn er hat zwar keine Stimmempfehlung abgegeben, aber er hat das hier gesagt. Ohne ein EID-Gesetz, wäre es schwierig, diese ausländischen EID-Provider zu verpflichten, Identifikations- und Nutzerdaten streng zu trennen, nach sechs Monaten zu löschen oder zu verhindern, dass sie für andere Zwecke verwendet werden, weitergegeben oder gar verkauft würden. Schauen wir mal Seth Salah an. Sie wollen mehr Sicherheit, aber er bewerkstellt genau das Gegenteil.
+
+Person9 [0:41:51 - 0:42:30]:
+Das ist etwas, das sich Swiss-EID aushalten könnte und sagen könnte, wir löschen die Daten schon nach zwei Monaten, benutzen sie für nichts, dann können sie einen Wettbewerb machen. Dann können wir ganz klar festsetzen, wenn es gegenüber der Behörde ist, dann gelten diese Regeln auch in einer neuen Variante, die von uns bevorzugt wird. Das ist das Beispiel vom Eintenegger. Wenn Sie irgendwo in einem Shop surfen gehen und einen Drucker anschauen, kommen Sie nach drei Wochen Druckerwerbung über. Das wird dann mit einem EID, egal in welcher Variante, weiter in der Fall sein. Das ist nicht ein Login-Prozess, in dem Sie die grossen Datenspur hinterlassen, sondern das, was Sie auf der Webseite surfen. Diese Daten werden dann auch weiter verkauft. Das ist eine Illusion, die hier erzählt wird.
+
+Person10 [0:42:30 - 0:42:40]:
+Frau Mäder, vielen Dank, dass Sie sich diese Frage gestellt haben. Frau Bundesrätin, werden mit diesem neuen Gesetz von uns allen noch mehr Daten abgesogen und gespeichert?
+
+Person2 [0:42:41 - 0:44:21]:
+Nein, überhaupt nicht. Ich glaube, der Datenschützer hat das richtig gesagt. Man muss ja heute sehen, wie viele Leute von uns, wir machen Debanking oder wir sind online unterwegs, wir schliessen die Verträge ab, wir bestellen die Waren, ohne dass wir einen besonderen gesetzlichen Schutz haben. Jetzt kann man sagen, man lehnt das Gesetz ab, man hat eine andere Möglichkeit,  Wir haben acht Jahre im Parlament debattiert. Man hat in der Debatte sehr viele Verbesserungen eingebracht. Sie haben das zu Recht gesagt, Herr Nationalrat Mäder. Beat Flach hat gute Verbesserungen eingebracht. Jetzt am Schluss geht man einfach auf die Tutti und sagt, nein, alles muss der Staat machen, auch die technische Umsetzung. Man weiss, dass das eigentlich schon einmal gescheitert ist. Wenn wir jetzt die Lösung anschauen, dann ist es ja genau so, dass die hoheitlichen Aufgaben beim Staatsanwalt    nicht im Staat bleiben. Das Bundesamt für Polizei bestätigt gegenüber einem Anbüter die Identität einer Person. Der Anbüter muss die Zustimmung der Person haben, um diese Daten zu verwenden. Er hat keine Daten darüber, was ich kaufe oder was ich genau mache. Er weiss, dass ich mich einloge. Mit dieser Argumentation, wie ich sie jetzt gehört habe, darf sie kein E-Banking mehr machen. Sie darf auch keine Kreditkarte mehr brauchen, weil, wovon ich rede, ist das nicht das, was ich brauche. Der Anbüter der Kreditkarte weiss, wo ich die Ferien gebucht habe, in welchem Hotel ich übernachtet habe, wo ich eingekauft habe, ob ich beim Globus gekauft habe oder wo auch immer. Bei der E-ID ist es so, dass wir wirklich ganz strenge Vorschriften für die Datenhaltung haben.
+
+Person10 [0:44:19 - 0:44:41]:
+Frau Bundesrätin, ich muss ganz streng sein jetzt. Ich brauche auch keine E-ID dazu, um zu wissen, wie viel Zeit es in dieser Sendung gebraucht hat. Schauen wir uns das doch mal zusammen an. Befürworter, ich brauche keine E-ID dazu. Ich habe noch eine Karte in blau. Wenn ich das hier unten bei mir sehe, sind sie deutlich voraus mit 17 Minuten und knapp 13 Minuten. Der Gegner möchte jetzt... Das war doch ein kleiner Wink mit dem Zaunfall.
+
+Person9 [0:44:42 - 0:45:19]:
+Darf ich das ergänzen? Machen Sie es. Der Kreditherr wird nachher mit dem neuen E-ID-Gesetz immer noch wissen, wo Sie was postet haben. Wenn Sie reklamieren wollen, muss er es ja wissen. Das Gefährliche ist, wenn Daten untereinander fliessen und jetzt... Wenn Sie jetzt schon nicht weiterverkaufen, dann verliert Ihr das Vertrauen. Aber ein normaler Webshop, der in den Marsch runterkratzt und nicht irgendwann noch grosse Gebühren holen kann, verkauft eben gerne weiter, weil er dort etwas rausholen kann. Bevor wir ins Detail gehen von dieser Sicherheitsdiskussion... Entschuldigung, Frau Bundesrätin.
+
+Person10 [0:45:13 - 0:45:21]:
+Wir bleiben in der gleichen Firma.
+
+Person10 [0:45:21 - 0:45:45]:
+Wir müssen die Leute zuhause mitnehmen. Moment, ich weiss, wir haben hier zwei Plexiglasscheiben, aber das heisst nicht, dass wir einfach wiederreden und den Moderator nicht beachten. Der sagt jetzt nämlich, dass die E-ID nicht sicher genug ist. Das sagen die Gegner. Die Sicherheit nimmt im Gegenteil sogar zu, sagen die Befürworter. Wie sieht das genau aus mit dem Datenschutz? Das ist unser Klärstück dazu, unser grafisches, wo wir zusammen in die virtuelle Welt springen.
+
+Person1 [0:45:56 - 0:46:00]:
+Die E-ID wird dann ausgeschlossen.
+
+Person1 [0:46:02 - 0:46:10]:
+Später schliesst dieselbe Person online eine Krankenversicherung ab und gibt wieder ihre E-ID an.
+
+Person1 [0:46:11 - 0:46:25]:
+Bei den E-ID-Betreibern ist nun gespeichert, dass die Person ihre E-ID benutzt hat. Beim Alkoholshop und bei der Versicherung. Das berge Missbrauchspotenzial, sagen die Gegner.
+
+Person1 [0:46:26 - 0:46:31]:
+Die E-ID-Betreiber könnten sich      mit den Daten ein Nutzungsprofil erstellen.
+
+Person1 [0:46:34 - 0:46:42]:
+Und der Versicherer könnte erfahren, dass die Person oft bei Alkoholshops ihre E-ID benutzt.
+
+Person1 [0:46:44 - 0:46:51]:
+Auch für Hacker könnte es interessant sein. Denn in den E-ID-Servern sind sehr viele Daten gespeichert.
+
+Person1 [0:46:53 - 0:46:58]:
+Damit die E-ID trotzdem sicher ist, sieht das Gesetz gewisse Mechanismen vor. Die E-ID-Betreiber können sich
+
+Person1 [0:47:01 - 0:47:04]:
+Die E-ID-Betreiber müssen die Sicherheit gewährleisten.
+
+Person1 [0:47:06 - 0:47:16]:
+Die Daten müssen getrennt aufbewahrt werden. Also wer die Person ist und wo sie sich eingeloggt hat, ist nicht am selben Ort gespeichert.
+
+Person1 [0:47:17 - 0:47:19]:
+Die Daten werden nach 6 Monaten gelöscht.
+
+Person1 [0:47:20 - 0:47:23]:
+Und die Daten dürfen nicht verkauft werden.
+
+Person1 [0:47:26 - 0:47:32]:
+Außerdem gibt es Kontrolleure. Die E-ID-Betreiber können sich     mit einer E-ID-Kommission überprüfen, dass das Gesetz eingehalten wird.
+
+Person1 [0:47:36 - 0:47:40]:
+Reicht das aus, um die Daten der Bürgerinnen und Bürger zu schützen?
+
+Person10 [0:47:43 - 0:47:53]:
+Sie unterstellen den privaten Anbieter ständig, da gebe es ein Missbrauchspotenzial. Aber jetzt sieht man, dass es eine E-ID-Kommission gibt, die ihnen auf die Finger schaut.
+
+Person5 [0:47:54 - 0:48:41]:
+Ich möchte zuerst klar festhalten, was der Unterschied zwischen der Bank und dem Staat ist. Private, wie z.B. das Konsortium Swisssein, bestehend aus Banken, Versicherungen, Krankenkassen und staatsnahen Betrieben, haben die Aufgabe, Geld zu verdienen. Das ist auch nicht ihre Rührung. Aber der Staat muss das nicht. Der Staat darf Gebühren erhalten, um seine Kosten zu decken. Das ist ein Unterschied. Wir haben hier ein Modell, das wir in diesem Gesetz zulassen. Es sieht vor, dass Daten entlastet werden.  Das heißt, wir müssen verstehen, dass Daten für sechs Monate gespeichert werden. An einem zentralen Ort. Das ist ein Sicherheitsrisiko. Natürlich ist gesetzlich geregelt, was man damit tun kann und was nicht.
+
+Person10 [0:48:41 - 0:48:46]:
+Können Sie jetzt noch auf meine Frage antworten? Es gibt eine Kommission, die schaut.
+
+Person5 [0:48:41 - 0:49:18]:
+Ich möchte zuerst sagen, dass man etwas hinterher regeln muss, das am Anfang gar nicht erst entstehen sollte. Das ist das Problem. Sie haben jetzt eine Art Rostock.  Sie sagen, das sei ein Pfeifen. Sie sagen, das sei ein Hund. Sie sagen, das sei nicht zu essen. Ich unterstelle Herrn Nef und Herrn Suissein nicht, dass sie das Gesetz brechen wollen. Aber es ist eine konstante Versuchung. Das wird Begehrlichkeiten wecken. Das gab es schon in den Parlamentsdebatten. Das wird es werden wiederkommen. Aber diese Daten darf man ja nicht verkaufen.
+
+Person10 [0:49:16 - 0:49:20]:
+Herr Mäder steht auch darin.
+
+Person9 [0:49:20 - 0:50:15]:
+Jetzt haben wir einen Zielkonflikt. Ich traue Suissein zu, dass sie das sauber macht. Aber es werden hoffentlich, es soll ja Wettbewerb sein, dass die Daten in der Schweiz bearbeitet werden. Je mehr Anbieter, desto mehr Systeme muss die eID.com kontrollieren. Als Programmierer kann ich Ihnen etwas sagen. Wenn Sie von zehn Systemen den Code wirklich so verstehen wollen, dass es nicht beschissen werden kann, und es ist verdammt einfach zu beschissen in diesem Bereich, wenn Sie die zehn Systeme verstehen, dann haben Sie mehr Zeit investiert, als wenn Sie Ihr eigenes System selbst aufsetzen wollen. Von daher wäre es wieder schön, es gäbe nur einen Anbieter, aber dann verliert ihr das ganze Argument vom Wettbewerb. Dann haben wir ein Kurs,  wo man quasi Monopol und quasi-Monopolisten auch nicht innovativ sein müssen. Dann ist auch die Agilität weg. Dann haben wir einfach ein staatlich garantiertes Monopol. Und der kann seine Gewinne, ich glaube nicht, dass das Abzocken sind, aber sie werden ihre Finanzen, ihre Löhne und ein bisschen Gewinn einheimischen. Das ist ganz normales Business.
+
+Person10 [0:50:15 - 0:50:39]:
+Normales Business, das Markus Neff heute Abend als CEO der Suissein Group vertritt. Sie haben 50 Partner weltweit und ein Angebot in über 50 Ländern. Laut dem ID-Gesetz dürfen die Daten und Nutzungsprofile nicht an Dritte verkehrt werden. Ich möchte Ihnen nicht kriminelle Energie unterstellen, wirklich nicht, aber wie wollen Sie zu 100% garantieren, dass das alles so abläuft, wie das Gesetz vorgesehen hat?
+
+Person8 [0:50:39 - 0:51:04]:
+Wir haben schon sehr viele Massnahmen eingesetzt, heute schon ohne dieses Gesetz. Wir sind schon seit Jahren ein zusätzlicher und trusted Service Provider. Wir werden regelmässig von namhaften Firmen auditiert, die eben die Logfiles anschauen, welche Daten unsere Mitarbeiter zugreifen. Und man kann nie sagen, dass alle Mitarbeiter schlussendlich  keine kriminelle Handlung haben. Aber das wäre eine Straftat, die schlussendlich dahinter wäre. Und das müssen wir entsprechend verfolgen.
+
+Person10 [0:51:04 - 0:51:19]:
+Ich habe heute vielleicht ein bisschen das Auge gerinnt, weil wir uns wirklich auf der Redaktion reingeknündigt haben und das alles ganz genau abgeloggt haben und dann diesen Passus gefunden haben im Gesetz. Die Datenbearbeitung, Herr Neff, durch Dritte bleibt vorbehalten. Konkret, Sie dürfen meine Daten auch Dritte zur Bearbeitung weitergeben.
+
+Person8 [0:51:19 - 0:51:47]:
+Das ist ja genau das, was passiert beim Login-Prozess. Oder schlussendlich, wenn Sie sich einloggen bei einer Bank oder so, geben wir, bestätigen wir die Identität, die wir von Herrn Sandro Brotz haben, und diese Daten geben wir weiter. Aber nochmals, es sind sehr, sehr wenige Daten, die wir haben. Ich habe heute mehr Daten im Eingang des heutigen Fernsehstudios gegeben, als wir überhaupt in unserer Datenbank haben. Und man hat es vorher gesehen, wir haben schlussendlich eine Trennung zwischen Nutzungsdaten und Identitätsdaten.
+
+Person11 [0:51:47 - 0:51:49]:
+Also es gibt eine klare Trennung, Herr André.
+
+Person11 [0:51:50 - 0:52:49]:
+Ich glaube, da darf man nicht allzu naiv sein, was diese Daten eben bedeuten. Profildaten, also wer, wenn, etwas macht, ohne zwingend zu wissen, was das ist, was genau ist, das sind ganz sensible, wichtige Daten. Ich meine, auf diesen Daten basieren Geschäftsmodelle von grossen Internetkonzernen. Und von daher muss man einfach aufpassen, wenn man das so in die Ecken nimmt, das ist alles nicht sensibel. Ich finde, es ist hochsensibel. Was wir hier verpassen zu machen mit diesem Gesetz, ist das, was eigentlich mit einer Identitätskarte, die ich brauche, um auszuweisen, ich bin über 18. Ich ziecke die, ich ziege die an den Tankstein, im Kiosk, und damit hat sich das. Niemand hat gespeichert, was ich mit dieser Identitätskarte gemacht habe, niemand weiss, wo, zu welchem Zweck ich diese einsetze. Und was wir brauchten, ist eine wirklich datensparsame Lösung, die genau gleich funktioniert. Weil bei allen Sicherheitsmassnahmen, es werden halt auch häufig Unternehmen gehackt. Es ist drei Jahre her, ein grosses Telekomunternehmen... Eigentlich, wenn Sie sagen,
+
+Person10 [0:52:47 - 0:52:54]:
+man müsse das gar nicht sechs Monate speichern, sondern gar nicht erst erheben die Daten und von Anfang an löschen.
+
+Person11 [0:52:53 - 0:53:13]:
+Das ist eine sehr moderne Architektur. Jetzt kann ich anerkennen, dass wir jetzt relativ lange diskutiert haben, um an den Ort zu kommen, an dem wir heute sind. Das anerkenne ich. Aber das ist ein wesentlicher Punkt. Wir brauchen eine Lösung, mit der ich mit meiner Identität
+
+Person11 [0:53:13 - 0:53:24]:
+unbeaufsichtigt machen darf, was ich will. Jetzt wird das zentral gespeichert und das Schadenpotenzial, siehst du, ich habe keinen Angriff, und das passiert regelmässig, ist immens.
+
+Person10 [0:53:24 - 0:53:37]:
+Das ist für mich privat nicht sicher. Sie sind ja nicht grundsätzlich gegen eine E-ID. Aber gibt es auch vom Staat nicht 100% Garantie, dass alles sicher ist?
+
+Person4 [0:53:37 - 0:54:04]:
+Gibt es auch nicht. Aber was ich als Bürgerin habe für Sicherungen gegenüber dem Staat, sind erstens meine Grundrechte und zweitens eine Staatshaftung, bei der ich eben nicht beweisen muss, dass der Staat eine Schuld trifft. Das ist der wesentliche Unterschied. Ich bin als Bürgerin viel besser gesichert,  als ich als Bürgerin. Die Enttäuschung an diesem Gesetz ist, dass der Profit der Privaten höher gewichtet wird als die Sicherheit der Bürger.
+
+Person10 [0:54:05 - 0:54:07]:
+Herr Fischer, wollen Sie Grundrechte aushilfen?
+
+Person3 [0:54:07 - 0:56:44]:
+Nein, überhaupt nicht. Das ist eine ganz eigenartige Diskussion, die jetzt ein bisschen abgedriftet ist. Das Schöne an diesem Gesetz ist, dass es technologieneutral ist. Es gibt ja nicht vor, wie genau diese Umsetzung stattfinden muss. Es können sich eben alle die gescheitsten Köpfe Gedanken darüber machen und sich dann als Identity Provider bewerben. Sie können ja auch miteinander eine Firma gründen und können sich auch bewerben, wenn sie die beste Lösung haben, wie man das möglichst statensparsam macht. Und das ist wirklich eine eigenartige Diskussion. Gerade wenn wir zum Beispiel Telekom-Anbieter haben, dort wird ja auch über gewisse Zeit gespeichert, wer mit wem Kontakt hat. Wir haben das Bundesgesetz über die Überwachung von Post- und Fernmeldewesen, die Jungparteien, ein Referendum ergriffen haben, wo wir leider nicht erfolgreich waren, wo festgeschrieben wird, dass die Daten in den letzten sechs Monaten gespeichert werden, die sogenannte Vorratsdatenspeicherung, die wir auch sehr problematisch finden. Und da haben wir es immer noch damit zu tun, das ist freiwillig. Wenn Sie lieber Ihre Idee am Schalter vorzeigen wollen, wenn Ihnen das sicher ist, dann machen Sie das auch in Zukunft. Und ich garantiere, die SVP wird sich immer dafür einsetzen, dass das auch weiterhin möglich ist. Und wir setzen uns auch jetzt ganz konkret dafür ein, wo es viele Gemeinden gibt, die wegen Corona ihre Schalter schliessen. Und da gehen wir wirklich auf Barrikaden und sagen, dass die die Möglichkeit haben, sich auch physisch zu zeigen. Und noch schnell ein kurzes Wort zum Jürg Mäder. Ich meine, du hast vorhin die Covid-App angesprochen. Das ist doch ein hervorragendes Beispiel, die zeigt, die ist wirklich technisch wunderschön umgesetzt. Sehr höhere Privatsphärenstandards. Aber sie ist ja nie richtig zum Fliegen gekommen. Es ist so umständlich mit dem Double Code, wo dann irgendwo drei Tage später noch einer vom BAG muss gehen usw. Die Covid-App hat das in der Bekämpfung der Corona-Pandemie genau gar nichts gebracht. Weil sie eben so ein wenig aus Nerd-Flight auf sich, zwar privatsphären-technisch perfekt irgendwo umgesetzt wurde, aber sie ist überhaupt nicht praktikabel. Und das ist das, was rauskommt, wenn der Staat irgendwie etwas deichselt. Oder die Privaten müssen dafür sorgen, dass das eine Lösung ist, die dann eben auch eine Verbreitung findet. Und das haben wir gerade in Deutschland gesehen, dass das die staatliche Lösung nicht kann. Und darum ist das eben ein hervorragendes Gesetz, das eben verschiedene Möglichkeiten gibt mit den besten Ideen. Und wenn jemand sich nicht aufs Gesetz hält, dann wird ihm die Lizenz aber sofort auch entzogen. Wenn jemand sich aufs Gesetz hält, dann wird ihm die Lizenz auch entzogen. Und das ist das Gute am Gesetz. Wir haben immer die Auswahlmöglichkeiten. Und wenn das Wissen, das nicht so erbringt, wie es im Gesetz vorgesehen ist, oder das nicht kann, dann muss es halt ein anderer machen. Und es wird sowieso auch mehrere geben. Es wird ein Wettbewerb geben. Und das ist immer besser für das Produkt.
+
+Person10 [0:56:43 - 0:56:56]:
+Also ein hoher Leid auf das EID-Gesetz, angestommen in den höchsten Tönen von Benjamin Fischer, der auch noch ein interessantes Beispiel bringt, dass alles gut und recht ist. Aber funktioniert hat es ja dann nicht, oder?
+
+Person9 [0:56:56 - 0:58:21]:
+Die Technologie, das System hat funktioniert. Es war für viele Leute schwer nachvollziehbar, was die Rechnung ist. Und die Anbindung war für uns noch schlecht. Das ist korrekt. Ich sage nicht, dass der Bund ein Muschelnab in Sachen Digitalisierung ist. Er soll durchaus mal den vom Kanton Schaffhausen für ein, zwei Jahre engagieren. Er kann es ihnen vormachen, wie man eine staatliche EID einführt. Man darf von anderen öffentlichen Ämtern auch lernen, auch in Bundesbern. Es gab viele Apps, die man sich im Restaurant registrieren musste. Private Lösungen, riesige Datenprobleme. Da sind massenhaft Daten angefallen, relativ vulnerable. Die haben langsam kalte Füsse bekommen. Wo läuft das rein? Wunderbar schnell, aber massenhaft Probleme. Darum sagen wir ja auch, wir wollen auch eine Partnerschaft. Entwickeln von der Software. Das dürfen alle, die Privaten. Aber der Betrieb, wenn die Daten fliessen, wenn ich auf eine Behörde einlogge, das soll mit Staat sein. Wenn der Staat das mitbekommt, nimmt er eine Swiss-ID oder ein Konkurrenzprodukt, ein kommerzielles Produkt für seine kommerziellen Bedürfnisse und ein staatliches Produkt für seine behördlichen Bedürfnisse. Das ist die Trennung, die wir haben wollen. Wenn eine neue Innovation kommt, wenn man sich noch besser einloggen kann, dann werden die im Bundesamt einen Brief schreiben, wir haben noch die bessere Technologie, das und das ist unsere Offerte, wenn oder wenn nicht. Forschung, Entwicklung, diese Fantasie die soll bei Privaten sein. Der Betrieb soll bei uns souverän sein.
+
+Person6 [0:58:21 - 0:59:12]:
+Aber Herr Maeder, jetzt haben Sie doch gezeigt und gesagt, wie gut das System von Schaffhausen ist. Genau das wollen wir ja mit diesem Gesetz, dass wir Möglichkeiten haben. Natürlich kann man auf einen Zeitungsartikel hinweisen, aber wenn man den letzten Satz in diesem NZZ-Artikel liest, ist der Regierungsrat von Schaffhausen sogar mit anderen Kantonen reden können. Und so soll es folgen, dann nutzen wir doch die Möglichkeit, zu sagen, will ich eine Lösung, die von der öffentlichen Hand kommt, oder will ich eine von Privaten. Und wenn man über Swiss-ID sagt, will ich eine Lösung,  wie die mit Daten spielen wollen. In Swiss-Science sind 20 nationale Unternehmen. Stell dir mal vor, was die aufs Spiel setzen würden, wenn das nicht klappen würde. Von einer Raiffeisen über AXA, über alle bekannten Versicherungen bis zur Post in Swisscom.
+
+Person9 [0:59:11 - 0:59:13]:
+Jetzt muss man doppelt wehren.
+
+Person6 [0:59:13 - 0:59:46]:
+Und das Gleiche ist bei der zentralen und dezentralen Lösung. Sie werden sich doppelt wehren. Genau so hätten wir Möglichkeiten, dass derjenige, der eine dezentrale Lösung will, die Hand in die Hand nehmen kann. Und der andere, der mehr Vertrauen hat in eine Firma, kann die haben. Und genau wenn wir das so machen, werden wir nie in die Pflicht eines Zwangs kommen. Wenn wir, wie Frau Marti gesagt hat, reden von «Das wird nur pseudo-freiwillig», wenn es der Staat macht, dann wird es erzwingt, aber sicher nicht, wenn wir Freiwillige haben mit mehreren Anbietern auf dem Markt.
+
+Person10 [0:59:45 - 0:59:49]:
+Man wartet auf den Doppelschlag von Jörg Maeter.
+
+Person9 [0:59:50 - 1:00:39]:
+Wir beide haben mehrmals gesagt, dass wir der Swiss-Science das nicht unterstellen. Aber das ist nicht so. Es ist ja vorgesehen, dass noch weitere Anbieter kommen. Und ob man für diese in gleichem Maße die Hand in die Hand legen kann, das kann ich heute noch nicht sagen. Denn es könnte Facebook, eine Schweizer Niederschlagschaft gründen, Handelsregister-Einträge machen, anbeweisen, dass sie es hier bearbeiten und Speiktaten, und sie wären durchaus im Rennen. Und das Zweite ist, was ist das für ein Staatsverständnis? Dann macht es den Staat schon Fuss für die ganze Schweiz. Dann übernimmt der Kanton Zürich die Flugsicherung, dessen Grenzen sichern durch auch die Landwirtschaft. Also, es ist jetzt das Problem, dass die Schweiz das lösen will. Dann ist mein Staatsverständnis, dass auch die Schweiz das lösen soll. Ich bewundere den Mut des Kantons Schaffhausen. Aber haben Sie die gesetzlichen Grundlagen dazu? Und ist der Kanton Schaffhausen bereit, Betriebsrisiko für die ganze Schweiz zu tragen? Finde ich heikel.
+
+Person10 [1:00:39 - 1:00:47]:
+Sie haben ja gesagt, am Anfang dieser Sendung, Frau Bundesrätin, Sie haben jetzt schriftlich vom Kanton Schaffhausen. Haben Sie diese Punkte auch schriftlich, die Herr Maeter sagt? Nein, ich habe darauf hingewiesen,
+
+Person2 [1:00:46 - 1:02:02]:
+dass Herr Regierungsrat Vogelsanger diesen Bericht klar dementiert hat und er sich nicht abbildet fand. Aber wir müssen vielleicht nochmals zurückkommen zu dem, worum es heute Abend wirklich geht. Es geht darum, dass wir uns heute alle im Internet bewegen. Wir haben verschiedene Aktivitäten. Wir haben Transaktionen mit Privaten, mit dem Staat. Wir haben verschiedene Logins, verschiedene Passwörter. Und jetzt soll für diejenigen, die das wollen, freiwillig sein, weil das Gesetz sagt, es braucht keine E-ID. Es muss immer ein anderer Kanal offen sein. Aber für diejenigen, die das wollen, soll es möglich sein, eine elektronische Identität zu lösen. Und das wäre die Chance, um in allen Kontakten, ob mit Privaten oder Behörden, das zu vereinfachen. Und wir hätten zum ersten Mal eine staatlich regulierte Lösung mit einer staatlichen Aufsicht. Das wurde vorher etwas belächelt. Aber wir haben auch eine Finanzmarktaufsicht, die griffig ist. Wir haben eine Aufsicht bei der Post, eine Aufsicht bei der Swisscom. Und so wäre auch die Aufsicht in dieser EIDKomm über die Anbieter. Und ich muss Ihnen sagen, die müssen sich alle drei Jahre wieder bewerben. Und wer sich nicht an die Regeln hält, dann wird die Lizenz, die Anerkennung, dann entzogen. Und die Aufsicht über die Zeit
+
+Person10 [1:02:01 - 1:02:05]:
+heute Abend, die habe ich.
+
+Person2 [1:02:05 - 1:02:06]:
+Leider.
+
+Person10 [1:02:05 - 1:02:10]:
+Damit mir nicht die Moderationskonzession entzogen wird, schauen wir mal schnell, wie es aussieht.
+
+Person10 [1:02:11 - 1:02:28]:
+Die Anerkennung ist immer noch massiv. Ich möchte einen Punkt zur Ihnen überspielen. Frau Marti, man hat durch eine Lösung, die auf dem Tisch ist und die Gefahr läuft, dass man hinterher kommt, wenn man hier nicht Ja sagt.
+
+Person5 [1:02:30 - 1:03:22]:
+Es ist immer schwierig, wenn man sagt, man sei alternativlos. Es gibt immer andere Möglichkeiten. Eine drängt sich auf. Man wird die EID, äh, nicht die EID, die normale Idee erneuern müssen. In diesem Rahmen könnte man sich eine EID überlegen, die man gleichzeitig abgibt. Verschiedene europäische Länder haben dieses Modell. Da könnte man auf die Erfahrungen zurückbleiben. Es wäre auch europakompatibel. Das wäre die Lösung. Das wäre auch noch der Vorteil dieser Lösung. Es gibt in nützlicher Frist Alternativen. Das ist das Erste. Das Zweite ist, ich muss schon etwas stöhnen. Niemand hat uns je gesagt, dass man im Fettball Programmierkürze belegen muss. Wir haben immer gesagt, es geht um die Verantwortung, es geht um den Absender, es geht um die Hoheit.
+
+Person5 [1:03:23 - 1:04:01]:
+Sie trauen dem Bund und ihren Bundesbeamten nicht zu, was sie offenbar dem kleinen Kanton Schaffhausen zutrauen, nämlich eine funktionierende Lösung zu finden, die verhebt. Das ist doch absurd. Der Bund muss durch die Kompetenz eine bessere Lösung haben. Wenn er sie nicht hat, muss er schleunigst bessere Leute haben. Digitalisierung ist eine der grössten Herausforderungen des 21. Jahrhunderts. Es kann doch nicht sein, dass der Bund sagt, wir kommen nicht daraus, wir sind nicht kompetent, wir schützen die Bürger nicht mehr vor den Risiken, wir nutzen die Chancen nicht, weil wir das nicht können. Vielleicht kann es ja der Kanton Schaffhausen. Das kann doch nicht sein.
+
+Person2 [1:04:03 - 1:04:32]:
+Ich muss das klarstellen, weil immer wieder gesagt wird, die Identitätskarten, die wahrscheinlich Ende Jahr neu aufgelegt werden, könnte man dann nutzen. Diese kommt nicht biometrisch. Das muss ich hier ganz klarstellen. Man hat zwar ausgeschrieben, normal und biometrisch, aber das ist eine Ausschreibungsfrage, dass, wenn man es eines Tages machen möchte, die WTO-Ausschreibung schon erfolgt ist. Da kann ich hier klar bestätigen, diese Idee kommt ganz normal und nicht mit der Biometrie.
+
+Person2 [1:04:33 - 1:05:32]:
+Es ist keine Schleimhaut, es ist ein Schengenerfordernis. Es wird so sein, Mitte 2031 werden verschiedene europäische Staaten eine Idee haben mit biometrischen Daten, um das vielleicht noch aufzuzeigen. Aber da ist keine Pflicht im Schengen-Raum. Und in der Schweiz ist man sehr kritisch dem gegenüber. Herr Fischer hat darauf hingewiesen beim Referendum zum biometrischen Pass. Und wenn man sie macht, wird das je gemacht, die biometrische Idee, immer freiwillig sein. Stellen Sie sich vor, ich möchte keinen Chip mit meiner Biometrie, einerseits, und andererseits alle Einkaufsdaten und Behördedaten. Und dann sind Sie wieder am Ort, wo Sie eine Technologie haben. Schauen Sie sich mal beispielsweise Telekommunikation an. Der Bund schreibt Ihnen auch nicht vor, dass alle ein schwarzes Telefon haben müssen. Sondern es sind Telekommunikationsanbieter, die umsetzungs-technische Mittel auf dem Markt haben. Und darum geht es hier.
+
+Person10 [1:05:32 - 1:05:56]:
+Stichwort Technologie. Wir reden heute Abend über das EID-Gesetz. Wir reden über Daten, also über den wichtigsten Rohstoff in dieser digitalen Welt. Man spricht immer von der digitalen Transformation, die wir hier drinstecken. Die grösste Veränderung in unserem Leben vermutlich nach der industriellen Revolution. Und die Industrialisierung, oder die Kritik daran, hat kein Film besser aufgezeigt wie dieser hier.
+
+Person10 [1:06:03 - 1:06:09]:
+Modern Times mit der TV-Sendung und Charlie Chaplin. Aber eben auch die digitale Transformation hat so ihre Tücken.
+
+Person10 [1:06:10 - 1:06:35]:
+Man kann dann in einer Videoschaltung zur heutigen Zeit, in die wir jetzt hinein wechseln, schnell einmal den Nachwuchs im Bild auftauchen. Spätestens in Corona hatten wir auch schon einige ähnliche Probleme. Mein Mann Marty, glaube ich, war auch mal Altersagletti im Studio und der Hintergrund kam dann der Nachwuchs. Und das ist die digitale Zukunftsmusik, die Roboter dazu tanzen.
+
+Person10 [1:06:36 - 1:06:42]:
+Sie wollen nicht mittanzen, Frau Marty. Sie wollen zurück auf Feld 1 in dieser Digitalisierung in diesem Land.
+
+Person5 [1:06:42 - 1:07:25]:
+Das stimmt doch gar nicht. Also niemand von uns ist gegen eine E-Idee. Niemand von uns ist gegen die Digitalisierung. Also das Referendum wird gerade getragen von extrem digital affinen Leuten. Es sind vor allem digitale Fachleute, IT-Security-Fachleute, die höchst skeptisch sind gegenüber dieser Vorstellung.   Das Referendum wurde ja auch von der digitalen Gesellschaft ergriffen. Unterstützt vom Chaos Computer Club, Piratenpartei usw. Das sind alles nicht Leute, die etwas gegen Technologie haben. Jörg Mäder ist selber Programmierer und bezeichnet sich als Nerd. Auch ich finde Technologie etwas Gutes. Die Frage ist, für was wird sie genutzt und wem kommt sie zu gut und wer profitiert davon? Das ist die Frage.
+
+Person10 [1:07:26 - 1:07:34]:
+Und was passiert, wenn wir dazu Nein sagen? Gehen wir dann zurück in dieser Entwicklung, bezüglich Digitalisierung, Herr André.
+
+Person11 [1:07:34 - 1:09:04]:
+Ich bin jetzt 20 Jahre in dieser Branche unterwegs. Vor allem in eher komplexeren Umfällen, also eher anspruchsvollen IT-Projekten. Wenn ich mal etwas gelernt habe, ist es für alle ganz schwierig. Ob privat, ob kantonal, ob gemein oder Bund, es ist für alle ganz etwas schwierig. Was bei allen gleich ist, und das gilt eben hier auch für den Bund, ist, dass man die Schritte gehen muss. Man kann nicht das Gefühl haben, weil jetzt etwas verpasst wird,  kommt man ganz weit vor. Das ist ja das, was der Bundesrat sagt. Der Bundesrat will die Schweiz digitalisieren. Aber man kann nicht die Schweiz digitalisieren, wenn man die Digitalisierung noch nicht einmal gelernt hat, zu lesen und zu schreiben. Und das Ausstatten einer Identität von Bürgerinnen und Bürgern, das ist eine der Kernaufgaben in dieser ganzen digitalen Architektur. Wenn der Bund sagt, das machen wir nicht, wir gehen gleich drei Stufen weiter, dann kommt es nicht gut. Das ist schlecht aufgelöst. Und darum bin ich sehr skeptisch, wenn der Bundesrat sagt, das können die Privaten besser, wir können das nicht. Die hoheitliche Aufgabe, die der Bund wahrnimmt, muss er weiterentwickeln und in dem digitalen Zeitalter anbieten können. Das hat er in der Vergangenheit gemacht mit Identitätskarten, mit dem Pass, mit den Banknoten, hat aber gegen die Kontrolle gehalten. Er hat sich die Innovationen auf dem freien Markt besorgt, aber er hat Kontrolle gehalten. Er hat eine frische Banknote, auch nicht bei den Druckkrieger, die sie druckt, sondern bei der Nationalbank.
+
+Person11 [1:09:05 - 1:09:05]:
+Ich habe immer gesagt,
+
+Person10 [1:09:05 - 1:09:24]:
+dass auch die junge GLP, die Sie heute Abend auch vertreten, neben dem, dass Sie auch in der Partei von der GLP Zürich tätig sind, dass sie auf den Fortschritt setzt, dass man für sie gehen will, aber die GLP sagt doch nach wie vor, liberal ist uns nicht wichtig.
+
+Person4 [1:09:24 - 1:10:31]:
+Stimmt nicht. Wir, vor allem die Jungen, sind immer so gefreut auf eine griffige E-ID, weil wir sie brauchen. Wir sind im Vergleich mit den anderen Ländern, die die Digitalisierung angehen, extrem in der Rückschicht. Jetzt komme ich zu einem Problem, das Frau Bundesrätin vorhin angesprochen hat. Sie hat gesagt, wir hätten eine griffige Aufsicht und hat die E-ID-Kommission mit der Finanzmarktaufsicht verglichen. Wenn ich jetzt aber schaue, was FINMA darf und was die E-ID-Com darf, dann muss ich sagen, die E-ID-Com ist eine kastrierte Aufsicht. Wenn wir FINMA anschauen, sind Strafsanktionen inbegriffen, sie dürfen Strafzahlungen anordnen, sie dürfen Berufsverbote aussprechen, eine ewig lange Liste von Sanktionsmöglichkeiten, die die E-ID-Com nicht darf. Das Höchste der Gefühle bei der E-ID-Com ist der Entzug der Anerkennung, aber dann darf der Private weiterhin operieren, selbst ohne die E-ID-Com.     Das ist keine rechtsstaatlich griffige Aufsicht.
+
+Person10 [1:10:31 - 1:10:34]:
+Sie haben sogar von einer kastrierten Aufsicht gesprochen. Frau Bundesrätin.
+
+Person2 [1:10:34 - 1:12:01]:
+Nein, das sehe ich anders. Aber Sie haben etwas Wichtiges gesagt. Wenn man die Anerkennung wegnehmen würde, entziehen würde, würde der Private weiter operieren. Das ist genau das, was passiert, wenn wir das Gesetz ablehnen. Danach entwickelt sich der Markt weiter. Die Privaten sind aktiv. Wir haben über Apple, Google, Facebook usw.   Sie haben ihre Daten im Ausland. Sie richten sich nicht nach unseren Gegebenheiten. Wir haben jetzt die Chance, dass wir diesen Bereich zum ersten Mal in der Schweiz regeln können. Wenn man glaubt, es gebe eine schnelle Lösung, muss ich vor dem warnen. Das ist eine Illusion. Es gibt drei Möglichkeiten. Sie machen eine ganz private Lösung. Schweden macht das. Dort geben die Banken die E-ID raus. Sie machen eine staatliche Lösung. Das wollten wir mit der Swiss-ID. Sie haben 20 Mio. Franken gebraucht. Oder sie machen eine Mischlösung. Sie sagen, die technische Umsetzung können auch Private, aber auch Gemeinwesen machen. Damit haben sie das Investitionsrisiko bei den Privaten und nicht beim Staat. Ich finde das eine sehr ideologische Diskussion. Diese Zusammenarbeit haben wir in anderen Bereichen auch zwischen Privat und Staat. Wichtig ist, dass der Staat die hoheitlichen Aufgaben behält. Diese Behaltung ist wichtig. Der Staat ist der Herr der Register. Aber die technische Umsetzung sind dann die Privaten.
+
+Person10 [1:12:01 - 1:12:04]:
+Sie setzen nicht auf Technologie, sondern auf Ideologie.
+
+Person4 [1:12:05 - 1:12:46]:
+Nein, das stimmt nicht. Der Staat behält die hoheitliche Aufgabe nicht. Er wird zum Datenlieferanten degradiert und herausgegeben wird sie einem Privaten. Und nochmals, es geht hier nicht um ein Login. Es geht um unsere offizielle Identität. Das mit dem Login ist Augenwischerei. Das entlarvt das Gesetz. Wenn man den dritten Artikel anschaut, steht dort, dass die E-ID erst überwiesen wird, wenn man einen offiziellen Ausweis nach dem Ausweisgesetz vorweisen kann. Und wenn das nicht die elektronische Weiterführung dieses Ausweises wäre, dann könnte ich das Login auch mit meiner Studie-ID beantragen oder sogar mit meiner Cumulus-Karte.
+
+Person10 [1:12:48 - 1:12:52]:
+Wir machen einen Kassensturz in der Arena. Schaut mal, wie es zeitlich aussieht.
+
+Person10 [1:12:53 - 1:12:55]:
+
+
+Person10 [1:12:55 - 1:13:05]:
+Lassen wir das so stehen? Ist in Ordnung? Alle einverstanden? Ausser die Kantinas. Aber hinein kann ich definitiv das Wort nicht mehr sehen. Das sehen Sie ein.
+
+Person6 [1:13:03 - 1:13:12]:
+Ich bin überzeugt, dass es eine gute Überlösung wäre.
+
+Person10 [1:13:12 - 1:13:30]:
+Da war jetzt aber ein Schlaumeier drin. Vielen Dank, dass Sie meine Gäste waren in dieser engagierten Diskussion. Vielen Dank Frau Bundesrätin. Wir sehen uns schon wieder in einer Woche. Wir werden uns in der nächsten Woche
+
+Person10 [1:13:30 - 1:14:01]:
+und miteinander darüber diskutieren. Und gepflegt streiten, wie wir das auch heute Abend gemacht haben. Jawohl! Vielen Dank allen zusammen. Produziert haben die Sendung Michael Zollinger und Severin Frohofer. Mich finden Sie auf Facebook, auf Instagram und auf Twitter. Auch noch, wenn Sie Lobkritik oder Anmerkungen machen möchten. Ich bin für Sie da. Das nennen wir bei uns Service public. Vielen Dank. Bleiben Sie kritisch. Gute Nacht aus dem Studio 8.
+
