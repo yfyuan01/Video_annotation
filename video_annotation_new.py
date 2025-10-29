@@ -40,8 +40,8 @@ st.markdown("""
 # User credentials
 USER_CREDENTIALS = {
     "test": {"password": "test123", "role": "test", "videos": "0-4"},  # 前5个视频 (索引0-4)
-    "annotator1": {"password": "anno1pass", "role": "annotator", "videos": "split1"},
-    "annotator2": {"password": "anno2pass", "role": "annotator", "videos": "split2"}
+    "annotator1": {"password": "politicannotation", "role": "annotator", "videos": "split1"},
+    "annotator2": {"password": "annotationpassword", "role": "annotator", "videos": "split2"}
 }
 
 # -----------------------------
