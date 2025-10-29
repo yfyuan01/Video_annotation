@@ -142,7 +142,7 @@ def get_user_videos(all_videos, username):
     if video_range == "split1":
         return available_videos[:mid_point]
     elif video_range == "split2":
-        return available_videos[mid_point:]
+        return [available_videos[0]] + available_videos[mid_point:]
 
     return []
 
@@ -163,6 +163,8 @@ def save_annotation(video_info, annotations_list, username):
             "argument_type": anno['type'],
             "claim": anno['claim'],
             "premise": anno['premise'],
+            "unclear": anno.get('unclear', ''),  # 🔥 ADD THIS
+            "person": anno.get('person', ''),  # 🔥 ADD THIS LINE
         }
         records.append(record)
 
@@ -368,7 +370,7 @@ if page == "Annotation":
         # original_video_idx = video['original_idx']
         # subtitles = load_vtt_with_time(f"subtitles/{original_video_idx}.vtt")
         # subtitle_text = subtitles_to_text(subtitles)
-        subtitle_text = ''.join(open(f"subtitles/{original_video_idx}.vtt").readlines())
+        subtitle_text = ''.join(open(f"subtitles/{original_video_idx}_corrected.vtt").readlines())
 
         # 初始化当前视频的高亮标注
         if original_video_idx not in st.session_state.highlighter_annotations:
@@ -395,6 +397,7 @@ if page == "Annotation":
             labels=[
                 ("Claim", "#FFB6C1"),  # 浅粉色
                 ("Premise", "#87CEEB"),  # 浅蓝色
+                ("Unclear", "#D3D3D3"),
             ],
             annotations=st.session_state.highlighter_annotations[original_video_idx],
             key=f"highlighter_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}",
@@ -408,15 +411,17 @@ if page == "Annotation":
             return f"{anno['start']}_{anno['end']}_{anno['tag']}"
         all_claims = [anno for anno in highlighted if anno.get('tag') == 'Claim']
         all_premises = [anno for anno in highlighted if anno.get('tag') == 'Premise']
+        all_unclear = [anno for anno in highlighted if anno.get('tag') == 'Unclear']  # 🔥 ADD THIS
         saved_ids = st.session_state.saved_annotation_ids[original_video_idx]
         current_claims = [anno for anno in all_claims if get_annotation_id(anno) not in saved_ids]
         current_premises = [anno for anno in all_premises if get_annotation_id(anno) not in saved_ids]
+        current_unclear = [anno for anno in all_unclear if get_annotation_id(anno) not in saved_ids]  # 🔥 ADD THIS
         st.markdown("---")
         st.subheader("➕ Create New Annotation")
         # 三元组输入区域
         st.markdown("**Current Annotation Triplet (Claim + Premise + Label):**")
 
-        col1, col2, col3 = st.columns([2, 2, 1])
+        col1, col2, col3, col4 = st.columns([2, 2, 1, 1])
         with col1:
             st.markdown("**📌 Claim**")
             # print(claims)
@@ -433,7 +438,12 @@ if page == "Annotation":
                 )
             else:
                 st.info("👆 Please highlight Claim text above")
-
+            use_previous_claim = st.checkbox(
+                "Same as previous?",
+                value=False,
+                key=f"use_previous_claim_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}",
+                help="Use claim from the most recent annotation"
+            )
         with col2:
             st.markdown("**📝 Premise**")
             if current_premises:
@@ -455,8 +465,17 @@ if page == "Annotation":
                 key=f"use_previous_premise_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}",
                 help="Use premise from the most recent annotation"
             )
-
         with col3:
+            st.markdown("**👤 Person**")
+            person_name = st.text_input(
+                "Person name",
+                value="",
+                key=f"person_name_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}",
+                placeholder="Optional number (e.g. 11)",
+                label_visibility="collapsed",
+                help="Enter person name or leave empty"
+            )
+        with col4:
             st.markdown("**🏷️ Type**")
             radio_key = f"argument_type_radio_{st.session_state.idx}_{st.session_state.highlighter_key[original_video_idx]}"
             # 使用 session_state 来控制默认值
@@ -474,10 +493,18 @@ if page == "Annotation":
         col1, col2, col3 = st.columns([1, 1, 2])
         with col1:
             if st.button("✅ Add Annotation", type="primary", use_container_width=True):
-                if current_claims and (current_premises or use_previous_premise):
+                if (current_claims or use_previous_claim) and (current_premises or use_previous_premise):
                     # 获取文本内容
-                    claim_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_claims]
-                    claim_ids = [get_annotation_id(anno) for anno in current_claims]
+                    if use_previous_claim and original_video_idx in st.session_state.annotations and len(
+                            st.session_state.annotations[original_video_idx]) > 0:
+                        last_anno = st.session_state.annotations[original_video_idx][-1]
+                        claim_texts = [last_anno['claim']]
+                        claim_ids = last_anno.get('claim_ids', [])
+                    else:
+                        claim_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_claims]
+                        claim_ids = [get_annotation_id(anno) for anno in current_claims]
+                    # claim_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_claims]
+                    # claim_ids = [get_annotation_id(anno) for anno in current_claims]
                     if use_previous_premise and original_video_idx in st.session_state.annotations and len(st.session_state.annotations[original_video_idx]) > 0:
                         last_anno = st.session_state.annotations[original_video_idx][-1]
                         premise_texts = [last_anno['premise']]
@@ -485,11 +512,16 @@ if page == "Annotation":
                     else:
                         premise_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_premises]
                         premise_ids = [get_annotation_id(anno) for anno in current_premises]
+                    unclear_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_unclear]
+                    unclear_ids = [get_annotation_id(anno) for anno in current_unclear]
+
                     # 创建新标注（三元组）
                     new_annotation = {
                         'type': st.session_state.current_argument_type,
                         'claim': "\n\n".join(claim_texts),
                         'premise': "\n\n".join(premise_texts),
+                        'unclear': "\n\n".join(unclear_texts) if unclear_texts else "",  # 🔥 ADD THIS
+                        'person': person_name,
                         'claim_ids': claim_ids,  # 🔥 新增
                         'premise_ids': premise_ids  # 🔥 新增
                     }
@@ -497,7 +529,7 @@ if page == "Annotation":
                     if original_video_idx not in st.session_state.annotations:
                         st.session_state.annotations[original_video_idx] = []
                     st.session_state.annotations[original_video_idx].append(new_annotation)
-                    for anno in current_claims + current_premises:
+                    for anno in current_claims + current_premises + current_unclear:
                         st.session_state.saved_annotation_ids[original_video_idx].add(get_annotation_id(anno))
 
                     st.session_state.current_claims = []
@@ -551,6 +583,8 @@ if page == "Annotation":
                     col1, col2 = st.columns([5, 1])
                     with col1:
                         st.markdown(f"**🏷️ Type:** `{anno['type']}`")
+                        if anno.get('person'):  # 🔥 ADD THESE 2 LINES
+                            st.markdown(f"**👤 Person:** `{anno['person']}`")
                         st.markdown("**📌 Claim:**")
                         st.text_area(
                             "claim",
@@ -569,11 +603,24 @@ if page == "Annotation":
                             disabled=True,
                             label_visibility="collapsed"
                         )
+                        # 🔥 ADD THIS - Display unclear if exists
+                        if anno.get('unclear'):
+                            st.markdown("**❓ Unclear:**")
+                            st.text_area(
+                                "unclear",
+                                value=anno['unclear'],
+                                height=80,
+                                key=f"saved_unclear_{idx}",
+                                disabled=True,
+                                label_visibility="collapsed"
+                            )
                     with col2:
                         if st.button("🗑️", key=f"delete_{idx}", help="Delete this annotation"):
                             deleted_anno = st.session_state.annotations[original_video_idx][idx]
                             # 🔥 获取所有相关的 annotation IDs
-                            all_ids = deleted_anno.get('claim_ids', []) + deleted_anno.get('premise_ids', [])
+                            all_ids = (deleted_anno.get('claim_ids', []) +
+                                        deleted_anno.get('premise_ids', []) +
+                                        deleted_anno.get('unclear_ids', []))
 
                             # 🔥 从 saved_annotation_ids 中移除
                             for anno_id in all_ids:

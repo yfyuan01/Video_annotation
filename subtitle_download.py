@@ -18,12 +18,12 @@ ydl_opts = {
 }
 
 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-    for i, url in tqdm(enumerate(links)):
+    for i, url in tqdm(enumerate(links[10:13])):
         try:
             info = ydl.extract_info(url, download=True)
             video_id = info.get("id")
             subtitle_file = f"{video_id}.de.vtt"
-            new_name = os.path.join("subtitles", f"{i}.vtt")
+            new_name = os.path.join("subtitles", f"{10+i}_old.vtt")
 
             if os.path.exists(subtitle_file):
                 os.rename(subtitle_file, new_name)
