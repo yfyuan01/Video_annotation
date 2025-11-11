@@ -337,7 +337,7 @@ def convert_transcript_to_lines(input_file, output_file):
 # Usage
 if __name__ == "__main__":
     # Example usage
-    for idx in tqdm(range(287,288)):
+    for idx in tqdm(range(421)):
         vtt_file = f"subtitles/{idx}.vtt"
         vtt_old_file = f"subtitles/{idx}_old.vtt"
         transcript_file = f"transcripts/transcription_{idx}.txt"
