@@ -851,6 +851,65 @@ elif page == "Admin Dashboard":
         with col4:
             avg_per_video = len(df) / df['video_idx'].nunique() if df['video_idx'].nunique() > 0 else 0
             st.metric("Avg Annotations/Video", f"{avg_per_video:.1f}")
+            # All annotations table
+            st.subheader("📋 All Annotations")
+
+            col1, col2 = st.columns(2)
+            with col1:
+                filter_type = st.multiselect("Filter by Type", df['argument_type'].unique())
+            with col2:
+                filter_video = st.multiselect("Filter by Video", df['video_title'].unique())
+
+            filtered_df = df.copy()
+            if filter_type:
+                filtered_df = filtered_df[filtered_df['argument_type'].isin(filter_type)]
+            if filter_video:
+                filtered_df = filtered_df[filtered_df['video_title'].isin(filter_video)]
+
+            st.dataframe(
+                filtered_df,
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "premise": st.column_config.TextColumn("Premise", width="large"),
+                    "timestamp": st.column_config.DatetimeColumn("Timestamp", format="YYYY-MM-DD HH:mm"),
+                }
+            )
+
+            # Export data
+            st.subheader("💾 Export Data")
+            col1, col2, col3 = st.columns(3)
+
+            with col1:
+                csv = filtered_df.to_csv(index=False).encode('utf-8')
+                st.download_button(
+                    label="📥 Download CSV",
+                    data=csv,
+                    file_name=f"annotations_{datetime.now().strftime('%Y%m%d')}.csv",
+                    mime="text/csv"
+                )
+
+            with col2:
+                from io import BytesIO
+
+                buffer = BytesIO()
+                with pd.ExcelWriter(buffer, engine='openpyxl') as writer:
+                    filtered_df.to_excel(writer, index=False, sheet_name='Annotations')
+                st.download_button(
+                    label="📥 Download Excel",
+                    data=buffer.getvalue(),
+                    file_name=f"annotations_{datetime.now().strftime('%Y%m%d')}.xlsx",
+                    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                )
+
+            with col3:
+                json_data = filtered_df.to_json(orient='records', indent=2)
+                st.download_button(
+                    label="📥 Download JSON",
+                    data=json_data,
+                    file_name=f"annotations_{datetime.now().strftime('%Y%m%d')}.json",
+                    mime="application/json"
+                )
 
         # User statistics
         if 'username' in df.columns:
@@ -876,65 +935,6 @@ elif page == "Admin Dashboard":
             fig2 = px.line(daily_counts, x='date', y='count', title='Daily Annotations')
             st.plotly_chart(fig2, use_container_width=True)
 
-        # All annotations table
-        st.subheader("📋 All Annotations")
-
-        col1, col2 = st.columns(2)
-        with col1:
-            filter_type = st.multiselect("Filter by Type", df['argument_type'].unique())
-        with col2:
-            filter_video = st.multiselect("Filter by Video", df['video_title'].unique())
-
-        filtered_df = df.copy()
-        if filter_type:
-            filtered_df = filtered_df[filtered_df['argument_type'].isin(filter_type)]
-        if filter_video:
-            filtered_df = filtered_df[filtered_df['video_title'].isin(filter_video)]
-
-        st.dataframe(
-            filtered_df,
-            use_container_width=True,
-            hide_index=True,
-            column_config={
-                "premise": st.column_config.TextColumn("Premise", width="large"),
-                "timestamp": st.column_config.DatetimeColumn("Timestamp", format="YYYY-MM-DD HH:mm"),
-            }
-        )
-
-        # Export data
-        st.subheader("💾 Export Data")
-        col1, col2, col3 = st.columns(3)
-
-        with col1:
-            csv = filtered_df.to_csv(index=False).encode('utf-8')
-            st.download_button(
-                label="📥 Download CSV",
-                data=csv,
-                file_name=f"annotations_{datetime.now().strftime('%Y%m%d')}.csv",
-                mime="text/csv"
-            )
-
-        with col2:
-            from io import BytesIO
-
-            buffer = BytesIO()
-            with pd.ExcelWriter(buffer, engine='openpyxl') as writer:
-                filtered_df.to_excel(writer, index=False, sheet_name='Annotations')
-            st.download_button(
-                label="📥 Download Excel",
-                data=buffer.getvalue(),
-                file_name=f"annotations_{datetime.now().strftime('%Y%m%d')}.xlsx",
-                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-            )
-
-        with col3:
-            json_data = filtered_df.to_json(orient='records', indent=2)
-            st.download_button(
-                label="📥 Download JSON",
-                data=json_data,
-                file_name=f"annotations_{datetime.now().strftime('%Y%m%d')}.json",
-                mime="application/json"
-            )
 
     except Exception as e:
         st.error(f"❌ Error loading data from GitHub: {e}")
