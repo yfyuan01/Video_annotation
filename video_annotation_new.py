@@ -383,8 +383,8 @@ if "annotations" not in st.session_state:
     st.session_state.annotations = {}
 if "highlighter_annotations" not in st.session_state:
     st.session_state.highlighter_annotations = {}
-if "current_argument_type" not in st.session_state:
-    st.session_state.current_argument_type = "N/A"
+# if "current_argument_type" not in st.session_state:
+#     st.session_state.current_argument_type = "N/A"
 if "highlighter_key" not in st.session_state:
     st.session_state.highlighter_key = {}
 
@@ -435,7 +435,7 @@ if page == "Annotation":
     with col2:
         if st.sidebar.button("🔄 Start Over"):
             st.session_state.idx = 0
-            st.session_state.current_argument_type = "N/A"
+            # st.session_state.current_argument_type = "N/A"
             st.success("Reset to first video!")
             st.rerun()
 
@@ -448,8 +448,8 @@ if page == "Annotation":
         "💡 **How to use:** \n"
         "1. Select a label (Claim/Premise) below\n"
         "2. Click and drag to highlight text in the subtitle area\n"
-        "3. Choose argument type and click 'Add Annotation' to save this pair\n"
-        "4. The highlights in text will remain, but Claim/Premise/Type selections will reset for next annotation"
+        "3. Click 'Add Annotation' to save this pair\n"
+        "4. The highlights in text will remain, but Claim/Premise selections will reset for next annotation"
     )
 
     # Load video data
@@ -484,7 +484,7 @@ if page == "Annotation":
 
         if selected_idx != st.session_state.idx:
             st.session_state.idx = selected_idx
-            st.session_state.current_argument_type = "N/A"
+            # st.session_state.current_argument_type = "N/A"
             st.rerun()
 
         # Current video
@@ -503,8 +503,6 @@ if page == "Annotation":
             st.session_state.current_premises = []
         if "saved_annotation_ids" not in st.session_state:
             st.session_state.saved_annotation_ids = {}
-        if "current_argument_type" not in st.session_state:
-            st.session_state.current_argument_type = "N/A"
         if original_video_idx not in st.session_state.saved_annotation_ids:
             st.session_state.saved_annotation_ids[original_video_idx] = set()
 
@@ -566,10 +564,10 @@ if page == "Annotation":
 
         st.markdown("---")
         st.subheader("➕ Create New Annotation")
-        st.markdown("**Current Annotation Triplet (Claim + Premise + Label):**")
+        st.markdown("**Current Annotation Pair (Claim + Premise):**")
 
         # Annotation input area
-        col1, col2, col3 = st.columns([2, 2, 1])
+        col1, col2 = st.columns([1, 1])
 
         with col1:
             st.markdown("**📌 Claim**")
@@ -615,18 +613,6 @@ if page == "Annotation":
                 help="Use premise from the most recent annotation"
             )
 
-        with col3:
-            st.markdown("**🏷️ Type**")
-            radio_key = f"argument_type_radio_{st.session_state.idx}_{st.session_state.highlighter_key[original_video_idx]}"
-            argument_type = st.radio(
-                "Argument Type",
-                ["Positive", "Neutral", "Negative", "N/A"],
-                index=["Positive", "Neutral", "Negative", "N/A"].index(st.session_state.current_argument_type),
-                key=radio_key,
-                label_visibility="collapsed"
-            )
-            st.session_state.current_argument_type = argument_type
-
         # Action buttons
         col1, col2, col3 = st.columns([1, 1, 2])
 
@@ -656,9 +642,9 @@ if page == "Annotation":
                     unclear_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_unclear]
                     unclear_ids = [get_annotation_id(anno) for anno in current_unclear]
 
-                    # Create new annotation
+                    # Create new annotation (without type)
                     new_annotation = {
-                        'type': st.session_state.current_argument_type,
+                        'type': '',  # Empty type field
                         'claim': "\n\n".join(claim_texts),
                         'premise': "\n\n".join(premise_texts),
                         'unclear': "\n\n".join(unclear_texts) if unclear_texts else "",
@@ -678,7 +664,6 @@ if page == "Annotation":
 
                     st.session_state.current_claims = []
                     st.session_state.current_premises = []
-                    st.session_state.current_argument_type = "N/A"
                     st.session_state.highlighter_key[original_video_idx] += 1
                     st.rerun()
                 else:
@@ -691,7 +676,6 @@ if page == "Annotation":
                     anno for anno in st.session_state.highlighter_annotations[original_video_idx]
                     if get_annotation_id(anno) in st.session_state.saved_annotation_ids[original_video_idx]
                 ]
-                st.session_state.current_argument_type = "N/A"
                 st.session_state.highlighter_key[original_video_idx] += 1
                 st.rerun()
 
@@ -701,7 +685,6 @@ if page == "Annotation":
                 st.session_state.saved_annotation_ids[original_video_idx] = set()
                 if original_video_idx in st.session_state.annotations:
                     st.session_state.annotations[original_video_idx] = []
-                st.session_state.current_argument_type = "N/A"
                 st.session_state.highlighter_key[original_video_idx] += 1
                 st.rerun()
 
@@ -714,11 +697,9 @@ if page == "Annotation":
         if current_annotations:
             st.write(f"**Total: {len(current_annotations)} annotation(s)**")
             for idx, anno in enumerate(current_annotations):
-                with st.expander(f"#{idx + 1}: [{anno['type']}] {anno['claim'][:50]}...", expanded=False):
+                with st.expander(f"#{idx + 1}: {anno['claim'][:50]}...", expanded=False):
                     col1, col2 = st.columns([5, 1])
                     with col1:
-                        st.markdown(f"**🏷️ Type:** `{anno['type']}`")
-
                         st.markdown("**📌 Claim:**")
                         st.text_area(
                             "claim",
@@ -795,7 +776,7 @@ if page == "Annotation":
                         st.success(f"✅ Saved {len(current_annotations)} annotation(s) to GitHub!")
                         with st.expander("📄 View saved annotations"):
                             for idx, anno in enumerate(current_annotations, start=1):
-                                st.write(f"{idx}. **[{anno['type']}]** {anno['claim'][:50]}...")
+                                st.write(f"{idx}. {anno['claim'][:50]}...")
 
         with col2:
             if st.button("➡️ Next Video", use_container_width=True):
@@ -808,7 +789,6 @@ if page == "Annotation":
 
                 if video_idx < len(video_data) - 1:
                     st.session_state.idx += 1
-                    st.session_state.current_argument_type = "N/A"
                     st.rerun()
                 else:
                     st.info("✨ This is the last video.")
@@ -856,12 +836,15 @@ elif page == "Admin Dashboard":
 
         col1, col2 = st.columns(2)
         with col1:
-            filter_type = st.multiselect("Filter by Type", df['argument_type'].unique())
+            if 'argument_type' in df.columns:
+                filter_type = st.multiselect("Filter by Type", df['argument_type'].unique())
+            else:
+                filter_type = []
         with col2:
             filter_video = st.multiselect("Filter by Video", df['video_title'].unique())
 
         filtered_df = df.copy()
-        if filter_type:
+        if filter_type and 'argument_type' in df.columns:
             filtered_df = filtered_df[filtered_df['argument_type'].isin(filter_type)]
         if filter_video:
             filtered_df = filtered_df[filtered_df['video_title'].isin(filter_video)]
@@ -920,12 +903,13 @@ elif page == "Admin Dashboard":
             fig_users = px.bar(user_stats, x='username', y='count', title='Annotations per User')
             st.plotly_chart(fig_users, use_container_width=True)
 
-        # Type distribution
-        st.subheader("📈 Annotation Type Distribution")
-        import plotly.express as px
+        # Type distribution (only if argument_type column exists)
+        if 'argument_type' in df.columns and not df['argument_type'].isna().all():
+            st.subheader("📈 Annotation Type Distribution")
+            import plotly.express as px
 
-        fig = px.pie(df, names='argument_type', title='Argument Types')
-        st.plotly_chart(fig, use_container_width=True)
+            fig = px.pie(df, names='argument_type', title='Argument Types')
+            st.plotly_chart(fig, use_container_width=True)
 
         # Timeline
         if 'timestamp' in df.columns:
