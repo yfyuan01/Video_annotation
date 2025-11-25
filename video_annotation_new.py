@@ -7,9 +7,8 @@ import re
 from github import Github, GithubException
 import base64
 from io import StringIO
-
-from pygments.lexer import combined
 from text_highlighter import text_highlighter
+import time
 
 st.set_page_config(
     page_title="Political Argument Annotation Tool",
@@ -37,7 +36,9 @@ st.markdown("""
 # -----------------------------
 # User credentials
 USER_CREDENTIALS = {
-    "test": {"password": "test123", "role": "test", "videos": "0-4"},
+    "test1": {"password": "test123", "role": "test", "videos": "0-4"},
+    "test2": {"password": "test456", "role": "test", "videos": "0-4"},
+    "test3": {"password": "test", "role": "test", "videos": "0-4"},
     "annotator1": {"password": "politicannotation", "role": "annotator", "videos": "split1"},
     "annotator2": {"password": "annotationpassword", "role": "annotator", "videos": "split2"}
 }
@@ -383,10 +384,10 @@ if "annotations" not in st.session_state:
     st.session_state.annotations = {}
 if "highlighter_annotations" not in st.session_state:
     st.session_state.highlighter_annotations = {}
-# if "current_argument_type" not in st.session_state:
-#     st.session_state.current_argument_type = "N/A"
 if "highlighter_key" not in st.session_state:
     st.session_state.highlighter_key = {}
+if "annotation_count_since_save" not in st.session_state:
+    st.session_state.annotation_count_since_save = {}
 
 # Sidebar mode selection
 page = st.sidebar.radio("Mode", ["Annotation", "Admin Dashboard"])
@@ -426,18 +427,11 @@ if page == "Annotation":
     st.sidebar.markdown(f"**👤 User:** {st.session_state.username}")
     st.sidebar.markdown(f"**📋 Role:** {st.session_state.user_role}")
 
-    col1, col2 = st.sidebar.columns(2)
-    with col1:
-        if st.sidebar.button("🚪 Logout"):
-            st.session_state.logged_in = False
-            st.session_state.username = None
-            st.rerun()
-    with col2:
-        if st.sidebar.button("🔄 Start Over"):
-            st.session_state.idx = 0
-            # st.session_state.current_argument_type = "N/A"
-            st.success("Reset to first video!")
-            st.rerun()
+    # Only logout button, removed "Start Over" button
+    if st.sidebar.button("🚪 Logout", use_container_width=True):
+        st.session_state.logged_in = False
+        st.session_state.username = None
+        st.rerun()
 
     st.sidebar.markdown("---")
 
@@ -446,10 +440,10 @@ if page == "Annotation":
     # Instructions
     st.info(
         "💡 **How to use:** \n"
-        "1. Select a label (Claim/Premise) below\n"
-        "2. Click and drag to highlight text in the subtitle area\n"
-        "3. Click 'Add Annotation' to save this pair\n"
-        "4. The highlights in text will remain, but Claim/Premise selections will reset for next annotation"
+        "1. Select a label (Claim/Premise) at the top\n"
+        "2. Scroll down and highlight text in the subtitle area\n"
+        "3. Use the buttons at the top to add or clear annotations\n"
+        "4. Annotations are auto-saved to GitHub every 2 pairs"
     )
 
     # Load video data
@@ -484,7 +478,6 @@ if page == "Annotation":
 
         if selected_idx != st.session_state.idx:
             st.session_state.idx = selected_idx
-            # st.session_state.current_argument_type = "N/A"
             st.rerun()
 
         # Current video
@@ -505,6 +498,8 @@ if page == "Annotation":
             st.session_state.saved_annotation_ids = {}
         if original_video_idx not in st.session_state.saved_annotation_ids:
             st.session_state.saved_annotation_ids[original_video_idx] = set()
+        if original_video_idx not in st.session_state.annotation_count_since_save:
+            st.session_state.annotation_count_since_save[original_video_idx] = 0
 
         # Load saved annotations for this video
         if original_video_idx not in st.session_state.annotations:
@@ -524,7 +519,6 @@ if page == "Annotation":
         st.markdown(f"**Video URL:** {video['url']}")
 
         st.markdown("---")
-        st.subheader("📝 Subtitle Text - Highlight to Annotate")
 
         # Load subtitle text
         subtitle_text = ''.join(open(f"subtitles/{original_video_idx}_corrected.vtt").readlines())
@@ -540,7 +534,8 @@ if page == "Annotation":
             annotations=st.session_state.highlighter_annotations[original_video_idx],
             key=f"highlighter_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}",
             show_label_selector=True,
-            text_height=400
+            text_height=400,
+            selected_label="Claim"
         )
 
         if highlighted != st.session_state.highlighter_annotations[original_video_idx]:
@@ -562,63 +557,23 @@ if page == "Annotation":
         current_premises = [anno for anno in all_premises if get_annotation_id(anno) not in saved_ids]
         current_unclear = [anno for anno in all_unclear if get_annotation_id(anno) not in saved_ids]
 
+        # ====================
+        # TOP SECTION: Action buttons and annotation preview
+        # ====================
         st.markdown("---")
-        st.subheader("➕ Create New Annotation")
-        st.markdown("**Current Annotation Pair (Claim + Premise):**")
+        # st.subheader("➕ Quick Actions")
 
-        # Annotation input area
+        # Action buttons at the top (removed "Clear All Highlights" button)
         col1, col2 = st.columns([1, 1])
 
         with col1:
-            st.markdown("**📌 Claim**")
-            if current_claims:
-                claim_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_claims]
-                combined_claim = "\n\n".join(claim_texts)
-                st.text_area(
-                    "Claim content",
-                    value=combined_claim,
-                    height=120,
-                    disabled=True,
-                    label_visibility="collapsed"
-                )
-            else:
-                st.info("👆 Please highlight Claim text above")
-
-            use_previous_claim = st.checkbox(
-                "Same as previous?",
-                value=False,
-                key=f"use_previous_claim_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}",
-                help="Use claim from the most recent annotation"
-            )
-
-        with col2:
-            st.markdown("**📝 Premise**")
-            if current_premises:
-                premise_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_premises]
-                combined_premise = "\n\n".join(premise_texts)
-                st.text_area(
-                    "Premise content",
-                    value=combined_premise,
-                    height=120,
-                    disabled=True,
-                    label_visibility="collapsed"
-                )
-            else:
-                st.info("👆 Please highlight Premise text above")
-
-            use_previous_premise = st.checkbox(
-                "Same as previous?",
-                value=False,
-                key=f"use_previous_premise_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}",
-                help="Use premise from the most recent annotation"
-            )
-
-        # Action buttons
-        col1, col2, col3 = st.columns([1, 1, 2])
-
-        with col1:
             if st.button("✅ Add Annotation", type="primary", use_container_width=True):
-                if (current_claims or use_previous_claim) and (current_premises or use_previous_premise):
+                if (current_claims or st.session_state.get(f"use_prev_claim_{original_video_idx}", False)) and \
+                        (current_premises or st.session_state.get(f"use_prev_premise_{original_video_idx}", False)):
+
+                    use_previous_claim = st.session_state.get(f"use_prev_claim_{original_video_idx}", False)
+                    use_previous_premise = st.session_state.get(f"use_prev_premise_{original_video_idx}", False)
+
                     # Get claim text
                     if use_previous_claim and original_video_idx in st.session_state.annotations and len(
                             st.session_state.annotations[original_video_idx]) > 0:
@@ -642,9 +597,9 @@ if page == "Annotation":
                     unclear_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_unclear]
                     unclear_ids = [get_annotation_id(anno) for anno in current_unclear]
 
-                    # Create new annotation (without type)
+                    # Create new annotation
                     new_annotation = {
-                        'type': '',  # Empty type field
+                        'type': '',
                         'claim': "\n\n".join(claim_texts),
                         'premise': "\n\n".join(premise_texts),
                         'unclear': "\n\n".join(unclear_texts) if unclear_texts else "",
@@ -665,7 +620,20 @@ if page == "Annotation":
                     st.session_state.current_claims = []
                     st.session_state.current_premises = []
                     st.session_state.highlighter_key[original_video_idx] += 1
-                    st.rerun()
+
+                    # Increment counter
+                    st.session_state.annotation_count_since_save[original_video_idx] += 1
+
+                    # Auto-save every 2 annotations
+                    if st.session_state.annotation_count_since_save[original_video_idx] >= 2:
+                        current_annotations = st.session_state.annotations.get(original_video_idx, [])
+                        with st.spinner("🔄 Auto-saving to GitHub..."):
+                            success = save_annotation(video, current_annotations, st.session_state.username)
+                        if success:
+                            st.session_state.annotation_count_since_save[original_video_idx] = 0
+                            st.toast("✅ Auto-saved to GitHub!", icon="💾")
+
+                    # st.rerun()
                 else:
                     st.error("⚠️ Please highlight at least one claim and one premise (or check 'Same as previous').")
 
@@ -679,22 +647,79 @@ if page == "Annotation":
                 st.session_state.highlighter_key[original_video_idx] += 1
                 st.rerun()
 
-        with col3:
-            if st.button("🧹 Clear All Highlights", use_container_width=True):
-                st.session_state.highlighter_annotations[original_video_idx] = []
-                st.session_state.saved_annotation_ids[original_video_idx] = set()
-                if original_video_idx in st.session_state.annotations:
-                    st.session_state.annotations[original_video_idx] = []
-                st.session_state.highlighter_key[original_video_idx] += 1
-                st.rerun()
+        # Current annotation preview (compact)
+        st.markdown("**Current Selection:**")
+        col1, col2 = st.columns([1, 1])
 
-        # Display saved annotations
-        st.markdown("---")
+        with col1:
+            st.markdown("**📌 Claim**")
+            if current_claims:
+                claim_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_claims]
+                combined_claim = "\n\n".join(claim_texts)
+                st.text_area(
+                    "Claim content",
+                    value=combined_claim,
+                    height=100,
+                    disabled=True,
+                    label_visibility="collapsed",
+                    key=f"claim_preview_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}"
+                )
+            else:
+                st.info("👇 Highlight Claim text below")
+
+            use_previous_claim = st.checkbox(
+                "Same as previous?",
+                value=False,
+                key=f"use_prev_claim_{original_video_idx}",
+                help="Use claim from the most recent annotation"
+            )
+
+        with col2:
+            st.markdown("**📝 Premise**")
+            if current_premises:
+                premise_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_premises]
+                combined_premise = "\n\n".join(premise_texts)
+                st.text_area(
+                    "Premise content",
+                    value=combined_premise,
+                    height=100,
+                    disabled=True,
+                    label_visibility="collapsed",
+                    key=f"premise_preview_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}"
+                )
+            else:
+                st.info("👇 Highlight Premise text below")
+
+            use_previous_premise = st.checkbox(
+                "Same as previous?",
+                value=False,
+                key=f"use_prev_premise_{original_video_idx}",
+                help="Use premise from the most recent annotation"
+            )
+
+        # ====================
+        # MIDDLE SECTION: Subtitle text for highlighting
+        # ====================
+        # st.markdown("---")
+        # st.subheader("📝 Subtitle Text - Highlight to Annotate")
+        # st.caption("Select a label (Claim/Premise/Unclear) above, then click and drag to highlight text below")
+
+        # The highlighter is already rendered above, no need to render again
+
+        # ====================
+        # BOTTOM SECTION: Saved annotations
+        # ====================
+        # st.markdown("---")
         st.subheader("📋 Saved Annotations")
 
         current_annotations = st.session_state.annotations.get(original_video_idx, [])
 
         if current_annotations:
+            # Show auto-save status
+            count_since_save = st.session_state.annotation_count_since_save.get(original_video_idx, 0)
+            if count_since_save > 0:
+                st.info(f"💾 {count_since_save}/2 annotations since last auto-save")
+
             st.write(f"**Total: {len(current_annotations)} annotation(s)**")
             for idx, anno in enumerate(current_annotations):
                 with st.expander(f"#{idx + 1}: {anno['claim'][:50]}...", expanded=False):
@@ -766,27 +791,34 @@ if page == "Annotation":
         with col1:
             if st.button("💾 Save All Annotations to GitHub", type="primary", use_container_width=True):
                 current_annotations = st.session_state.annotations.get(original_video_idx, [])
-
                 if len(current_annotations) == 0:
                     st.warning("No annotations to save for this video!")
                 else:
                     with st.spinner("Saving to GitHub..."):
                         success = save_annotation(video, current_annotations, st.session_state.username)
+
                     if success:
+                        # Reset counter after manual save
+                        st.session_state.annotation_count_since_save[original_video_idx] = 0
                         st.success(f"✅ Saved {len(current_annotations)} annotation(s) to GitHub!")
-                        with st.expander("📄 View saved annotations"):
-                            for idx, anno in enumerate(current_annotations, start=1):
-                                st.write(f"{idx}. {anno['claim'][:50]}...")
+                        st.toast("✅ Saved successfully!", icon="✅")
+                        time.sleep(1.5)
+                        st.rerun()
 
         with col2:
             if st.button("➡️ Next Video", use_container_width=True):
                 current_annotations = st.session_state.annotations.get(original_video_idx, [])
+
+                # Save if there are annotations
                 if len(current_annotations) > 0:
                     with st.spinner("Auto-saving to GitHub..."):
                         success = save_annotation(video, current_annotations, st.session_state.username)
-                    if success:
-                        st.success(f"✅ Auto-saved {len(current_annotations)} annotation(s)!")
 
+                    if success:
+                        st.session_state.annotation_count_since_save[original_video_idx] = 0
+                        st.toast("✅ Auto-saved!", icon="💾")
+
+                # Switch to next video
                 if video_idx < len(video_data) - 1:
                     st.session_state.idx += 1
                     st.rerun()
@@ -831,7 +863,8 @@ elif page == "Admin Dashboard":
         with col4:
             avg_per_video = len(df) / df['video_idx'].nunique() if df['video_idx'].nunique() > 0 else 0
             st.metric("Avg Annotations/Video", f"{avg_per_video:.1f}")
-            # All annotations table
+
+        # All annotations table
         st.subheader("📋 All Annotations")
 
         col1, col2 = st.columns(2)
@@ -918,7 +951,6 @@ elif page == "Admin Dashboard":
             daily_counts = df.groupby('date').size().reset_index(name='count')
             fig2 = px.line(daily_counts, x='date', y='count', title='Daily Annotations')
             st.plotly_chart(fig2, use_container_width=True)
-
 
     except Exception as e:
         st.error(f"❌ Error loading data from GitHub: {e}")
