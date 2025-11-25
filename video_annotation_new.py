@@ -633,7 +633,7 @@ if page == "Annotation":
                             st.session_state.annotation_count_since_save[original_video_idx] = 0
                             st.toast("✅ Auto-saved to GitHub!", icon="💾")
 
-                    # st.rerun()
+                    st.rerun()
                 else:
                     st.error("⚠️ Please highlight at least one claim and one premise (or check 'Same as previous').")
 
@@ -655,14 +655,16 @@ if page == "Annotation":
             st.markdown("**📌 Claim**")
             if current_claims:
                 claim_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_claims]
+                print(claim_texts)
                 combined_claim = "\n\n".join(claim_texts)
+                claim_key = f"claim_preview_{original_video_idx}_{hash(combined_claim)}"
                 st.text_area(
                     "Claim content",
                     value=combined_claim,
-                    height=100,
+                    height=200,
                     disabled=True,
                     label_visibility="collapsed",
-                    key=f"claim_preview_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}"
+                    key=claim_key
                 )
             else:
                 st.info("👇 Highlight Claim text below")
@@ -679,13 +681,14 @@ if page == "Annotation":
             if current_premises:
                 premise_texts = [subtitle_text[anno['start']:anno['end']] for anno in current_premises]
                 combined_premise = "\n\n".join(premise_texts)
+                premise_key = f"premise_preview_{original_video_idx}_{hash(combined_premise)}"
                 st.text_area(
                     "Premise content",
                     value=combined_premise,
-                    height=100,
+                    height=200,
                     disabled=True,
                     label_visibility="collapsed",
-                    key=f"premise_preview_{original_video_idx}_{st.session_state.highlighter_key[original_video_idx]}"
+                    key=premise_key
                 )
             else:
                 st.info("👇 Highlight Premise text below")
